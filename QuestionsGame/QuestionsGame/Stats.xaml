@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:QuestionsGame"
+             x:Class="QuestionsGame.Stats">
+  <!--
+  <Label Text="{Binding MainText}" VerticalOptions="Center" HorizontalOptions="Center" />
+  <Label Text="Hello, XAML!"
+         VerticalOptions="Start"
+         HorizontalTextAlignment="Center"
+         Rotation="-15"
+         IsVisible="true"
+         FontSize="Large"
+         FontAttributes="Bold"
+         TextColor="Aqua" />
+         -->
+<Grid BackgroundColor="#183E65">
+  <Grid.ColumnDefinitions>
+    <ColumnDefinition Width="5*" />
+    <ColumnDefinition Width="5*"/>
+  </Grid.ColumnDefinitions>
+  <Grid.RowDefinitions>
+    <RowDefinition Height="1*" />
+    <RowDefinition Height="1*" />
+    <RowDefinition Height="1*" />
+    <RowDefinition Height="4*" />
+    <RowDefinition Height="1*" />
+  </Grid.RowDefinitions>
+    <Label Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2" Text="Bind to Title" Style="{StaticResource lblTitle}"/>
+    <!--<Label Grid.Column="0" Grid.Row="1" Text="Bind to Username" Style="{StaticResource lblTitle}" />-->
+    <Entry Grid.Column="0" Grid.Row="1" Text="{Binding Name}" />
+    <Label Grid.Column="1" Grid.Row="1" Text="Bind to Rank" Style="{StaticResource lblTitle}" />
+    <Label Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="2" Text="Bind to Points" Style="{StaticResource lblTitle}" />
+    <Button  x:Name="Menu"  Grid.Column="0" Grid.Row="4" Text="Menu" Clicked="MenuClicked" Style="{StaticResource blueButtons}"/>
+    <Button  x:Name="Help"  Grid.Column="1" Grid.Row="4" Text="Help" Clicked="HelpClicked" Style="{StaticResource blueButtons}"/>
+</Grid>
+
+</ContentPage>

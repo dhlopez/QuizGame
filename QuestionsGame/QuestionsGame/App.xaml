@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="QuestionsGame.App">
+  <Label Text="{Binding MainText}" VerticalOptions="Center" HorizontalOptions="Center" />
+  <Application.Resources>
+
+    <!-- Application resource dictionary -->
+    <ResourceDictionary>
+      <OnPlatform x:Key="SizeSmall" x:TypeArguments="x:String" Android="18" WinPhone="18" iOS="18" />
+      <OnPlatform x:Key="BtnTxtColor" x:TypeArguments="Color" Android="#fff" WinPhone="#fff" iOS="#fff" />
+      <OnPlatform x:Key="BtnBgColorLight" x:TypeArguments="Color" Android="#6886A5" WinPhone="#6886A5" iOS="#6886A5" />
+      <OnPlatform x:Key="BtnBgColorDark" x:TypeArguments="Color" Android="#020423" WinPhone="#020423" iOS="#020423" />
+
+      <Style x:Key="lblTitle" TargetType="Label">
+        <Setter Property="VerticalOptions" Value="Center"/>
+        <Setter Property="HorizontalOptions" Value="Center"/>
+        <Setter Property="TextColor" Value="#fff"/>
+        <Setter Property="FontAttributes" Value="Bold"/>
+        <Setter Property="FontSize" Value="20"/>
+      </Style>
+      
+      <Style x:Key="blueButtons" TargetType="Button">
+        <Setter Property="FontSize" Value="{StaticResource SizeSmall}"/>
+        <Setter Property="TextColor" Value="{StaticResource BtnTxtColor}"/>
+        <Setter Property="BackgroundColor" Value="{StaticResource BtnBgColorLight}"/>
+        <Setter Property="VerticalOptions" Value="Start"/>
+        <Setter Property="HorizontalOptions" Value="Center"/>
+        <Setter Property="WidthRequest" Value="200"/>
+        <Setter Property="HeightRequest" Value="150"/>
+        <Setter Property="BorderRadius" Value="10"/>
+        <Setter Property="BorderWidth" Value="2"/>
+        <Setter Property="BorderColor" Value="White"/>
+      </Style>
+      <Style x:Key="darkButtons" TargetType="Button">
+        <Setter Property="FontSize" Value="{StaticResource SizeSmall}"/>
+        <Setter Property="TextColor" Value="{StaticResource BtnTxtColor}"/>
+        <Setter Property="BackgroundColor" Value="{StaticResource BtnBgColorDark}"/>
+        <Setter Property="VerticalOptions" Value="Start"/>
+        <Setter Property="HorizontalOptions" Value="Center"/>
+        <Setter Property="WidthRequest" Value="220"/>
+        <Setter Property="HeightRequest" Value="150"/>
+        <Setter Property="BorderRadius" Value="10"/>
+        <Setter Property="BorderWidth" Value="2"/>
+        <Setter Property="BorderColor" Value="White"/>
+      </Style>
+    </ResourceDictionary>
+  </Application.Resources>
+</Application>

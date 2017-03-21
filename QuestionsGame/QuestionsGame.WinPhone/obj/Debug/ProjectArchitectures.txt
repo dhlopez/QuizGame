@@ -1,2 +1,0 @@
-C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.WinPhone\QuestionsGame.WinPhone.csproj;neutral
-C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\QuestionsGame.csproj;neutral

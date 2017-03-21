@@ -132,5 +132,18 @@ namespace QuestionsGame.database
             database.InsertAllAsync(questions);
 
         }
+        //public Questions GetQuestion()
+        //{
+        //    Questions quest = (Questions)database.Table<Questions>().Where(q => q.status.Equals("not answered")).Take(1);
+        //    //Questions question = (Questions)database.ExecuteAsync("SELECT * FROM [Questions] WHERE [status] = 'not answered' limit 1");
+        //    return quest;
+        //}
+        public Questions GetQuest()
+        {
+            //return database.Table<Questions>().Where(q => q.status.Equals("not answered")).Take(1).ToListAsync();
+            //var q = database.Table<Questions>().FirstOrDefaultAsync().Status.Equals("not answered");
+            var quest = database.QueryAsync<Questions>("SELECT * FROM [Questions] WHERE [status] = " + "'not answered'").Result;
+            return quest.First();
+        }
     }
 }

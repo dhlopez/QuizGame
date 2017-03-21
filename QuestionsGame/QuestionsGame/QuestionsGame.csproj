@@ -50,8 +50,8 @@
     <Compile Include="Stats.xaml.cs">
       <DependentUpon>Stats.xaml</DependentUpon>
     </Compile>
-    <Compile Include="lvl2.xaml.cs">
-      <DependentUpon>lvl2.xaml</DependentUpon>
+    <Compile Include="result.xaml.cs">
+      <DependentUpon>result.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Menu.xaml.cs">
@@ -85,7 +85,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="lvl2.xaml">
+    <EmbeddedResource Include="result.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>

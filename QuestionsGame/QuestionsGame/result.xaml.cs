@@ -8,9 +8,9 @@ using Xamarin.Forms;
 
 namespace QuestionsGame
 {
-    public partial class lvl2 : ContentPage
+    public partial class result : ContentPage
     {
-        public lvl2()
+        public result()
         {
             InitializeComponent();
         }

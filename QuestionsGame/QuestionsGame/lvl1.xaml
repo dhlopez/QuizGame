@@ -36,7 +36,7 @@
     <Label Grid.Column="1" Grid.Row="0" Grid.ColumnSpan="3" Text="Bind to a lvl or number" Style="{StaticResource lblTitle}" />
     <Image Grid.Column="1" Grid.Row="1" Source="test_grid_img.jpg"/>
     <!--<Image Grid.Column="3" Grid.Row="1" Source="test_grid_img.jpg"/>-->
-    <Label Grid.Column="3" Grid.Row="1" Text="Bind to a question" Style="{StaticResource lblTitle}" />
+    <Label Grid.Column="3" Grid.Row="1" Text="{Binding question}" Style="{StaticResource lblTitle}" />
   
     <!---
     <Entry Grid.Column="0" Grid.Row="0" BackgroundColor="Red" >asdfsd</Entry>
@@ -52,7 +52,7 @@
   
     <!--Answers-->
   <!--<Entry Grid.Column="0" Grid.Row="2" BackgroundColor="Red" >asdfsd</Entry>-->
-    <Button x:Name="A" Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="3" Text="A)" Style="{StaticResource darkButtons}" Clicked="AClicked" />
+    <Button x:Name="A" Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="3" Text="{Binding opt1}" Style="{StaticResource darkButtons}" Clicked="AClicked" />
     <!--<Entry Grid.Column="2" Grid.Row="2" BackgroundColor="Red" >asdfsd</Entry>
     <Entry Grid.Column="3" Grid.Row="2" BackgroundColor="Aqua" >asdfsd</Entry>-->
   <!--<Entry Grid.Column="4" Grid.Row="2" BackgroundColor="Red" >asdfsd</Entry>-->
@@ -64,7 +64,7 @@
     <Entry Grid.Column="4" Grid.Row="3" BackgroundColor="Red" >asdfsd</Entry>-->
 
     <!--<Entry Grid.Column="0" Grid.Row="4" BackgroundColor="Red" >asdfsd</Entry>-->
-    <Button x:Name="B"  Grid.Column="1" Grid.Row="4" Grid.ColumnSpan="3" Text="B)" Style="{StaticResource darkButtons}" Clicked="BClicked" />
+    <Button x:Name="B"  Grid.Column="1" Grid.Row="4" Grid.ColumnSpan="3"  Text="{Binding opt2}" Style="{StaticResource darkButtons}" Clicked="BClicked" />
     <!--<Entry Grid.Column="2" Grid.Row="4" BackgroundColor="Red" >asdfsd</Entry>
     <Entry Grid.Column="3" Grid.Row="4" BackgroundColor="Aqua" >asdfsd</Entry>-->
   <!--<Entry Grid.Column="4" Grid.Row="4" BackgroundColor="Red" >asdfsd</Entry>-->
@@ -76,7 +76,7 @@
     <Entry Grid.Column="4" Grid.Row="5" BackgroundColor="Red" >asdfsd</Entry>-->
 
   <!--<Entry Grid.Column="0" Grid.Row="6" BackgroundColor="Red" >asdfsd</Entry>-->
-    <Button  x:Name="C"  Grid.Column="1" Grid.Row="6" Grid.ColumnSpan="3" Text="C)" Style="{StaticResource darkButtons}" Clicked="CClicked" />
+    <Button  x:Name="C"  Grid.Column="1" Grid.Row="6" Grid.ColumnSpan="3" Text="{Binding opt3}" Style="{StaticResource darkButtons}" Clicked="CClicked" />
   <!--<Entry Grid.Column="2" Grid.Row="6" BackgroundColor="Red" >asdfsd</Entry>
     <Entry Grid.Column="3" Grid.Row="6" BackgroundColor="Aqua" >asdfsd</Entry>
   <Entry Grid.Column="4" Grid.Row="6" BackgroundColor="Red" >asdfsd</Entry>-->
@@ -92,7 +92,6 @@
     <!--<Entry Grid.Column="2" Grid.Row="8" BackgroundColor="Red" >asdfsd</Entry>-->
     <Button  x:Name="Stats"  Grid.Column="3" Grid.Row="8" Grid.ColumnSpan="2" Text="Stats" Style="{StaticResource blueButtons}" Clicked="StatsClicked" />
     <!--<Entry Grid.Column="4" Grid.Row="8" BackgroundColor="Red" >asdfsd</Entry>-->
-  
 </Grid>
 
 </ContentPage>

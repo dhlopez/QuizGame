@@ -20,6 +20,7 @@ namespace QuestionsGame
         public string opt3 { get; set; }
         public string correctAns { get; set; }
         public string status { get; set; }
+
     }
     /*
     [PrimaryKey, AutoIncrement]

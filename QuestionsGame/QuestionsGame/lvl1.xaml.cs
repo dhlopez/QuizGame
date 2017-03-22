@@ -26,7 +26,7 @@ namespace QuestionsGame
         {
             await Navigation.PushAsync(new Stats());
         }
-        async void AClicked(object sender, EventArgs args)
+        public void AClicked(object sender, EventArgs args)
         {
             Button events = (Button)sender;
             var ansSelected = events.Text;
@@ -34,18 +34,28 @@ namespace QuestionsGame
         }
         async void BClicked(object sender, EventArgs args)
         {
+            Button events = (Button)sender;
+            var ansSelected = events.Text;
+            checkAnswer(ansSelected);
             //await Navigation.PushAsync(new Stats());
         }
         async void CClicked(object sender, EventArgs args)
         {
+            Button events = (Button)sender;
+            var ansSelected = events.Text;
+            checkAnswer(ansSelected);
             //await Navigation.PushAsync(new Stats());
         }
-        public bool checkAnswer(string answer)
+        async void checkAnswer(string answer)
         {
-            if (answer == correctAns) {
-                await Navigation.PushAsync(new Stats());
+            if (answer == correctAns)
+            {
+                await Navigation.PushAsync(new result());
             }
-            return false;
+            else
+            {
+                await Navigation.PushAsync(new resultwrong());
+            }
         }
     }
 

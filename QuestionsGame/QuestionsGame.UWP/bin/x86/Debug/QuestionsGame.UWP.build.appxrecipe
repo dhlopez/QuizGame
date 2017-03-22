@@ -400,6 +400,9 @@
     <AppxPackagedFile Include="C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.UWP\questionperson.jpg">
       <PackagePath>questionperson.jpg</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.UWP\right.jpg">
+      <PackagePath>right.jpg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.UWP\test_grid_img.jpg">
       <PackagePath>test_grid_img.jpg</PackagePath>
     </AppxPackagedFile>
@@ -444,6 +447,9 @@
     <AppxPackagedFile Include="C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.UWP\wrong.png">
+      <PackagePath>wrong.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Casa\.nuget\packages\SQLitePCL.native.sqlite3.v140\0.9.2\build\native\sqlite3\v140\x86\esqlite3.dll">
       <PackagePath>esqlite3.dll</PackagePath>

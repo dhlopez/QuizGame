@@ -120,8 +120,10 @@
     <Content Include="Assets\StoreLogo.png" />
     <Content Include="Assets\Wide310x150Logo.scale-200.png" />
     <Content Include="questionperson.jpg" />
+    <Content Include="right.jpg" />
     <Content Include="test_grid_img.jpg" />
     <Content Include="world_flags_mobile.jpg" />
+    <Content Include="wrong.png" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">

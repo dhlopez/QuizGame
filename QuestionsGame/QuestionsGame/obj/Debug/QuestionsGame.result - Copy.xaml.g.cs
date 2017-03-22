@@ -14,11 +14,11 @@ namespace QuestionsGame {
     using Xamarin.Forms.Xaml;
     
     
-    public partial class lvl2 : global::Xamarin.Forms.ContentPage {
+    public partial class result : global::Xamarin.Forms.ContentPage {
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
-            this.LoadFromXaml(typeof(lvl2));
+            this.LoadFromXaml(typeof(result));
         }
     }
 }

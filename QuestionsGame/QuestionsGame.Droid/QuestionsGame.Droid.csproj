@@ -149,8 +149,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Resources\drawable\questionperson.jpg" />
+    <AndroidResource Include="Resources\drawable\wrong.png" />
   </ItemGroup>
   <ItemGroup>
+    <AndroidResource Include="Resources\drawable\right.jpg" />
     <Content Include="Resources\drawable\test_grid_img.jpg" />
     <Content Include="Resources\drawable\world_flags_mobile.jpg" />
   </ItemGroup>

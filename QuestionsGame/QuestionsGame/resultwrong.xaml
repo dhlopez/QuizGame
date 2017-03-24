@@ -5,4 +5,5 @@
              BackgroundColor="#183E65">
   
   <Image Source="wrong.png"/>
+  <Button  x:Name="btnBack"  Text="New Question" Style="{StaticResource darkButtons}" Clicked="Back" />
 </ContentPage>

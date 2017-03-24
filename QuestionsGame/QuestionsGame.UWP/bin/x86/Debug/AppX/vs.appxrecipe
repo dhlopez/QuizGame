@@ -28,13 +28,13 @@
     <AppXManifest Include="C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-03-22T04:14:45.571</Modified>
+      <Modified>2017-03-24T02:10:23.221</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.UWP\bin\x86\Debug\QuestionsGame.UWP.exe">
       <PackagePath>entrypoint\QuestionsGame.UWP.exe</PackagePath>
-      <Modified>2017-03-22T04:14:44.651</Modified>
+      <Modified>2017-03-24T02:10:21.770</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Casa\.nuget\packages\Microsoft.CSharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -526,7 +526,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\bin\Debug\QuestionsGame.dll">
       <PackagePath>QuestionsGame.dll</PackagePath>
-      <Modified>2017-03-22T04:14:42.548</Modified>
+      <Modified>2017-03-24T02:10:18.904</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.UWP\Assets\questionperson.jpg">
       <PackagePath>Assets\questionperson.jpg</PackagePath>
@@ -629,7 +629,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.UWP\bin\x86\Debug\Core\QuestionsGame.UWP.exe">
       <PackagePath>QuestionsGame.UWP.exe</PackagePath>
-      <Modified>2017-03-22T04:14:45.566</Modified>
+      <Modified>2017-03-24T02:10:23.215</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

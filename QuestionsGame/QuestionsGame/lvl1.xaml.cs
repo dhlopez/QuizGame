@@ -11,9 +11,12 @@ namespace QuestionsGame
     public partial class lvl1 : ContentPage
     {
         string correctAns;
+        Questions ques;
+        User user;
         public lvl1()
         {
-            Questions ques = App.Database.GetQuest();
+            ques = App.Database.GetQuest();
+            user = App.database.GetUser();
             BindingContext = ques;
             correctAns = ques.correctAns;
             InitializeComponent();
@@ -50,10 +53,24 @@ namespace QuestionsGame
         {
             if (answer == correctAns)
             {
+                //means it is the first attempt
+                if (ques.status == "not answered")
+                {
+                    user.points = user.points + 3;
+                }
+                else
+                {
+                    user.points = user.points + 1;
+                }
+                ques.status = "right";
+                App.database.UpdateStatus(ques);
+                App.database.UpdateUser(user);
                 await Navigation.PushAsync(new result());
             }
             else
             {
+                ques.status = "wrong";
+                App.database.UpdateStatus(ques);
                 await Navigation.PushAsync(new resultwrong());
             }
         }

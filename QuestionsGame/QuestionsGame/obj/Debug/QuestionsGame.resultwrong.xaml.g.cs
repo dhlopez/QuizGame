@@ -17,8 +17,12 @@ namespace QuestionsGame {
     public partial class resultwrong : global::Xamarin.Forms.ContentPage {
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Button btnBack;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(resultwrong));
+            btnBack = this.FindByName<global::Xamarin.Forms.Button>("btnBack");
         }
     }
 }

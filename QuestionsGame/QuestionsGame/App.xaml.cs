@@ -21,7 +21,6 @@ namespace QuestionsGame
                 {
                     App.Database.FillDatabase();
                 }
-                
                 /*openConnection = DependencyService.Get<ISQLite>().GetConnection();
                 database.FillDatabase(openConnection);*/
             }

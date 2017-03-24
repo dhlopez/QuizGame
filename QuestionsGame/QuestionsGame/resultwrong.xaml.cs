@@ -14,6 +14,11 @@ namespace QuestionsGame
         {
             InitializeComponent();
         }
+        async void Back(object sender, EventArgs args)
+        {
+            lvl1 newLevel = new lvl1();
+            await Navigation.PopAsync();
+        }
     }
 
 }

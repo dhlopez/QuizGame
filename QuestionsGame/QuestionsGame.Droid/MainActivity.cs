@@ -19,6 +19,13 @@ namespace QuestionsGame.Droid
             global::Xamarin.Forms.Forms.Init(this, bundle);
             LoadApplication(new App());
         }
+        public override void OnBackPressed()
+        {
+            // This prevents a user from being able to hit the back button and leave the login page.
+            if (true) return;
+
+            //base.OnBackPressed();
+        }
     }
 }
 

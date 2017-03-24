@@ -17,7 +17,7 @@ namespace QuestionsGame
         public string username { get; set; }
         public string firstName { get; set; }
         public string lastName { get; set; }
-        public string points { get; set; }
+        public int points { get; set; }
         public string rank { get; set; }
     }
     /*

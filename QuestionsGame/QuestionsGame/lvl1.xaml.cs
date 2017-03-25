@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -15,10 +16,7 @@ namespace QuestionsGame
         User user;
         public lvl1()
         {
-            ques = App.Database.GetQuest();
-            user = App.database.GetUser();
-            BindingContext = ques;
-            correctAns = ques.correctAns;
+            getNewQuestion();
             InitializeComponent();
         }
         async void MenuClicked(object sender, EventArgs args)
@@ -48,6 +46,7 @@ namespace QuestionsGame
             var ansSelected = events.Text;
             checkAnswer(ansSelected);
             //await Navigation.PushAsync(new Stats());
+
         }
         async void checkAnswer(string answer)
         {
@@ -65,13 +64,45 @@ namespace QuestionsGame
                 ques.status = "right";
                 App.database.UpdateStatus(ques);
                 App.database.UpdateUser(user);
-                await Navigation.PushAsync(new result());
+                //await Navigation.PushAsync(new result());
+                var ans = await DisplayAlert("Correct!!!", "Good job, keep going",  "Go to Next", "Menu");
+                Debug.WriteLine("Answer: " + answer);
+                GameContinue(ans);
             }
             else
             {
                 ques.status = "wrong";
                 App.database.UpdateStatus(ques);
-                await Navigation.PushAsync(new resultwrong());
+                //await Navigation.PushAsync(new resultwrong());
+                var ans = await DisplayAlert("Incorrect", "Keep trying", "Go to Next", "Menu");
+                Debug.WriteLine("Answer: " + answer);
+                GameContinue(ans);
+            }
+        }
+        async void GameContinue(bool continues)
+        {
+            if (continues)
+            {
+                getNewQuestion();
+            }
+            else
+            {
+                await Navigation.PushAsync(new Menu());
+            }
+        }
+        public void getNewQuestion()
+        {
+            //Get question from db and set the binding context
+            ques = App.Database.GetQuest();
+            if (ques == null)
+            {
+                Navigation.PushAsync(new result());
+            }
+            else
+            {
+                user = App.database.GetUser();
+                BindingContext = ques;
+                correctAns = ques.correctAns;
             }
         }
     }

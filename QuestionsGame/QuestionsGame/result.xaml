@@ -4,5 +4,6 @@
              x:Class="QuestionsGame.result"
              BackgroundColor="#183E65">
   
-  <Image Source="right.jpg"/>
+  <!--<Image Source="right.jpg"/>-->
+  <Label Text="All questions answered! Thank you for downloading!" Style="{StaticResource lblTitle}" />
 </ContentPage>

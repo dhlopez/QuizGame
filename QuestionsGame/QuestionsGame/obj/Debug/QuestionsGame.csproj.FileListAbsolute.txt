@@ -14,7 +14,6 @@ C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\bin\Debug\Xamarin.Forms.Platform.pdb
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\obj\Debug\QuestionsGame.csprojResolveAssemblyReference.cache
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\obj\Debug\QuestionsGame.lvl1.xaml.g.cs
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\obj\Debug\QuestionsGame.Menu.xaml.g.cs
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\obj\Debug\QuestionsGame.App.xaml.g.cs
@@ -24,3 +23,4 @@ C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\obj\Debug\QuestionsGame.pdb
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\obj\Debug\QuestionsGame.result.xaml.g.cs
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\obj\Debug\QuestionsGame.resultwrong.xaml.g.cs
+C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\obj\Debug\QuestionsGame.csprojResolveAssemblyReference.cache

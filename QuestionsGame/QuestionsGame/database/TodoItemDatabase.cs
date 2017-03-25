@@ -10,6 +10,7 @@ namespace QuestionsGame.database
 {
     public class TodoItemDatabase
     {
+        string whereType="r1";
         readonly SQLiteAsyncConnection database;
 
         //if database is null, create it and the tables
@@ -150,17 +151,17 @@ namespace QuestionsGame.database
             var question21 = new Questions { question = "Painted the Sistine Chapel Ceiling", opt1 = "Da Vinci", opt2 = "Michelangelo", opt3 = "Donatello", correctAns = "Michelangelo", status = "not answered" };
             var question22 = new Questions { question = "One of the biggest carnivals", opt1 = "Nice, France", opt2 = "Venice, Italy", opt3 = "Rio de Janeiro, Brazil", correctAns = "Rio de Janeiro, Brazil", status = "not answered" };
             var question23 = new Questions { question = "Lead singer of queen", opt1 = "Freddie Mercury", opt2 = "Steve Tayler", opt3 = "Gene Simmons", correctAns = "Freddie Mercury", status = "not answered" };
-            var question24 = new Questions { question = "Brazil  question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
+            var question24 = new Questions { question = "Superman is a superhero from", opt1 = "Pluto", opt2 = "Krypton", opt3 = "Trypto", correctAns = "Krypton", status = "not answered" };
             var question25 = new Questions { question = "Boxing became legal in ", opt1 = "1950", opt2 = "1932", opt3 = "1901", correctAns = "1901", status = "not answered" };
             var question26 = new Questions { question = "Brazil was a colony of", opt1 = "Spain", opt2 = "Portugal", opt3 = "Italy", correctAns = "Portugal", status = "not answered" };
             var question27 = new Questions { question = "Fidel Castro's year of death", opt1 = "2012", opt2 = "2014", opt3 = "2016", correctAns = "2016", status = "not answered" };
-            var question28 = new Questions { question = "Main Character: Around the World in 80 Days", opt1 = "Gulliver", opt2 = "Robert Langdon", opt3 = "Phileas Fogg", correctAns = "option3", status = "not answered" };
+            var question28 = new Questions { question = "Main Character: Around the World in 80 Days", opt1 = "Gulliver", opt2 = "Robert Langdon", opt3 = "Phileas Fogg", correctAns = "Phileas Fogg", status = "not answered" };
             var question29 = new Questions { question = "Mathematician born on a December 25th", opt1 = "Isaac Newton", opt2 = "Da Vinci", opt3 = "Galileo", correctAns = "Isaac Newton", status = "not answered" };
 
             var question30 = new Questions { question = "Electric refrigerator was invented in", opt1 = "1902", opt2 = "1950", opt3 = "1928", correctAns = "1928", status = "not answered" };
             var question31 = new Questions { question = "Columbus ship where he was traveling", opt1 = "The Girl", opt2 = "The Painted", opt3 = "Santa Maria", correctAns = "Santa Maria", status = "not answered" };
             var question32 = new Questions { question = "The Rolling Stones are from", opt1 = "USA", opt2 = "Canada", opt3 = "England", correctAns = "England", status = "not answered" };
-            var question33 = new Questions { question = "What city hosted the 2012 Olympics", opt1 = "London", opt2 = "Paris", opt3 = "Berlin", correctAns = "option3", status = "not answered" };
+            var question33 = new Questions { question = "What city hosted the 2012 Olympics", opt1 = "London", opt2 = "Paris", opt3 = "Berlin", correctAns = "London", status = "not answered" };
             var question34 = new Questions { question = "Capital of Holland", opt1 = "Amsterdam", opt2 = "Siberia", opt3 = "Berlin", correctAns = "Amsterdam", status = "not answered" };
             var question35 = new Questions { question = "Pozole is a soup from", opt1 = "Peru", opt2 = "Chile", opt3 = "Mexico", correctAns = "Mexico", status = "not answered" };
             var question36 = new Questions { question = "Stanley Cup is a trophy in what sport?", opt1 = "Hockey", opt2 = "Rugby", opt3 = "Tennis", correctAns = "Hockey", status = "not answered" };
@@ -257,8 +258,35 @@ namespace QuestionsGame.database
         {
             //return database.Table<Questions>().Where(q => q.status.Equals("not answered")).Take(1).ToListAsync();
             //var q = database.Table<Questions>().FirstOrDefaultAsync().Status.Equals("not answered");
-            var quest = database.QueryAsync<Questions>("SELECT * FROM [Questions] WHERE [status] = " + "'not answered'").Result;
-            return quest.First();
+            if (App.whereType == "r1")
+            {
+                var quest = database.QueryAsync<Questions>("SELECT * FROM [Questions] WHERE [status] = 'not answered'").Result;
+                if (quest.Count > 0 && whereType == "r1")
+                {
+                    return quest.First();
+                }
+                else
+                {
+                    App.whereType = "r2";
+                }
+            }
+            if(App.whereType == "r2")
+            {
+                var quest = database.QueryAsync<Questions>("SELECT * FROM [Questions] WHERE [status] = 'wrong'").Result;
+                if (quest.Count > 0 && App.whereType == "r2")
+                {
+                    return quest.First();
+                }
+                else
+                {
+                    App.whereType = "r3";
+                }
+            }
+            if (App.whereType == "r3")
+            {
+                return null;
+            }
+            return null;
         }
         public User GetUser()
         {

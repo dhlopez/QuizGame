@@ -3309,14 +3309,23 @@ namespace QuestionsGame.Droid
 			// aapt resource value: 0x7f020062
 			public const int mr_ic_settings_light = 2130837602;
 			
-			// aapt resource value: 0x7f020065
-			public const int notification_template_icon_bg = 2130837605;
+			// aapt resource value: 0x7f020068
+			public const int notification_template_icon_bg = 2130837608;
 			
 			// aapt resource value: 0x7f020063
-			public const int right = 2130837603;
+			public const int questionperson = 2130837603;
 			
 			// aapt resource value: 0x7f020064
-			public const int wrong = 2130837604;
+			public const int right = 2130837604;
+			
+			// aapt resource value: 0x7f020065
+			public const int test_grid_img = 2130837605;
+			
+			// aapt resource value: 0x7f020066
+			public const int world_flags_mobile = 2130837606;
+			
+			// aapt resource value: 0x7f020067
+			public const int wrong = 2130837607;
 			
 			static Drawable()
 			{

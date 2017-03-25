@@ -11,7 +11,7 @@ namespace QuestionsGame
 {
     public partial class App : Application
     {
-        SQLiteAsyncConnection openConnection;
+        public static string whereType ="r1";
         public App()
         {
             InitializeComponent();

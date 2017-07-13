@@ -245,7 +245,7 @@ namespace QuestionsGame.database
             , question51, question52, question53, question54, question55, question56, question57, question58, question59, question60});
             database.InsertAllAsync(questions);
 
-            var user = new User { username = "dhlopez", firstName = "David", lastName = "Lopez", points = 0, rank = "1" };
+            var user = new User { username = "user", firstName = "first", lastName = "last", points = 0, rank = "1" };
             database.InsertAsync(user);
         }
         //public Questions GetQuestion()
@@ -284,6 +284,7 @@ namespace QuestionsGame.database
             }
             if (App.whereType == "r3")
             {
+
                 return null;
             }
             return null;

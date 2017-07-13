@@ -12,6 +12,7 @@ namespace QuestionsGame
     public partial class App : Application
     {
         public static string whereType ="r1";
+        //public static int pointsTotal = 0;
         public App()
         {
             InitializeComponent();

@@ -1,0 +1,8 @@
+QuestionsGame, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  QuestionsGame.lvl1.xaml
+  QuestionsGame.Menu.xaml
+  QuestionsGame.App.xaml
+  QuestionsGame.result.xaml
+  QuestionsGame.Stats.xaml
+  QuestionsGame.Help.xaml
+  QuestionsGame.resultwrong.xaml

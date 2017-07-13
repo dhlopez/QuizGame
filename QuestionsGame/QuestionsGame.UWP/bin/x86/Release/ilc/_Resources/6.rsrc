@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="QuestionsGame.resultwrong"
+             BackgroundColor="#183E65">
+  
+  <Image Source="wrong.png"/>
+  <Button  x:Name="btnBack"  Text="New Question" Style="{StaticResource darkButtons}" Clicked="Back" />
+</ContentPage>

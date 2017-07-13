@@ -24,3 +24,13 @@ C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\obj\Debug\QuestionsGame.result.xaml.g.cs
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\obj\Debug\QuestionsGame.resultwrong.xaml.g.cs
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\obj\Debug\QuestionsGame.csprojResolveAssemblyReference.cache
+C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\bin\Debug\Mono.Android.dll
+C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\bin\Debug\Mono.Android.xml
+C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\obj\Debug\QuestionsGame.dll.mdb
+C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\bin\Debug\QuestionsGame.dll.mdb
+C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\obj\Debug\QuestionsGame.dll.mdb
+C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\bin\Debug\QuestionsGame.dll.mdb
+C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\obj\Debug\QuestionsGame.dll.mdb
+C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\bin\Debug\QuestionsGame.dll.mdb
+C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\obj\Debug\QuestionsGame.dll.mdb
+C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\bin\Debug\QuestionsGame.dll.mdb

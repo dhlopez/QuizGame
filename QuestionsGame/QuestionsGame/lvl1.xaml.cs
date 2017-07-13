@@ -18,6 +18,7 @@ namespace QuestionsGame
         {
             getNewQuestion();
             InitializeComponent();
+            NavigationPage.SetHasBackButton(this, false);
         }
         async void MenuClicked(object sender, EventArgs args)
         {
@@ -65,7 +66,7 @@ namespace QuestionsGame
                 App.database.UpdateStatus(ques);
                 App.database.UpdateUser(user);
                 //await Navigation.PushAsync(new result());
-                var ans = await DisplayAlert("Correct!!!", "Good job, keep going",  "Go to Next", "Menu");
+                var ans = await DisplayAlert("Correct!!!", "Good job, keep going, points: " + user.points,  "Go to Next", "Menu");
                 Debug.WriteLine("Answer: " + answer);
                 GameContinue(ans);
             }
@@ -90,19 +91,23 @@ namespace QuestionsGame
                 await Navigation.PushAsync(new Menu());
             }
         }
-        public void getNewQuestion()
+        async void getNewQuestion()
         {
             //Get question from db and set the binding context
             ques = App.Database.GetQuest();
             if (ques == null)
             {
-                Navigation.PushAsync(new result());
+                await DisplayAlert("End", "Thanks for playing! Please keep an eye on updates and new games!", "Go to Menu");
+                GameContinue(false);
+                //Navigation.PushAsync(new result());
             }
             else
             {
                 user = App.database.GetUser();
+                //points = user.points;
                 BindingContext = ques;
                 correctAns = ques.correctAns;
+                //this.Title.Text = Points.ToString();
             }
         }
     }

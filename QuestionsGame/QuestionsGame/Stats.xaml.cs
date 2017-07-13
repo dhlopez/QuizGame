@@ -11,9 +11,11 @@ namespace QuestionsGame
 {
     public partial class Stats : ContentPage
     {
+        User user;
         public Stats()
         {
-            BindingContext = new TodoItem();
+            user = App.database.GetUser();
+            BindingContext = user;
             InitializeComponent();
             var nameEntry = new Entry();
             nameEntry.SetBinding(Entry.TextProperty, "Name");
@@ -24,12 +26,14 @@ namespace QuestionsGame
         }
         async void HelpClicked(object sender, EventArgs args)
         {
-            var todoItem = (TodoItem)BindingContext;
+            /*var todoItem = (TodoItem)BindingContext;
+            await App.Database.SaveItemAsync(todoItem);*/
+
             //todoItem.Name = "Test";
             //await App.Database.GetItemsAsync();
-            await App.Database.SaveItemAsync(todoItem);
+
             //await App.Database.DeleteItemAsync(todoItem);
-            //await Navigation.PushAsync(new Help());
+            await Navigation.PushAsync(new Help());
         }
     }
     

@@ -1,0 +1,2 @@
+C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.UWP\QuestionsGame.UWP.csproj;x86
+C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\QuestionsGame.csproj;neutral

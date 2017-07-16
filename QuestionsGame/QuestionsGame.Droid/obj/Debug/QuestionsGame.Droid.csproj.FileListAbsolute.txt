@@ -69,5 +69,6 @@ C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\bin\Debug\com.dlapps.worldquiz-Signed.apk
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\obj\Debug\android\bin\com.dlapps.worldquiz.apk
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\obj\Debug\res\raw\test.mp3
+C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\bin\Debug\Services\IAudio.cs
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\obj\Debug\QuestionsGame.Droid.dll.mdb
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\bin\Debug\QuestionsGame.Droid.dll.mdb

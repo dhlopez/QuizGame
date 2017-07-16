@@ -22,5 +22,7 @@ C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.iOS\obj\iPhone\Debug\QuestionsGame.iOS.csprojResolveAssemblyReference.cache
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.iOS\obj\iPhone\Debug\QuestionsGameiOS.exe
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.iOS\obj\iPhone\Debug\QuestionsGameiOS.pdb
+C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.iOS\bin\iPhone\Debug\Services\IAudio.cs
+C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.iOS\bin\iPhone\Debug\QuestionsGame.dll.mdb
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.iOS\obj\iPhone\Debug\QuestionsGameiOS.exe.mdb
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.iOS\bin\iPhone\Debug\QuestionsGameiOS.exe.mdb

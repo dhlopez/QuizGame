@@ -1,4 +1,5 @@
-﻿using System;
+﻿using QuestionsGame.Services;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
@@ -14,6 +15,7 @@ namespace QuestionsGame
         string correctAns;
         Questions ques;
         User user;
+        //MediaPlayer _player;
         public lvl1()
         {
             getNewQuestion();
@@ -22,6 +24,9 @@ namespace QuestionsGame
         }
         async void MenuClicked(object sender, EventArgs args)
         {
+            DependencyService.Get<IAudio>().PlayMp3File("test.mp3");
+            //App.MediaPlayer.PlayMusic();
+            //_player
             await Navigation.PushAsync(new Menu());
         }
         async void StatsClicked(object sender, EventArgs args)

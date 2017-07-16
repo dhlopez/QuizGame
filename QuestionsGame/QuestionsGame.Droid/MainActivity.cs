@@ -15,6 +15,18 @@ namespace QuestionsGame.Droid
     {
 
         MediaPlayer _player;
+        public void PlayMusic()
+        {
+
+            _player = MediaPlayer.Create(this, Resource.Raw.test);
+
+            var playButton = FindViewById<Button>(Resource.Id.play_pause);
+
+            playButton.Click += delegate {
+                _player.Start();
+            };
+            _player.Start();
+        }
         protected override void OnCreate(Bundle bundle)
         {
             
@@ -22,8 +34,8 @@ namespace QuestionsGame.Droid
 
             global::Xamarin.Forms.Forms.Init(this, bundle);
             LoadApplication(new App());
-            _player = MediaPlayer.Create(this, Resource.Raw.test);
-            _player.Start();
+            //_player = MediaPlayer.Create(this, Resource.Raw.test);
+            //_player.Start();
         }
         public override void OnBackPressed()
         {
@@ -33,5 +45,16 @@ namespace QuestionsGame.Droid
             //base.OnBackPressed();
         }
     }
+    //public class AndroidUserPreferences : IMediaPlayer
+    //{
+    //    MediaPlayer _player;
+    //    public void PlayMusic()
+    //    {
+            
+    //        _player = MediaPlayer.Create(this, Resource.Raw.test);
+    //        //_player.Start();
+    //    }
+    //}
+
 }
 

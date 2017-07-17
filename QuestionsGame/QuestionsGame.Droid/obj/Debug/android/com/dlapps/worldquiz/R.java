@@ -2476,7 +2476,10 @@ containing a value of this type.
         public static final int support_simple_spinner_dropdown_item=0x7f03002f;
     }
     public static final class raw {
-        public static final int test=0x7f050000;
+        public static final int cheering=0x7f050000;
+        public static final int tada=0x7f050001;
+        public static final int test=0x7f050002;
+        public static final int train=0x7f050003;
     }
     public static final class string {
         public static final int ApplicationName=0x7f06001f;

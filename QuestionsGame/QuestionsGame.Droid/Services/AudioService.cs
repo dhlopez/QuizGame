@@ -21,6 +21,27 @@ namespace QuestionsGame.Droid
 
             return true;
         }
-        
+        public bool PlayCorrect()
+        {
+            _mediaPlayer = MediaPlayer.Create(global::Android.App.Application.Context, Resource.Raw.cheering);
+            _mediaPlayer.Start();
+
+            return true;
+        }
+        public bool PlayWrong()
+        {
+            _mediaPlayer = MediaPlayer.Create(global::Android.App.Application.Context, Resource.Raw.train);
+            _mediaPlayer.Start();
+
+            return true;
+        }
+        public bool PlayEnd()
+        {
+            _mediaPlayer = MediaPlayer.Create(global::Android.App.Application.Context, Resource.Raw.tada);
+            _mediaPlayer.Start();
+
+            return true;
+        }
+
     }
 }

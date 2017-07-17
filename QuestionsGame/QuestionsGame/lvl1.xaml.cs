@@ -24,9 +24,7 @@ namespace QuestionsGame
         }
         async void MenuClicked(object sender, EventArgs args)
         {
-            DependencyService.Get<IAudio>().PlayMp3File("test.mp3");
-            //App.MediaPlayer.PlayMusic();
-            //_player
+            //DependencyService.Get<IAudio>().PlayMp3File("test.mp3");
             await Navigation.PushAsync(new Menu());
         }
         async void StatsClicked(object sender, EventArgs args)
@@ -58,6 +56,7 @@ namespace QuestionsGame
         {
             if (answer == correctAns)
             {
+                DependencyService.Get<IAudio>().PlayCorrect();
                 //means it is the first attempt
                 if (ques.status == "not answered")
                 {
@@ -77,6 +76,7 @@ namespace QuestionsGame
             }
             else
             {
+                DependencyService.Get<IAudio>().PlayWrong();
                 ques.status = "wrong";
                 App.database.UpdateStatus(ques);
                 //await Navigation.PushAsync(new resultwrong());
@@ -102,6 +102,7 @@ namespace QuestionsGame
             ques = App.Database.GetQuest();
             if (ques == null)
             {
+                DependencyService.Get<IAudio>().PlayEnd();
                 await DisplayAlert("End", "Thanks for playing! Please keep an eye on updates and new games!", "Go to Menu");
                 GameContinue(false);
                 //Navigation.PushAsync(new result());

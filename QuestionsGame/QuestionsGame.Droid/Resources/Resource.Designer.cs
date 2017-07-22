@@ -26,1464 +26,7 @@ namespace QuestionsGame.Droid
 		
 		public static void UpdateIdValues()
 		{
-			global::Xamarin.Forms.Platform.Resource.Animation.abc_fade_in = global::QuestionsGame.Droid.Resource.Animation.abc_fade_in;
-			global::Xamarin.Forms.Platform.Resource.Animation.abc_fade_out = global::QuestionsGame.Droid.Resource.Animation.abc_fade_out;
-			global::Xamarin.Forms.Platform.Resource.Animation.abc_grow_fade_in_from_bottom = global::QuestionsGame.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
-			global::Xamarin.Forms.Platform.Resource.Animation.abc_popup_enter = global::QuestionsGame.Droid.Resource.Animation.abc_popup_enter;
-			global::Xamarin.Forms.Platform.Resource.Animation.abc_popup_exit = global::QuestionsGame.Droid.Resource.Animation.abc_popup_exit;
-			global::Xamarin.Forms.Platform.Resource.Animation.abc_shrink_fade_out_from_bottom = global::QuestionsGame.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
-			global::Xamarin.Forms.Platform.Resource.Animation.abc_slide_in_bottom = global::QuestionsGame.Droid.Resource.Animation.abc_slide_in_bottom;
-			global::Xamarin.Forms.Platform.Resource.Animation.abc_slide_in_top = global::QuestionsGame.Droid.Resource.Animation.abc_slide_in_top;
-			global::Xamarin.Forms.Platform.Resource.Animation.abc_slide_out_bottom = global::QuestionsGame.Droid.Resource.Animation.abc_slide_out_bottom;
-			global::Xamarin.Forms.Platform.Resource.Animation.abc_slide_out_top = global::QuestionsGame.Droid.Resource.Animation.abc_slide_out_top;
-			global::Xamarin.Forms.Platform.Resource.Animation.design_fab_in = global::QuestionsGame.Droid.Resource.Animation.design_fab_in;
-			global::Xamarin.Forms.Platform.Resource.Animation.design_fab_out = global::QuestionsGame.Droid.Resource.Animation.design_fab_out;
-			global::Xamarin.Forms.Platform.Resource.Animation.design_snackbar_in = global::QuestionsGame.Droid.Resource.Animation.design_snackbar_in;
-			global::Xamarin.Forms.Platform.Resource.Animation.design_snackbar_out = global::QuestionsGame.Droid.Resource.Animation.design_snackbar_out;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarDivider = global::QuestionsGame.Droid.Resource.Attribute.actionBarDivider;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarItemBackground = global::QuestionsGame.Droid.Resource.Attribute.actionBarItemBackground;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarPopupTheme = global::QuestionsGame.Droid.Resource.Attribute.actionBarPopupTheme;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarSize = global::QuestionsGame.Droid.Resource.Attribute.actionBarSize;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarSplitStyle = global::QuestionsGame.Droid.Resource.Attribute.actionBarSplitStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarStyle = global::QuestionsGame.Droid.Resource.Attribute.actionBarStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarTabBarStyle = global::QuestionsGame.Droid.Resource.Attribute.actionBarTabBarStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarTabStyle = global::QuestionsGame.Droid.Resource.Attribute.actionBarTabStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarTabTextStyle = global::QuestionsGame.Droid.Resource.Attribute.actionBarTabTextStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarTheme = global::QuestionsGame.Droid.Resource.Attribute.actionBarTheme;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarWidgetTheme = global::QuestionsGame.Droid.Resource.Attribute.actionBarWidgetTheme;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionButtonStyle = global::QuestionsGame.Droid.Resource.Attribute.actionButtonStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionDropDownStyle = global::QuestionsGame.Droid.Resource.Attribute.actionDropDownStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionLayout = global::QuestionsGame.Droid.Resource.Attribute.actionLayout;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionMenuTextAppearance = global::QuestionsGame.Droid.Resource.Attribute.actionMenuTextAppearance;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionMenuTextColor = global::QuestionsGame.Droid.Resource.Attribute.actionMenuTextColor;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeBackground = global::QuestionsGame.Droid.Resource.Attribute.actionModeBackground;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeCloseButtonStyle = global::QuestionsGame.Droid.Resource.Attribute.actionModeCloseButtonStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeCloseDrawable = global::QuestionsGame.Droid.Resource.Attribute.actionModeCloseDrawable;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeCopyDrawable = global::QuestionsGame.Droid.Resource.Attribute.actionModeCopyDrawable;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeCutDrawable = global::QuestionsGame.Droid.Resource.Attribute.actionModeCutDrawable;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeFindDrawable = global::QuestionsGame.Droid.Resource.Attribute.actionModeFindDrawable;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionModePasteDrawable = global::QuestionsGame.Droid.Resource.Attribute.actionModePasteDrawable;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionModePopupWindowStyle = global::QuestionsGame.Droid.Resource.Attribute.actionModePopupWindowStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeSelectAllDrawable = global::QuestionsGame.Droid.Resource.Attribute.actionModeSelectAllDrawable;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeShareDrawable = global::QuestionsGame.Droid.Resource.Attribute.actionModeShareDrawable;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeSplitBackground = global::QuestionsGame.Droid.Resource.Attribute.actionModeSplitBackground;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeStyle = global::QuestionsGame.Droid.Resource.Attribute.actionModeStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeWebSearchDrawable = global::QuestionsGame.Droid.Resource.Attribute.actionModeWebSearchDrawable;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionOverflowButtonStyle = global::QuestionsGame.Droid.Resource.Attribute.actionOverflowButtonStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionOverflowMenuStyle = global::QuestionsGame.Droid.Resource.Attribute.actionOverflowMenuStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionProviderClass = global::QuestionsGame.Droid.Resource.Attribute.actionProviderClass;
-			global::Xamarin.Forms.Platform.Resource.Attribute.actionViewClass = global::QuestionsGame.Droid.Resource.Attribute.actionViewClass;
-			global::Xamarin.Forms.Platform.Resource.Attribute.activityChooserViewStyle = global::QuestionsGame.Droid.Resource.Attribute.activityChooserViewStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.alertDialogButtonGroupStyle = global::QuestionsGame.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.alertDialogCenterButtons = global::QuestionsGame.Droid.Resource.Attribute.alertDialogCenterButtons;
-			global::Xamarin.Forms.Platform.Resource.Attribute.alertDialogStyle = global::QuestionsGame.Droid.Resource.Attribute.alertDialogStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.alertDialogTheme = global::QuestionsGame.Droid.Resource.Attribute.alertDialogTheme;
-			global::Xamarin.Forms.Platform.Resource.Attribute.arrowHeadLength = global::QuestionsGame.Droid.Resource.Attribute.arrowHeadLength;
-			global::Xamarin.Forms.Platform.Resource.Attribute.arrowShaftLength = global::QuestionsGame.Droid.Resource.Attribute.arrowShaftLength;
-			global::Xamarin.Forms.Platform.Resource.Attribute.autoCompleteTextViewStyle = global::QuestionsGame.Droid.Resource.Attribute.autoCompleteTextViewStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.background = global::QuestionsGame.Droid.Resource.Attribute.background;
-			global::Xamarin.Forms.Platform.Resource.Attribute.backgroundSplit = global::QuestionsGame.Droid.Resource.Attribute.backgroundSplit;
-			global::Xamarin.Forms.Platform.Resource.Attribute.backgroundStacked = global::QuestionsGame.Droid.Resource.Attribute.backgroundStacked;
-			global::Xamarin.Forms.Platform.Resource.Attribute.backgroundTint = global::QuestionsGame.Droid.Resource.Attribute.backgroundTint;
-			global::Xamarin.Forms.Platform.Resource.Attribute.backgroundTintMode = global::QuestionsGame.Droid.Resource.Attribute.backgroundTintMode;
-			global::Xamarin.Forms.Platform.Resource.Attribute.barLength = global::QuestionsGame.Droid.Resource.Attribute.barLength;
-			global::Xamarin.Forms.Platform.Resource.Attribute.behavior_overlapTop = global::QuestionsGame.Droid.Resource.Attribute.behavior_overlapTop;
-			global::Xamarin.Forms.Platform.Resource.Attribute.borderWidth = global::QuestionsGame.Droid.Resource.Attribute.borderWidth;
-			global::Xamarin.Forms.Platform.Resource.Attribute.borderlessButtonStyle = global::QuestionsGame.Droid.Resource.Attribute.borderlessButtonStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.buttonBarButtonStyle = global::QuestionsGame.Droid.Resource.Attribute.buttonBarButtonStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.buttonBarNegativeButtonStyle = global::QuestionsGame.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.buttonBarNeutralButtonStyle = global::QuestionsGame.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.buttonBarPositiveButtonStyle = global::QuestionsGame.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.buttonBarStyle = global::QuestionsGame.Droid.Resource.Attribute.buttonBarStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.buttonPanelSideLayout = global::QuestionsGame.Droid.Resource.Attribute.buttonPanelSideLayout;
-			global::Xamarin.Forms.Platform.Resource.Attribute.buttonStyle = global::QuestionsGame.Droid.Resource.Attribute.buttonStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.buttonStyleSmall = global::QuestionsGame.Droid.Resource.Attribute.buttonStyleSmall;
-			global::Xamarin.Forms.Platform.Resource.Attribute.buttonTint = global::QuestionsGame.Droid.Resource.Attribute.buttonTint;
-			global::Xamarin.Forms.Platform.Resource.Attribute.buttonTintMode = global::QuestionsGame.Droid.Resource.Attribute.buttonTintMode;
-			global::Xamarin.Forms.Platform.Resource.Attribute.cardBackgroundColor = global::QuestionsGame.Droid.Resource.Attribute.cardBackgroundColor;
-			global::Xamarin.Forms.Platform.Resource.Attribute.cardCornerRadius = global::QuestionsGame.Droid.Resource.Attribute.cardCornerRadius;
-			global::Xamarin.Forms.Platform.Resource.Attribute.cardElevation = global::QuestionsGame.Droid.Resource.Attribute.cardElevation;
-			global::Xamarin.Forms.Platform.Resource.Attribute.cardMaxElevation = global::QuestionsGame.Droid.Resource.Attribute.cardMaxElevation;
-			global::Xamarin.Forms.Platform.Resource.Attribute.cardPreventCornerOverlap = global::QuestionsGame.Droid.Resource.Attribute.cardPreventCornerOverlap;
-			global::Xamarin.Forms.Platform.Resource.Attribute.cardUseCompatPadding = global::QuestionsGame.Droid.Resource.Attribute.cardUseCompatPadding;
-			global::Xamarin.Forms.Platform.Resource.Attribute.checkboxStyle = global::QuestionsGame.Droid.Resource.Attribute.checkboxStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.checkedTextViewStyle = global::QuestionsGame.Droid.Resource.Attribute.checkedTextViewStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.closeIcon = global::QuestionsGame.Droid.Resource.Attribute.closeIcon;
-			global::Xamarin.Forms.Platform.Resource.Attribute.closeItemLayout = global::QuestionsGame.Droid.Resource.Attribute.closeItemLayout;
-			global::Xamarin.Forms.Platform.Resource.Attribute.collapseContentDescription = global::QuestionsGame.Droid.Resource.Attribute.collapseContentDescription;
-			global::Xamarin.Forms.Platform.Resource.Attribute.collapseIcon = global::QuestionsGame.Droid.Resource.Attribute.collapseIcon;
-			global::Xamarin.Forms.Platform.Resource.Attribute.collapsedTitleGravity = global::QuestionsGame.Droid.Resource.Attribute.collapsedTitleGravity;
-			global::Xamarin.Forms.Platform.Resource.Attribute.collapsedTitleTextAppearance = global::QuestionsGame.Droid.Resource.Attribute.collapsedTitleTextAppearance;
-			global::Xamarin.Forms.Platform.Resource.Attribute.color = global::QuestionsGame.Droid.Resource.Attribute.color;
-			global::Xamarin.Forms.Platform.Resource.Attribute.colorAccent = global::QuestionsGame.Droid.Resource.Attribute.colorAccent;
-			global::Xamarin.Forms.Platform.Resource.Attribute.colorButtonNormal = global::QuestionsGame.Droid.Resource.Attribute.colorButtonNormal;
-			global::Xamarin.Forms.Platform.Resource.Attribute.colorControlActivated = global::QuestionsGame.Droid.Resource.Attribute.colorControlActivated;
-			global::Xamarin.Forms.Platform.Resource.Attribute.colorControlHighlight = global::QuestionsGame.Droid.Resource.Attribute.colorControlHighlight;
-			global::Xamarin.Forms.Platform.Resource.Attribute.colorControlNormal = global::QuestionsGame.Droid.Resource.Attribute.colorControlNormal;
-			global::Xamarin.Forms.Platform.Resource.Attribute.colorPrimary = global::QuestionsGame.Droid.Resource.Attribute.colorPrimary;
-			global::Xamarin.Forms.Platform.Resource.Attribute.colorPrimaryDark = global::QuestionsGame.Droid.Resource.Attribute.colorPrimaryDark;
-			global::Xamarin.Forms.Platform.Resource.Attribute.colorSwitchThumbNormal = global::QuestionsGame.Droid.Resource.Attribute.colorSwitchThumbNormal;
-			global::Xamarin.Forms.Platform.Resource.Attribute.commitIcon = global::QuestionsGame.Droid.Resource.Attribute.commitIcon;
-			global::Xamarin.Forms.Platform.Resource.Attribute.contentInsetEnd = global::QuestionsGame.Droid.Resource.Attribute.contentInsetEnd;
-			global::Xamarin.Forms.Platform.Resource.Attribute.contentInsetLeft = global::QuestionsGame.Droid.Resource.Attribute.contentInsetLeft;
-			global::Xamarin.Forms.Platform.Resource.Attribute.contentInsetRight = global::QuestionsGame.Droid.Resource.Attribute.contentInsetRight;
-			global::Xamarin.Forms.Platform.Resource.Attribute.contentInsetStart = global::QuestionsGame.Droid.Resource.Attribute.contentInsetStart;
-			global::Xamarin.Forms.Platform.Resource.Attribute.contentPadding = global::QuestionsGame.Droid.Resource.Attribute.contentPadding;
-			global::Xamarin.Forms.Platform.Resource.Attribute.contentPaddingBottom = global::QuestionsGame.Droid.Resource.Attribute.contentPaddingBottom;
-			global::Xamarin.Forms.Platform.Resource.Attribute.contentPaddingLeft = global::QuestionsGame.Droid.Resource.Attribute.contentPaddingLeft;
-			global::Xamarin.Forms.Platform.Resource.Attribute.contentPaddingRight = global::QuestionsGame.Droid.Resource.Attribute.contentPaddingRight;
-			global::Xamarin.Forms.Platform.Resource.Attribute.contentPaddingTop = global::QuestionsGame.Droid.Resource.Attribute.contentPaddingTop;
-			global::Xamarin.Forms.Platform.Resource.Attribute.contentScrim = global::QuestionsGame.Droid.Resource.Attribute.contentScrim;
-			global::Xamarin.Forms.Platform.Resource.Attribute.controlBackground = global::QuestionsGame.Droid.Resource.Attribute.controlBackground;
-			global::Xamarin.Forms.Platform.Resource.Attribute.customNavigationLayout = global::QuestionsGame.Droid.Resource.Attribute.customNavigationLayout;
-			global::Xamarin.Forms.Platform.Resource.Attribute.defaultQueryHint = global::QuestionsGame.Droid.Resource.Attribute.defaultQueryHint;
-			global::Xamarin.Forms.Platform.Resource.Attribute.dialogPreferredPadding = global::QuestionsGame.Droid.Resource.Attribute.dialogPreferredPadding;
-			global::Xamarin.Forms.Platform.Resource.Attribute.dialogTheme = global::QuestionsGame.Droid.Resource.Attribute.dialogTheme;
-			global::Xamarin.Forms.Platform.Resource.Attribute.displayOptions = global::QuestionsGame.Droid.Resource.Attribute.displayOptions;
-			global::Xamarin.Forms.Platform.Resource.Attribute.divider = global::QuestionsGame.Droid.Resource.Attribute.divider;
-			global::Xamarin.Forms.Platform.Resource.Attribute.dividerHorizontal = global::QuestionsGame.Droid.Resource.Attribute.dividerHorizontal;
-			global::Xamarin.Forms.Platform.Resource.Attribute.dividerPadding = global::QuestionsGame.Droid.Resource.Attribute.dividerPadding;
-			global::Xamarin.Forms.Platform.Resource.Attribute.dividerVertical = global::QuestionsGame.Droid.Resource.Attribute.dividerVertical;
-			global::Xamarin.Forms.Platform.Resource.Attribute.drawableSize = global::QuestionsGame.Droid.Resource.Attribute.drawableSize;
-			global::Xamarin.Forms.Platform.Resource.Attribute.drawerArrowStyle = global::QuestionsGame.Droid.Resource.Attribute.drawerArrowStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.dropDownListViewStyle = global::QuestionsGame.Droid.Resource.Attribute.dropDownListViewStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.dropdownListPreferredItemHeight = global::QuestionsGame.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
-			global::Xamarin.Forms.Platform.Resource.Attribute.editTextBackground = global::QuestionsGame.Droid.Resource.Attribute.editTextBackground;
-			global::Xamarin.Forms.Platform.Resource.Attribute.editTextColor = global::QuestionsGame.Droid.Resource.Attribute.editTextColor;
-			global::Xamarin.Forms.Platform.Resource.Attribute.editTextStyle = global::QuestionsGame.Droid.Resource.Attribute.editTextStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.elevation = global::QuestionsGame.Droid.Resource.Attribute.elevation;
-			global::Xamarin.Forms.Platform.Resource.Attribute.errorEnabled = global::QuestionsGame.Droid.Resource.Attribute.errorEnabled;
-			global::Xamarin.Forms.Platform.Resource.Attribute.errorTextAppearance = global::QuestionsGame.Droid.Resource.Attribute.errorTextAppearance;
-			global::Xamarin.Forms.Platform.Resource.Attribute.expandActivityOverflowButtonDrawable = global::QuestionsGame.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
-			global::Xamarin.Forms.Platform.Resource.Attribute.expanded = global::QuestionsGame.Droid.Resource.Attribute.expanded;
-			global::Xamarin.Forms.Platform.Resource.Attribute.expandedTitleGravity = global::QuestionsGame.Droid.Resource.Attribute.expandedTitleGravity;
-			global::Xamarin.Forms.Platform.Resource.Attribute.expandedTitleMargin = global::QuestionsGame.Droid.Resource.Attribute.expandedTitleMargin;
-			global::Xamarin.Forms.Platform.Resource.Attribute.expandedTitleMarginBottom = global::QuestionsGame.Droid.Resource.Attribute.expandedTitleMarginBottom;
-			global::Xamarin.Forms.Platform.Resource.Attribute.expandedTitleMarginEnd = global::QuestionsGame.Droid.Resource.Attribute.expandedTitleMarginEnd;
-			global::Xamarin.Forms.Platform.Resource.Attribute.expandedTitleMarginStart = global::QuestionsGame.Droid.Resource.Attribute.expandedTitleMarginStart;
-			global::Xamarin.Forms.Platform.Resource.Attribute.expandedTitleMarginTop = global::QuestionsGame.Droid.Resource.Attribute.expandedTitleMarginTop;
-			global::Xamarin.Forms.Platform.Resource.Attribute.expandedTitleTextAppearance = global::QuestionsGame.Droid.Resource.Attribute.expandedTitleTextAppearance;
-			global::Xamarin.Forms.Platform.Resource.Attribute.fabSize = global::QuestionsGame.Droid.Resource.Attribute.fabSize;
-			global::Xamarin.Forms.Platform.Resource.Attribute.gapBetweenBars = global::QuestionsGame.Droid.Resource.Attribute.gapBetweenBars;
-			global::Xamarin.Forms.Platform.Resource.Attribute.goIcon = global::QuestionsGame.Droid.Resource.Attribute.goIcon;
-			global::Xamarin.Forms.Platform.Resource.Attribute.headerLayout = global::QuestionsGame.Droid.Resource.Attribute.headerLayout;
-			global::Xamarin.Forms.Platform.Resource.Attribute.height = global::QuestionsGame.Droid.Resource.Attribute.height;
-			global::Xamarin.Forms.Platform.Resource.Attribute.hideOnContentScroll = global::QuestionsGame.Droid.Resource.Attribute.hideOnContentScroll;
-			global::Xamarin.Forms.Platform.Resource.Attribute.hintAnimationEnabled = global::QuestionsGame.Droid.Resource.Attribute.hintAnimationEnabled;
-			global::Xamarin.Forms.Platform.Resource.Attribute.hintTextAppearance = global::QuestionsGame.Droid.Resource.Attribute.hintTextAppearance;
-			global::Xamarin.Forms.Platform.Resource.Attribute.homeAsUpIndicator = global::QuestionsGame.Droid.Resource.Attribute.homeAsUpIndicator;
-			global::Xamarin.Forms.Platform.Resource.Attribute.homeLayout = global::QuestionsGame.Droid.Resource.Attribute.homeLayout;
-			global::Xamarin.Forms.Platform.Resource.Attribute.icon = global::QuestionsGame.Droid.Resource.Attribute.icon;
-			global::Xamarin.Forms.Platform.Resource.Attribute.iconifiedByDefault = global::QuestionsGame.Droid.Resource.Attribute.iconifiedByDefault;
-			global::Xamarin.Forms.Platform.Resource.Attribute.indeterminateProgressStyle = global::QuestionsGame.Droid.Resource.Attribute.indeterminateProgressStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.initialActivityCount = global::QuestionsGame.Droid.Resource.Attribute.initialActivityCount;
-			global::Xamarin.Forms.Platform.Resource.Attribute.insetForeground = global::QuestionsGame.Droid.Resource.Attribute.insetForeground;
-			global::Xamarin.Forms.Platform.Resource.Attribute.isLightTheme = global::QuestionsGame.Droid.Resource.Attribute.isLightTheme;
-			global::Xamarin.Forms.Platform.Resource.Attribute.itemBackground = global::QuestionsGame.Droid.Resource.Attribute.itemBackground;
-			global::Xamarin.Forms.Platform.Resource.Attribute.itemIconTint = global::QuestionsGame.Droid.Resource.Attribute.itemIconTint;
-			global::Xamarin.Forms.Platform.Resource.Attribute.itemPadding = global::QuestionsGame.Droid.Resource.Attribute.itemPadding;
-			global::Xamarin.Forms.Platform.Resource.Attribute.itemTextAppearance = global::QuestionsGame.Droid.Resource.Attribute.itemTextAppearance;
-			global::Xamarin.Forms.Platform.Resource.Attribute.itemTextColor = global::QuestionsGame.Droid.Resource.Attribute.itemTextColor;
-			global::Xamarin.Forms.Platform.Resource.Attribute.keylines = global::QuestionsGame.Droid.Resource.Attribute.keylines;
-			global::Xamarin.Forms.Platform.Resource.Attribute.layout = global::QuestionsGame.Droid.Resource.Attribute.layout;
-			global::Xamarin.Forms.Platform.Resource.Attribute.layout_anchor = global::QuestionsGame.Droid.Resource.Attribute.layout_anchor;
-			global::Xamarin.Forms.Platform.Resource.Attribute.layout_anchorGravity = global::QuestionsGame.Droid.Resource.Attribute.layout_anchorGravity;
-			global::Xamarin.Forms.Platform.Resource.Attribute.layout_behavior = global::QuestionsGame.Droid.Resource.Attribute.layout_behavior;
-			global::Xamarin.Forms.Platform.Resource.Attribute.layout_collapseMode = global::QuestionsGame.Droid.Resource.Attribute.layout_collapseMode;
-			global::Xamarin.Forms.Platform.Resource.Attribute.layout_collapseParallaxMultiplier = global::QuestionsGame.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
-			global::Xamarin.Forms.Platform.Resource.Attribute.layout_keyline = global::QuestionsGame.Droid.Resource.Attribute.layout_keyline;
-			global::Xamarin.Forms.Platform.Resource.Attribute.layout_scrollFlags = global::QuestionsGame.Droid.Resource.Attribute.layout_scrollFlags;
-			global::Xamarin.Forms.Platform.Resource.Attribute.layout_scrollInterpolator = global::QuestionsGame.Droid.Resource.Attribute.layout_scrollInterpolator;
-			global::Xamarin.Forms.Platform.Resource.Attribute.listChoiceBackgroundIndicator = global::QuestionsGame.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
-			global::Xamarin.Forms.Platform.Resource.Attribute.listDividerAlertDialog = global::QuestionsGame.Droid.Resource.Attribute.listDividerAlertDialog;
-			global::Xamarin.Forms.Platform.Resource.Attribute.listItemLayout = global::QuestionsGame.Droid.Resource.Attribute.listItemLayout;
-			global::Xamarin.Forms.Platform.Resource.Attribute.listLayout = global::QuestionsGame.Droid.Resource.Attribute.listLayout;
-			global::Xamarin.Forms.Platform.Resource.Attribute.listPopupWindowStyle = global::QuestionsGame.Droid.Resource.Attribute.listPopupWindowStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.listPreferredItemHeight = global::QuestionsGame.Droid.Resource.Attribute.listPreferredItemHeight;
-			global::Xamarin.Forms.Platform.Resource.Attribute.listPreferredItemHeightLarge = global::QuestionsGame.Droid.Resource.Attribute.listPreferredItemHeightLarge;
-			global::Xamarin.Forms.Platform.Resource.Attribute.listPreferredItemHeightSmall = global::QuestionsGame.Droid.Resource.Attribute.listPreferredItemHeightSmall;
-			global::Xamarin.Forms.Platform.Resource.Attribute.listPreferredItemPaddingLeft = global::QuestionsGame.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
-			global::Xamarin.Forms.Platform.Resource.Attribute.listPreferredItemPaddingRight = global::QuestionsGame.Droid.Resource.Attribute.listPreferredItemPaddingRight;
-			global::Xamarin.Forms.Platform.Resource.Attribute.logo = global::QuestionsGame.Droid.Resource.Attribute.logo;
-			global::Xamarin.Forms.Platform.Resource.Attribute.logoDescription = global::QuestionsGame.Droid.Resource.Attribute.logoDescription;
-			global::Xamarin.Forms.Platform.Resource.Attribute.maxActionInlineWidth = global::QuestionsGame.Droid.Resource.Attribute.maxActionInlineWidth;
-			global::Xamarin.Forms.Platform.Resource.Attribute.maxButtonHeight = global::QuestionsGame.Droid.Resource.Attribute.maxButtonHeight;
-			global::Xamarin.Forms.Platform.Resource.Attribute.measureWithLargestChild = global::QuestionsGame.Droid.Resource.Attribute.measureWithLargestChild;
-			global::Xamarin.Forms.Platform.Resource.Attribute.menu = global::QuestionsGame.Droid.Resource.Attribute.menu;
-			global::Xamarin.Forms.Platform.Resource.Attribute.multiChoiceItemLayout = global::QuestionsGame.Droid.Resource.Attribute.multiChoiceItemLayout;
-			global::Xamarin.Forms.Platform.Resource.Attribute.navigationContentDescription = global::QuestionsGame.Droid.Resource.Attribute.navigationContentDescription;
-			global::Xamarin.Forms.Platform.Resource.Attribute.navigationIcon = global::QuestionsGame.Droid.Resource.Attribute.navigationIcon;
-			global::Xamarin.Forms.Platform.Resource.Attribute.navigationMode = global::QuestionsGame.Droid.Resource.Attribute.navigationMode;
-			global::Xamarin.Forms.Platform.Resource.Attribute.overlapAnchor = global::QuestionsGame.Droid.Resource.Attribute.overlapAnchor;
-			global::Xamarin.Forms.Platform.Resource.Attribute.paddingEnd = global::QuestionsGame.Droid.Resource.Attribute.paddingEnd;
-			global::Xamarin.Forms.Platform.Resource.Attribute.paddingStart = global::QuestionsGame.Droid.Resource.Attribute.paddingStart;
-			global::Xamarin.Forms.Platform.Resource.Attribute.panelBackground = global::QuestionsGame.Droid.Resource.Attribute.panelBackground;
-			global::Xamarin.Forms.Platform.Resource.Attribute.panelMenuListTheme = global::QuestionsGame.Droid.Resource.Attribute.panelMenuListTheme;
-			global::Xamarin.Forms.Platform.Resource.Attribute.panelMenuListWidth = global::QuestionsGame.Droid.Resource.Attribute.panelMenuListWidth;
-			global::Xamarin.Forms.Platform.Resource.Attribute.popupMenuStyle = global::QuestionsGame.Droid.Resource.Attribute.popupMenuStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.popupTheme = global::QuestionsGame.Droid.Resource.Attribute.popupTheme;
-			global::Xamarin.Forms.Platform.Resource.Attribute.popupWindowStyle = global::QuestionsGame.Droid.Resource.Attribute.popupWindowStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.preserveIconSpacing = global::QuestionsGame.Droid.Resource.Attribute.preserveIconSpacing;
-			global::Xamarin.Forms.Platform.Resource.Attribute.pressedTranslationZ = global::QuestionsGame.Droid.Resource.Attribute.pressedTranslationZ;
-			global::Xamarin.Forms.Platform.Resource.Attribute.progressBarPadding = global::QuestionsGame.Droid.Resource.Attribute.progressBarPadding;
-			global::Xamarin.Forms.Platform.Resource.Attribute.progressBarStyle = global::QuestionsGame.Droid.Resource.Attribute.progressBarStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.queryBackground = global::QuestionsGame.Droid.Resource.Attribute.queryBackground;
-			global::Xamarin.Forms.Platform.Resource.Attribute.queryHint = global::QuestionsGame.Droid.Resource.Attribute.queryHint;
-			global::Xamarin.Forms.Platform.Resource.Attribute.radioButtonStyle = global::QuestionsGame.Droid.Resource.Attribute.radioButtonStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.ratingBarStyle = global::QuestionsGame.Droid.Resource.Attribute.ratingBarStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.rippleColor = global::QuestionsGame.Droid.Resource.Attribute.rippleColor;
-			global::Xamarin.Forms.Platform.Resource.Attribute.searchHintIcon = global::QuestionsGame.Droid.Resource.Attribute.searchHintIcon;
-			global::Xamarin.Forms.Platform.Resource.Attribute.searchIcon = global::QuestionsGame.Droid.Resource.Attribute.searchIcon;
-			global::Xamarin.Forms.Platform.Resource.Attribute.searchViewStyle = global::QuestionsGame.Droid.Resource.Attribute.searchViewStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.selectableItemBackground = global::QuestionsGame.Droid.Resource.Attribute.selectableItemBackground;
-			global::Xamarin.Forms.Platform.Resource.Attribute.selectableItemBackgroundBorderless = global::QuestionsGame.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
-			global::Xamarin.Forms.Platform.Resource.Attribute.showAsAction = global::QuestionsGame.Droid.Resource.Attribute.showAsAction;
-			global::Xamarin.Forms.Platform.Resource.Attribute.showDividers = global::QuestionsGame.Droid.Resource.Attribute.showDividers;
-			global::Xamarin.Forms.Platform.Resource.Attribute.showText = global::QuestionsGame.Droid.Resource.Attribute.showText;
-			global::Xamarin.Forms.Platform.Resource.Attribute.singleChoiceItemLayout = global::QuestionsGame.Droid.Resource.Attribute.singleChoiceItemLayout;
-			global::Xamarin.Forms.Platform.Resource.Attribute.spinBars = global::QuestionsGame.Droid.Resource.Attribute.spinBars;
-			global::Xamarin.Forms.Platform.Resource.Attribute.spinnerDropDownItemStyle = global::QuestionsGame.Droid.Resource.Attribute.spinnerDropDownItemStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.spinnerStyle = global::QuestionsGame.Droid.Resource.Attribute.spinnerStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.splitTrack = global::QuestionsGame.Droid.Resource.Attribute.splitTrack;
-			global::Xamarin.Forms.Platform.Resource.Attribute.state_above_anchor = global::QuestionsGame.Droid.Resource.Attribute.state_above_anchor;
-			global::Xamarin.Forms.Platform.Resource.Attribute.statusBarBackground = global::QuestionsGame.Droid.Resource.Attribute.statusBarBackground;
-			global::Xamarin.Forms.Platform.Resource.Attribute.statusBarScrim = global::QuestionsGame.Droid.Resource.Attribute.statusBarScrim;
-			global::Xamarin.Forms.Platform.Resource.Attribute.submitBackground = global::QuestionsGame.Droid.Resource.Attribute.submitBackground;
-			global::Xamarin.Forms.Platform.Resource.Attribute.subtitle = global::QuestionsGame.Droid.Resource.Attribute.subtitle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.subtitleTextAppearance = global::QuestionsGame.Droid.Resource.Attribute.subtitleTextAppearance;
-			global::Xamarin.Forms.Platform.Resource.Attribute.subtitleTextColor = global::QuestionsGame.Droid.Resource.Attribute.subtitleTextColor;
-			global::Xamarin.Forms.Platform.Resource.Attribute.subtitleTextStyle = global::QuestionsGame.Droid.Resource.Attribute.subtitleTextStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.suggestionRowLayout = global::QuestionsGame.Droid.Resource.Attribute.suggestionRowLayout;
-			global::Xamarin.Forms.Platform.Resource.Attribute.switchMinWidth = global::QuestionsGame.Droid.Resource.Attribute.switchMinWidth;
-			global::Xamarin.Forms.Platform.Resource.Attribute.switchPadding = global::QuestionsGame.Droid.Resource.Attribute.switchPadding;
-			global::Xamarin.Forms.Platform.Resource.Attribute.switchStyle = global::QuestionsGame.Droid.Resource.Attribute.switchStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.switchTextAppearance = global::QuestionsGame.Droid.Resource.Attribute.switchTextAppearance;
-			global::Xamarin.Forms.Platform.Resource.Attribute.tabBackground = global::QuestionsGame.Droid.Resource.Attribute.tabBackground;
-			global::Xamarin.Forms.Platform.Resource.Attribute.tabContentStart = global::QuestionsGame.Droid.Resource.Attribute.tabContentStart;
-			global::Xamarin.Forms.Platform.Resource.Attribute.tabGravity = global::QuestionsGame.Droid.Resource.Attribute.tabGravity;
-			global::Xamarin.Forms.Platform.Resource.Attribute.tabIndicatorColor = global::QuestionsGame.Droid.Resource.Attribute.tabIndicatorColor;
-			global::Xamarin.Forms.Platform.Resource.Attribute.tabIndicatorHeight = global::QuestionsGame.Droid.Resource.Attribute.tabIndicatorHeight;
-			global::Xamarin.Forms.Platform.Resource.Attribute.tabMaxWidth = global::QuestionsGame.Droid.Resource.Attribute.tabMaxWidth;
-			global::Xamarin.Forms.Platform.Resource.Attribute.tabMinWidth = global::QuestionsGame.Droid.Resource.Attribute.tabMinWidth;
-			global::Xamarin.Forms.Platform.Resource.Attribute.tabMode = global::QuestionsGame.Droid.Resource.Attribute.tabMode;
-			global::Xamarin.Forms.Platform.Resource.Attribute.tabPadding = global::QuestionsGame.Droid.Resource.Attribute.tabPadding;
-			global::Xamarin.Forms.Platform.Resource.Attribute.tabPaddingBottom = global::QuestionsGame.Droid.Resource.Attribute.tabPaddingBottom;
-			global::Xamarin.Forms.Platform.Resource.Attribute.tabPaddingEnd = global::QuestionsGame.Droid.Resource.Attribute.tabPaddingEnd;
-			global::Xamarin.Forms.Platform.Resource.Attribute.tabPaddingStart = global::QuestionsGame.Droid.Resource.Attribute.tabPaddingStart;
-			global::Xamarin.Forms.Platform.Resource.Attribute.tabPaddingTop = global::QuestionsGame.Droid.Resource.Attribute.tabPaddingTop;
-			global::Xamarin.Forms.Platform.Resource.Attribute.tabSelectedTextColor = global::QuestionsGame.Droid.Resource.Attribute.tabSelectedTextColor;
-			global::Xamarin.Forms.Platform.Resource.Attribute.tabTextAppearance = global::QuestionsGame.Droid.Resource.Attribute.tabTextAppearance;
-			global::Xamarin.Forms.Platform.Resource.Attribute.tabTextColor = global::QuestionsGame.Droid.Resource.Attribute.tabTextColor;
-			global::Xamarin.Forms.Platform.Resource.Attribute.textAllCaps = global::QuestionsGame.Droid.Resource.Attribute.textAllCaps;
-			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceLargePopupMenu = global::QuestionsGame.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
-			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceListItem = global::QuestionsGame.Droid.Resource.Attribute.textAppearanceListItem;
-			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceListItemSmall = global::QuestionsGame.Droid.Resource.Attribute.textAppearanceListItemSmall;
-			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceSearchResultSubtitle = global::QuestionsGame.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceSearchResultTitle = global::QuestionsGame.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceSmallPopupMenu = global::QuestionsGame.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
-			global::Xamarin.Forms.Platform.Resource.Attribute.textColorAlertDialogListItem = global::QuestionsGame.Droid.Resource.Attribute.textColorAlertDialogListItem;
-			global::Xamarin.Forms.Platform.Resource.Attribute.textColorSearchUrl = global::QuestionsGame.Droid.Resource.Attribute.textColorSearchUrl;
-			global::Xamarin.Forms.Platform.Resource.Attribute.theme = global::QuestionsGame.Droid.Resource.Attribute.theme;
-			global::Xamarin.Forms.Platform.Resource.Attribute.thickness = global::QuestionsGame.Droid.Resource.Attribute.thickness;
-			global::Xamarin.Forms.Platform.Resource.Attribute.thumbTextPadding = global::QuestionsGame.Droid.Resource.Attribute.thumbTextPadding;
-			global::Xamarin.Forms.Platform.Resource.Attribute.title = global::QuestionsGame.Droid.Resource.Attribute.title;
-			global::Xamarin.Forms.Platform.Resource.Attribute.titleEnabled = global::QuestionsGame.Droid.Resource.Attribute.titleEnabled;
-			global::Xamarin.Forms.Platform.Resource.Attribute.titleMarginBottom = global::QuestionsGame.Droid.Resource.Attribute.titleMarginBottom;
-			global::Xamarin.Forms.Platform.Resource.Attribute.titleMarginEnd = global::QuestionsGame.Droid.Resource.Attribute.titleMarginEnd;
-			global::Xamarin.Forms.Platform.Resource.Attribute.titleMarginStart = global::QuestionsGame.Droid.Resource.Attribute.titleMarginStart;
-			global::Xamarin.Forms.Platform.Resource.Attribute.titleMarginTop = global::QuestionsGame.Droid.Resource.Attribute.titleMarginTop;
-			global::Xamarin.Forms.Platform.Resource.Attribute.titleMargins = global::QuestionsGame.Droid.Resource.Attribute.titleMargins;
-			global::Xamarin.Forms.Platform.Resource.Attribute.titleTextAppearance = global::QuestionsGame.Droid.Resource.Attribute.titleTextAppearance;
-			global::Xamarin.Forms.Platform.Resource.Attribute.titleTextColor = global::QuestionsGame.Droid.Resource.Attribute.titleTextColor;
-			global::Xamarin.Forms.Platform.Resource.Attribute.titleTextStyle = global::QuestionsGame.Droid.Resource.Attribute.titleTextStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.toolbarId = global::QuestionsGame.Droid.Resource.Attribute.toolbarId;
-			global::Xamarin.Forms.Platform.Resource.Attribute.toolbarNavigationButtonStyle = global::QuestionsGame.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.toolbarStyle = global::QuestionsGame.Droid.Resource.Attribute.toolbarStyle;
-			global::Xamarin.Forms.Platform.Resource.Attribute.track = global::QuestionsGame.Droid.Resource.Attribute.track;
-			global::Xamarin.Forms.Platform.Resource.Attribute.voiceIcon = global::QuestionsGame.Droid.Resource.Attribute.voiceIcon;
-			global::Xamarin.Forms.Platform.Resource.Attribute.windowActionBar = global::QuestionsGame.Droid.Resource.Attribute.windowActionBar;
-			global::Xamarin.Forms.Platform.Resource.Attribute.windowActionBarOverlay = global::QuestionsGame.Droid.Resource.Attribute.windowActionBarOverlay;
-			global::Xamarin.Forms.Platform.Resource.Attribute.windowActionModeOverlay = global::QuestionsGame.Droid.Resource.Attribute.windowActionModeOverlay;
-			global::Xamarin.Forms.Platform.Resource.Attribute.windowFixedHeightMajor = global::QuestionsGame.Droid.Resource.Attribute.windowFixedHeightMajor;
-			global::Xamarin.Forms.Platform.Resource.Attribute.windowFixedHeightMinor = global::QuestionsGame.Droid.Resource.Attribute.windowFixedHeightMinor;
-			global::Xamarin.Forms.Platform.Resource.Attribute.windowFixedWidthMajor = global::QuestionsGame.Droid.Resource.Attribute.windowFixedWidthMajor;
-			global::Xamarin.Forms.Platform.Resource.Attribute.windowFixedWidthMinor = global::QuestionsGame.Droid.Resource.Attribute.windowFixedWidthMinor;
-			global::Xamarin.Forms.Platform.Resource.Attribute.windowMinWidthMajor = global::QuestionsGame.Droid.Resource.Attribute.windowMinWidthMajor;
-			global::Xamarin.Forms.Platform.Resource.Attribute.windowMinWidthMinor = global::QuestionsGame.Droid.Resource.Attribute.windowMinWidthMinor;
-			global::Xamarin.Forms.Platform.Resource.Attribute.windowNoTitle = global::QuestionsGame.Droid.Resource.Attribute.windowNoTitle;
-			global::Xamarin.Forms.Platform.Resource.Boolean.abc_action_bar_embed_tabs = global::QuestionsGame.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
-			global::Xamarin.Forms.Platform.Resource.Boolean.abc_action_bar_embed_tabs_pre_jb = global::QuestionsGame.Droid.Resource.Boolean.abc_action_bar_embed_tabs_pre_jb;
-			global::Xamarin.Forms.Platform.Resource.Boolean.abc_action_bar_expanded_action_views_exclusive = global::QuestionsGame.Droid.Resource.Boolean.abc_action_bar_expanded_action_views_exclusive;
-			global::Xamarin.Forms.Platform.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::QuestionsGame.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
-			global::Xamarin.Forms.Platform.Resource.Boolean.abc_config_allowActionMenuItemTextWithIcon = global::QuestionsGame.Droid.Resource.Boolean.abc_config_allowActionMenuItemTextWithIcon;
-			global::Xamarin.Forms.Platform.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::QuestionsGame.Droid.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
-			global::Xamarin.Forms.Platform.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::QuestionsGame.Droid.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
-			global::Xamarin.Forms.Platform.Resource.Color.abc_background_cache_hint_selector_material_dark = global::QuestionsGame.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
-			global::Xamarin.Forms.Platform.Resource.Color.abc_background_cache_hint_selector_material_light = global::QuestionsGame.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
-			global::Xamarin.Forms.Platform.Resource.Color.abc_color_highlight_material = global::QuestionsGame.Droid.Resource.Color.abc_color_highlight_material;
-			global::Xamarin.Forms.Platform.Resource.Color.abc_input_method_navigation_guard = global::QuestionsGame.Droid.Resource.Color.abc_input_method_navigation_guard;
-			global::Xamarin.Forms.Platform.Resource.Color.abc_primary_text_disable_only_material_dark = global::QuestionsGame.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
-			global::Xamarin.Forms.Platform.Resource.Color.abc_primary_text_disable_only_material_light = global::QuestionsGame.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
-			global::Xamarin.Forms.Platform.Resource.Color.abc_primary_text_material_dark = global::QuestionsGame.Droid.Resource.Color.abc_primary_text_material_dark;
-			global::Xamarin.Forms.Platform.Resource.Color.abc_primary_text_material_light = global::QuestionsGame.Droid.Resource.Color.abc_primary_text_material_light;
-			global::Xamarin.Forms.Platform.Resource.Color.abc_search_url_text = global::QuestionsGame.Droid.Resource.Color.abc_search_url_text;
-			global::Xamarin.Forms.Platform.Resource.Color.abc_search_url_text_normal = global::QuestionsGame.Droid.Resource.Color.abc_search_url_text_normal;
-			global::Xamarin.Forms.Platform.Resource.Color.abc_search_url_text_pressed = global::QuestionsGame.Droid.Resource.Color.abc_search_url_text_pressed;
-			global::Xamarin.Forms.Platform.Resource.Color.abc_search_url_text_selected = global::QuestionsGame.Droid.Resource.Color.abc_search_url_text_selected;
-			global::Xamarin.Forms.Platform.Resource.Color.abc_secondary_text_material_dark = global::QuestionsGame.Droid.Resource.Color.abc_secondary_text_material_dark;
-			global::Xamarin.Forms.Platform.Resource.Color.abc_secondary_text_material_light = global::QuestionsGame.Droid.Resource.Color.abc_secondary_text_material_light;
-			global::Xamarin.Forms.Platform.Resource.Color.accent_material_dark = global::QuestionsGame.Droid.Resource.Color.accent_material_dark;
-			global::Xamarin.Forms.Platform.Resource.Color.accent_material_light = global::QuestionsGame.Droid.Resource.Color.accent_material_light;
-			global::Xamarin.Forms.Platform.Resource.Color.background_floating_material_dark = global::QuestionsGame.Droid.Resource.Color.background_floating_material_dark;
-			global::Xamarin.Forms.Platform.Resource.Color.background_floating_material_light = global::QuestionsGame.Droid.Resource.Color.background_floating_material_light;
-			global::Xamarin.Forms.Platform.Resource.Color.background_material_dark = global::QuestionsGame.Droid.Resource.Color.background_material_dark;
-			global::Xamarin.Forms.Platform.Resource.Color.background_material_light = global::QuestionsGame.Droid.Resource.Color.background_material_light;
-			global::Xamarin.Forms.Platform.Resource.Color.bright_foreground_disabled_material_dark = global::QuestionsGame.Droid.Resource.Color.bright_foreground_disabled_material_dark;
-			global::Xamarin.Forms.Platform.Resource.Color.bright_foreground_disabled_material_light = global::QuestionsGame.Droid.Resource.Color.bright_foreground_disabled_material_light;
-			global::Xamarin.Forms.Platform.Resource.Color.bright_foreground_inverse_material_dark = global::QuestionsGame.Droid.Resource.Color.bright_foreground_inverse_material_dark;
-			global::Xamarin.Forms.Platform.Resource.Color.bright_foreground_inverse_material_light = global::QuestionsGame.Droid.Resource.Color.bright_foreground_inverse_material_light;
-			global::Xamarin.Forms.Platform.Resource.Color.bright_foreground_material_dark = global::QuestionsGame.Droid.Resource.Color.bright_foreground_material_dark;
-			global::Xamarin.Forms.Platform.Resource.Color.bright_foreground_material_light = global::QuestionsGame.Droid.Resource.Color.bright_foreground_material_light;
-			global::Xamarin.Forms.Platform.Resource.Color.button_material_dark = global::QuestionsGame.Droid.Resource.Color.button_material_dark;
-			global::Xamarin.Forms.Platform.Resource.Color.button_material_light = global::QuestionsGame.Droid.Resource.Color.button_material_light;
-			global::Xamarin.Forms.Platform.Resource.Color.cardview_dark_background = global::QuestionsGame.Droid.Resource.Color.cardview_dark_background;
-			global::Xamarin.Forms.Platform.Resource.Color.cardview_light_background = global::QuestionsGame.Droid.Resource.Color.cardview_light_background;
-			global::Xamarin.Forms.Platform.Resource.Color.cardview_shadow_end_color = global::QuestionsGame.Droid.Resource.Color.cardview_shadow_end_color;
-			global::Xamarin.Forms.Platform.Resource.Color.cardview_shadow_start_color = global::QuestionsGame.Droid.Resource.Color.cardview_shadow_start_color;
-			global::Xamarin.Forms.Platform.Resource.Color.design_fab_shadow_end_color = global::QuestionsGame.Droid.Resource.Color.design_fab_shadow_end_color;
-			global::Xamarin.Forms.Platform.Resource.Color.design_fab_shadow_mid_color = global::QuestionsGame.Droid.Resource.Color.design_fab_shadow_mid_color;
-			global::Xamarin.Forms.Platform.Resource.Color.design_fab_shadow_start_color = global::QuestionsGame.Droid.Resource.Color.design_fab_shadow_start_color;
-			global::Xamarin.Forms.Platform.Resource.Color.design_fab_stroke_end_inner_color = global::QuestionsGame.Droid.Resource.Color.design_fab_stroke_end_inner_color;
-			global::Xamarin.Forms.Platform.Resource.Color.design_fab_stroke_end_outer_color = global::QuestionsGame.Droid.Resource.Color.design_fab_stroke_end_outer_color;
-			global::Xamarin.Forms.Platform.Resource.Color.design_fab_stroke_top_inner_color = global::QuestionsGame.Droid.Resource.Color.design_fab_stroke_top_inner_color;
-			global::Xamarin.Forms.Platform.Resource.Color.design_fab_stroke_top_outer_color = global::QuestionsGame.Droid.Resource.Color.design_fab_stroke_top_outer_color;
-			global::Xamarin.Forms.Platform.Resource.Color.design_snackbar_background_color = global::QuestionsGame.Droid.Resource.Color.design_snackbar_background_color;
-			global::Xamarin.Forms.Platform.Resource.Color.design_textinput_error_color = global::QuestionsGame.Droid.Resource.Color.design_textinput_error_color;
-			global::Xamarin.Forms.Platform.Resource.Color.dim_foreground_disabled_material_dark = global::QuestionsGame.Droid.Resource.Color.dim_foreground_disabled_material_dark;
-			global::Xamarin.Forms.Platform.Resource.Color.dim_foreground_disabled_material_light = global::QuestionsGame.Droid.Resource.Color.dim_foreground_disabled_material_light;
-			global::Xamarin.Forms.Platform.Resource.Color.dim_foreground_material_dark = global::QuestionsGame.Droid.Resource.Color.dim_foreground_material_dark;
-			global::Xamarin.Forms.Platform.Resource.Color.dim_foreground_material_light = global::QuestionsGame.Droid.Resource.Color.dim_foreground_material_light;
-			global::Xamarin.Forms.Platform.Resource.Color.foreground_material_dark = global::QuestionsGame.Droid.Resource.Color.foreground_material_dark;
-			global::Xamarin.Forms.Platform.Resource.Color.foreground_material_light = global::QuestionsGame.Droid.Resource.Color.foreground_material_light;
-			global::Xamarin.Forms.Platform.Resource.Color.highlighted_text_material_dark = global::QuestionsGame.Droid.Resource.Color.highlighted_text_material_dark;
-			global::Xamarin.Forms.Platform.Resource.Color.highlighted_text_material_light = global::QuestionsGame.Droid.Resource.Color.highlighted_text_material_light;
-			global::Xamarin.Forms.Platform.Resource.Color.hint_foreground_material_dark = global::QuestionsGame.Droid.Resource.Color.hint_foreground_material_dark;
-			global::Xamarin.Forms.Platform.Resource.Color.hint_foreground_material_light = global::QuestionsGame.Droid.Resource.Color.hint_foreground_material_light;
-			global::Xamarin.Forms.Platform.Resource.Color.material_blue_grey_800 = global::QuestionsGame.Droid.Resource.Color.material_blue_grey_800;
-			global::Xamarin.Forms.Platform.Resource.Color.material_blue_grey_900 = global::QuestionsGame.Droid.Resource.Color.material_blue_grey_900;
-			global::Xamarin.Forms.Platform.Resource.Color.material_blue_grey_950 = global::QuestionsGame.Droid.Resource.Color.material_blue_grey_950;
-			global::Xamarin.Forms.Platform.Resource.Color.material_deep_teal_200 = global::QuestionsGame.Droid.Resource.Color.material_deep_teal_200;
-			global::Xamarin.Forms.Platform.Resource.Color.material_deep_teal_500 = global::QuestionsGame.Droid.Resource.Color.material_deep_teal_500;
-			global::Xamarin.Forms.Platform.Resource.Color.material_grey_100 = global::QuestionsGame.Droid.Resource.Color.material_grey_100;
-			global::Xamarin.Forms.Platform.Resource.Color.material_grey_300 = global::QuestionsGame.Droid.Resource.Color.material_grey_300;
-			global::Xamarin.Forms.Platform.Resource.Color.material_grey_50 = global::QuestionsGame.Droid.Resource.Color.material_grey_50;
-			global::Xamarin.Forms.Platform.Resource.Color.material_grey_600 = global::QuestionsGame.Droid.Resource.Color.material_grey_600;
-			global::Xamarin.Forms.Platform.Resource.Color.material_grey_800 = global::QuestionsGame.Droid.Resource.Color.material_grey_800;
-			global::Xamarin.Forms.Platform.Resource.Color.material_grey_850 = global::QuestionsGame.Droid.Resource.Color.material_grey_850;
-			global::Xamarin.Forms.Platform.Resource.Color.material_grey_900 = global::QuestionsGame.Droid.Resource.Color.material_grey_900;
-			global::Xamarin.Forms.Platform.Resource.Color.primary_dark_material_dark = global::QuestionsGame.Droid.Resource.Color.primary_dark_material_dark;
-			global::Xamarin.Forms.Platform.Resource.Color.primary_dark_material_light = global::QuestionsGame.Droid.Resource.Color.primary_dark_material_light;
-			global::Xamarin.Forms.Platform.Resource.Color.primary_material_dark = global::QuestionsGame.Droid.Resource.Color.primary_material_dark;
-			global::Xamarin.Forms.Platform.Resource.Color.primary_material_light = global::QuestionsGame.Droid.Resource.Color.primary_material_light;
-			global::Xamarin.Forms.Platform.Resource.Color.primary_text_default_material_dark = global::QuestionsGame.Droid.Resource.Color.primary_text_default_material_dark;
-			global::Xamarin.Forms.Platform.Resource.Color.primary_text_default_material_light = global::QuestionsGame.Droid.Resource.Color.primary_text_default_material_light;
-			global::Xamarin.Forms.Platform.Resource.Color.primary_text_disabled_material_dark = global::QuestionsGame.Droid.Resource.Color.primary_text_disabled_material_dark;
-			global::Xamarin.Forms.Platform.Resource.Color.primary_text_disabled_material_light = global::QuestionsGame.Droid.Resource.Color.primary_text_disabled_material_light;
-			global::Xamarin.Forms.Platform.Resource.Color.ripple_material_dark = global::QuestionsGame.Droid.Resource.Color.ripple_material_dark;
-			global::Xamarin.Forms.Platform.Resource.Color.ripple_material_light = global::QuestionsGame.Droid.Resource.Color.ripple_material_light;
-			global::Xamarin.Forms.Platform.Resource.Color.secondary_text_default_material_dark = global::QuestionsGame.Droid.Resource.Color.secondary_text_default_material_dark;
-			global::Xamarin.Forms.Platform.Resource.Color.secondary_text_default_material_light = global::QuestionsGame.Droid.Resource.Color.secondary_text_default_material_light;
-			global::Xamarin.Forms.Platform.Resource.Color.secondary_text_disabled_material_dark = global::QuestionsGame.Droid.Resource.Color.secondary_text_disabled_material_dark;
-			global::Xamarin.Forms.Platform.Resource.Color.secondary_text_disabled_material_light = global::QuestionsGame.Droid.Resource.Color.secondary_text_disabled_material_light;
-			global::Xamarin.Forms.Platform.Resource.Color.switch_thumb_disabled_material_dark = global::QuestionsGame.Droid.Resource.Color.switch_thumb_disabled_material_dark;
-			global::Xamarin.Forms.Platform.Resource.Color.switch_thumb_disabled_material_light = global::QuestionsGame.Droid.Resource.Color.switch_thumb_disabled_material_light;
-			global::Xamarin.Forms.Platform.Resource.Color.switch_thumb_material_dark = global::QuestionsGame.Droid.Resource.Color.switch_thumb_material_dark;
-			global::Xamarin.Forms.Platform.Resource.Color.switch_thumb_material_light = global::QuestionsGame.Droid.Resource.Color.switch_thumb_material_light;
-			global::Xamarin.Forms.Platform.Resource.Color.switch_thumb_normal_material_dark = global::QuestionsGame.Droid.Resource.Color.switch_thumb_normal_material_dark;
-			global::Xamarin.Forms.Platform.Resource.Color.switch_thumb_normal_material_light = global::QuestionsGame.Droid.Resource.Color.switch_thumb_normal_material_light;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_content_inset_material = global::QuestionsGame.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_default_height_material = global::QuestionsGame.Droid.Resource.Dimension.abc_action_bar_default_height_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_default_padding_end_material = global::QuestionsGame.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_default_padding_start_material = global::QuestionsGame.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::QuestionsGame.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::QuestionsGame.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::QuestionsGame.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_progress_bar_size = global::QuestionsGame.Droid.Resource.Dimension.abc_action_bar_progress_bar_size;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_stacked_max_height = global::QuestionsGame.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::QuestionsGame.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::QuestionsGame.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::QuestionsGame.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_button_min_height_material = global::QuestionsGame.Droid.Resource.Dimension.abc_action_button_min_height_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_button_min_width_material = global::QuestionsGame.Droid.Resource.Dimension.abc_action_button_min_width_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_button_min_width_overflow_material = global::QuestionsGame.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_alert_dialog_button_bar_height = global::QuestionsGame.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_button_inset_horizontal_material = global::QuestionsGame.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_button_inset_vertical_material = global::QuestionsGame.Droid.Resource.Dimension.abc_button_inset_vertical_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_button_padding_horizontal_material = global::QuestionsGame.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_button_padding_vertical_material = global::QuestionsGame.Droid.Resource.Dimension.abc_button_padding_vertical_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_config_prefDialogWidth = global::QuestionsGame.Droid.Resource.Dimension.abc_config_prefDialogWidth;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_control_corner_material = global::QuestionsGame.Droid.Resource.Dimension.abc_control_corner_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_control_inset_material = global::QuestionsGame.Droid.Resource.Dimension.abc_control_inset_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_control_padding_material = global::QuestionsGame.Droid.Resource.Dimension.abc_control_padding_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dialog_list_padding_vertical_material = global::QuestionsGame.Droid.Resource.Dimension.abc_dialog_list_padding_vertical_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dialog_min_width_major = global::QuestionsGame.Droid.Resource.Dimension.abc_dialog_min_width_major;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dialog_min_width_minor = global::QuestionsGame.Droid.Resource.Dimension.abc_dialog_min_width_minor;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dialog_padding_material = global::QuestionsGame.Droid.Resource.Dimension.abc_dialog_padding_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dialog_padding_top_material = global::QuestionsGame.Droid.Resource.Dimension.abc_dialog_padding_top_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_disabled_alpha_material_dark = global::QuestionsGame.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_disabled_alpha_material_light = global::QuestionsGame.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dropdownitem_icon_width = global::QuestionsGame.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dropdownitem_text_padding_left = global::QuestionsGame.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dropdownitem_text_padding_right = global::QuestionsGame.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_edit_text_inset_bottom_material = global::QuestionsGame.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::QuestionsGame.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_edit_text_inset_top_material = global::QuestionsGame.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_floating_window_z = global::QuestionsGame.Droid.Resource.Dimension.abc_floating_window_z;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_list_item_padding_horizontal_material = global::QuestionsGame.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_panel_menu_list_width = global::QuestionsGame.Droid.Resource.Dimension.abc_panel_menu_list_width;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_search_view_preferred_width = global::QuestionsGame.Droid.Resource.Dimension.abc_search_view_preferred_width;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_search_view_text_min_width = global::QuestionsGame.Droid.Resource.Dimension.abc_search_view_text_min_width;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_switch_padding = global::QuestionsGame.Droid.Resource.Dimension.abc_switch_padding;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_body_1_material = global::QuestionsGame.Droid.Resource.Dimension.abc_text_size_body_1_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_body_2_material = global::QuestionsGame.Droid.Resource.Dimension.abc_text_size_body_2_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_button_material = global::QuestionsGame.Droid.Resource.Dimension.abc_text_size_button_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_caption_material = global::QuestionsGame.Droid.Resource.Dimension.abc_text_size_caption_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_display_1_material = global::QuestionsGame.Droid.Resource.Dimension.abc_text_size_display_1_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_display_2_material = global::QuestionsGame.Droid.Resource.Dimension.abc_text_size_display_2_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_display_3_material = global::QuestionsGame.Droid.Resource.Dimension.abc_text_size_display_3_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_display_4_material = global::QuestionsGame.Droid.Resource.Dimension.abc_text_size_display_4_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_headline_material = global::QuestionsGame.Droid.Resource.Dimension.abc_text_size_headline_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_large_material = global::QuestionsGame.Droid.Resource.Dimension.abc_text_size_large_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_medium_material = global::QuestionsGame.Droid.Resource.Dimension.abc_text_size_medium_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_menu_material = global::QuestionsGame.Droid.Resource.Dimension.abc_text_size_menu_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_small_material = global::QuestionsGame.Droid.Resource.Dimension.abc_text_size_small_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_subhead_material = global::QuestionsGame.Droid.Resource.Dimension.abc_text_size_subhead_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::QuestionsGame.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_title_material = global::QuestionsGame.Droid.Resource.Dimension.abc_text_size_title_material;
-			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_title_material_toolbar = global::QuestionsGame.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
-			global::Xamarin.Forms.Platform.Resource.Dimension.cardview_compat_inset_shadow = global::QuestionsGame.Droid.Resource.Dimension.cardview_compat_inset_shadow;
-			global::Xamarin.Forms.Platform.Resource.Dimension.cardview_default_elevation = global::QuestionsGame.Droid.Resource.Dimension.cardview_default_elevation;
-			global::Xamarin.Forms.Platform.Resource.Dimension.cardview_default_radius = global::QuestionsGame.Droid.Resource.Dimension.cardview_default_radius;
-			global::Xamarin.Forms.Platform.Resource.Dimension.design_appbar_elevation = global::QuestionsGame.Droid.Resource.Dimension.design_appbar_elevation;
-			global::Xamarin.Forms.Platform.Resource.Dimension.design_fab_border_width = global::QuestionsGame.Droid.Resource.Dimension.design_fab_border_width;
-			global::Xamarin.Forms.Platform.Resource.Dimension.design_fab_content_size = global::QuestionsGame.Droid.Resource.Dimension.design_fab_content_size;
-			global::Xamarin.Forms.Platform.Resource.Dimension.design_fab_elevation = global::QuestionsGame.Droid.Resource.Dimension.design_fab_elevation;
-			global::Xamarin.Forms.Platform.Resource.Dimension.design_fab_size_mini = global::QuestionsGame.Droid.Resource.Dimension.design_fab_size_mini;
-			global::Xamarin.Forms.Platform.Resource.Dimension.design_fab_size_normal = global::QuestionsGame.Droid.Resource.Dimension.design_fab_size_normal;
-			global::Xamarin.Forms.Platform.Resource.Dimension.design_fab_translation_z_pressed = global::QuestionsGame.Droid.Resource.Dimension.design_fab_translation_z_pressed;
-			global::Xamarin.Forms.Platform.Resource.Dimension.design_navigation_elevation = global::QuestionsGame.Droid.Resource.Dimension.design_navigation_elevation;
-			global::Xamarin.Forms.Platform.Resource.Dimension.design_navigation_icon_padding = global::QuestionsGame.Droid.Resource.Dimension.design_navigation_icon_padding;
-			global::Xamarin.Forms.Platform.Resource.Dimension.design_navigation_icon_size = global::QuestionsGame.Droid.Resource.Dimension.design_navigation_icon_size;
-			global::Xamarin.Forms.Platform.Resource.Dimension.design_navigation_max_width = global::QuestionsGame.Droid.Resource.Dimension.design_navigation_max_width;
-			global::Xamarin.Forms.Platform.Resource.Dimension.design_navigation_padding_bottom = global::QuestionsGame.Droid.Resource.Dimension.design_navigation_padding_bottom;
-			global::Xamarin.Forms.Platform.Resource.Dimension.design_navigation_padding_top_default = global::QuestionsGame.Droid.Resource.Dimension.design_navigation_padding_top_default;
-			global::Xamarin.Forms.Platform.Resource.Dimension.design_navigation_separator_vertical_padding = global::QuestionsGame.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
-			global::Xamarin.Forms.Platform.Resource.Dimension.design_snackbar_action_inline_max_width = global::QuestionsGame.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
-			global::Xamarin.Forms.Platform.Resource.Dimension.design_snackbar_background_corner_radius = global::QuestionsGame.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
-			global::Xamarin.Forms.Platform.Resource.Dimension.design_snackbar_elevation = global::QuestionsGame.Droid.Resource.Dimension.design_snackbar_elevation;
-			global::Xamarin.Forms.Platform.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::QuestionsGame.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
-			global::Xamarin.Forms.Platform.Resource.Dimension.design_snackbar_max_width = global::QuestionsGame.Droid.Resource.Dimension.design_snackbar_max_width;
-			global::Xamarin.Forms.Platform.Resource.Dimension.design_snackbar_min_width = global::QuestionsGame.Droid.Resource.Dimension.design_snackbar_min_width;
-			global::Xamarin.Forms.Platform.Resource.Dimension.design_snackbar_padding_horizontal = global::QuestionsGame.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
-			global::Xamarin.Forms.Platform.Resource.Dimension.design_snackbar_padding_vertical = global::QuestionsGame.Droid.Resource.Dimension.design_snackbar_padding_vertical;
-			global::Xamarin.Forms.Platform.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::QuestionsGame.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
-			global::Xamarin.Forms.Platform.Resource.Dimension.design_snackbar_text_size = global::QuestionsGame.Droid.Resource.Dimension.design_snackbar_text_size;
-			global::Xamarin.Forms.Platform.Resource.Dimension.design_tab_max_width = global::QuestionsGame.Droid.Resource.Dimension.design_tab_max_width;
-			global::Xamarin.Forms.Platform.Resource.Dimension.design_tab_min_width = global::QuestionsGame.Droid.Resource.Dimension.design_tab_min_width;
-			global::Xamarin.Forms.Platform.Resource.Dimension.dialog_fixed_height_major = global::QuestionsGame.Droid.Resource.Dimension.dialog_fixed_height_major;
-			global::Xamarin.Forms.Platform.Resource.Dimension.dialog_fixed_height_minor = global::QuestionsGame.Droid.Resource.Dimension.dialog_fixed_height_minor;
-			global::Xamarin.Forms.Platform.Resource.Dimension.dialog_fixed_width_major = global::QuestionsGame.Droid.Resource.Dimension.dialog_fixed_width_major;
-			global::Xamarin.Forms.Platform.Resource.Dimension.dialog_fixed_width_minor = global::QuestionsGame.Droid.Resource.Dimension.dialog_fixed_width_minor;
-			global::Xamarin.Forms.Platform.Resource.Dimension.disabled_alpha_material_dark = global::QuestionsGame.Droid.Resource.Dimension.disabled_alpha_material_dark;
-			global::Xamarin.Forms.Platform.Resource.Dimension.disabled_alpha_material_light = global::QuestionsGame.Droid.Resource.Dimension.disabled_alpha_material_light;
-			global::Xamarin.Forms.Platform.Resource.Dimension.highlight_alpha_material_colored = global::QuestionsGame.Droid.Resource.Dimension.highlight_alpha_material_colored;
-			global::Xamarin.Forms.Platform.Resource.Dimension.highlight_alpha_material_dark = global::QuestionsGame.Droid.Resource.Dimension.highlight_alpha_material_dark;
-			global::Xamarin.Forms.Platform.Resource.Dimension.highlight_alpha_material_light = global::QuestionsGame.Droid.Resource.Dimension.highlight_alpha_material_light;
-			global::Xamarin.Forms.Platform.Resource.Dimension.notification_large_icon_height = global::QuestionsGame.Droid.Resource.Dimension.notification_large_icon_height;
-			global::Xamarin.Forms.Platform.Resource.Dimension.notification_large_icon_width = global::QuestionsGame.Droid.Resource.Dimension.notification_large_icon_width;
-			global::Xamarin.Forms.Platform.Resource.Dimension.notification_subtext_size = global::QuestionsGame.Droid.Resource.Dimension.notification_subtext_size;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::QuestionsGame.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_action_bar_item_background_material = global::QuestionsGame.Droid.Resource.Drawable.abc_action_bar_item_background_material;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_borderless_material = global::QuestionsGame.Droid.Resource.Drawable.abc_btn_borderless_material;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_check_material = global::QuestionsGame.Droid.Resource.Drawable.abc_btn_check_material;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::QuestionsGame.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::QuestionsGame.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_colored_material = global::QuestionsGame.Droid.Resource.Drawable.abc_btn_colored_material;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_default_mtrl_shape = global::QuestionsGame.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_radio_material = global::QuestionsGame.Droid.Resource.Drawable.abc_btn_radio_material;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::QuestionsGame.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::QuestionsGame.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_rating_star_off_mtrl_alpha = global::QuestionsGame.Droid.Resource.Drawable.abc_btn_rating_star_off_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_rating_star_on_mtrl_alpha = global::QuestionsGame.Droid.Resource.Drawable.abc_btn_rating_star_on_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::QuestionsGame.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::QuestionsGame.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_cab_background_internal_bg = global::QuestionsGame.Droid.Resource.Drawable.abc_cab_background_internal_bg;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_cab_background_top_material = global::QuestionsGame.Droid.Resource.Drawable.abc_cab_background_top_material;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::QuestionsGame.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_control_background_material = global::QuestionsGame.Droid.Resource.Drawable.abc_control_background_material;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_dialog_material_background_dark = global::QuestionsGame.Droid.Resource.Drawable.abc_dialog_material_background_dark;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_dialog_material_background_light = global::QuestionsGame.Droid.Resource.Drawable.abc_dialog_material_background_light;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_edit_text_material = global::QuestionsGame.Droid.Resource.Drawable.abc_edit_text_material;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_ab_back_mtrl_am_alpha = global::QuestionsGame.Droid.Resource.Drawable.abc_ic_ab_back_mtrl_am_alpha;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_clear_mtrl_alpha = global::QuestionsGame.Droid.Resource.Drawable.abc_ic_clear_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::QuestionsGame.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_go_search_api_mtrl_alpha = global::QuestionsGame.Droid.Resource.Drawable.abc_ic_go_search_api_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::QuestionsGame.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::QuestionsGame.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_menu_moreoverflow_mtrl_alpha = global::QuestionsGame.Droid.Resource.Drawable.abc_ic_menu_moreoverflow_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::QuestionsGame.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::QuestionsGame.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::QuestionsGame.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_search_api_mtrl_alpha = global::QuestionsGame.Droid.Resource.Drawable.abc_ic_search_api_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_voice_search_api_mtrl_alpha = global::QuestionsGame.Droid.Resource.Drawable.abc_ic_voice_search_api_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_item_background_holo_dark = global::QuestionsGame.Droid.Resource.Drawable.abc_item_background_holo_dark;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_item_background_holo_light = global::QuestionsGame.Droid.Resource.Drawable.abc_item_background_holo_light;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_divider_mtrl_alpha = global::QuestionsGame.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_focused_holo = global::QuestionsGame.Droid.Resource.Drawable.abc_list_focused_holo;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_longpressed_holo = global::QuestionsGame.Droid.Resource.Drawable.abc_list_longpressed_holo;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_pressed_holo_dark = global::QuestionsGame.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_pressed_holo_light = global::QuestionsGame.Droid.Resource.Drawable.abc_list_pressed_holo_light;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::QuestionsGame.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::QuestionsGame.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::QuestionsGame.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_selector_disabled_holo_light = global::QuestionsGame.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_selector_holo_dark = global::QuestionsGame.Droid.Resource.Drawable.abc_list_selector_holo_dark;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_selector_holo_light = global::QuestionsGame.Droid.Resource.Drawable.abc_list_selector_holo_light;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::QuestionsGame.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_popup_background_mtrl_mult = global::QuestionsGame.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ratingbar_full_material = global::QuestionsGame.Droid.Resource.Drawable.abc_ratingbar_full_material;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::QuestionsGame.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_spinner_textfield_background_material = global::QuestionsGame.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_switch_thumb_material = global::QuestionsGame.Droid.Resource.Drawable.abc_switch_thumb_material;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_switch_track_mtrl_alpha = global::QuestionsGame.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_tab_indicator_material = global::QuestionsGame.Droid.Resource.Drawable.abc_tab_indicator_material;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::QuestionsGame.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_text_cursor_material = global::QuestionsGame.Droid.Resource.Drawable.abc_text_cursor_material;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::QuestionsGame.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::QuestionsGame.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::QuestionsGame.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::QuestionsGame.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Resource.Drawable.abc_textfield_search_material = global::QuestionsGame.Droid.Resource.Drawable.abc_textfield_search_material;
-			global::Xamarin.Forms.Platform.Resource.Drawable.design_fab_background = global::QuestionsGame.Droid.Resource.Drawable.design_fab_background;
-			global::Xamarin.Forms.Platform.Resource.Drawable.design_snackbar_background = global::QuestionsGame.Droid.Resource.Drawable.design_snackbar_background;
-			global::Xamarin.Forms.Platform.Resource.Drawable.notification_template_icon_bg = global::QuestionsGame.Droid.Resource.Drawable.notification_template_icon_bg;
-			global::Xamarin.Forms.Platform.Resource.Id.action0 = global::QuestionsGame.Droid.Resource.Id.action0;
-			global::Xamarin.Forms.Platform.Resource.Id.action_bar = global::QuestionsGame.Droid.Resource.Id.action_bar;
-			global::Xamarin.Forms.Platform.Resource.Id.action_bar_activity_content = global::QuestionsGame.Droid.Resource.Id.action_bar_activity_content;
-			global::Xamarin.Forms.Platform.Resource.Id.action_bar_container = global::QuestionsGame.Droid.Resource.Id.action_bar_container;
-			global::Xamarin.Forms.Platform.Resource.Id.action_bar_root = global::QuestionsGame.Droid.Resource.Id.action_bar_root;
-			global::Xamarin.Forms.Platform.Resource.Id.action_bar_spinner = global::QuestionsGame.Droid.Resource.Id.action_bar_spinner;
-			global::Xamarin.Forms.Platform.Resource.Id.action_bar_subtitle = global::QuestionsGame.Droid.Resource.Id.action_bar_subtitle;
-			global::Xamarin.Forms.Platform.Resource.Id.action_bar_title = global::QuestionsGame.Droid.Resource.Id.action_bar_title;
-			global::Xamarin.Forms.Platform.Resource.Id.action_context_bar = global::QuestionsGame.Droid.Resource.Id.action_context_bar;
-			global::Xamarin.Forms.Platform.Resource.Id.action_divider = global::QuestionsGame.Droid.Resource.Id.action_divider;
-			global::Xamarin.Forms.Platform.Resource.Id.action_menu_divider = global::QuestionsGame.Droid.Resource.Id.action_menu_divider;
-			global::Xamarin.Forms.Platform.Resource.Id.action_menu_presenter = global::QuestionsGame.Droid.Resource.Id.action_menu_presenter;
-			global::Xamarin.Forms.Platform.Resource.Id.action_mode_bar = global::QuestionsGame.Droid.Resource.Id.action_mode_bar;
-			global::Xamarin.Forms.Platform.Resource.Id.action_mode_bar_stub = global::QuestionsGame.Droid.Resource.Id.action_mode_bar_stub;
-			global::Xamarin.Forms.Platform.Resource.Id.action_mode_close_button = global::QuestionsGame.Droid.Resource.Id.action_mode_close_button;
-			global::Xamarin.Forms.Platform.Resource.Id.activity_chooser_view_content = global::QuestionsGame.Droid.Resource.Id.activity_chooser_view_content;
-			global::Xamarin.Forms.Platform.Resource.Id.alertTitle = global::QuestionsGame.Droid.Resource.Id.alertTitle;
-			global::Xamarin.Forms.Platform.Resource.Id.always = global::QuestionsGame.Droid.Resource.Id.always;
-			global::Xamarin.Forms.Platform.Resource.Id.beginning = global::QuestionsGame.Droid.Resource.Id.beginning;
-			global::Xamarin.Forms.Platform.Resource.Id.bottom = global::QuestionsGame.Droid.Resource.Id.bottom;
-			global::Xamarin.Forms.Platform.Resource.Id.buttonPanel = global::QuestionsGame.Droid.Resource.Id.buttonPanel;
-			global::Xamarin.Forms.Platform.Resource.Id.cancel_action = global::QuestionsGame.Droid.Resource.Id.cancel_action;
-			global::Xamarin.Forms.Platform.Resource.Id.center = global::QuestionsGame.Droid.Resource.Id.center;
-			global::Xamarin.Forms.Platform.Resource.Id.center_horizontal = global::QuestionsGame.Droid.Resource.Id.center_horizontal;
-			global::Xamarin.Forms.Platform.Resource.Id.center_vertical = global::QuestionsGame.Droid.Resource.Id.center_vertical;
-			global::Xamarin.Forms.Platform.Resource.Id.checkbox = global::QuestionsGame.Droid.Resource.Id.checkbox;
-			global::Xamarin.Forms.Platform.Resource.Id.chronometer = global::QuestionsGame.Droid.Resource.Id.chronometer;
-			global::Xamarin.Forms.Platform.Resource.Id.clip_horizontal = global::QuestionsGame.Droid.Resource.Id.clip_horizontal;
-			global::Xamarin.Forms.Platform.Resource.Id.clip_vertical = global::QuestionsGame.Droid.Resource.Id.clip_vertical;
-			global::Xamarin.Forms.Platform.Resource.Id.collapseActionView = global::QuestionsGame.Droid.Resource.Id.collapseActionView;
-			global::Xamarin.Forms.Platform.Resource.Id.contentPanel = global::QuestionsGame.Droid.Resource.Id.contentPanel;
-			global::Xamarin.Forms.Platform.Resource.Id.custom = global::QuestionsGame.Droid.Resource.Id.custom;
-			global::Xamarin.Forms.Platform.Resource.Id.customPanel = global::QuestionsGame.Droid.Resource.Id.customPanel;
-			global::Xamarin.Forms.Platform.Resource.Id.decor_content_parent = global::QuestionsGame.Droid.Resource.Id.decor_content_parent;
-			global::Xamarin.Forms.Platform.Resource.Id.default_activity_button = global::QuestionsGame.Droid.Resource.Id.default_activity_button;
-			global::Xamarin.Forms.Platform.Resource.Id.disableHome = global::QuestionsGame.Droid.Resource.Id.disableHome;
-			global::Xamarin.Forms.Platform.Resource.Id.edit_query = global::QuestionsGame.Droid.Resource.Id.edit_query;
-			global::Xamarin.Forms.Platform.Resource.Id.end = global::QuestionsGame.Droid.Resource.Id.end;
-			global::Xamarin.Forms.Platform.Resource.Id.end_padder = global::QuestionsGame.Droid.Resource.Id.end_padder;
-			global::Xamarin.Forms.Platform.Resource.Id.enterAlways = global::QuestionsGame.Droid.Resource.Id.enterAlways;
-			global::Xamarin.Forms.Platform.Resource.Id.enterAlwaysCollapsed = global::QuestionsGame.Droid.Resource.Id.enterAlwaysCollapsed;
-			global::Xamarin.Forms.Platform.Resource.Id.exitUntilCollapsed = global::QuestionsGame.Droid.Resource.Id.exitUntilCollapsed;
-			global::Xamarin.Forms.Platform.Resource.Id.expand_activities_button = global::QuestionsGame.Droid.Resource.Id.expand_activities_button;
-			global::Xamarin.Forms.Platform.Resource.Id.expanded_menu = global::QuestionsGame.Droid.Resource.Id.expanded_menu;
-			global::Xamarin.Forms.Platform.Resource.Id.fill = global::QuestionsGame.Droid.Resource.Id.fill;
-			global::Xamarin.Forms.Platform.Resource.Id.fill_horizontal = global::QuestionsGame.Droid.Resource.Id.fill_horizontal;
-			global::Xamarin.Forms.Platform.Resource.Id.fill_vertical = global::QuestionsGame.Droid.Resource.Id.fill_vertical;
-			global::Xamarin.Forms.Platform.Resource.Id.@fixed = global::QuestionsGame.Droid.Resource.Id.@fixed;
-			global::Xamarin.Forms.Platform.Resource.Id.home = global::QuestionsGame.Droid.Resource.Id.home;
-			global::Xamarin.Forms.Platform.Resource.Id.homeAsUp = global::QuestionsGame.Droid.Resource.Id.homeAsUp;
-			global::Xamarin.Forms.Platform.Resource.Id.icon = global::QuestionsGame.Droid.Resource.Id.icon;
-			global::Xamarin.Forms.Platform.Resource.Id.ifRoom = global::QuestionsGame.Droid.Resource.Id.ifRoom;
-			global::Xamarin.Forms.Platform.Resource.Id.image = global::QuestionsGame.Droid.Resource.Id.image;
-			global::Xamarin.Forms.Platform.Resource.Id.info = global::QuestionsGame.Droid.Resource.Id.info;
-			global::Xamarin.Forms.Platform.Resource.Id.left = global::QuestionsGame.Droid.Resource.Id.left;
-			global::Xamarin.Forms.Platform.Resource.Id.line1 = global::QuestionsGame.Droid.Resource.Id.line1;
-			global::Xamarin.Forms.Platform.Resource.Id.line3 = global::QuestionsGame.Droid.Resource.Id.line3;
-			global::Xamarin.Forms.Platform.Resource.Id.listMode = global::QuestionsGame.Droid.Resource.Id.listMode;
-			global::Xamarin.Forms.Platform.Resource.Id.list_item = global::QuestionsGame.Droid.Resource.Id.list_item;
-			global::Xamarin.Forms.Platform.Resource.Id.media_actions = global::QuestionsGame.Droid.Resource.Id.media_actions;
-			global::Xamarin.Forms.Platform.Resource.Id.middle = global::QuestionsGame.Droid.Resource.Id.middle;
-			global::Xamarin.Forms.Platform.Resource.Id.mini = global::QuestionsGame.Droid.Resource.Id.mini;
-			global::Xamarin.Forms.Platform.Resource.Id.multiply = global::QuestionsGame.Droid.Resource.Id.multiply;
-			global::Xamarin.Forms.Platform.Resource.Id.never = global::QuestionsGame.Droid.Resource.Id.never;
-			global::Xamarin.Forms.Platform.Resource.Id.none = global::QuestionsGame.Droid.Resource.Id.none;
-			global::Xamarin.Forms.Platform.Resource.Id.normal = global::QuestionsGame.Droid.Resource.Id.normal;
-			global::Xamarin.Forms.Platform.Resource.Id.parallax = global::QuestionsGame.Droid.Resource.Id.parallax;
-			global::Xamarin.Forms.Platform.Resource.Id.parentPanel = global::QuestionsGame.Droid.Resource.Id.parentPanel;
-			global::Xamarin.Forms.Platform.Resource.Id.pin = global::QuestionsGame.Droid.Resource.Id.pin;
-			global::Xamarin.Forms.Platform.Resource.Id.progress_circular = global::QuestionsGame.Droid.Resource.Id.progress_circular;
-			global::Xamarin.Forms.Platform.Resource.Id.progress_horizontal = global::QuestionsGame.Droid.Resource.Id.progress_horizontal;
-			global::Xamarin.Forms.Platform.Resource.Id.radio = global::QuestionsGame.Droid.Resource.Id.radio;
-			global::Xamarin.Forms.Platform.Resource.Id.right = global::QuestionsGame.Droid.Resource.Id.right;
-			global::Xamarin.Forms.Platform.Resource.Id.screen = global::QuestionsGame.Droid.Resource.Id.screen;
-			global::Xamarin.Forms.Platform.Resource.Id.scroll = global::QuestionsGame.Droid.Resource.Id.scroll;
-			global::Xamarin.Forms.Platform.Resource.Id.scrollView = global::QuestionsGame.Droid.Resource.Id.scrollView;
-			global::Xamarin.Forms.Platform.Resource.Id.scrollable = global::QuestionsGame.Droid.Resource.Id.scrollable;
-			global::Xamarin.Forms.Platform.Resource.Id.search_badge = global::QuestionsGame.Droid.Resource.Id.search_badge;
-			global::Xamarin.Forms.Platform.Resource.Id.search_bar = global::QuestionsGame.Droid.Resource.Id.search_bar;
-			global::Xamarin.Forms.Platform.Resource.Id.search_button = global::QuestionsGame.Droid.Resource.Id.search_button;
-			global::Xamarin.Forms.Platform.Resource.Id.search_close_btn = global::QuestionsGame.Droid.Resource.Id.search_close_btn;
-			global::Xamarin.Forms.Platform.Resource.Id.search_edit_frame = global::QuestionsGame.Droid.Resource.Id.search_edit_frame;
-			global::Xamarin.Forms.Platform.Resource.Id.search_go_btn = global::QuestionsGame.Droid.Resource.Id.search_go_btn;
-			global::Xamarin.Forms.Platform.Resource.Id.search_mag_icon = global::QuestionsGame.Droid.Resource.Id.search_mag_icon;
-			global::Xamarin.Forms.Platform.Resource.Id.search_plate = global::QuestionsGame.Droid.Resource.Id.search_plate;
-			global::Xamarin.Forms.Platform.Resource.Id.search_src_text = global::QuestionsGame.Droid.Resource.Id.search_src_text;
-			global::Xamarin.Forms.Platform.Resource.Id.search_voice_btn = global::QuestionsGame.Droid.Resource.Id.search_voice_btn;
-			global::Xamarin.Forms.Platform.Resource.Id.select_dialog_listview = global::QuestionsGame.Droid.Resource.Id.select_dialog_listview;
-			global::Xamarin.Forms.Platform.Resource.Id.shortcut = global::QuestionsGame.Droid.Resource.Id.shortcut;
-			global::Xamarin.Forms.Platform.Resource.Id.showCustom = global::QuestionsGame.Droid.Resource.Id.showCustom;
-			global::Xamarin.Forms.Platform.Resource.Id.showHome = global::QuestionsGame.Droid.Resource.Id.showHome;
-			global::Xamarin.Forms.Platform.Resource.Id.showTitle = global::QuestionsGame.Droid.Resource.Id.showTitle;
-			global::Xamarin.Forms.Platform.Resource.Id.snackbar_action = global::QuestionsGame.Droid.Resource.Id.snackbar_action;
-			global::Xamarin.Forms.Platform.Resource.Id.snackbar_text = global::QuestionsGame.Droid.Resource.Id.snackbar_text;
-			global::Xamarin.Forms.Platform.Resource.Id.split_action_bar = global::QuestionsGame.Droid.Resource.Id.split_action_bar;
-			global::Xamarin.Forms.Platform.Resource.Id.src_atop = global::QuestionsGame.Droid.Resource.Id.src_atop;
-			global::Xamarin.Forms.Platform.Resource.Id.src_in = global::QuestionsGame.Droid.Resource.Id.src_in;
-			global::Xamarin.Forms.Platform.Resource.Id.src_over = global::QuestionsGame.Droid.Resource.Id.src_over;
-			global::Xamarin.Forms.Platform.Resource.Id.start = global::QuestionsGame.Droid.Resource.Id.start;
-			global::Xamarin.Forms.Platform.Resource.Id.status_bar_latest_event_content = global::QuestionsGame.Droid.Resource.Id.status_bar_latest_event_content;
-			global::Xamarin.Forms.Platform.Resource.Id.submit_area = global::QuestionsGame.Droid.Resource.Id.submit_area;
-			global::Xamarin.Forms.Platform.Resource.Id.tabMode = global::QuestionsGame.Droid.Resource.Id.tabMode;
-			global::Xamarin.Forms.Platform.Resource.Id.text = global::QuestionsGame.Droid.Resource.Id.text;
-			global::Xamarin.Forms.Platform.Resource.Id.text2 = global::QuestionsGame.Droid.Resource.Id.text2;
-			global::Xamarin.Forms.Platform.Resource.Id.textSpacerNoButtons = global::QuestionsGame.Droid.Resource.Id.textSpacerNoButtons;
-			global::Xamarin.Forms.Platform.Resource.Id.time = global::QuestionsGame.Droid.Resource.Id.time;
-			global::Xamarin.Forms.Platform.Resource.Id.title = global::QuestionsGame.Droid.Resource.Id.title;
-			global::Xamarin.Forms.Platform.Resource.Id.title_template = global::QuestionsGame.Droid.Resource.Id.title_template;
-			global::Xamarin.Forms.Platform.Resource.Id.top = global::QuestionsGame.Droid.Resource.Id.top;
-			global::Xamarin.Forms.Platform.Resource.Id.topPanel = global::QuestionsGame.Droid.Resource.Id.topPanel;
-			global::Xamarin.Forms.Platform.Resource.Id.up = global::QuestionsGame.Droid.Resource.Id.up;
-			global::Xamarin.Forms.Platform.Resource.Id.useLogo = global::QuestionsGame.Droid.Resource.Id.useLogo;
-			global::Xamarin.Forms.Platform.Resource.Id.view_offset_helper = global::QuestionsGame.Droid.Resource.Id.view_offset_helper;
-			global::Xamarin.Forms.Platform.Resource.Id.withText = global::QuestionsGame.Droid.Resource.Id.withText;
-			global::Xamarin.Forms.Platform.Resource.Id.wrap_content = global::QuestionsGame.Droid.Resource.Id.wrap_content;
-			global::Xamarin.Forms.Platform.Resource.Integer.abc_config_activityDefaultDur = global::QuestionsGame.Droid.Resource.Integer.abc_config_activityDefaultDur;
-			global::Xamarin.Forms.Platform.Resource.Integer.abc_config_activityShortDur = global::QuestionsGame.Droid.Resource.Integer.abc_config_activityShortDur;
-			global::Xamarin.Forms.Platform.Resource.Integer.abc_max_action_buttons = global::QuestionsGame.Droid.Resource.Integer.abc_max_action_buttons;
-			global::Xamarin.Forms.Platform.Resource.Integer.cancel_button_image_alpha = global::QuestionsGame.Droid.Resource.Integer.cancel_button_image_alpha;
-			global::Xamarin.Forms.Platform.Resource.Integer.design_snackbar_text_max_lines = global::QuestionsGame.Droid.Resource.Integer.design_snackbar_text_max_lines;
-			global::Xamarin.Forms.Platform.Resource.Integer.status_bar_notification_info_maxnum = global::QuestionsGame.Droid.Resource.Integer.status_bar_notification_info_maxnum;
-			global::Xamarin.Forms.Platform.Resource.Layout.abc_action_bar_title_item = global::QuestionsGame.Droid.Resource.Layout.abc_action_bar_title_item;
-			global::Xamarin.Forms.Platform.Resource.Layout.abc_action_bar_up_container = global::QuestionsGame.Droid.Resource.Layout.abc_action_bar_up_container;
-			global::Xamarin.Forms.Platform.Resource.Layout.abc_action_bar_view_list_nav_layout = global::QuestionsGame.Droid.Resource.Layout.abc_action_bar_view_list_nav_layout;
-			global::Xamarin.Forms.Platform.Resource.Layout.abc_action_menu_item_layout = global::QuestionsGame.Droid.Resource.Layout.abc_action_menu_item_layout;
-			global::Xamarin.Forms.Platform.Resource.Layout.abc_action_menu_layout = global::QuestionsGame.Droid.Resource.Layout.abc_action_menu_layout;
-			global::Xamarin.Forms.Platform.Resource.Layout.abc_action_mode_bar = global::QuestionsGame.Droid.Resource.Layout.abc_action_mode_bar;
-			global::Xamarin.Forms.Platform.Resource.Layout.abc_action_mode_close_item_material = global::QuestionsGame.Droid.Resource.Layout.abc_action_mode_close_item_material;
-			global::Xamarin.Forms.Platform.Resource.Layout.abc_activity_chooser_view = global::QuestionsGame.Droid.Resource.Layout.abc_activity_chooser_view;
-			global::Xamarin.Forms.Platform.Resource.Layout.abc_activity_chooser_view_list_item = global::QuestionsGame.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
-			global::Xamarin.Forms.Platform.Resource.Layout.abc_alert_dialog_material = global::QuestionsGame.Droid.Resource.Layout.abc_alert_dialog_material;
-			global::Xamarin.Forms.Platform.Resource.Layout.abc_dialog_title_material = global::QuestionsGame.Droid.Resource.Layout.abc_dialog_title_material;
-			global::Xamarin.Forms.Platform.Resource.Layout.abc_expanded_menu_layout = global::QuestionsGame.Droid.Resource.Layout.abc_expanded_menu_layout;
-			global::Xamarin.Forms.Platform.Resource.Layout.abc_list_menu_item_checkbox = global::QuestionsGame.Droid.Resource.Layout.abc_list_menu_item_checkbox;
-			global::Xamarin.Forms.Platform.Resource.Layout.abc_list_menu_item_icon = global::QuestionsGame.Droid.Resource.Layout.abc_list_menu_item_icon;
-			global::Xamarin.Forms.Platform.Resource.Layout.abc_list_menu_item_layout = global::QuestionsGame.Droid.Resource.Layout.abc_list_menu_item_layout;
-			global::Xamarin.Forms.Platform.Resource.Layout.abc_list_menu_item_radio = global::QuestionsGame.Droid.Resource.Layout.abc_list_menu_item_radio;
-			global::Xamarin.Forms.Platform.Resource.Layout.abc_popup_menu_item_layout = global::QuestionsGame.Droid.Resource.Layout.abc_popup_menu_item_layout;
-			global::Xamarin.Forms.Platform.Resource.Layout.abc_screen_content_include = global::QuestionsGame.Droid.Resource.Layout.abc_screen_content_include;
-			global::Xamarin.Forms.Platform.Resource.Layout.abc_screen_simple = global::QuestionsGame.Droid.Resource.Layout.abc_screen_simple;
-			global::Xamarin.Forms.Platform.Resource.Layout.abc_screen_simple_overlay_action_mode = global::QuestionsGame.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
-			global::Xamarin.Forms.Platform.Resource.Layout.abc_screen_toolbar = global::QuestionsGame.Droid.Resource.Layout.abc_screen_toolbar;
-			global::Xamarin.Forms.Platform.Resource.Layout.abc_search_dropdown_item_icons_2line = global::QuestionsGame.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
-			global::Xamarin.Forms.Platform.Resource.Layout.abc_search_view = global::QuestionsGame.Droid.Resource.Layout.abc_search_view;
-			global::Xamarin.Forms.Platform.Resource.Layout.abc_select_dialog_material = global::QuestionsGame.Droid.Resource.Layout.abc_select_dialog_material;
-			global::Xamarin.Forms.Platform.Resource.Layout.design_layout_snackbar = global::QuestionsGame.Droid.Resource.Layout.design_layout_snackbar;
-			global::Xamarin.Forms.Platform.Resource.Layout.design_layout_snackbar_include = global::QuestionsGame.Droid.Resource.Layout.design_layout_snackbar_include;
-			global::Xamarin.Forms.Platform.Resource.Layout.design_layout_tab_icon = global::QuestionsGame.Droid.Resource.Layout.design_layout_tab_icon;
-			global::Xamarin.Forms.Platform.Resource.Layout.design_layout_tab_text = global::QuestionsGame.Droid.Resource.Layout.design_layout_tab_text;
-			global::Xamarin.Forms.Platform.Resource.Layout.design_navigation_item = global::QuestionsGame.Droid.Resource.Layout.design_navigation_item;
-			global::Xamarin.Forms.Platform.Resource.Layout.design_navigation_item_header = global::QuestionsGame.Droid.Resource.Layout.design_navigation_item_header;
-			global::Xamarin.Forms.Platform.Resource.Layout.design_navigation_item_separator = global::QuestionsGame.Droid.Resource.Layout.design_navigation_item_separator;
-			global::Xamarin.Forms.Platform.Resource.Layout.design_navigation_item_subheader = global::QuestionsGame.Droid.Resource.Layout.design_navigation_item_subheader;
-			global::Xamarin.Forms.Platform.Resource.Layout.design_navigation_menu = global::QuestionsGame.Droid.Resource.Layout.design_navigation_menu;
-			global::Xamarin.Forms.Platform.Resource.Layout.notification_media_action = global::QuestionsGame.Droid.Resource.Layout.notification_media_action;
-			global::Xamarin.Forms.Platform.Resource.Layout.notification_media_cancel_action = global::QuestionsGame.Droid.Resource.Layout.notification_media_cancel_action;
-			global::Xamarin.Forms.Platform.Resource.Layout.notification_template_big_media = global::QuestionsGame.Droid.Resource.Layout.notification_template_big_media;
-			global::Xamarin.Forms.Platform.Resource.Layout.notification_template_big_media_narrow = global::QuestionsGame.Droid.Resource.Layout.notification_template_big_media_narrow;
-			global::Xamarin.Forms.Platform.Resource.Layout.notification_template_lines = global::QuestionsGame.Droid.Resource.Layout.notification_template_lines;
-			global::Xamarin.Forms.Platform.Resource.Layout.notification_template_media = global::QuestionsGame.Droid.Resource.Layout.notification_template_media;
-			global::Xamarin.Forms.Platform.Resource.Layout.notification_template_part_chronometer = global::QuestionsGame.Droid.Resource.Layout.notification_template_part_chronometer;
-			global::Xamarin.Forms.Platform.Resource.Layout.notification_template_part_time = global::QuestionsGame.Droid.Resource.Layout.notification_template_part_time;
-			global::Xamarin.Forms.Platform.Resource.Layout.select_dialog_item_material = global::QuestionsGame.Droid.Resource.Layout.select_dialog_item_material;
-			global::Xamarin.Forms.Platform.Resource.Layout.select_dialog_multichoice_material = global::QuestionsGame.Droid.Resource.Layout.select_dialog_multichoice_material;
-			global::Xamarin.Forms.Platform.Resource.Layout.select_dialog_singlechoice_material = global::QuestionsGame.Droid.Resource.Layout.select_dialog_singlechoice_material;
-			global::Xamarin.Forms.Platform.Resource.Layout.support_simple_spinner_dropdown_item = global::QuestionsGame.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
-			global::Xamarin.Forms.Platform.Resource.String.ApplicationName = global::QuestionsGame.Droid.Resource.String.ApplicationName;
-			global::Xamarin.Forms.Platform.Resource.String.Hello = global::QuestionsGame.Droid.Resource.String.Hello;
-			global::Xamarin.Forms.Platform.Resource.String.abc_action_bar_home_description = global::QuestionsGame.Droid.Resource.String.abc_action_bar_home_description;
-			global::Xamarin.Forms.Platform.Resource.String.abc_action_bar_home_description_format = global::QuestionsGame.Droid.Resource.String.abc_action_bar_home_description_format;
-			global::Xamarin.Forms.Platform.Resource.String.abc_action_bar_home_subtitle_description_format = global::QuestionsGame.Droid.Resource.String.abc_action_bar_home_subtitle_description_format;
-			global::Xamarin.Forms.Platform.Resource.String.abc_action_bar_up_description = global::QuestionsGame.Droid.Resource.String.abc_action_bar_up_description;
-			global::Xamarin.Forms.Platform.Resource.String.abc_action_menu_overflow_description = global::QuestionsGame.Droid.Resource.String.abc_action_menu_overflow_description;
-			global::Xamarin.Forms.Platform.Resource.String.abc_action_mode_done = global::QuestionsGame.Droid.Resource.String.abc_action_mode_done;
-			global::Xamarin.Forms.Platform.Resource.String.abc_activity_chooser_view_see_all = global::QuestionsGame.Droid.Resource.String.abc_activity_chooser_view_see_all;
-			global::Xamarin.Forms.Platform.Resource.String.abc_activitychooserview_choose_application = global::QuestionsGame.Droid.Resource.String.abc_activitychooserview_choose_application;
-			global::Xamarin.Forms.Platform.Resource.String.abc_search_hint = global::QuestionsGame.Droid.Resource.String.abc_search_hint;
-			global::Xamarin.Forms.Platform.Resource.String.abc_searchview_description_clear = global::QuestionsGame.Droid.Resource.String.abc_searchview_description_clear;
-			global::Xamarin.Forms.Platform.Resource.String.abc_searchview_description_query = global::QuestionsGame.Droid.Resource.String.abc_searchview_description_query;
-			global::Xamarin.Forms.Platform.Resource.String.abc_searchview_description_search = global::QuestionsGame.Droid.Resource.String.abc_searchview_description_search;
-			global::Xamarin.Forms.Platform.Resource.String.abc_searchview_description_submit = global::QuestionsGame.Droid.Resource.String.abc_searchview_description_submit;
-			global::Xamarin.Forms.Platform.Resource.String.abc_searchview_description_voice = global::QuestionsGame.Droid.Resource.String.abc_searchview_description_voice;
-			global::Xamarin.Forms.Platform.Resource.String.abc_shareactionprovider_share_with = global::QuestionsGame.Droid.Resource.String.abc_shareactionprovider_share_with;
-			global::Xamarin.Forms.Platform.Resource.String.abc_shareactionprovider_share_with_application = global::QuestionsGame.Droid.Resource.String.abc_shareactionprovider_share_with_application;
-			global::Xamarin.Forms.Platform.Resource.String.abc_toolbar_collapse_description = global::QuestionsGame.Droid.Resource.String.abc_toolbar_collapse_description;
-			global::Xamarin.Forms.Platform.Resource.String.appbar_scrolling_view_behavior = global::QuestionsGame.Droid.Resource.String.appbar_scrolling_view_behavior;
-			global::Xamarin.Forms.Platform.Resource.String.status_bar_notification_info_overflow = global::QuestionsGame.Droid.Resource.String.status_bar_notification_info_overflow;
-			global::Xamarin.Forms.Platform.Resource.Style.AlertDialog_AppCompat = global::QuestionsGame.Droid.Resource.Style.AlertDialog_AppCompat;
-			global::Xamarin.Forms.Platform.Resource.Style.AlertDialog_AppCompat_Light = global::QuestionsGame.Droid.Resource.Style.AlertDialog_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Resource.Style.Animation_AppCompat_Dialog = global::QuestionsGame.Droid.Resource.Style.Animation_AppCompat_Dialog;
-			global::Xamarin.Forms.Platform.Resource.Style.Animation_AppCompat_DropDownUp = global::QuestionsGame.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_AlertDialog_AppCompat = global::QuestionsGame.Droid.Resource.Style.Base_AlertDialog_AppCompat;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_AlertDialog_AppCompat_Light = global::QuestionsGame.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Animation_AppCompat_Dialog = global::QuestionsGame.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::QuestionsGame.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_DialogWindowTitle_AppCompat = global::QuestionsGame.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::QuestionsGame.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Button = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Large = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Small = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Title = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::QuestionsGame.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat = global::QuestionsGame.Droid.Resource.Style.Base_Theme_AppCompat;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::QuestionsGame.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Dialog = global::QuestionsGame.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::QuestionsGame.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::QuestionsGame.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::QuestionsGame.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::QuestionsGame.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Light = global::QuestionsGame.Droid.Resource.Style.Base_Theme_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::QuestionsGame.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::QuestionsGame.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::QuestionsGame.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::QuestionsGame.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::QuestionsGame.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::QuestionsGame.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_ThemeOverlay_AppCompat = global::QuestionsGame.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::QuestionsGame.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::QuestionsGame.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::QuestionsGame.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::QuestionsGame.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::QuestionsGame.Droid.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::QuestionsGame.Droid.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::QuestionsGame.Droid.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::QuestionsGame.Droid.Resource.Style.Base_V12_Widget_AppCompat_EditText;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_V21_Theme_AppCompat = global::QuestionsGame.Droid.Resource.Style.Base_V21_Theme_AppCompat;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::QuestionsGame.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_V21_Theme_AppCompat_Light = global::QuestionsGame.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::QuestionsGame.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_V22_Theme_AppCompat = global::QuestionsGame.Droid.Resource.Style.Base_V22_Theme_AppCompat;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_V22_Theme_AppCompat_Light = global::QuestionsGame.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_V23_Theme_AppCompat = global::QuestionsGame.Droid.Resource.Style.Base_V23_Theme_AppCompat;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_V23_Theme_AppCompat_Light = global::QuestionsGame.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_V7_Theme_AppCompat = global::QuestionsGame.Droid.Resource.Style.Base_V7_Theme_AppCompat;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::QuestionsGame.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_V7_Theme_AppCompat_Light = global::QuestionsGame.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::QuestionsGame.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::QuestionsGame.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::QuestionsGame.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ActionBar = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ActionButton = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ActionMode = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Button = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_Button;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Button_Small = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_EditText = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ListView = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_RatingBar = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_SearchView = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Spinner = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Toolbar = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::QuestionsGame.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
-			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_Design_TabLayout = global::QuestionsGame.Droid.Resource.Style.Base_Widget_Design_TabLayout;
-			global::Xamarin.Forms.Platform.Resource.Style.CardView = global::QuestionsGame.Droid.Resource.Style.CardView;
-			global::Xamarin.Forms.Platform.Resource.Style.CardView_Dark = global::QuestionsGame.Droid.Resource.Style.CardView_Dark;
-			global::Xamarin.Forms.Platform.Resource.Style.CardView_Light = global::QuestionsGame.Droid.Resource.Style.CardView_Light;
-			global::Xamarin.Forms.Platform.Resource.Style.Platform_AppCompat = global::QuestionsGame.Droid.Resource.Style.Platform_AppCompat;
-			global::Xamarin.Forms.Platform.Resource.Style.Platform_AppCompat_Light = global::QuestionsGame.Droid.Resource.Style.Platform_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Resource.Style.Platform_ThemeOverlay_AppCompat = global::QuestionsGame.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
-			global::Xamarin.Forms.Platform.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::QuestionsGame.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
-			global::Xamarin.Forms.Platform.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::QuestionsGame.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Resource.Style.Platform_V11_AppCompat = global::QuestionsGame.Droid.Resource.Style.Platform_V11_AppCompat;
-			global::Xamarin.Forms.Platform.Resource.Style.Platform_V11_AppCompat_Light = global::QuestionsGame.Droid.Resource.Style.Platform_V11_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Resource.Style.Platform_V14_AppCompat = global::QuestionsGame.Droid.Resource.Style.Platform_V14_AppCompat;
-			global::Xamarin.Forms.Platform.Resource.Style.Platform_V14_AppCompat_Light = global::QuestionsGame.Droid.Resource.Style.Platform_V14_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Resource.Style.Platform_Widget_AppCompat_Spinner = global::QuestionsGame.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
-			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::QuestionsGame.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
-			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::QuestionsGame.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
-			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_ActionButton_Overflow = global::QuestionsGame.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionButton_Overflow;
-			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::QuestionsGame.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
-			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::QuestionsGame.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
-			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::QuestionsGame.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
-			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::QuestionsGame.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
-			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::QuestionsGame.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
-			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::QuestionsGame.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
-			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::QuestionsGame.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
-			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::QuestionsGame.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
-			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::QuestionsGame.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
-			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::QuestionsGame.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Body1 = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Body2 = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Button = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Button;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Caption = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Display1 = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Display2 = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Display3 = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Display4 = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Headline = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Inverse = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Large = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Large;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Medium = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Menu = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Small = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Small;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Subhead = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Title = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Title;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::QuestionsGame.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::QuestionsGame.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Design_Error = global::QuestionsGame.Droid.Resource.Style.TextAppearance_Design_Error;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Design_Hint = global::QuestionsGame.Droid.Resource.Style.TextAppearance_Design_Hint;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Design_Snackbar_Message = global::QuestionsGame.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Design_Tab = global::QuestionsGame.Droid.Resource.Style.TextAppearance_Design_Tab;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_StatusBar_EventContent = global::QuestionsGame.Droid.Resource.Style.TextAppearance_StatusBar_EventContent;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_StatusBar_EventContent_Info = global::QuestionsGame.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Info;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_StatusBar_EventContent_Line2 = global::QuestionsGame.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Line2;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_StatusBar_EventContent_Time = global::QuestionsGame.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Time;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_StatusBar_EventContent_Title = global::QuestionsGame.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Title;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::QuestionsGame.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::QuestionsGame.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::QuestionsGame.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat = global::QuestionsGame.Droid.Resource.Style.Theme_AppCompat;
-			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_CompactMenu = global::QuestionsGame.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
-			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_Dialog = global::QuestionsGame.Droid.Resource.Style.Theme_AppCompat_Dialog;
-			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_Dialog_Alert = global::QuestionsGame.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
-			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::QuestionsGame.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
-			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::QuestionsGame.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
-			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_Light = global::QuestionsGame.Droid.Resource.Style.Theme_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::QuestionsGame.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
-			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_Light_Dialog = global::QuestionsGame.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
-			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::QuestionsGame.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
-			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::QuestionsGame.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
-			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::QuestionsGame.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
-			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::QuestionsGame.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
-			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_NoActionBar = global::QuestionsGame.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
-			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_AppCompat = global::QuestionsGame.Droid.Resource.Style.ThemeOverlay_AppCompat;
-			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::QuestionsGame.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
-			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_AppCompat_Dark = global::QuestionsGame.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
-			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::QuestionsGame.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_AppCompat_Light = global::QuestionsGame.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ActionBar = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_ActionBar;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ActionButton = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_ActionButton;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ActionMode = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_ActionMode;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ActivityChooserView = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Button = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Button;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Button_Borderless = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Button_Colored = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Button_Small = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Button_Small;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ButtonBar = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_EditText = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_EditText;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionBar = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionButton = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_SearchView = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ListPopupWindow = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ListView = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_ListView;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ListView_DropDown = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ListView_Menu = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_PopupMenu = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_PopupWindow = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ProgressBar = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_RatingBar = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_RatingBar;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_SearchView = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_SearchView;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Spinner = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Spinner;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Toolbar = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Toolbar;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::QuestionsGame.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_Design_AppBarLayout = global::QuestionsGame.Droid.Resource.Style.Widget_Design_AppBarLayout;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_Design_CollapsingToolbar = global::QuestionsGame.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_Design_CoordinatorLayout = global::QuestionsGame.Droid.Resource.Style.Widget_Design_CoordinatorLayout;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_Design_FloatingActionButton = global::QuestionsGame.Droid.Resource.Style.Widget_Design_FloatingActionButton;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_Design_NavigationView = global::QuestionsGame.Droid.Resource.Style.Widget_Design_NavigationView;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::QuestionsGame.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_Design_Snackbar = global::QuestionsGame.Droid.Resource.Style.Widget_Design_Snackbar;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_Design_TabLayout = global::QuestionsGame.Droid.Resource.Style.Widget_Design_TabLayout;
-			global::Xamarin.Forms.Platform.Resource.Style.Widget_Design_TextInputLayout = global::QuestionsGame.Droid.Resource.Style.Widget_Design_TextInputLayout;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar = global::QuestionsGame.Droid.Resource.Styleable.ActionBar;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_background = global::QuestionsGame.Droid.Resource.Styleable.ActionBar_background;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_backgroundSplit = global::QuestionsGame.Droid.Resource.Styleable.ActionBar_backgroundSplit;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_backgroundStacked = global::QuestionsGame.Droid.Resource.Styleable.ActionBar_backgroundStacked;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_contentInsetEnd = global::QuestionsGame.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_contentInsetLeft = global::QuestionsGame.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_contentInsetRight = global::QuestionsGame.Droid.Resource.Styleable.ActionBar_contentInsetRight;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_contentInsetStart = global::QuestionsGame.Droid.Resource.Styleable.ActionBar_contentInsetStart;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_customNavigationLayout = global::QuestionsGame.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_displayOptions = global::QuestionsGame.Droid.Resource.Styleable.ActionBar_displayOptions;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_divider = global::QuestionsGame.Droid.Resource.Styleable.ActionBar_divider;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_elevation = global::QuestionsGame.Droid.Resource.Styleable.ActionBar_elevation;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_height = global::QuestionsGame.Droid.Resource.Styleable.ActionBar_height;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_hideOnContentScroll = global::QuestionsGame.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_homeAsUpIndicator = global::QuestionsGame.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_homeLayout = global::QuestionsGame.Droid.Resource.Styleable.ActionBar_homeLayout;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_icon = global::QuestionsGame.Droid.Resource.Styleable.ActionBar_icon;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::QuestionsGame.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_itemPadding = global::QuestionsGame.Droid.Resource.Styleable.ActionBar_itemPadding;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_logo = global::QuestionsGame.Droid.Resource.Styleable.ActionBar_logo;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_navigationMode = global::QuestionsGame.Droid.Resource.Styleable.ActionBar_navigationMode;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_popupTheme = global::QuestionsGame.Droid.Resource.Styleable.ActionBar_popupTheme;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_progressBarPadding = global::QuestionsGame.Droid.Resource.Styleable.ActionBar_progressBarPadding;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_progressBarStyle = global::QuestionsGame.Droid.Resource.Styleable.ActionBar_progressBarStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_subtitle = global::QuestionsGame.Droid.Resource.Styleable.ActionBar_subtitle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_subtitleTextStyle = global::QuestionsGame.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_title = global::QuestionsGame.Droid.Resource.Styleable.ActionBar_title;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_titleTextStyle = global::QuestionsGame.Droid.Resource.Styleable.ActionBar_titleTextStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBarLayout = global::QuestionsGame.Droid.Resource.Styleable.ActionBarLayout;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::QuestionsGame.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionMenuItemView = global::QuestionsGame.Droid.Resource.Styleable.ActionMenuItemView;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionMenuItemView_android_minWidth = global::QuestionsGame.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionMenuView = global::QuestionsGame.Droid.Resource.Styleable.ActionMenuView;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionMode = global::QuestionsGame.Droid.Resource.Styleable.ActionMode;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionMode_background = global::QuestionsGame.Droid.Resource.Styleable.ActionMode_background;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionMode_backgroundSplit = global::QuestionsGame.Droid.Resource.Styleable.ActionMode_backgroundSplit;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionMode_closeItemLayout = global::QuestionsGame.Droid.Resource.Styleable.ActionMode_closeItemLayout;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionMode_height = global::QuestionsGame.Droid.Resource.Styleable.ActionMode_height;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionMode_subtitleTextStyle = global::QuestionsGame.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActionMode_titleTextStyle = global::QuestionsGame.Droid.Resource.Styleable.ActionMode_titleTextStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActivityChooserView = global::QuestionsGame.Droid.Resource.Styleable.ActivityChooserView;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::QuestionsGame.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ActivityChooserView_initialActivityCount = global::QuestionsGame.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
-			global::Xamarin.Forms.Platform.Resource.Styleable.AlertDialog = global::QuestionsGame.Droid.Resource.Styleable.AlertDialog;
-			global::Xamarin.Forms.Platform.Resource.Styleable.AlertDialog_android_layout = global::QuestionsGame.Droid.Resource.Styleable.AlertDialog_android_layout;
-			global::Xamarin.Forms.Platform.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::QuestionsGame.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
-			global::Xamarin.Forms.Platform.Resource.Styleable.AlertDialog_listItemLayout = global::QuestionsGame.Droid.Resource.Styleable.AlertDialog_listItemLayout;
-			global::Xamarin.Forms.Platform.Resource.Styleable.AlertDialog_listLayout = global::QuestionsGame.Droid.Resource.Styleable.AlertDialog_listLayout;
-			global::Xamarin.Forms.Platform.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::QuestionsGame.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
-			global::Xamarin.Forms.Platform.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::QuestionsGame.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
-			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayout = global::QuestionsGame.Droid.Resource.Styleable.AppBarLayout;
-			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayout_android_background = global::QuestionsGame.Droid.Resource.Styleable.AppBarLayout_android_background;
-			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayout_elevation = global::QuestionsGame.Droid.Resource.Styleable.AppBarLayout_elevation;
-			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayout_expanded = global::QuestionsGame.Droid.Resource.Styleable.AppBarLayout_expanded;
-			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayout_LayoutParams = global::QuestionsGame.Droid.Resource.Styleable.AppBarLayout_LayoutParams;
-			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayout_LayoutParams_layout_scrollFlags = global::QuestionsGame.Droid.Resource.Styleable.AppBarLayout_LayoutParams_layout_scrollFlags;
-			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayout_LayoutParams_layout_scrollInterpolator = global::QuestionsGame.Droid.Resource.Styleable.AppBarLayout_LayoutParams_layout_scrollInterpolator;
-			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextView = global::QuestionsGame.Droid.Resource.Styleable.AppCompatTextView;
-			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextView_android_textAppearance = global::QuestionsGame.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
-			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextView_textAllCaps = global::QuestionsGame.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CardView = global::QuestionsGame.Droid.Resource.Styleable.CardView;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_cardBackgroundColor = global::QuestionsGame.Droid.Resource.Styleable.CardView_cardBackgroundColor;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_cardCornerRadius = global::QuestionsGame.Droid.Resource.Styleable.CardView_cardCornerRadius;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_cardElevation = global::QuestionsGame.Droid.Resource.Styleable.CardView_cardElevation;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_cardMaxElevation = global::QuestionsGame.Droid.Resource.Styleable.CardView_cardMaxElevation;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_cardPreventCornerOverlap = global::QuestionsGame.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_cardUseCompatPadding = global::QuestionsGame.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_contentPadding = global::QuestionsGame.Droid.Resource.Styleable.CardView_contentPadding;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_contentPaddingBottom = global::QuestionsGame.Droid.Resource.Styleable.CardView_contentPaddingBottom;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_contentPaddingLeft = global::QuestionsGame.Droid.Resource.Styleable.CardView_contentPaddingLeft;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_contentPaddingRight = global::QuestionsGame.Droid.Resource.Styleable.CardView_contentPaddingRight;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_contentPaddingTop = global::QuestionsGame.Droid.Resource.Styleable.CardView_contentPaddingTop;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingAppBarLayout_LayoutParams = global::QuestionsGame.Droid.Resource.Styleable.CollapsingAppBarLayout_LayoutParams;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingAppBarLayout_LayoutParams_layout_collapseMode = global::QuestionsGame.Droid.Resource.Styleable.CollapsingAppBarLayout_LayoutParams_layout_collapseMode;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier = global::QuestionsGame.Droid.Resource.Styleable.CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout = global::QuestionsGame.Droid.Resource.Styleable.CollapsingToolbarLayout;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::QuestionsGame.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::QuestionsGame.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::QuestionsGame.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::QuestionsGame.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::QuestionsGame.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::QuestionsGame.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::QuestionsGame.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::QuestionsGame.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::QuestionsGame.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::QuestionsGame.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::QuestionsGame.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_title = global::QuestionsGame.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::QuestionsGame.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::QuestionsGame.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CompoundButton = global::QuestionsGame.Droid.Resource.Styleable.CompoundButton;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CompoundButton_android_button = global::QuestionsGame.Droid.Resource.Styleable.CompoundButton_android_button;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CompoundButton_buttonTint = global::QuestionsGame.Droid.Resource.Styleable.CompoundButton_buttonTint;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CompoundButton_buttonTintMode = global::QuestionsGame.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CoordinatorLayout = global::QuestionsGame.Droid.Resource.Styleable.CoordinatorLayout;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CoordinatorLayout_keylines = global::QuestionsGame.Droid.Resource.Styleable.CoordinatorLayout_keylines;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::QuestionsGame.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CoordinatorLayout_LayoutParams = global::QuestionsGame.Droid.Resource.Styleable.CoordinatorLayout_LayoutParams;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CoordinatorLayout_LayoutParams_android_layout_gravity = global::QuestionsGame.Droid.Resource.Styleable.CoordinatorLayout_LayoutParams_android_layout_gravity;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_anchor = global::QuestionsGame.Droid.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_anchor;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_anchorGravity = global::QuestionsGame.Droid.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_anchorGravity;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_behavior = global::QuestionsGame.Droid.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_behavior;
-			global::Xamarin.Forms.Platform.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_keyline = global::QuestionsGame.Droid.Resource.Styleable.CoordinatorLayout_LayoutParams_layout_keyline;
-			global::Xamarin.Forms.Platform.Resource.Styleable.DrawerArrowToggle = global::QuestionsGame.Droid.Resource.Styleable.DrawerArrowToggle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::QuestionsGame.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
-			global::Xamarin.Forms.Platform.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::QuestionsGame.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
-			global::Xamarin.Forms.Platform.Resource.Styleable.DrawerArrowToggle_barLength = global::QuestionsGame.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
-			global::Xamarin.Forms.Platform.Resource.Styleable.DrawerArrowToggle_color = global::QuestionsGame.Droid.Resource.Styleable.DrawerArrowToggle_color;
-			global::Xamarin.Forms.Platform.Resource.Styleable.DrawerArrowToggle_drawableSize = global::QuestionsGame.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
-			global::Xamarin.Forms.Platform.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::QuestionsGame.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
-			global::Xamarin.Forms.Platform.Resource.Styleable.DrawerArrowToggle_spinBars = global::QuestionsGame.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
-			global::Xamarin.Forms.Platform.Resource.Styleable.DrawerArrowToggle_thickness = global::QuestionsGame.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
-			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton = global::QuestionsGame.Droid.Resource.Styleable.FloatingActionButton;
-			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_android_background = global::QuestionsGame.Droid.Resource.Styleable.FloatingActionButton_android_background;
-			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_backgroundTint = global::QuestionsGame.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
-			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::QuestionsGame.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
-			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_borderWidth = global::QuestionsGame.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
-			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_elevation = global::QuestionsGame.Droid.Resource.Styleable.FloatingActionButton_elevation;
-			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_fabSize = global::QuestionsGame.Droid.Resource.Styleable.FloatingActionButton_fabSize;
-			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::QuestionsGame.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
-			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_rippleColor = global::QuestionsGame.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
-			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat = global::QuestionsGame.Droid.Resource.Styleable.LinearLayoutCompat;
-			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::QuestionsGame.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
-			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::QuestionsGame.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
-			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_android_gravity = global::QuestionsGame.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
-			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_android_orientation = global::QuestionsGame.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
-			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::QuestionsGame.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
-			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_divider = global::QuestionsGame.Droid.Resource.Styleable.LinearLayoutCompat_divider;
-			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::QuestionsGame.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
-			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::QuestionsGame.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
-			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_showDividers = global::QuestionsGame.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
-			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_Layout = global::QuestionsGame.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
-			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::QuestionsGame.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
-			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::QuestionsGame.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
-			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::QuestionsGame.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
-			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::QuestionsGame.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ListPopupWindow = global::QuestionsGame.Droid.Resource.Styleable.ListPopupWindow;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::QuestionsGame.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::QuestionsGame.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuGroup = global::QuestionsGame.Droid.Resource.Styleable.MenuGroup;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuGroup_android_checkableBehavior = global::QuestionsGame.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuGroup_android_enabled = global::QuestionsGame.Droid.Resource.Styleable.MenuGroup_android_enabled;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuGroup_android_id = global::QuestionsGame.Droid.Resource.Styleable.MenuGroup_android_id;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuGroup_android_menuCategory = global::QuestionsGame.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuGroup_android_orderInCategory = global::QuestionsGame.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuGroup_android_visible = global::QuestionsGame.Droid.Resource.Styleable.MenuGroup_android_visible;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem = global::QuestionsGame.Droid.Resource.Styleable.MenuItem;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_actionLayout = global::QuestionsGame.Droid.Resource.Styleable.MenuItem_actionLayout;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_actionProviderClass = global::QuestionsGame.Droid.Resource.Styleable.MenuItem_actionProviderClass;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_actionViewClass = global::QuestionsGame.Droid.Resource.Styleable.MenuItem_actionViewClass;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::QuestionsGame.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_checkable = global::QuestionsGame.Droid.Resource.Styleable.MenuItem_android_checkable;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_checked = global::QuestionsGame.Droid.Resource.Styleable.MenuItem_android_checked;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_enabled = global::QuestionsGame.Droid.Resource.Styleable.MenuItem_android_enabled;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_icon = global::QuestionsGame.Droid.Resource.Styleable.MenuItem_android_icon;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_id = global::QuestionsGame.Droid.Resource.Styleable.MenuItem_android_id;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_menuCategory = global::QuestionsGame.Droid.Resource.Styleable.MenuItem_android_menuCategory;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_numericShortcut = global::QuestionsGame.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_onClick = global::QuestionsGame.Droid.Resource.Styleable.MenuItem_android_onClick;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_orderInCategory = global::QuestionsGame.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_title = global::QuestionsGame.Droid.Resource.Styleable.MenuItem_android_title;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_titleCondensed = global::QuestionsGame.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_visible = global::QuestionsGame.Droid.Resource.Styleable.MenuItem_android_visible;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_showAsAction = global::QuestionsGame.Droid.Resource.Styleable.MenuItem_showAsAction;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuView = global::QuestionsGame.Droid.Resource.Styleable.MenuView;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuView_android_headerBackground = global::QuestionsGame.Droid.Resource.Styleable.MenuView_android_headerBackground;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuView_android_horizontalDivider = global::QuestionsGame.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuView_android_itemBackground = global::QuestionsGame.Droid.Resource.Styleable.MenuView_android_itemBackground;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::QuestionsGame.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuView_android_itemTextAppearance = global::QuestionsGame.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuView_android_verticalDivider = global::QuestionsGame.Droid.Resource.Styleable.MenuView_android_verticalDivider;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuView_android_windowAnimationStyle = global::QuestionsGame.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.MenuView_preserveIconSpacing = global::QuestionsGame.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
-			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView = global::QuestionsGame.Droid.Resource.Styleable.NavigationView;
-			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_android_background = global::QuestionsGame.Droid.Resource.Styleable.NavigationView_android_background;
-			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::QuestionsGame.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
-			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_android_maxWidth = global::QuestionsGame.Droid.Resource.Styleable.NavigationView_android_maxWidth;
-			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_elevation = global::QuestionsGame.Droid.Resource.Styleable.NavigationView_elevation;
-			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_headerLayout = global::QuestionsGame.Droid.Resource.Styleable.NavigationView_headerLayout;
-			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_itemBackground = global::QuestionsGame.Droid.Resource.Styleable.NavigationView_itemBackground;
-			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_itemIconTint = global::QuestionsGame.Droid.Resource.Styleable.NavigationView_itemIconTint;
-			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_itemTextAppearance = global::QuestionsGame.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
-			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_itemTextColor = global::QuestionsGame.Droid.Resource.Styleable.NavigationView_itemTextColor;
-			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_menu = global::QuestionsGame.Droid.Resource.Styleable.NavigationView_menu;
-			global::Xamarin.Forms.Platform.Resource.Styleable.PopupWindow = global::QuestionsGame.Droid.Resource.Styleable.PopupWindow;
-			global::Xamarin.Forms.Platform.Resource.Styleable.PopupWindow_android_popupBackground = global::QuestionsGame.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
-			global::Xamarin.Forms.Platform.Resource.Styleable.PopupWindow_overlapAnchor = global::QuestionsGame.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
-			global::Xamarin.Forms.Platform.Resource.Styleable.PopupWindowBackgroundState = global::QuestionsGame.Droid.Resource.Styleable.PopupWindowBackgroundState;
-			global::Xamarin.Forms.Platform.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::QuestionsGame.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ScrimInsetsFrameLayout = global::QuestionsGame.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::QuestionsGame.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ScrollingViewBehavior_Params = global::QuestionsGame.Droid.Resource.Styleable.ScrollingViewBehavior_Params;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ScrollingViewBehavior_Params_behavior_overlapTop = global::QuestionsGame.Droid.Resource.Styleable.ScrollingViewBehavior_Params_behavior_overlapTop;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView = global::QuestionsGame.Droid.Resource.Styleable.SearchView;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_android_focusable = global::QuestionsGame.Droid.Resource.Styleable.SearchView_android_focusable;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_android_imeOptions = global::QuestionsGame.Droid.Resource.Styleable.SearchView_android_imeOptions;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_android_inputType = global::QuestionsGame.Droid.Resource.Styleable.SearchView_android_inputType;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_android_maxWidth = global::QuestionsGame.Droid.Resource.Styleable.SearchView_android_maxWidth;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_closeIcon = global::QuestionsGame.Droid.Resource.Styleable.SearchView_closeIcon;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_commitIcon = global::QuestionsGame.Droid.Resource.Styleable.SearchView_commitIcon;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_defaultQueryHint = global::QuestionsGame.Droid.Resource.Styleable.SearchView_defaultQueryHint;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_goIcon = global::QuestionsGame.Droid.Resource.Styleable.SearchView_goIcon;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_iconifiedByDefault = global::QuestionsGame.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_layout = global::QuestionsGame.Droid.Resource.Styleable.SearchView_layout;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_queryBackground = global::QuestionsGame.Droid.Resource.Styleable.SearchView_queryBackground;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_queryHint = global::QuestionsGame.Droid.Resource.Styleable.SearchView_queryHint;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_searchHintIcon = global::QuestionsGame.Droid.Resource.Styleable.SearchView_searchHintIcon;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_searchIcon = global::QuestionsGame.Droid.Resource.Styleable.SearchView_searchIcon;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_submitBackground = global::QuestionsGame.Droid.Resource.Styleable.SearchView_submitBackground;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_suggestionRowLayout = global::QuestionsGame.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_voiceIcon = global::QuestionsGame.Droid.Resource.Styleable.SearchView_voiceIcon;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SnackbarLayout = global::QuestionsGame.Droid.Resource.Styleable.SnackbarLayout;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SnackbarLayout_android_maxWidth = global::QuestionsGame.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SnackbarLayout_elevation = global::QuestionsGame.Droid.Resource.Styleable.SnackbarLayout_elevation;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::QuestionsGame.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Spinner = global::QuestionsGame.Droid.Resource.Styleable.Spinner;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Spinner_android_dropDownWidth = global::QuestionsGame.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Spinner_android_popupBackground = global::QuestionsGame.Droid.Resource.Styleable.Spinner_android_popupBackground;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Spinner_android_prompt = global::QuestionsGame.Droid.Resource.Styleable.Spinner_android_prompt;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Spinner_popupTheme = global::QuestionsGame.Droid.Resource.Styleable.Spinner_popupTheme;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat = global::QuestionsGame.Droid.Resource.Styleable.SwitchCompat;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_android_textOff = global::QuestionsGame.Droid.Resource.Styleable.SwitchCompat_android_textOff;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_android_textOn = global::QuestionsGame.Droid.Resource.Styleable.SwitchCompat_android_textOn;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_android_thumb = global::QuestionsGame.Droid.Resource.Styleable.SwitchCompat_android_thumb;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_showText = global::QuestionsGame.Droid.Resource.Styleable.SwitchCompat_showText;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_splitTrack = global::QuestionsGame.Droid.Resource.Styleable.SwitchCompat_splitTrack;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_switchMinWidth = global::QuestionsGame.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_switchPadding = global::QuestionsGame.Droid.Resource.Styleable.SwitchCompat_switchPadding;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_switchTextAppearance = global::QuestionsGame.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_thumbTextPadding = global::QuestionsGame.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
-			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_track = global::QuestionsGame.Droid.Resource.Styleable.SwitchCompat_track;
-			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout = global::QuestionsGame.Droid.Resource.Styleable.TabLayout;
-			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabBackground = global::QuestionsGame.Droid.Resource.Styleable.TabLayout_tabBackground;
-			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabContentStart = global::QuestionsGame.Droid.Resource.Styleable.TabLayout_tabContentStart;
-			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabGravity = global::QuestionsGame.Droid.Resource.Styleable.TabLayout_tabGravity;
-			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabIndicatorColor = global::QuestionsGame.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
-			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabIndicatorHeight = global::QuestionsGame.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
-			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabMaxWidth = global::QuestionsGame.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
-			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabMinWidth = global::QuestionsGame.Droid.Resource.Styleable.TabLayout_tabMinWidth;
-			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabMode = global::QuestionsGame.Droid.Resource.Styleable.TabLayout_tabMode;
-			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabPadding = global::QuestionsGame.Droid.Resource.Styleable.TabLayout_tabPadding;
-			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabPaddingBottom = global::QuestionsGame.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
-			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabPaddingEnd = global::QuestionsGame.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
-			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabPaddingStart = global::QuestionsGame.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
-			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabPaddingTop = global::QuestionsGame.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
-			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabSelectedTextColor = global::QuestionsGame.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
-			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabTextAppearance = global::QuestionsGame.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
-			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabTextColor = global::QuestionsGame.Droid.Resource.Styleable.TabLayout_tabTextColor;
-			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance = global::QuestionsGame.Droid.Resource.Styleable.TextAppearance;
-			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance_android_textColor = global::QuestionsGame.Droid.Resource.Styleable.TextAppearance_android_textColor;
-			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance_android_textSize = global::QuestionsGame.Droid.Resource.Styleable.TextAppearance_android_textSize;
-			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance_android_textStyle = global::QuestionsGame.Droid.Resource.Styleable.TextAppearance_android_textStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance_android_typeface = global::QuestionsGame.Droid.Resource.Styleable.TextAppearance_android_typeface;
-			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance_textAllCaps = global::QuestionsGame.Droid.Resource.Styleable.TextAppearance_textAllCaps;
-			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout = global::QuestionsGame.Droid.Resource.Styleable.TextInputLayout;
-			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_android_hint = global::QuestionsGame.Droid.Resource.Styleable.TextInputLayout_android_hint;
-			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_android_textColorHint = global::QuestionsGame.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
-			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_errorEnabled = global::QuestionsGame.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
-			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_errorTextAppearance = global::QuestionsGame.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
-			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::QuestionsGame.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
-			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_hintTextAppearance = global::QuestionsGame.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme = global::QuestionsGame.Droid.Resource.Styleable.Theme;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_actionBarDivider = global::QuestionsGame.Droid.Resource.Styleable.Theme_actionBarDivider;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_actionBarItemBackground = global::QuestionsGame.Droid.Resource.Styleable.Theme_actionBarItemBackground;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_actionBarPopupTheme = global::QuestionsGame.Droid.Resource.Styleable.Theme_actionBarPopupTheme;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_actionBarSize = global::QuestionsGame.Droid.Resource.Styleable.Theme_actionBarSize;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_actionBarSplitStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_actionBarSplitStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_actionBarStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_actionBarStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_actionBarTabBarStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_actionBarTabBarStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_actionBarTabStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_actionBarTabStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_actionBarTabTextStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_actionBarTabTextStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_actionBarTheme = global::QuestionsGame.Droid.Resource.Styleable.Theme_actionBarTheme;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_actionBarWidgetTheme = global::QuestionsGame.Droid.Resource.Styleable.Theme_actionBarWidgetTheme;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_actionButtonStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_actionButtonStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_actionDropDownStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_actionDropDownStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_actionMenuTextAppearance = global::QuestionsGame.Droid.Resource.Styleable.Theme_actionMenuTextAppearance;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_actionMenuTextColor = global::QuestionsGame.Droid.Resource.Styleable.Theme_actionMenuTextColor;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_actionModeBackground = global::QuestionsGame.Droid.Resource.Styleable.Theme_actionModeBackground;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_actionModeCloseButtonStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_actionModeCloseButtonStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_actionModeCloseDrawable = global::QuestionsGame.Droid.Resource.Styleable.Theme_actionModeCloseDrawable;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_actionModeCopyDrawable = global::QuestionsGame.Droid.Resource.Styleable.Theme_actionModeCopyDrawable;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_actionModeCutDrawable = global::QuestionsGame.Droid.Resource.Styleable.Theme_actionModeCutDrawable;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_actionModeFindDrawable = global::QuestionsGame.Droid.Resource.Styleable.Theme_actionModeFindDrawable;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_actionModePasteDrawable = global::QuestionsGame.Droid.Resource.Styleable.Theme_actionModePasteDrawable;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_actionModePopupWindowStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_actionModePopupWindowStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_actionModeSelectAllDrawable = global::QuestionsGame.Droid.Resource.Styleable.Theme_actionModeSelectAllDrawable;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_actionModeShareDrawable = global::QuestionsGame.Droid.Resource.Styleable.Theme_actionModeShareDrawable;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_actionModeSplitBackground = global::QuestionsGame.Droid.Resource.Styleable.Theme_actionModeSplitBackground;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_actionModeStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_actionModeStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_actionModeWebSearchDrawable = global::QuestionsGame.Droid.Resource.Styleable.Theme_actionModeWebSearchDrawable;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_actionOverflowButtonStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_actionOverflowButtonStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_actionOverflowMenuStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_actionOverflowMenuStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_activityChooserViewStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_activityChooserViewStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_alertDialogButtonGroupStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_alertDialogButtonGroupStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_alertDialogCenterButtons = global::QuestionsGame.Droid.Resource.Styleable.Theme_alertDialogCenterButtons;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_alertDialogStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_alertDialogStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_alertDialogTheme = global::QuestionsGame.Droid.Resource.Styleable.Theme_alertDialogTheme;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_android_windowAnimationStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_android_windowAnimationStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_android_windowIsFloating = global::QuestionsGame.Droid.Resource.Styleable.Theme_android_windowIsFloating;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_autoCompleteTextViewStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_autoCompleteTextViewStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_borderlessButtonStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_borderlessButtonStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_buttonBarButtonStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_buttonBarButtonStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_buttonBarNegativeButtonStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_buttonBarNegativeButtonStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_buttonBarNeutralButtonStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_buttonBarNeutralButtonStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_buttonBarPositiveButtonStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_buttonBarPositiveButtonStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_buttonBarStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_buttonBarStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_buttonStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_buttonStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_buttonStyleSmall = global::QuestionsGame.Droid.Resource.Styleable.Theme_buttonStyleSmall;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_checkboxStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_checkboxStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_checkedTextViewStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_checkedTextViewStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_colorAccent = global::QuestionsGame.Droid.Resource.Styleable.Theme_colorAccent;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_colorButtonNormal = global::QuestionsGame.Droid.Resource.Styleable.Theme_colorButtonNormal;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_colorControlActivated = global::QuestionsGame.Droid.Resource.Styleable.Theme_colorControlActivated;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_colorControlHighlight = global::QuestionsGame.Droid.Resource.Styleable.Theme_colorControlHighlight;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_colorControlNormal = global::QuestionsGame.Droid.Resource.Styleable.Theme_colorControlNormal;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_colorPrimary = global::QuestionsGame.Droid.Resource.Styleable.Theme_colorPrimary;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_colorPrimaryDark = global::QuestionsGame.Droid.Resource.Styleable.Theme_colorPrimaryDark;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_colorSwitchThumbNormal = global::QuestionsGame.Droid.Resource.Styleable.Theme_colorSwitchThumbNormal;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_controlBackground = global::QuestionsGame.Droid.Resource.Styleable.Theme_controlBackground;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_dialogPreferredPadding = global::QuestionsGame.Droid.Resource.Styleable.Theme_dialogPreferredPadding;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_dialogTheme = global::QuestionsGame.Droid.Resource.Styleable.Theme_dialogTheme;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_dividerHorizontal = global::QuestionsGame.Droid.Resource.Styleable.Theme_dividerHorizontal;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_dividerVertical = global::QuestionsGame.Droid.Resource.Styleable.Theme_dividerVertical;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_dropDownListViewStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_dropDownListViewStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_dropdownListPreferredItemHeight = global::QuestionsGame.Droid.Resource.Styleable.Theme_dropdownListPreferredItemHeight;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_editTextBackground = global::QuestionsGame.Droid.Resource.Styleable.Theme_editTextBackground;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_editTextColor = global::QuestionsGame.Droid.Resource.Styleable.Theme_editTextColor;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_editTextStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_editTextStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_homeAsUpIndicator = global::QuestionsGame.Droid.Resource.Styleable.Theme_homeAsUpIndicator;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_listChoiceBackgroundIndicator = global::QuestionsGame.Droid.Resource.Styleable.Theme_listChoiceBackgroundIndicator;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_listDividerAlertDialog = global::QuestionsGame.Droid.Resource.Styleable.Theme_listDividerAlertDialog;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_listPopupWindowStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_listPopupWindowStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_listPreferredItemHeight = global::QuestionsGame.Droid.Resource.Styleable.Theme_listPreferredItemHeight;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_listPreferredItemHeightLarge = global::QuestionsGame.Droid.Resource.Styleable.Theme_listPreferredItemHeightLarge;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_listPreferredItemHeightSmall = global::QuestionsGame.Droid.Resource.Styleable.Theme_listPreferredItemHeightSmall;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_listPreferredItemPaddingLeft = global::QuestionsGame.Droid.Resource.Styleable.Theme_listPreferredItemPaddingLeft;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_listPreferredItemPaddingRight = global::QuestionsGame.Droid.Resource.Styleable.Theme_listPreferredItemPaddingRight;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_panelBackground = global::QuestionsGame.Droid.Resource.Styleable.Theme_panelBackground;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_panelMenuListTheme = global::QuestionsGame.Droid.Resource.Styleable.Theme_panelMenuListTheme;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_panelMenuListWidth = global::QuestionsGame.Droid.Resource.Styleable.Theme_panelMenuListWidth;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_popupMenuStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_popupMenuStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_popupWindowStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_popupWindowStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_radioButtonStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_radioButtonStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_ratingBarStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_ratingBarStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_searchViewStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_searchViewStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_selectableItemBackground = global::QuestionsGame.Droid.Resource.Styleable.Theme_selectableItemBackground;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_selectableItemBackgroundBorderless = global::QuestionsGame.Droid.Resource.Styleable.Theme_selectableItemBackgroundBorderless;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_spinnerDropDownItemStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_spinnerDropDownItemStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_spinnerStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_spinnerStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_switchStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_switchStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_textAppearanceLargePopupMenu = global::QuestionsGame.Droid.Resource.Styleable.Theme_textAppearanceLargePopupMenu;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_textAppearanceListItem = global::QuestionsGame.Droid.Resource.Styleable.Theme_textAppearanceListItem;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_textAppearanceListItemSmall = global::QuestionsGame.Droid.Resource.Styleable.Theme_textAppearanceListItemSmall;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_textAppearanceSearchResultSubtitle = global::QuestionsGame.Droid.Resource.Styleable.Theme_textAppearanceSearchResultSubtitle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_textAppearanceSearchResultTitle = global::QuestionsGame.Droid.Resource.Styleable.Theme_textAppearanceSearchResultTitle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_textAppearanceSmallPopupMenu = global::QuestionsGame.Droid.Resource.Styleable.Theme_textAppearanceSmallPopupMenu;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_textColorAlertDialogListItem = global::QuestionsGame.Droid.Resource.Styleable.Theme_textColorAlertDialogListItem;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_textColorSearchUrl = global::QuestionsGame.Droid.Resource.Styleable.Theme_textColorSearchUrl;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_toolbarNavigationButtonStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_toolbarNavigationButtonStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_toolbarStyle = global::QuestionsGame.Droid.Resource.Styleable.Theme_toolbarStyle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_windowActionBar = global::QuestionsGame.Droid.Resource.Styleable.Theme_windowActionBar;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_windowActionBarOverlay = global::QuestionsGame.Droid.Resource.Styleable.Theme_windowActionBarOverlay;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_windowActionModeOverlay = global::QuestionsGame.Droid.Resource.Styleable.Theme_windowActionModeOverlay;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_windowFixedHeightMajor = global::QuestionsGame.Droid.Resource.Styleable.Theme_windowFixedHeightMajor;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_windowFixedHeightMinor = global::QuestionsGame.Droid.Resource.Styleable.Theme_windowFixedHeightMinor;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_windowFixedWidthMajor = global::QuestionsGame.Droid.Resource.Styleable.Theme_windowFixedWidthMajor;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_windowFixedWidthMinor = global::QuestionsGame.Droid.Resource.Styleable.Theme_windowFixedWidthMinor;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_windowMinWidthMajor = global::QuestionsGame.Droid.Resource.Styleable.Theme_windowMinWidthMajor;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_windowMinWidthMinor = global::QuestionsGame.Droid.Resource.Styleable.Theme_windowMinWidthMinor;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Theme_windowNoTitle = global::QuestionsGame.Droid.Resource.Styleable.Theme_windowNoTitle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar = global::QuestionsGame.Droid.Resource.Styleable.Toolbar;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_android_gravity = global::QuestionsGame.Droid.Resource.Styleable.Toolbar_android_gravity;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_android_minHeight = global::QuestionsGame.Droid.Resource.Styleable.Toolbar_android_minHeight;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_collapseContentDescription = global::QuestionsGame.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_collapseIcon = global::QuestionsGame.Droid.Resource.Styleable.Toolbar_collapseIcon;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_contentInsetEnd = global::QuestionsGame.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_contentInsetLeft = global::QuestionsGame.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_contentInsetRight = global::QuestionsGame.Droid.Resource.Styleable.Toolbar_contentInsetRight;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_contentInsetStart = global::QuestionsGame.Droid.Resource.Styleable.Toolbar_contentInsetStart;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_logo = global::QuestionsGame.Droid.Resource.Styleable.Toolbar_logo;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_logoDescription = global::QuestionsGame.Droid.Resource.Styleable.Toolbar_logoDescription;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_maxButtonHeight = global::QuestionsGame.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_navigationContentDescription = global::QuestionsGame.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_navigationIcon = global::QuestionsGame.Droid.Resource.Styleable.Toolbar_navigationIcon;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_popupTheme = global::QuestionsGame.Droid.Resource.Styleable.Toolbar_popupTheme;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_subtitle = global::QuestionsGame.Droid.Resource.Styleable.Toolbar_subtitle;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_subtitleTextAppearance = global::QuestionsGame.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_subtitleTextColor = global::QuestionsGame.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_title = global::QuestionsGame.Droid.Resource.Styleable.Toolbar_title;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_titleMarginBottom = global::QuestionsGame.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_titleMarginEnd = global::QuestionsGame.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_titleMarginStart = global::QuestionsGame.Droid.Resource.Styleable.Toolbar_titleMarginStart;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_titleMarginTop = global::QuestionsGame.Droid.Resource.Styleable.Toolbar_titleMarginTop;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_titleMargins = global::QuestionsGame.Droid.Resource.Styleable.Toolbar_titleMargins;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_titleTextAppearance = global::QuestionsGame.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
-			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_titleTextColor = global::QuestionsGame.Droid.Resource.Styleable.Toolbar_titleTextColor;
-			global::Xamarin.Forms.Platform.Resource.Styleable.View = global::QuestionsGame.Droid.Resource.Styleable.View;
-			global::Xamarin.Forms.Platform.Resource.Styleable.View_android_focusable = global::QuestionsGame.Droid.Resource.Styleable.View_android_focusable;
-			global::Xamarin.Forms.Platform.Resource.Styleable.View_android_theme = global::QuestionsGame.Droid.Resource.Styleable.View_android_theme;
-			global::Xamarin.Forms.Platform.Resource.Styleable.View_paddingEnd = global::QuestionsGame.Droid.Resource.Styleable.View_paddingEnd;
-			global::Xamarin.Forms.Platform.Resource.Styleable.View_paddingStart = global::QuestionsGame.Droid.Resource.Styleable.View_paddingStart;
-			global::Xamarin.Forms.Platform.Resource.Styleable.View_theme = global::QuestionsGame.Droid.Resource.Styleable.View_theme;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ViewBackgroundHelper = global::QuestionsGame.Droid.Resource.Styleable.ViewBackgroundHelper;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ViewBackgroundHelper_android_background = global::QuestionsGame.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::QuestionsGame.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::QuestionsGame.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ViewStubCompat = global::QuestionsGame.Droid.Resource.Styleable.ViewStubCompat;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ViewStubCompat_android_id = global::QuestionsGame.Droid.Resource.Styleable.ViewStubCompat_android_id;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ViewStubCompat_android_inflatedId = global::QuestionsGame.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ViewStubCompat_android_layout = global::QuestionsGame.Droid.Resource.Styleable.ViewStubCompat_android_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::QuestionsGame.Droid.Resource.Attribute.actionBarSize;
 		}
 		
 		public partial class Animation
@@ -1646,6 +189,15 @@ namespace QuestionsGame.Droid
 			// aapt resource value: 0x7f010098
 			public const int activityChooserViewStyle = 2130772120;
 			
+			// aapt resource value: 0x7f01011e
+			public const int adSize = 2130772254;
+			
+			// aapt resource value: 0x7f01011f
+			public const int adSizes = 2130772255;
+			
+			// aapt resource value: 0x7f010120
+			public const int adUnitId = 2130772256;
+			
 			// aapt resource value: 0x7f0100ba
 			public const int alertDialogButtonGroupStyle = 2130772154;
 			
@@ -1712,6 +264,9 @@ namespace QuestionsGame.Droid
 			// aapt resource value: 0x7f010033
 			public const int buttonPanelSideLayout = 2130772019;
 			
+			// aapt resource value: 0x7f01011b
+			public const int buttonSize = 2130772251;
+			
 			// aapt resource value: 0x7f0100c2
 			public const int buttonStyle = 2130772162;
 			
@@ -1747,6 +302,9 @@ namespace QuestionsGame.Droid
 			
 			// aapt resource value: 0x7f0100c5
 			public const int checkedTextViewStyle = 2130772165;
+			
+			// aapt resource value: 0x7f01011a
+			public const int circleCrop = 2130772250;
 			
 			// aapt resource value: 0x7f010051
 			public const int closeIcon = 2130772049;
@@ -1789,6 +347,9 @@ namespace QuestionsGame.Droid
 			
 			// aapt resource value: 0x7f0100b1
 			public const int colorPrimaryDark = 2130772145;
+			
+			// aapt resource value: 0x7f01011c
+			public const int colorScheme = 2130772252;
 			
 			// aapt resource value: 0x7f0100b7
 			public const int colorSwitchThumbNormal = 2130772151;
@@ -1952,6 +513,12 @@ namespace QuestionsGame.Droid
 			// aapt resource value: 0x7f01004e
 			public const int iconifiedByDefault = 2130772046;
 			
+			// aapt resource value: 0x7f010119
+			public const int imageAspectRatio = 2130772249;
+			
+			// aapt resource value: 0x7f010118
+			public const int imageAspectRatioAdjust = 2130772248;
+			
 			// aapt resource value: 0x7f010026
 			public const int indeterminateProgressStyle = 2130772006;
 			
@@ -1984,6 +551,9 @@ namespace QuestionsGame.Droid
 			
 			// aapt resource value: 0x7f01004d
 			public const int layout = 2130772045;
+			
+			// aapt resource value: 0x7f010121
+			public const int layoutManager = 2130772257;
 			
 			// aapt resource value: 0x7f0100f4
 			public const int layout_anchor = 2130772212;
@@ -2144,8 +714,14 @@ namespace QuestionsGame.Droid
 			// aapt resource value: 0x7f0100c8
 			public const int ratingBarStyle = 2130772168;
 			
+			// aapt resource value: 0x7f010123
+			public const int reverseLayout = 2130772259;
+			
 			// aapt resource value: 0x7f0100f7
 			public const int rippleColor = 2130772215;
+			
+			// aapt resource value: 0x7f01011d
+			public const int scopeUris = 2130772253;
 			
 			// aapt resource value: 0x7f010054
 			public const int searchHintIcon = 2130772052;
@@ -2174,6 +750,9 @@ namespace QuestionsGame.Droid
 			// aapt resource value: 0x7f010036
 			public const int singleChoiceItemLayout = 2130772022;
 			
+			// aapt resource value: 0x7f010122
+			public const int spanCount = 2130772258;
+			
 			// aapt resource value: 0x7f01003c
 			public const int spinBars = 2130772028;
 			
@@ -2185,6 +764,9 @@ namespace QuestionsGame.Droid
 			
 			// aapt resource value: 0x7f01005f
 			public const int splitTrack = 2130772063;
+			
+			// aapt resource value: 0x7f010124
+			public const int stackFromEnd = 2130772260;
 			
 			// aapt resource value: 0x7f01004c
 			public const int state_above_anchor = 2130772044;
@@ -2431,32 +1013,32 @@ namespace QuestionsGame.Droid
 		public partial class Color
 		{
 			
-			// aapt resource value: 0x7f090047
-			public const int abc_background_cache_hint_selector_material_dark = 2131296327;
+			// aapt resource value: 0x7f09004f
+			public const int abc_background_cache_hint_selector_material_dark = 2131296335;
 			
-			// aapt resource value: 0x7f090048
-			public const int abc_background_cache_hint_selector_material_light = 2131296328;
+			// aapt resource value: 0x7f090050
+			public const int abc_background_cache_hint_selector_material_light = 2131296336;
 			
-			// aapt resource value: 0x7f090049
-			public const int abc_color_highlight_material = 2131296329;
+			// aapt resource value: 0x7f090051
+			public const int abc_color_highlight_material = 2131296337;
 			
 			// aapt resource value: 0x7f090004
 			public const int abc_input_method_navigation_guard = 2131296260;
 			
-			// aapt resource value: 0x7f09004a
-			public const int abc_primary_text_disable_only_material_dark = 2131296330;
+			// aapt resource value: 0x7f090052
+			public const int abc_primary_text_disable_only_material_dark = 2131296338;
 			
-			// aapt resource value: 0x7f09004b
-			public const int abc_primary_text_disable_only_material_light = 2131296331;
+			// aapt resource value: 0x7f090053
+			public const int abc_primary_text_disable_only_material_light = 2131296339;
 			
-			// aapt resource value: 0x7f09004c
-			public const int abc_primary_text_material_dark = 2131296332;
+			// aapt resource value: 0x7f090054
+			public const int abc_primary_text_material_dark = 2131296340;
 			
-			// aapt resource value: 0x7f09004d
-			public const int abc_primary_text_material_light = 2131296333;
+			// aapt resource value: 0x7f090055
+			public const int abc_primary_text_material_light = 2131296341;
 			
-			// aapt resource value: 0x7f09004e
-			public const int abc_search_url_text = 2131296334;
+			// aapt resource value: 0x7f090056
+			public const int abc_search_url_text = 2131296342;
 			
 			// aapt resource value: 0x7f090005
 			public const int abc_search_url_text_normal = 2131296261;
@@ -2467,11 +1049,11 @@ namespace QuestionsGame.Droid
 			// aapt resource value: 0x7f090007
 			public const int abc_search_url_text_selected = 2131296263;
 			
-			// aapt resource value: 0x7f09004f
-			public const int abc_secondary_text_material_dark = 2131296335;
+			// aapt resource value: 0x7f090057
+			public const int abc_secondary_text_material_dark = 2131296343;
 			
-			// aapt resource value: 0x7f090050
-			public const int abc_secondary_text_material_light = 2131296336;
+			// aapt resource value: 0x7f090058
+			public const int abc_secondary_text_material_light = 2131296344;
 			
 			// aapt resource value: 0x7f090008
 			public const int accent_material_dark = 2131296264;
@@ -2526,6 +1108,39 @@ namespace QuestionsGame.Droid
 			
 			// aapt resource value: 0x7f090003
 			public const int cardview_shadow_start_color = 2131296259;
+			
+			// aapt resource value: 0x7f090059
+			public const int common_google_signin_btn_text_dark = 2131296345;
+			
+			// aapt resource value: 0x7f090047
+			public const int common_google_signin_btn_text_dark_default = 2131296327;
+			
+			// aapt resource value: 0x7f090048
+			public const int common_google_signin_btn_text_dark_disabled = 2131296328;
+			
+			// aapt resource value: 0x7f090049
+			public const int common_google_signin_btn_text_dark_focused = 2131296329;
+			
+			// aapt resource value: 0x7f09004a
+			public const int common_google_signin_btn_text_dark_pressed = 2131296330;
+			
+			// aapt resource value: 0x7f09005a
+			public const int common_google_signin_btn_text_light = 2131296346;
+			
+			// aapt resource value: 0x7f09004b
+			public const int common_google_signin_btn_text_light_default = 2131296331;
+			
+			// aapt resource value: 0x7f09004c
+			public const int common_google_signin_btn_text_light_disabled = 2131296332;
+			
+			// aapt resource value: 0x7f09004d
+			public const int common_google_signin_btn_text_light_focused = 2131296333;
+			
+			// aapt resource value: 0x7f09004e
+			public const int common_google_signin_btn_text_light_pressed = 2131296334;
+			
+			// aapt resource value: 0x7f09005b
+			public const int common_google_signin_btn_tint = 2131296347;
 			
 			// aapt resource value: 0x7f09003e
 			public const int design_fab_shadow_end_color = 2131296318;
@@ -2668,11 +1283,11 @@ namespace QuestionsGame.Droid
 			// aapt resource value: 0x7f09003b
 			public const int switch_thumb_disabled_material_light = 2131296315;
 			
-			// aapt resource value: 0x7f090051
-			public const int switch_thumb_material_dark = 2131296337;
+			// aapt resource value: 0x7f09005c
+			public const int switch_thumb_material_dark = 2131296348;
 			
-			// aapt resource value: 0x7f090052
-			public const int switch_thumb_material_light = 2131296338;
+			// aapt resource value: 0x7f09005d
+			public const int switch_thumb_material_light = 2131296349;
 			
 			// aapt resource value: 0x7f09003c
 			public const int switch_thumb_normal_material_dark = 2131296316;
@@ -2987,6 +1602,15 @@ namespace QuestionsGame.Droid
 			// aapt resource value: 0x7f070048
 			public const int highlight_alpha_material_light = 2131165256;
 			
+			// aapt resource value: 0x7f070066
+			public const int item_touch_helper_max_drag_scroll_per_frame = 2131165286;
+			
+			// aapt resource value: 0x7f070067
+			public const int item_touch_helper_swipe_escape_max_velocity = 2131165287;
+			
+			// aapt resource value: 0x7f070068
+			public const int item_touch_helper_swipe_escape_velocity = 2131165288;
+			
 			// aapt resource value: 0x7f070000
 			public const int mr_media_route_controller_art_max_height = 2131165184;
 			
@@ -3199,133 +1823,196 @@ namespace QuestionsGame.Droid
 			public const int abc_textfield_search_material = 2130837565;
 			
 			// aapt resource value: 0x7f02003e
-			public const int design_fab_background = 2130837566;
+			public const int common_full_open_on_phone = 2130837566;
 			
 			// aapt resource value: 0x7f02003f
-			public const int design_snackbar_background = 2130837567;
+			public const int common_google_signin_btn_icon_dark = 2130837567;
 			
 			// aapt resource value: 0x7f020040
-			public const int ic_cast_dark = 2130837568;
+			public const int common_google_signin_btn_icon_dark_focused = 2130837568;
 			
 			// aapt resource value: 0x7f020041
-			public const int ic_cast_disabled_light = 2130837569;
+			public const int common_google_signin_btn_icon_dark_normal = 2130837569;
 			
 			// aapt resource value: 0x7f020042
-			public const int ic_cast_light = 2130837570;
+			public const int common_google_signin_btn_icon_dark_normal_background = 2130837570;
 			
 			// aapt resource value: 0x7f020043
-			public const int ic_cast_off_light = 2130837571;
+			public const int common_google_signin_btn_icon_disabled = 2130837571;
 			
 			// aapt resource value: 0x7f020044
-			public const int ic_cast_on_0_light = 2130837572;
+			public const int common_google_signin_btn_icon_light = 2130837572;
 			
 			// aapt resource value: 0x7f020045
-			public const int ic_cast_on_1_light = 2130837573;
+			public const int common_google_signin_btn_icon_light_focused = 2130837573;
 			
 			// aapt resource value: 0x7f020046
-			public const int ic_cast_on_2_light = 2130837574;
+			public const int common_google_signin_btn_icon_light_normal = 2130837574;
 			
 			// aapt resource value: 0x7f020047
-			public const int ic_cast_on_light = 2130837575;
+			public const int common_google_signin_btn_icon_light_normal_background = 2130837575;
 			
 			// aapt resource value: 0x7f020048
-			public const int ic_media_pause = 2130837576;
+			public const int common_google_signin_btn_text_dark = 2130837576;
 			
 			// aapt resource value: 0x7f020049
-			public const int ic_media_play = 2130837577;
+			public const int common_google_signin_btn_text_dark_focused = 2130837577;
 			
 			// aapt resource value: 0x7f02004a
-			public const int ic_media_route_disabled_mono_dark = 2130837578;
+			public const int common_google_signin_btn_text_dark_normal = 2130837578;
 			
 			// aapt resource value: 0x7f02004b
-			public const int ic_media_route_off_mono_dark = 2130837579;
+			public const int common_google_signin_btn_text_dark_normal_background = 2130837579;
 			
 			// aapt resource value: 0x7f02004c
-			public const int ic_media_route_on_0_mono_dark = 2130837580;
+			public const int common_google_signin_btn_text_disabled = 2130837580;
 			
 			// aapt resource value: 0x7f02004d
-			public const int ic_media_route_on_1_mono_dark = 2130837581;
+			public const int common_google_signin_btn_text_light = 2130837581;
 			
 			// aapt resource value: 0x7f02004e
-			public const int ic_media_route_on_2_mono_dark = 2130837582;
+			public const int common_google_signin_btn_text_light_focused = 2130837582;
 			
 			// aapt resource value: 0x7f02004f
-			public const int ic_media_route_on_mono_dark = 2130837583;
+			public const int common_google_signin_btn_text_light_normal = 2130837583;
 			
 			// aapt resource value: 0x7f020050
-			public const int ic_pause_dark = 2130837584;
+			public const int common_google_signin_btn_text_light_normal_background = 2130837584;
 			
 			// aapt resource value: 0x7f020051
-			public const int ic_pause_light = 2130837585;
+			public const int design_fab_background = 2130837585;
 			
 			// aapt resource value: 0x7f020052
-			public const int ic_play_dark = 2130837586;
+			public const int design_snackbar_background = 2130837586;
 			
 			// aapt resource value: 0x7f020053
-			public const int ic_play_light = 2130837587;
+			public const int googleg_disabled_color_18 = 2130837587;
 			
 			// aapt resource value: 0x7f020054
-			public const int ic_setting_dark = 2130837588;
+			public const int googleg_standard_color_18 = 2130837588;
 			
 			// aapt resource value: 0x7f020055
-			public const int ic_setting_light = 2130837589;
+			public const int ic_cast_dark = 2130837589;
 			
 			// aapt resource value: 0x7f020056
-			public const int icon = 2130837590;
+			public const int ic_cast_disabled_light = 2130837590;
 			
 			// aapt resource value: 0x7f020057
-			public const int mr_ic_cast_dark = 2130837591;
+			public const int ic_cast_light = 2130837591;
 			
 			// aapt resource value: 0x7f020058
-			public const int mr_ic_cast_light = 2130837592;
+			public const int ic_cast_off_light = 2130837592;
 			
 			// aapt resource value: 0x7f020059
-			public const int mr_ic_media_route_connecting_mono_dark = 2130837593;
+			public const int ic_cast_on_0_light = 2130837593;
 			
 			// aapt resource value: 0x7f02005a
-			public const int mr_ic_media_route_connecting_mono_light = 2130837594;
+			public const int ic_cast_on_1_light = 2130837594;
 			
 			// aapt resource value: 0x7f02005b
-			public const int mr_ic_media_route_mono_dark = 2130837595;
+			public const int ic_cast_on_2_light = 2130837595;
 			
 			// aapt resource value: 0x7f02005c
-			public const int mr_ic_media_route_mono_light = 2130837596;
+			public const int ic_cast_on_light = 2130837596;
 			
 			// aapt resource value: 0x7f02005d
-			public const int mr_ic_pause_dark = 2130837597;
+			public const int ic_media_pause = 2130837597;
 			
 			// aapt resource value: 0x7f02005e
-			public const int mr_ic_pause_light = 2130837598;
+			public const int ic_media_play = 2130837598;
 			
 			// aapt resource value: 0x7f02005f
-			public const int mr_ic_play_dark = 2130837599;
+			public const int ic_media_route_disabled_mono_dark = 2130837599;
 			
 			// aapt resource value: 0x7f020060
-			public const int mr_ic_play_light = 2130837600;
+			public const int ic_media_route_off_mono_dark = 2130837600;
 			
 			// aapt resource value: 0x7f020061
-			public const int mr_ic_settings_dark = 2130837601;
+			public const int ic_media_route_on_0_mono_dark = 2130837601;
 			
 			// aapt resource value: 0x7f020062
-			public const int mr_ic_settings_light = 2130837602;
-			
-			// aapt resource value: 0x7f020068
-			public const int notification_template_icon_bg = 2130837608;
+			public const int ic_media_route_on_1_mono_dark = 2130837602;
 			
 			// aapt resource value: 0x7f020063
-			public const int questionperson = 2130837603;
+			public const int ic_media_route_on_2_mono_dark = 2130837603;
 			
 			// aapt resource value: 0x7f020064
-			public const int right = 2130837604;
+			public const int ic_media_route_on_mono_dark = 2130837604;
 			
 			// aapt resource value: 0x7f020065
-			public const int test_grid_img = 2130837605;
+			public const int ic_pause_dark = 2130837605;
 			
 			// aapt resource value: 0x7f020066
-			public const int world_flags_mobile = 2130837606;
+			public const int ic_pause_light = 2130837606;
 			
 			// aapt resource value: 0x7f020067
-			public const int wrong = 2130837607;
+			public const int ic_play_dark = 2130837607;
+			
+			// aapt resource value: 0x7f020068
+			public const int ic_play_light = 2130837608;
+			
+			// aapt resource value: 0x7f020069
+			public const int ic_setting_dark = 2130837609;
+			
+			// aapt resource value: 0x7f02006a
+			public const int ic_setting_light = 2130837610;
+			
+			// aapt resource value: 0x7f02006b
+			public const int icon = 2130837611;
+			
+			// aapt resource value: 0x7f02006c
+			public const int mr_ic_cast_dark = 2130837612;
+			
+			// aapt resource value: 0x7f02006d
+			public const int mr_ic_cast_light = 2130837613;
+			
+			// aapt resource value: 0x7f02006e
+			public const int mr_ic_media_route_connecting_mono_dark = 2130837614;
+			
+			// aapt resource value: 0x7f02006f
+			public const int mr_ic_media_route_connecting_mono_light = 2130837615;
+			
+			// aapt resource value: 0x7f020070
+			public const int mr_ic_media_route_mono_dark = 2130837616;
+			
+			// aapt resource value: 0x7f020071
+			public const int mr_ic_media_route_mono_light = 2130837617;
+			
+			// aapt resource value: 0x7f020072
+			public const int mr_ic_pause_dark = 2130837618;
+			
+			// aapt resource value: 0x7f020073
+			public const int mr_ic_pause_light = 2130837619;
+			
+			// aapt resource value: 0x7f020074
+			public const int mr_ic_play_dark = 2130837620;
+			
+			// aapt resource value: 0x7f020075
+			public const int mr_ic_play_light = 2130837621;
+			
+			// aapt resource value: 0x7f020076
+			public const int mr_ic_settings_dark = 2130837622;
+			
+			// aapt resource value: 0x7f020077
+			public const int mr_ic_settings_light = 2130837623;
+			
+			// aapt resource value: 0x7f02007d
+			public const int notification_template_icon_bg = 2130837629;
+			
+			// aapt resource value: 0x7f020078
+			public const int questionperson = 2130837624;
+			
+			// aapt resource value: 0x7f020079
+			public const int right = 2130837625;
+			
+			// aapt resource value: 0x7f02007a
+			public const int test_grid_img = 2130837626;
+			
+			// aapt resource value: 0x7f02007b
+			public const int world_flags_mobile = 2130837627;
+			
+			// aapt resource value: 0x7f02007c
+			public const int wrong = 2130837628;
 			
 			static Drawable()
 			{
@@ -3340,35 +2027,35 @@ namespace QuestionsGame.Droid
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f0c0074
-			public const int action0 = 2131492980;
+			// aapt resource value: 0x7f0c007f
+			public const int action0 = 2131492991;
 			
-			// aapt resource value: 0x7f0c0055
-			public const int action_bar = 2131492949;
+			// aapt resource value: 0x7f0c0060
+			public const int action_bar = 2131492960;
 			
 			// aapt resource value: 0x7f0c0000
 			public const int action_bar_activity_content = 2131492864;
 			
-			// aapt resource value: 0x7f0c0054
-			public const int action_bar_container = 2131492948;
+			// aapt resource value: 0x7f0c005f
+			public const int action_bar_container = 2131492959;
 			
-			// aapt resource value: 0x7f0c0050
-			public const int action_bar_root = 2131492944;
+			// aapt resource value: 0x7f0c005b
+			public const int action_bar_root = 2131492955;
 			
 			// aapt resource value: 0x7f0c0001
 			public const int action_bar_spinner = 2131492865;
 			
-			// aapt resource value: 0x7f0c0039
-			public const int action_bar_subtitle = 2131492921;
+			// aapt resource value: 0x7f0c0044
+			public const int action_bar_subtitle = 2131492932;
 			
-			// aapt resource value: 0x7f0c0038
-			public const int action_bar_title = 2131492920;
+			// aapt resource value: 0x7f0c0043
+			public const int action_bar_title = 2131492931;
 			
-			// aapt resource value: 0x7f0c0056
-			public const int action_context_bar = 2131492950;
+			// aapt resource value: 0x7f0c0061
+			public const int action_context_bar = 2131492961;
 			
-			// aapt resource value: 0x7f0c0078
-			public const int action_divider = 2131492984;
+			// aapt resource value: 0x7f0c0083
+			public const int action_divider = 2131492995;
 			
 			// aapt resource value: 0x7f0c0002
 			public const int action_menu_divider = 2131492866;
@@ -3376,203 +2063,224 @@ namespace QuestionsGame.Droid
 			// aapt resource value: 0x7f0c0003
 			public const int action_menu_presenter = 2131492867;
 			
-			// aapt resource value: 0x7f0c0052
-			public const int action_mode_bar = 2131492946;
+			// aapt resource value: 0x7f0c005d
+			public const int action_mode_bar = 2131492957;
 			
-			// aapt resource value: 0x7f0c0051
-			public const int action_mode_bar_stub = 2131492945;
-			
-			// aapt resource value: 0x7f0c003a
-			public const int action_mode_close_button = 2131492922;
-			
-			// aapt resource value: 0x7f0c003b
-			public const int activity_chooser_view_content = 2131492923;
+			// aapt resource value: 0x7f0c005c
+			public const int action_mode_bar_stub = 2131492956;
 			
 			// aapt resource value: 0x7f0c0045
-			public const int alertTitle = 2131492933;
-			
-			// aapt resource value: 0x7f0c001c
-			public const int always = 2131492892;
-			
-			// aapt resource value: 0x7f0c006c
-			public const int art = 2131492972;
-			
-			// aapt resource value: 0x7f0c0019
-			public const int beginning = 2131492889;
-			
-			// aapt resource value: 0x7f0c0028
-			public const int bottom = 2131492904;
-			
-			// aapt resource value: 0x7f0c004b
-			public const int buttonPanel = 2131492939;
-			
-			// aapt resource value: 0x7f0c0071
-			public const int buttons = 2131492977;
-			
-			// aapt resource value: 0x7f0c0075
-			public const int cancel_action = 2131492981;
-			
-			// aapt resource value: 0x7f0c0029
-			public const int center = 2131492905;
-			
-			// aapt resource value: 0x7f0c002a
-			public const int center_horizontal = 2131492906;
-			
-			// aapt resource value: 0x7f0c002b
-			public const int center_vertical = 2131492907;
-			
-			// aapt resource value: 0x7f0c004d
-			public const int checkbox = 2131492941;
-			
-			// aapt resource value: 0x7f0c007b
-			public const int chronometer = 2131492987;
-			
-			// aapt resource value: 0x7f0c0031
-			public const int clip_horizontal = 2131492913;
-			
-			// aapt resource value: 0x7f0c0032
-			public const int clip_vertical = 2131492914;
-			
-			// aapt resource value: 0x7f0c001d
-			public const int collapseActionView = 2131492893;
+			public const int action_mode_close_button = 2131492933;
 			
 			// aapt resource value: 0x7f0c0046
-			public const int contentPanel = 2131492934;
+			public const int activity_chooser_view_content = 2131492934;
 			
-			// aapt resource value: 0x7f0c004a
-			public const int custom = 2131492938;
-			
-			// aapt resource value: 0x7f0c0049
-			public const int customPanel = 2131492937;
-			
-			// aapt resource value: 0x7f0c0053
-			public const int decor_content_parent = 2131492947;
-			
-			// aapt resource value: 0x7f0c003e
-			public const int default_activity_button = 2131492926;
-			
-			// aapt resource value: 0x7f0c006b
-			public const int default_control_frame = 2131492971;
-			
-			// aapt resource value: 0x7f0c000d
-			public const int disableHome = 2131492877;
-			
-			// aapt resource value: 0x7f0c0072
-			public const int disconnect = 2131492978;
-			
-			// aapt resource value: 0x7f0c0057
-			public const int edit_query = 2131492951;
-			
-			// aapt resource value: 0x7f0c001a
-			public const int end = 2131492890;
-			
-			// aapt resource value: 0x7f0c0080
-			public const int end_padder = 2131492992;
-			
-			// aapt resource value: 0x7f0c0022
-			public const int enterAlways = 2131492898;
-			
-			// aapt resource value: 0x7f0c0023
-			public const int enterAlwaysCollapsed = 2131492899;
-			
-			// aapt resource value: 0x7f0c0024
-			public const int exitUntilCollapsed = 2131492900;
+			// aapt resource value: 0x7f0c003b
+			public const int adjust_height = 2131492923;
 			
 			// aapt resource value: 0x7f0c003c
-			public const int expand_activities_button = 2131492924;
+			public const int adjust_width = 2131492924;
 			
-			// aapt resource value: 0x7f0c004c
-			public const int expanded_menu = 2131492940;
+			// aapt resource value: 0x7f0c0050
+			public const int alertTitle = 2131492944;
 			
-			// aapt resource value: 0x7f0c0033
-			public const int fill = 2131492915;
+			// aapt resource value: 0x7f0c001f
+			public const int always = 2131492895;
 			
-			// aapt resource value: 0x7f0c0034
-			public const int fill_horizontal = 2131492916;
+			// aapt resource value: 0x7f0c0077
+			public const int art = 2131492983;
+			
+			// aapt resource value: 0x7f0c0040
+			public const int auto = 2131492928;
+			
+			// aapt resource value: 0x7f0c001c
+			public const int beginning = 2131492892;
+			
+			// aapt resource value: 0x7f0c002b
+			public const int bottom = 2131492907;
+			
+			// aapt resource value: 0x7f0c0056
+			public const int buttonPanel = 2131492950;
+			
+			// aapt resource value: 0x7f0c007c
+			public const int buttons = 2131492988;
+			
+			// aapt resource value: 0x7f0c0080
+			public const int cancel_action = 2131492992;
 			
 			// aapt resource value: 0x7f0c002c
-			public const int fill_vertical = 2131492908;
+			public const int center = 2131492908;
+			
+			// aapt resource value: 0x7f0c002d
+			public const int center_horizontal = 2131492909;
+			
+			// aapt resource value: 0x7f0c002e
+			public const int center_vertical = 2131492910;
+			
+			// aapt resource value: 0x7f0c0058
+			public const int checkbox = 2131492952;
+			
+			// aapt resource value: 0x7f0c0086
+			public const int chronometer = 2131492998;
+			
+			// aapt resource value: 0x7f0c0034
+			public const int clip_horizontal = 2131492916;
+			
+			// aapt resource value: 0x7f0c0035
+			public const int clip_vertical = 2131492917;
+			
+			// aapt resource value: 0x7f0c0020
+			public const int collapseActionView = 2131492896;
+			
+			// aapt resource value: 0x7f0c0051
+			public const int contentPanel = 2131492945;
+			
+			// aapt resource value: 0x7f0c0055
+			public const int custom = 2131492949;
+			
+			// aapt resource value: 0x7f0c0054
+			public const int customPanel = 2131492948;
+			
+			// aapt resource value: 0x7f0c0041
+			public const int dark = 2131492929;
+			
+			// aapt resource value: 0x7f0c005e
+			public const int decor_content_parent = 2131492958;
+			
+			// aapt resource value: 0x7f0c0049
+			public const int default_activity_button = 2131492937;
+			
+			// aapt resource value: 0x7f0c0076
+			public const int default_control_frame = 2131492982;
+			
+			// aapt resource value: 0x7f0c0010
+			public const int disableHome = 2131492880;
+			
+			// aapt resource value: 0x7f0c007d
+			public const int disconnect = 2131492989;
+			
+			// aapt resource value: 0x7f0c0062
+			public const int edit_query = 2131492962;
+			
+			// aapt resource value: 0x7f0c001d
+			public const int end = 2131492893;
+			
+			// aapt resource value: 0x7f0c008b
+			public const int end_padder = 2131493003;
+			
+			// aapt resource value: 0x7f0c0025
+			public const int enterAlways = 2131492901;
+			
+			// aapt resource value: 0x7f0c0026
+			public const int enterAlwaysCollapsed = 2131492902;
+			
+			// aapt resource value: 0x7f0c0027
+			public const int exitUntilCollapsed = 2131492903;
+			
+			// aapt resource value: 0x7f0c0047
+			public const int expand_activities_button = 2131492935;
+			
+			// aapt resource value: 0x7f0c0057
+			public const int expanded_menu = 2131492951;
 			
 			// aapt resource value: 0x7f0c0036
-			public const int @fixed = 2131492918;
+			public const int fill = 2131492918;
+			
+			// aapt resource value: 0x7f0c0037
+			public const int fill_horizontal = 2131492919;
+			
+			// aapt resource value: 0x7f0c002f
+			public const int fill_vertical = 2131492911;
+			
+			// aapt resource value: 0x7f0c0039
+			public const int @fixed = 2131492921;
 			
 			// aapt resource value: 0x7f0c0004
 			public const int home = 2131492868;
 			
-			// aapt resource value: 0x7f0c000e
-			public const int homeAsUp = 2131492878;
+			// aapt resource value: 0x7f0c0011
+			public const int homeAsUp = 2131492881;
 			
-			// aapt resource value: 0x7f0c0040
-			public const int icon = 2131492928;
-			
-			// aapt resource value: 0x7f0c001e
-			public const int ifRoom = 2131492894;
+			// aapt resource value: 0x7f0c004b
+			public const int icon = 2131492939;
 			
 			// aapt resource value: 0x7f0c003d
-			public const int image = 2131492925;
+			public const int icon_only = 2131492925;
 			
-			// aapt resource value: 0x7f0c007f
-			public const int info = 2131492991;
+			// aapt resource value: 0x7f0c0021
+			public const int ifRoom = 2131492897;
 			
-			// aapt resource value: 0x7f0c002d
-			public const int left = 2131492909;
+			// aapt resource value: 0x7f0c0048
+			public const int image = 2131492936;
 			
-			// aapt resource value: 0x7f0c0079
-			public const int line1 = 2131492985;
-			
-			// aapt resource value: 0x7f0c007d
-			public const int line3 = 2131492989;
+			// aapt resource value: 0x7f0c008a
+			public const int info = 2131493002;
 			
 			// aapt resource value: 0x7f0c000a
-			public const int listMode = 2131492874;
+			public const int item_touch_helper_previous_elevation = 2131492874;
 			
-			// aapt resource value: 0x7f0c003f
-			public const int list_item = 2131492927;
-			
-			// aapt resource value: 0x7f0c0077
-			public const int media_actions = 2131492983;
-			
-			// aapt resource value: 0x7f0c006a
-			public const int media_route_control_frame = 2131492970;
-			
-			// aapt resource value: 0x7f0c0066
-			public const int media_route_list = 2131492966;
-			
-			// aapt resource value: 0x7f0c006f
-			public const int media_route_volume_layout = 2131492975;
-			
-			// aapt resource value: 0x7f0c0070
-			public const int media_route_volume_slider = 2131492976;
-			
-			// aapt resource value: 0x7f0c001b
-			public const int middle = 2131492891;
-			
-			// aapt resource value: 0x7f0c0035
-			public const int mini = 2131492917;
-			
-			// aapt resource value: 0x7f0c0014
-			public const int multiply = 2131492884;
-			
-			// aapt resource value: 0x7f0c001f
-			public const int never = 2131492895;
-			
-			// aapt resource value: 0x7f0c000f
-			public const int none = 2131492879;
-			
-			// aapt resource value: 0x7f0c000b
-			public const int normal = 2131492875;
-			
-			// aapt resource value: 0x7f0c0026
-			public const int parallax = 2131492902;
+			// aapt resource value: 0x7f0c0030
+			public const int left = 2131492912;
 			
 			// aapt resource value: 0x7f0c0042
-			public const int parentPanel = 2131492930;
+			public const int light = 2131492930;
 			
-			// aapt resource value: 0x7f0c0027
-			public const int pin = 2131492903;
+			// aapt resource value: 0x7f0c0084
+			public const int line1 = 2131492996;
 			
-			// aapt resource value: 0x7f0c006d
-			public const int play_pause = 2131492973;
+			// aapt resource value: 0x7f0c0088
+			public const int line3 = 2131493000;
+			
+			// aapt resource value: 0x7f0c000d
+			public const int listMode = 2131492877;
+			
+			// aapt resource value: 0x7f0c004a
+			public const int list_item = 2131492938;
+			
+			// aapt resource value: 0x7f0c0082
+			public const int media_actions = 2131492994;
+			
+			// aapt resource value: 0x7f0c0075
+			public const int media_route_control_frame = 2131492981;
+			
+			// aapt resource value: 0x7f0c0071
+			public const int media_route_list = 2131492977;
+			
+			// aapt resource value: 0x7f0c007a
+			public const int media_route_volume_layout = 2131492986;
+			
+			// aapt resource value: 0x7f0c007b
+			public const int media_route_volume_slider = 2131492987;
+			
+			// aapt resource value: 0x7f0c001e
+			public const int middle = 2131492894;
+			
+			// aapt resource value: 0x7f0c0038
+			public const int mini = 2131492920;
+			
+			// aapt resource value: 0x7f0c0017
+			public const int multiply = 2131492887;
+			
+			// aapt resource value: 0x7f0c0022
+			public const int never = 2131492898;
+			
+			// aapt resource value: 0x7f0c0012
+			public const int none = 2131492882;
+			
+			// aapt resource value: 0x7f0c000e
+			public const int normal = 2131492878;
+			
+			// aapt resource value: 0x7f0c0029
+			public const int parallax = 2131492905;
+			
+			// aapt resource value: 0x7f0c004d
+			public const int parentPanel = 2131492941;
+			
+			// aapt resource value: 0x7f0c002a
+			public const int pin = 2131492906;
+			
+			// aapt resource value: 0x7f0c0078
+			public const int play_pause = 2131492984;
 			
 			// aapt resource value: 0x7f0c0005
 			public const int progress_circular = 2131492869;
@@ -3580,152 +2288,164 @@ namespace QuestionsGame.Droid
 			// aapt resource value: 0x7f0c0006
 			public const int progress_horizontal = 2131492870;
 			
-			// aapt resource value: 0x7f0c004f
-			public const int radio = 2131492943;
-			
-			// aapt resource value: 0x7f0c002e
-			public const int right = 2131492910;
-			
-			// aapt resource value: 0x7f0c0068
-			public const int route_name = 2131492968;
-			
-			// aapt resource value: 0x7f0c0015
-			public const int screen = 2131492885;
-			
-			// aapt resource value: 0x7f0c0025
-			public const int scroll = 2131492901;
-			
-			// aapt resource value: 0x7f0c0047
-			public const int scrollView = 2131492935;
-			
-			// aapt resource value: 0x7f0c0037
-			public const int scrollable = 2131492919;
-			
-			// aapt resource value: 0x7f0c0059
-			public const int search_badge = 2131492953;
-			
-			// aapt resource value: 0x7f0c0058
-			public const int search_bar = 2131492952;
-			
 			// aapt resource value: 0x7f0c005a
-			public const int search_button = 2131492954;
+			public const int radio = 2131492954;
 			
-			// aapt resource value: 0x7f0c005f
-			public const int search_close_btn = 2131492959;
+			// aapt resource value: 0x7f0c0031
+			public const int right = 2131492913;
 			
-			// aapt resource value: 0x7f0c005b
-			public const int search_edit_frame = 2131492955;
+			// aapt resource value: 0x7f0c0073
+			public const int route_name = 2131492979;
 			
-			// aapt resource value: 0x7f0c0061
-			public const int search_go_btn = 2131492961;
+			// aapt resource value: 0x7f0c0018
+			public const int screen = 2131492888;
 			
-			// aapt resource value: 0x7f0c005c
-			public const int search_mag_icon = 2131492956;
+			// aapt resource value: 0x7f0c0028
+			public const int scroll = 2131492904;
 			
-			// aapt resource value: 0x7f0c005d
-			public const int search_plate = 2131492957;
+			// aapt resource value: 0x7f0c0052
+			public const int scrollView = 2131492946;
 			
-			// aapt resource value: 0x7f0c005e
-			public const int search_src_text = 2131492958;
-			
-			// aapt resource value: 0x7f0c0062
-			public const int search_voice_btn = 2131492962;
-			
-			// aapt resource value: 0x7f0c0063
-			public const int select_dialog_listview = 2131492963;
-			
-			// aapt resource value: 0x7f0c0069
-			public const int settings = 2131492969;
-			
-			// aapt resource value: 0x7f0c004e
-			public const int shortcut = 2131492942;
-			
-			// aapt resource value: 0x7f0c0010
-			public const int showCustom = 2131492880;
-			
-			// aapt resource value: 0x7f0c0011
-			public const int showHome = 2131492881;
-			
-			// aapt resource value: 0x7f0c0012
-			public const int showTitle = 2131492882;
-			
-			// aapt resource value: 0x7f0c0065
-			public const int snackbar_action = 2131492965;
+			// aapt resource value: 0x7f0c003a
+			public const int scrollable = 2131492922;
 			
 			// aapt resource value: 0x7f0c0064
-			public const int snackbar_text = 2131492964;
+			public const int search_badge = 2131492964;
+			
+			// aapt resource value: 0x7f0c0063
+			public const int search_bar = 2131492963;
+			
+			// aapt resource value: 0x7f0c0065
+			public const int search_button = 2131492965;
+			
+			// aapt resource value: 0x7f0c006a
+			public const int search_close_btn = 2131492970;
+			
+			// aapt resource value: 0x7f0c0066
+			public const int search_edit_frame = 2131492966;
+			
+			// aapt resource value: 0x7f0c006c
+			public const int search_go_btn = 2131492972;
+			
+			// aapt resource value: 0x7f0c0067
+			public const int search_mag_icon = 2131492967;
+			
+			// aapt resource value: 0x7f0c0068
+			public const int search_plate = 2131492968;
+			
+			// aapt resource value: 0x7f0c0069
+			public const int search_src_text = 2131492969;
+			
+			// aapt resource value: 0x7f0c006d
+			public const int search_voice_btn = 2131492973;
+			
+			// aapt resource value: 0x7f0c006e
+			public const int select_dialog_listview = 2131492974;
+			
+			// aapt resource value: 0x7f0c0074
+			public const int settings = 2131492980;
+			
+			// aapt resource value: 0x7f0c0059
+			public const int shortcut = 2131492953;
+			
+			// aapt resource value: 0x7f0c0013
+			public const int showCustom = 2131492883;
+			
+			// aapt resource value: 0x7f0c0014
+			public const int showHome = 2131492884;
+			
+			// aapt resource value: 0x7f0c0015
+			public const int showTitle = 2131492885;
+			
+			// aapt resource value: 0x7f0c0070
+			public const int snackbar_action = 2131492976;
+			
+			// aapt resource value: 0x7f0c006f
+			public const int snackbar_text = 2131492975;
 			
 			// aapt resource value: 0x7f0c0007
 			public const int split_action_bar = 2131492871;
 			
-			// aapt resource value: 0x7f0c0016
-			public const int src_atop = 2131492886;
+			// aapt resource value: 0x7f0c0019
+			public const int src_atop = 2131492889;
 			
-			// aapt resource value: 0x7f0c0017
-			public const int src_in = 2131492887;
+			// aapt resource value: 0x7f0c001a
+			public const int src_in = 2131492890;
 			
-			// aapt resource value: 0x7f0c0018
-			public const int src_over = 2131492888;
+			// aapt resource value: 0x7f0c001b
+			public const int src_over = 2131492891;
 			
-			// aapt resource value: 0x7f0c002f
-			public const int start = 2131492911;
+			// aapt resource value: 0x7f0c003e
+			public const int standard = 2131492926;
 			
-			// aapt resource value: 0x7f0c0076
-			public const int status_bar_latest_event_content = 2131492982;
+			// aapt resource value: 0x7f0c0032
+			public const int start = 2131492914;
 			
-			// aapt resource value: 0x7f0c0073
-			public const int stop = 2131492979;
-			
-			// aapt resource value: 0x7f0c0060
-			public const int submit_area = 2131492960;
-			
-			// aapt resource value: 0x7f0c006e
-			public const int subtitle = 2131492974;
-			
-			// aapt resource value: 0x7f0c000c
-			public const int tabMode = 2131492876;
+			// aapt resource value: 0x7f0c0081
+			public const int status_bar_latest_event_content = 2131492993;
 			
 			// aapt resource value: 0x7f0c007e
-			public const int text = 2131492990;
+			public const int stop = 2131492990;
 			
-			// aapt resource value: 0x7f0c007c
-			public const int text2 = 2131492988;
+			// aapt resource value: 0x7f0c006b
+			public const int submit_area = 2131492971;
 			
-			// aapt resource value: 0x7f0c0048
-			public const int textSpacerNoButtons = 2131492936;
+			// aapt resource value: 0x7f0c0079
+			public const int subtitle = 2131492985;
 			
-			// aapt resource value: 0x7f0c007a
-			public const int time = 2131492986;
+			// aapt resource value: 0x7f0c000f
+			public const int tabMode = 2131492879;
 			
-			// aapt resource value: 0x7f0c0041
-			public const int title = 2131492929;
+			// aapt resource value: 0x7f0c0089
+			public const int text = 2131493001;
 			
-			// aapt resource value: 0x7f0c0067
-			public const int title_bar = 2131492967;
+			// aapt resource value: 0x7f0c0087
+			public const int text2 = 2131492999;
 			
-			// aapt resource value: 0x7f0c0044
-			public const int title_template = 2131492932;
+			// aapt resource value: 0x7f0c0053
+			public const int textSpacerNoButtons = 2131492947;
 			
-			// aapt resource value: 0x7f0c0030
-			public const int top = 2131492912;
+			// aapt resource value: 0x7f0c0085
+			public const int time = 2131492997;
 			
-			// aapt resource value: 0x7f0c0043
-			public const int topPanel = 2131492931;
+			// aapt resource value: 0x7f0c004c
+			public const int title = 2131492940;
+			
+			// aapt resource value: 0x7f0c0072
+			public const int title_bar = 2131492978;
+			
+			// aapt resource value: 0x7f0c004f
+			public const int title_template = 2131492943;
+			
+			// aapt resource value: 0x7f0c0033
+			public const int top = 2131492915;
+			
+			// aapt resource value: 0x7f0c004e
+			public const int topPanel = 2131492942;
+			
+			// aapt resource value: 0x7f0c000b
+			public const int transition_current_scene = 2131492875;
+			
+			// aapt resource value: 0x7f0c000c
+			public const int transition_scene_layoutid_cache = 2131492876;
 			
 			// aapt resource value: 0x7f0c0008
 			public const int up = 2131492872;
 			
-			// aapt resource value: 0x7f0c0013
-			public const int useLogo = 2131492883;
+			// aapt resource value: 0x7f0c0016
+			public const int useLogo = 2131492886;
 			
 			// aapt resource value: 0x7f0c0009
 			public const int view_offset_helper = 2131492873;
 			
-			// aapt resource value: 0x7f0c0020
-			public const int withText = 2131492896;
+			// aapt resource value: 0x7f0c003f
+			public const int wide = 2131492927;
 			
-			// aapt resource value: 0x7f0c0021
-			public const int wrap_content = 2131492897;
+			// aapt resource value: 0x7f0c0023
+			public const int withText = 2131492899;
+			
+			// aapt resource value: 0x7f0c0024
+			public const int wrap_content = 2131492900;
 			
 			static Id()
 			{
@@ -3754,6 +2474,9 @@ namespace QuestionsGame.Droid
 			
 			// aapt resource value: 0x7f0b0005
 			public const int design_snackbar_text_max_lines = 2131427333;
+			
+			// aapt resource value: 0x7f0b0006
+			public const int google_play_services_version = 2131427334;
 			
 			// aapt resource value: 0x7f0b0004
 			public const int status_bar_notification_info_maxnum = 2131427332;
@@ -3953,11 +2676,11 @@ namespace QuestionsGame.Droid
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f06001f
-			public const int ApplicationName = 2131099679;
+			// aapt resource value: 0x7f06003a
+			public const int ApplicationName = 2131099706;
 			
-			// aapt resource value: 0x7f06001e
-			public const int Hello = 2131099678;
+			// aapt resource value: 0x7f060039
+			public const int Hello = 2131099705;
 			
 			// aapt resource value: 0x7f06000b
 			public const int abc_action_bar_home_description = 2131099659;
@@ -4010,8 +2733,83 @@ namespace QuestionsGame.Droid
 			// aapt resource value: 0x7f06001b
 			public const int abc_toolbar_collapse_description = 2131099675;
 			
+			// aapt resource value: 0x7f06001e
+			public const int accept = 2131099678;
+			
 			// aapt resource value: 0x7f06001d
 			public const int appbar_scrolling_view_behavior = 2131099677;
+			
+			// aapt resource value: 0x7f060028
+			public const int common_google_play_services_enable_button = 2131099688;
+			
+			// aapt resource value: 0x7f060029
+			public const int common_google_play_services_enable_text = 2131099689;
+			
+			// aapt resource value: 0x7f06002a
+			public const int common_google_play_services_enable_title = 2131099690;
+			
+			// aapt resource value: 0x7f06002b
+			public const int common_google_play_services_install_button = 2131099691;
+			
+			// aapt resource value: 0x7f06002c
+			public const int common_google_play_services_install_text = 2131099692;
+			
+			// aapt resource value: 0x7f06002d
+			public const int common_google_play_services_install_title = 2131099693;
+			
+			// aapt resource value: 0x7f06002e
+			public const int common_google_play_services_notification_ticker = 2131099694;
+			
+			// aapt resource value: 0x7f060038
+			public const int common_google_play_services_unknown_issue = 2131099704;
+			
+			// aapt resource value: 0x7f06002f
+			public const int common_google_play_services_unsupported_text = 2131099695;
+			
+			// aapt resource value: 0x7f060030
+			public const int common_google_play_services_update_button = 2131099696;
+			
+			// aapt resource value: 0x7f060031
+			public const int common_google_play_services_update_text = 2131099697;
+			
+			// aapt resource value: 0x7f060032
+			public const int common_google_play_services_update_title = 2131099698;
+			
+			// aapt resource value: 0x7f060033
+			public const int common_google_play_services_updating_text = 2131099699;
+			
+			// aapt resource value: 0x7f060034
+			public const int common_google_play_services_wear_update_text = 2131099700;
+			
+			// aapt resource value: 0x7f060035
+			public const int common_open_on_phone = 2131099701;
+			
+			// aapt resource value: 0x7f060036
+			public const int common_signin_button_text = 2131099702;
+			
+			// aapt resource value: 0x7f060037
+			public const int common_signin_button_text_long = 2131099703;
+			
+			// aapt resource value: 0x7f06001f
+			public const int create_calendar_message = 2131099679;
+			
+			// aapt resource value: 0x7f060020
+			public const int create_calendar_title = 2131099680;
+			
+			// aapt resource value: 0x7f060021
+			public const int debug_menu_ad_information = 2131099681;
+			
+			// aapt resource value: 0x7f060022
+			public const int debug_menu_creative_preview = 2131099682;
+			
+			// aapt resource value: 0x7f060023
+			public const int debug_menu_title = 2131099683;
+			
+			// aapt resource value: 0x7f060024
+			public const int debug_menu_troubleshooting = 2131099684;
+			
+			// aapt resource value: 0x7f060025
+			public const int decline = 2131099685;
 			
 			// aapt resource value: 0x7f060000
 			public const int mr_media_route_button_content_description = 2131099648;
@@ -4048,6 +2846,12 @@ namespace QuestionsGame.Droid
 			
 			// aapt resource value: 0x7f06001c
 			public const int status_bar_notification_info_overflow = 2131099676;
+			
+			// aapt resource value: 0x7f060026
+			public const int store_picture_message = 2131099686;
+			
+			// aapt resource value: 0x7f060027
+			public const int store_picture_title = 2131099687;
 			
 			static String()
 			{
@@ -4782,6 +3586,9 @@ namespace QuestionsGame.Droid
 			// aapt resource value: 0x7f0800ed
 			public const int Theme_AppCompat_NoActionBar = 2131230957;
 			
+			// aapt resource value: 0x7f080144
+			public const int Theme_IAPTheme = 2131231044;
+			
 			// aapt resource value: 0x7f080000
 			public const int Theme_MediaRouter = 2131230720;
 			
@@ -5207,6 +4014,20 @@ namespace QuestionsGame.Droid
 			// aapt resource value: 0
 			public const int ActivityChooserView_initialActivityCount = 0;
 			
+			public static int[] AdsAttrs = new int[] {
+					2130772254,
+					2130772255,
+					2130772256};
+			
+			// aapt resource value: 0
+			public const int AdsAttrs_adSize = 0;
+			
+			// aapt resource value: 1
+			public const int AdsAttrs_adSizes = 1;
+			
+			// aapt resource value: 2
+			public const int AdsAttrs_adUnitId = 2;
+			
 			public static int[] AlertDialog = new int[] {
 					16842994,
 					2130772019,
@@ -5561,6 +4382,20 @@ namespace QuestionsGame.Droid
 			// aapt resource value: 1
 			public const int ListPopupWindow_android_dropDownVerticalOffset = 1;
 			
+			public static int[] LoadingImageView = new int[] {
+					2130772248,
+					2130772249,
+					2130772250};
+			
+			// aapt resource value: 2
+			public const int LoadingImageView_circleCrop = 2;
+			
+			// aapt resource value: 1
+			public const int LoadingImageView_imageAspectRatio = 1;
+			
+			// aapt resource value: 0
+			public const int LoadingImageView_imageAspectRatioAdjust = 0;
+			
 			public static int[] MediaRouteButton = new int[] {
 					16843071,
 					16843072,
@@ -5763,6 +4598,32 @@ namespace QuestionsGame.Droid
 			// aapt resource value: 0
 			public const int PopupWindowBackgroundState_state_above_anchor = 0;
 			
+			public static int[] RecyclerView = new int[] {
+					16842948,
+					16842993,
+					2130772257,
+					2130772258,
+					2130772259,
+					2130772260};
+			
+			// aapt resource value: 1
+			public const int RecyclerView_android_descendantFocusability = 1;
+			
+			// aapt resource value: 0
+			public const int RecyclerView_android_orientation = 0;
+			
+			// aapt resource value: 2
+			public const int RecyclerView_layoutManager = 2;
+			
+			// aapt resource value: 4
+			public const int RecyclerView_reverseLayout = 4;
+			
+			// aapt resource value: 3
+			public const int RecyclerView_spanCount = 3;
+			
+			// aapt resource value: 5
+			public const int RecyclerView_stackFromEnd = 5;
+			
 			public static int[] ScrimInsetsFrameLayout = new int[] {
 					2130772225};
 			
@@ -5844,6 +4705,20 @@ namespace QuestionsGame.Droid
 			
 			// aapt resource value: 12
 			public const int SearchView_voiceIcon = 12;
+			
+			public static int[] SignInButton = new int[] {
+					2130772251,
+					2130772252,
+					2130772253};
+			
+			// aapt resource value: 0
+			public const int SignInButton_buttonSize = 0;
+			
+			// aapt resource value: 1
+			public const int SignInButton_colorScheme = 1;
+			
+			// aapt resource value: 2
+			public const int SignInButton_scopeUris = 2;
 			
 			public static int[] SnackbarLayout = new int[] {
 					16843039,

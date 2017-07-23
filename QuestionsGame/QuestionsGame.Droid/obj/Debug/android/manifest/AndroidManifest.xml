@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" package="com.dlapps.worldquiz" android:versionCode="1" android:versionName="1">
-  <!--suppress UsesMinSdkAttributes-->
-  <uses-sdk android:minSdkVersion="15" />
-  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="24" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.INTERNET" />
   <application android:label="World Quiz" android:icon="@drawable/icon" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:name="com.google.android.gms.ads.AdActivity" android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" android:theme="@android:style/Theme.Translucent" />
     <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="World Quiz" android:screenOrientation="portrait" android:name="md58d2cce20bc6550ca2649bf93a950f4b3.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
@@ -20,5 +21,10 @@
         <category android:name="mono.android.intent.category.SEPPUKU.com.dlapps.worldquiz" />
       </intent-filter>
     </receiver>
+    <!--Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+    <activity android:name="com.google.android.gms.ads.AdActivity" android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" android:theme="@android:style/Theme.Translucent" />
+    <activity android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity" android:theme="@style/Theme.IAPTheme" />
+    <activity android:name="com.google.android.gms.common.api.GoogleApiActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar" android:exported="false" />
+    <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
   </application>
 </manifest>

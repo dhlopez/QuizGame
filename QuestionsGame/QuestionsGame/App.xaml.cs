@@ -39,7 +39,8 @@ namespace QuestionsGame
                 
             }*/
             // The root page of your application
-            var nav= new NavigationPage(new Menu());
+            //var nav= new NavigationPage(new Menu());
+            var nav = new NavigationPage(new lvl2());
             MainPage = nav;
         }
 

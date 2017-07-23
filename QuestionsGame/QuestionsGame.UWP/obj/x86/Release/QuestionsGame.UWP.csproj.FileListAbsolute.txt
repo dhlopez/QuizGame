@@ -464,3 +464,4 @@ C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.UWP\obj\x86\Release\ilc\intermediate\SgGenerated\System.Runtime.Serialization.Generated.pdb
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.UWP\obj\x86\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.UWP\obj\x86\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll.ILTransformTask.repro
+C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.UWP\bin\x86\Release\Services\IAudio.cs

@@ -15,21 +15,20 @@ namespace QuestionsGame.Droid
     {
 
         MediaPlayer _player;
-        public void PlayMusic()
-        {
+        //public void PlayMusic()
+        //{
 
-            _player = MediaPlayer.Create(this, Resource.Raw.test);
+        //    _player = MediaPlayer.Create(this, Resource.Raw.test);
 
-            var playButton = FindViewById<Button>(Resource.Id.play_pause);
+        //    var playButton = FindViewById<Button>(Resource.Id.play_pause);
 
-            playButton.Click += delegate {
-                _player.Start();
-            };
-            _player.Start();
-        }
+        //    playButton.Click += delegate {
+        //        _player.Start();
+        //    };
+        //    _player.Start();
+        //}
         protected override void OnCreate(Bundle bundle)
         {
-            
             base.OnCreate(bundle);
 
             global::Xamarin.Forms.Forms.Init(this, bundle);

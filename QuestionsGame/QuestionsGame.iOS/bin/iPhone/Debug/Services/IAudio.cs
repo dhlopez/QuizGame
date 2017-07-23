@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace QuestionsGame.Services
 {
-    interface IAudio
+    public interface IAudio
     {
         bool PlayMp3File(string fileName);
+        bool PlayCorrect();
+        bool PlayWrong();
+        bool PlayEnd();
     }
 }

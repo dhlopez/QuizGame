@@ -17,6 +17,9 @@ namespace QuestionsGame {
     public partial class lvl1 : global::Xamarin.Forms.ContentPage {
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Label Title;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::Xamarin.Forms.Button A;
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
@@ -34,6 +37,7 @@ namespace QuestionsGame {
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(lvl1));
+            Title = this.FindByName<global::Xamarin.Forms.Label>("Title");
             A = this.FindByName<global::Xamarin.Forms.Button>("A");
             B = this.FindByName<global::Xamarin.Forms.Button>("B");
             C = this.FindByName<global::Xamarin.Forms.Button>("C");

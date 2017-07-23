@@ -35,17 +35,19 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="AdBanner.cs" />
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
-    <Compile Include="IAdInterstitial.cs" />
+    <Compile Include="AdMobView.cs" />
     <Compile Include="IFileHelper.cs" />
     <Compile Include="database\TodoItemDatabase.cs" />
     <Compile Include="Help.xaml.cs">
       <DependentUpon>Help.xaml</DependentUpon>
     </Compile>
     <Compile Include="ISQLite.cs" />
+    <Compile Include="lvl2.xaml.cs">
+      <DependentUpon>lvl2.xaml</DependentUpon>
+    </Compile>
     <Compile Include="models\TodoItem.cs" />
     <Compile Include="models\Questions.cs" />
     <Compile Include="models\User.cs" />
@@ -152,6 +154,12 @@
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="resultwrong.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="lvl2.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>

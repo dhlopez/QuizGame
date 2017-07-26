@@ -6,3 +6,4 @@ QuestionsGame, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   QuestionsGame.Stats.xaml
   QuestionsGame.Help.xaml
   QuestionsGame.resultwrong.xaml
+  QuestionsGame.lvl2.xaml

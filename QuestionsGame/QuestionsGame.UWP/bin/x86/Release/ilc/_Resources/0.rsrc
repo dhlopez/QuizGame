@@ -2,7 +2,8 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:QuestionsGame"
-             x:Class="QuestionsGame.lvl1">
+             x:Class="QuestionsGame.lvl1"
+              xmlns:controls="QuestionsGame.AdMobView">
   <!--
   <Label Text="{Binding MainText}" VerticalOptions="Center" HorizontalOptions="Center" />
   <Label Text="Hello, XAML!"
@@ -14,7 +15,9 @@
          FontAttributes="Bold"
          TextColor="Aqua" />
          -->
-<Grid BackgroundColor="#183E65">
+
+<StackLayout>
+  <Grid BackgroundColor="#183E65">
   <Grid.ColumnDefinitions>
     <ColumnDefinition Width="1*" />
     <ColumnDefinition Width="3*"/>
@@ -25,7 +28,6 @@
   <Grid.RowDefinitions>
     <RowDefinition Height="1*" />
     <RowDefinition Height="4*" />
-    <RowDefinition Height="1*" />
     <RowDefinition Height="1*" />
     <RowDefinition Height="1*" />
     <RowDefinition Height="1*" />
@@ -88,10 +90,13 @@
     <Entry Grid.Column="4" Grid.Row="7" BackgroundColor="Red" >asdfsd</Entry>-->
   
     <!--<Entry Grid.Column="0" Grid.Row="8" BackgroundColor="Red" >asdfsd</Entry>-->
-    <Button  x:Name="Menu"  Grid.Column="0" Grid.Row="8" Grid.ColumnSpan="2" Text="Menu" Style="{StaticResource blueButtons}" Clicked="MenuClicked" />
+    <Button  x:Name="Menu"  Grid.Column="0" Grid.Row="7" Grid.ColumnSpan="2" Text="Menu" Style="{StaticResource blueButtons}" Clicked="MenuClicked" />
     <!--<Entry Grid.Column="2" Grid.Row="8" BackgroundColor="Red" >asdfsd</Entry>-->
-    <Button  x:Name="Stats"  Grid.Column="3" Grid.Row="8" Grid.ColumnSpan="2" Text="Stats" Style="{StaticResource blueButtons}" Clicked="StatsClicked" />
+    <Button  x:Name="Stats"  Grid.Column="3" Grid.Row="7" Grid.ColumnSpan="2" Text="Stats" Style="{StaticResource blueButtons}" Clicked="StatsClicked" />
     <!--<Entry Grid.Column="4" Grid.Row="8" BackgroundColor="Red" >asdfsd</Entry>-->
-</Grid>
+   </Grid>
+    <!--<controls:AdMobView WidthRequest="320" HeightRequest="50"/>-->
+  <controls:AdMobView WidthRequest="320" HeightRequest="50"/>
+</StackLayout>
 
 </ContentPage>

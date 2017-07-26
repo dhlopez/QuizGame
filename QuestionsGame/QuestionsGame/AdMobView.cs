@@ -7,7 +7,7 @@ using Xamarin.Forms;
 
 namespace QuestionsGame
 {
-    public class AdMobView : ContentView
+    public class AdMobView : Button//ContentView
     {
         public AdMobView() { }
     }

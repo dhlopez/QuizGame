@@ -3860,35 +3860,35 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.dlapps.worldquiz:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.dlapps.worldquiz:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.dlapps.worldquiz:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.dlapps.worldquiz:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.dlapps.worldquiz:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.dlapps.worldquiz:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.dlapps.worldquiz:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.dlapps.worldquiz:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.dlapps.worldquiz:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.dlapps.worldquiz:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.dlapps.worldquiz:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.dlapps.worldquiz:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.dlapps.worldquiz:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height com.dlapps.worldquiz:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.dlapps.worldquiz:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.dlapps.worldquiz:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.dlapps.worldquiz:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.dlapps.worldquiz:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.dlapps.worldquiz:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.dlapps.worldquiz:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.dlapps.worldquiz:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.dlapps.worldquiz:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.dlapps.worldquiz:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.dlapps.worldquiz:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.dlapps.worldquiz:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.dlapps.worldquiz:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.dlapps.worldquiz:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title com.dlapps.worldquiz:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.dlapps.worldquiz:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background com.dlapps.worldtrivia:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit com.dlapps.worldtrivia:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked com.dlapps.worldtrivia:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd com.dlapps.worldtrivia:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.dlapps.worldtrivia:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft com.dlapps.worldtrivia:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight com.dlapps.worldtrivia:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart com.dlapps.worldtrivia:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.dlapps.worldtrivia:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout com.dlapps.worldtrivia:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions com.dlapps.worldtrivia:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider com.dlapps.worldtrivia:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation com.dlapps.worldtrivia:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height com.dlapps.worldtrivia:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.dlapps.worldtrivia:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.dlapps.worldtrivia:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout com.dlapps.worldtrivia:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon com.dlapps.worldtrivia:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.dlapps.worldtrivia:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding com.dlapps.worldtrivia:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo com.dlapps.worldtrivia:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode com.dlapps.worldtrivia:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme com.dlapps.worldtrivia:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding com.dlapps.worldtrivia:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle com.dlapps.worldtrivia:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle com.dlapps.worldtrivia:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.dlapps.worldtrivia:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title com.dlapps.worldtrivia:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle com.dlapps.worldtrivia:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -3931,17 +3931,17 @@ containing a value of this type.
             0x7f0100cd
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#background}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:background
+          @attr name com.dlapps.worldtrivia:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3949,11 +3949,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.dlapps.worldquiz:backgroundSplit
+          @attr name com.dlapps.worldtrivia:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3961,11 +3961,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.dlapps.worldquiz:backgroundStacked
+          @attr name com.dlapps.worldtrivia:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3977,11 +3977,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:contentInsetEnd
+          @attr name com.dlapps.worldtrivia:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3993,11 +3993,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:contentInsetEndWithActions
+          @attr name com.dlapps.worldtrivia:contentInsetEndWithActions
         */
         public static final int ActionBar_contentInsetEndWithActions = 25;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4009,11 +4009,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:contentInsetLeft
+          @attr name com.dlapps.worldtrivia:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4025,11 +4025,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:contentInsetRight
+          @attr name com.dlapps.worldtrivia:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4041,11 +4041,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:contentInsetStart
+          @attr name com.dlapps.worldtrivia:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4057,21 +4057,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:contentInsetStartWithNavigation
+          @attr name com.dlapps.worldtrivia:contentInsetStartWithNavigation
         */
         public static final int ActionBar_contentInsetStartWithNavigation = 24;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:customNavigationLayout
+          @attr name com.dlapps.worldtrivia:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4089,21 +4089,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldquiz:displayOptions
+          @attr name com.dlapps.worldtrivia:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:divider
+          @attr name com.dlapps.worldtrivia:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4115,11 +4115,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:elevation
+          @attr name com.dlapps.worldtrivia:elevation
         */
         public static final int ActionBar_elevation = 26;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#height}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4131,11 +4131,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:height
+          @attr name com.dlapps.worldtrivia:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4145,51 +4145,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:hideOnContentScroll
+          @attr name com.dlapps.worldtrivia:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:homeAsUpIndicator
+          @attr name com.dlapps.worldtrivia:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 28;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:homeLayout
+          @attr name com.dlapps.worldtrivia:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#icon}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:icon
+          @attr name com.dlapps.worldtrivia:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:indeterminateProgressStyle
+          @attr name com.dlapps.worldtrivia:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4201,21 +4201,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:itemPadding
+          @attr name com.dlapps.worldtrivia:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:logo
+          @attr name com.dlapps.worldtrivia:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4229,21 +4229,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldquiz:navigationMode
+          @attr name com.dlapps.worldtrivia:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:popupTheme
+          @attr name com.dlapps.worldtrivia:popupTheme
         */
         public static final int ActionBar_popupTheme = 27;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4255,21 +4255,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:progressBarPadding
+          @attr name com.dlapps.worldtrivia:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:progressBarStyle
+          @attr name com.dlapps.worldtrivia:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4279,21 +4279,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:subtitle
+          @attr name com.dlapps.worldtrivia:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:subtitleTextStyle
+          @attr name com.dlapps.worldtrivia:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#title}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4303,17 +4303,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:title
+          @attr name com.dlapps.worldtrivia:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:titleTextStyle
+          @attr name com.dlapps.worldtrivia:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -4365,12 +4365,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.dlapps.worldquiz:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.dlapps.worldquiz:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.dlapps.worldquiz:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height com.dlapps.worldquiz:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.dlapps.worldquiz:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.dlapps.worldquiz:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background com.dlapps.worldtrivia:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit com.dlapps.worldtrivia:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout com.dlapps.worldtrivia:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height com.dlapps.worldtrivia:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.dlapps.worldtrivia:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle com.dlapps.worldtrivia:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -4384,17 +4384,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010080, 0x7f010090
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#background}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:background
+          @attr name com.dlapps.worldtrivia:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -4402,21 +4402,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.dlapps.worldquiz:backgroundSplit
+          @attr name com.dlapps.worldtrivia:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:closeItemLayout
+          @attr name com.dlapps.worldtrivia:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#height}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -4428,27 +4428,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:height
+          @attr name com.dlapps.worldtrivia:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:subtitleTextStyle
+          @attr name com.dlapps.worldtrivia:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:titleTextStyle
+          @attr name com.dlapps.worldtrivia:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -4457,8 +4457,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.dlapps.worldquiz:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.dlapps.worldquiz:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.dlapps.worldtrivia:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.dlapps.worldtrivia:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -4467,17 +4467,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010091, 0x7f010092
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:expandActivityOverflowButtonDrawable
+          @attr name com.dlapps.worldtrivia:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -4487,7 +4487,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:initialActivityCount
+          @attr name com.dlapps.worldtrivia:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AdsAttrs.
@@ -4496,9 +4496,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AdsAttrs_adSize com.dlapps.worldquiz:adSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AdsAttrs_adSizes com.dlapps.worldquiz:adSizes}</code></td><td></td></tr>
-           <tr><td><code>{@link #AdsAttrs_adUnitId com.dlapps.worldquiz:adUnitId}</code></td><td></td></tr>
+           <tr><td><code>{@link #AdsAttrs_adSize com.dlapps.worldtrivia:adSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AdsAttrs_adSizes com.dlapps.worldtrivia:adSizes}</code></td><td></td></tr>
+           <tr><td><code>{@link #AdsAttrs_adUnitId com.dlapps.worldtrivia:adUnitId}</code></td><td></td></tr>
            </table>
            @see #AdsAttrs_adSize
            @see #AdsAttrs_adSizes
@@ -4508,7 +4508,7 @@ containing a value of this type.
             0x7f010011, 0x7f010012, 0x7f010013
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#adSize}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#adSize}
           attribute's value can be found in the {@link #AdsAttrs} array.
 
 
@@ -4518,11 +4518,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:adSize
+          @attr name com.dlapps.worldtrivia:adSize
         */
         public static final int AdsAttrs_adSize = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#adSizes}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#adSizes}
           attribute's value can be found in the {@link #AdsAttrs} array.
 
 
@@ -4532,11 +4532,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:adSizes
+          @attr name com.dlapps.worldtrivia:adSizes
         */
         public static final int AdsAttrs_adSizes = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#adUnitId}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#adUnitId}
           attribute's value can be found in the {@link #AdsAttrs} array.
 
 
@@ -4546,7 +4546,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:adUnitId
+          @attr name com.dlapps.worldtrivia:adUnitId
         */
         public static final int AdsAttrs_adUnitId = 2;
         /** Attributes that can be used with a AlertDialog.
@@ -4556,12 +4556,12 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.dlapps.worldquiz:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout com.dlapps.worldquiz:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout com.dlapps.worldquiz:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.dlapps.worldquiz:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_showTitle com.dlapps.worldquiz:showTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.dlapps.worldquiz:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.dlapps.worldtrivia:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout com.dlapps.worldtrivia:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout com.dlapps.worldtrivia:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.dlapps.worldtrivia:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_showTitle com.dlapps.worldtrivia:showTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.dlapps.worldtrivia:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -4582,47 +4582,47 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:buttonPanelSideLayout
+          @attr name com.dlapps.worldtrivia:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:listItemLayout
+          @attr name com.dlapps.worldtrivia:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:listLayout
+          @attr name com.dlapps.worldtrivia:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:multiChoiceItemLayout
+          @attr name com.dlapps.worldtrivia:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#showTitle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#showTitle}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -4632,17 +4632,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:showTitle
+          @attr name com.dlapps.worldtrivia:showTitle
         */
         public static final int AlertDialog_showTitle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:singleChoiceItemLayout
+          @attr name com.dlapps.worldtrivia:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppBarLayout.
@@ -4652,8 +4652,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_elevation com.dlapps.worldquiz:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_expanded com.dlapps.worldquiz:expanded}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_elevation com.dlapps.worldtrivia:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_expanded com.dlapps.worldtrivia:expanded}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_android_background
            @see #AppBarLayout_elevation
@@ -4669,7 +4669,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppBarLayout_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#elevation}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4681,11 +4681,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:elevation
+          @attr name com.dlapps.worldtrivia:elevation
         */
         public static final int AppBarLayout_elevation = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#expanded}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#expanded}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4695,7 +4695,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:expanded
+          @attr name com.dlapps.worldtrivia:expanded
         */
         public static final int AppBarLayout_expanded = 1;
         /** Attributes that can be used with a AppBarLayoutStates.
@@ -4704,8 +4704,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.dlapps.worldquiz:state_collapsed}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.dlapps.worldquiz:state_collapsible}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.dlapps.worldtrivia:state_collapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.dlapps.worldtrivia:state_collapsible}</code></td><td></td></tr>
            </table>
            @see #AppBarLayoutStates_state_collapsed
            @see #AppBarLayoutStates_state_collapsible
@@ -4714,7 +4714,7 @@ containing a value of this type.
             0x7f010021, 0x7f010022
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#state_collapsed}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#state_collapsed}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4724,11 +4724,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:state_collapsed
+          @attr name com.dlapps.worldtrivia:state_collapsed
         */
         public static final int AppBarLayoutStates_state_collapsed = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#state_collapsible}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#state_collapsible}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4738,7 +4738,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:state_collapsible
+          @attr name com.dlapps.worldtrivia:state_collapsible
         */
         public static final int AppBarLayoutStates_state_collapsible = 1;
         /** Attributes that can be used with a AppBarLayout_Layout.
@@ -4747,8 +4747,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.dlapps.worldquiz:layout_scrollFlags}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.dlapps.worldquiz:layout_scrollInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.dlapps.worldtrivia:layout_scrollFlags}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.dlapps.worldtrivia:layout_scrollInterpolator}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_Layout_layout_scrollFlags
            @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -4757,7 +4757,7 @@ containing a value of this type.
             0x7f010023, 0x7f010024
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#layout_scrollFlags}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#layout_scrollFlags}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
@@ -4773,17 +4773,17 @@ containing a value of this type.
 <tr><td><code>enterAlwaysCollapsed</code></td><td>0x8</td><td></td></tr>
 <tr><td><code>snap</code></td><td>0x10</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldquiz:layout_scrollFlags
+          @attr name com.dlapps.worldtrivia:layout_scrollFlags
         */
         public static final int AppBarLayout_Layout_layout_scrollFlags = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#layout_scrollInterpolator}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#layout_scrollInterpolator}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:layout_scrollInterpolator
+          @attr name com.dlapps.worldtrivia:layout_scrollInterpolator
         */
         public static final int AppBarLayout_Layout_layout_scrollInterpolator = 1;
         /** Attributes that can be used with a AppCompatImageView.
@@ -4793,7 +4793,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_srcCompat com.dlapps.worldquiz:srcCompat}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_srcCompat com.dlapps.worldtrivia:srcCompat}</code></td><td></td></tr>
            </table>
            @see #AppCompatImageView_android_src
            @see #AppCompatImageView_srcCompat
@@ -4808,13 +4808,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatImageView_android_src = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#srcCompat}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#srcCompat}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:srcCompat
+          @attr name com.dlapps.worldtrivia:srcCompat
         */
         public static final int AppCompatImageView_srcCompat = 1;
         /** Attributes that can be used with a AppCompatSeekBar.
@@ -4824,9 +4824,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.dlapps.worldquiz:tickMark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.dlapps.worldquiz:tickMarkTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.dlapps.worldquiz:tickMarkTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.dlapps.worldtrivia:tickMark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.dlapps.worldtrivia:tickMarkTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.dlapps.worldtrivia:tickMarkTintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatSeekBar_android_thumb
            @see #AppCompatSeekBar_tickMark
@@ -4843,17 +4843,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatSeekBar_android_thumb = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#tickMark}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tickMark}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:tickMark
+          @attr name com.dlapps.worldtrivia:tickMark
         */
         public static final int AppCompatSeekBar_tickMark = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#tickMarkTint}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tickMarkTint}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4864,11 +4864,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:tickMarkTint
+          @attr name com.dlapps.worldtrivia:tickMarkTint
         */
         public static final int AppCompatSeekBar_tickMarkTint = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#tickMarkTintMode}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tickMarkTintMode}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4885,7 +4885,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldquiz:tickMarkTintMode
+          @attr name com.dlapps.worldtrivia:tickMarkTintMode
         */
         public static final int AppCompatSeekBar_tickMarkTintMode = 3;
         /** Attributes that can be used with a AppCompatTextHelper.
@@ -4963,7 +4963,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.dlapps.worldquiz:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.dlapps.worldtrivia:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -4978,14 +4978,14 @@ containing a value of this type.
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.dlapps.worldquiz:textAllCaps
+          @attr name com.dlapps.worldtrivia:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a AppCompatTheme.
@@ -4994,121 +4994,121 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.dlapps.worldquiz:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.dlapps.worldquiz:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.dlapps.worldquiz:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.dlapps.worldquiz:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.dlapps.worldquiz:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.dlapps.worldquiz:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.dlapps.worldquiz:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.dlapps.worldquiz:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.dlapps.worldquiz:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.dlapps.worldquiz:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.dlapps.worldquiz:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.dlapps.worldquiz:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.dlapps.worldquiz:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.dlapps.worldquiz:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.dlapps.worldquiz:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.dlapps.worldquiz:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.dlapps.worldquiz:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.dlapps.worldquiz:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.dlapps.worldquiz:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.dlapps.worldquiz:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.dlapps.worldquiz:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.dlapps.worldquiz:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.dlapps.worldquiz:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.dlapps.worldquiz:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.dlapps.worldquiz:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.dlapps.worldquiz:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.dlapps.worldquiz:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.dlapps.worldquiz:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.dlapps.worldquiz:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.dlapps.worldquiz:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.dlapps.worldquiz:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.dlapps.worldquiz:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.dlapps.worldquiz:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.dlapps.worldquiz:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.dlapps.worldquiz:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.dlapps.worldtrivia:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.dlapps.worldtrivia:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.dlapps.worldtrivia:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.dlapps.worldtrivia:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.dlapps.worldtrivia:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.dlapps.worldtrivia:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.dlapps.worldtrivia:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.dlapps.worldtrivia:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.dlapps.worldtrivia:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.dlapps.worldtrivia:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.dlapps.worldtrivia:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.dlapps.worldtrivia:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.dlapps.worldtrivia:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.dlapps.worldtrivia:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.dlapps.worldtrivia:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.dlapps.worldtrivia:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.dlapps.worldtrivia:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.dlapps.worldtrivia:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.dlapps.worldtrivia:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.dlapps.worldtrivia:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.dlapps.worldtrivia:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.dlapps.worldtrivia:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.dlapps.worldtrivia:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.dlapps.worldtrivia:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.dlapps.worldtrivia:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.dlapps.worldtrivia:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.dlapps.worldtrivia:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.dlapps.worldtrivia:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.dlapps.worldtrivia:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.dlapps.worldtrivia:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.dlapps.worldtrivia:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.dlapps.worldtrivia:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.dlapps.worldtrivia:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.dlapps.worldtrivia:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.dlapps.worldtrivia:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.dlapps.worldquiz:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.dlapps.worldquiz:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.dlapps.worldquiz:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.dlapps.worldquiz:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.dlapps.worldquiz:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.dlapps.worldquiz:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.dlapps.worldquiz:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.dlapps.worldquiz:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.dlapps.worldquiz:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.dlapps.worldquiz:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.dlapps.worldquiz:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorAccent com.dlapps.worldquiz:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.dlapps.worldquiz:colorBackgroundFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.dlapps.worldquiz:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.dlapps.worldquiz:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.dlapps.worldquiz:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.dlapps.worldquiz:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.dlapps.worldquiz:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.dlapps.worldquiz:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.dlapps.worldquiz:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_controlBackground com.dlapps.worldquiz:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.dlapps.worldquiz:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.dlapps.worldquiz:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.dlapps.worldquiz:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.dlapps.worldquiz:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.dlapps.worldquiz:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.dlapps.worldquiz:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.dlapps.worldquiz:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextColor com.dlapps.worldquiz:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.dlapps.worldquiz:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.dlapps.worldquiz:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.dlapps.worldquiz:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.dlapps.worldquiz:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.dlapps.worldquiz:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.dlapps.worldquiz:listMenuViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.dlapps.worldquiz:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.dlapps.worldquiz:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.dlapps.worldquiz:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.dlapps.worldquiz:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.dlapps.worldquiz:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.dlapps.worldquiz:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelBackground com.dlapps.worldquiz:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.dlapps.worldquiz:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.dlapps.worldquiz:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.dlapps.worldquiz:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.dlapps.worldquiz:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.dlapps.worldquiz:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.dlapps.worldquiz:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.dlapps.worldquiz:ratingBarStyleIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.dlapps.worldquiz:ratingBarStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.dlapps.worldquiz:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.dlapps.worldquiz:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.dlapps.worldquiz:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.dlapps.worldquiz:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.dlapps.worldquiz:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.dlapps.worldquiz:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_switchStyle com.dlapps.worldquiz:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.dlapps.worldquiz:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.dlapps.worldquiz:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.dlapps.worldquiz:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.dlapps.worldquiz:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.dlapps.worldquiz:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.dlapps.worldquiz:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.dlapps.worldquiz:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.dlapps.worldquiz:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.dlapps.worldquiz:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.dlapps.worldquiz:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.dlapps.worldquiz:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.dlapps.worldquiz:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.dlapps.worldquiz:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.dlapps.worldquiz:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.dlapps.worldquiz:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.dlapps.worldquiz:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.dlapps.worldquiz:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.dlapps.worldquiz:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.dlapps.worldquiz:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.dlapps.worldquiz:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.dlapps.worldquiz:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.dlapps.worldtrivia:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.dlapps.worldtrivia:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.dlapps.worldtrivia:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.dlapps.worldtrivia:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.dlapps.worldtrivia:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.dlapps.worldtrivia:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.dlapps.worldtrivia:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.dlapps.worldtrivia:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.dlapps.worldtrivia:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.dlapps.worldtrivia:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.dlapps.worldtrivia:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorAccent com.dlapps.worldtrivia:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.dlapps.worldtrivia:colorBackgroundFloating}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.dlapps.worldtrivia:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.dlapps.worldtrivia:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.dlapps.worldtrivia:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.dlapps.worldtrivia:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.dlapps.worldtrivia:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.dlapps.worldtrivia:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.dlapps.worldtrivia:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_controlBackground com.dlapps.worldtrivia:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.dlapps.worldtrivia:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.dlapps.worldtrivia:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.dlapps.worldtrivia:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.dlapps.worldtrivia:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.dlapps.worldtrivia:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.dlapps.worldtrivia:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.dlapps.worldtrivia:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextColor com.dlapps.worldtrivia:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.dlapps.worldtrivia:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.dlapps.worldtrivia:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.dlapps.worldtrivia:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.dlapps.worldtrivia:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.dlapps.worldtrivia:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.dlapps.worldtrivia:listMenuViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.dlapps.worldtrivia:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.dlapps.worldtrivia:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.dlapps.worldtrivia:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.dlapps.worldtrivia:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.dlapps.worldtrivia:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.dlapps.worldtrivia:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelBackground com.dlapps.worldtrivia:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.dlapps.worldtrivia:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.dlapps.worldtrivia:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.dlapps.worldtrivia:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.dlapps.worldtrivia:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.dlapps.worldtrivia:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.dlapps.worldtrivia:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.dlapps.worldtrivia:ratingBarStyleIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.dlapps.worldtrivia:ratingBarStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.dlapps.worldtrivia:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.dlapps.worldtrivia:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.dlapps.worldtrivia:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.dlapps.worldtrivia:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.dlapps.worldtrivia:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.dlapps.worldtrivia:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_switchStyle com.dlapps.worldtrivia:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.dlapps.worldtrivia:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.dlapps.worldtrivia:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.dlapps.worldtrivia:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.dlapps.worldtrivia:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.dlapps.worldtrivia:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.dlapps.worldtrivia:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.dlapps.worldtrivia:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.dlapps.worldtrivia:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.dlapps.worldtrivia:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.dlapps.worldtrivia:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.dlapps.worldtrivia:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.dlapps.worldtrivia:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.dlapps.worldtrivia:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.dlapps.worldtrivia:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.dlapps.worldtrivia:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.dlapps.worldtrivia:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.dlapps.worldtrivia:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.dlapps.worldtrivia:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.dlapps.worldtrivia:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.dlapps.worldtrivia:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.dlapps.worldtrivia:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #AppCompatTheme_actionBarDivider
            @see #AppCompatTheme_actionBarItemBackground
@@ -5258,37 +5258,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01010c, 0x7f01010d, 0x7f01010e
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:actionBarDivider
+          @attr name com.dlapps.worldtrivia:actionBarDivider
         */
         public static final int AppCompatTheme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:actionBarItemBackground
+          @attr name com.dlapps.worldtrivia:actionBarItemBackground
         */
         public static final int AppCompatTheme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:actionBarPopupTheme
+          @attr name com.dlapps.worldtrivia:actionBarPopupTheme
         */
         public static final int AppCompatTheme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionBarSize}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5308,111 +5308,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldquiz:actionBarSize
+          @attr name com.dlapps.worldtrivia:actionBarSize
         */
         public static final int AppCompatTheme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:actionBarSplitStyle
+          @attr name com.dlapps.worldtrivia:actionBarSplitStyle
         */
         public static final int AppCompatTheme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:actionBarStyle
+          @attr name com.dlapps.worldtrivia:actionBarStyle
         */
         public static final int AppCompatTheme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:actionBarTabBarStyle
+          @attr name com.dlapps.worldtrivia:actionBarTabBarStyle
         */
         public static final int AppCompatTheme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:actionBarTabStyle
+          @attr name com.dlapps.worldtrivia:actionBarTabStyle
         */
         public static final int AppCompatTheme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:actionBarTabTextStyle
+          @attr name com.dlapps.worldtrivia:actionBarTabTextStyle
         */
         public static final int AppCompatTheme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:actionBarTheme
+          @attr name com.dlapps.worldtrivia:actionBarTheme
         */
         public static final int AppCompatTheme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:actionBarWidgetTheme
+          @attr name com.dlapps.worldtrivia:actionBarWidgetTheme
         */
         public static final int AppCompatTheme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:actionButtonStyle
+          @attr name com.dlapps.worldtrivia:actionButtonStyle
         */
         public static final int AppCompatTheme_actionButtonStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:actionDropDownStyle
+          @attr name com.dlapps.worldtrivia:actionDropDownStyle
         */
         public static final int AppCompatTheme_actionDropDownStyle = 46;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:actionMenuTextAppearance
+          @attr name com.dlapps.worldtrivia:actionMenuTextAppearance
         */
         public static final int AppCompatTheme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5420,181 +5420,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.dlapps.worldquiz:actionMenuTextColor
+          @attr name com.dlapps.worldtrivia:actionMenuTextColor
         */
         public static final int AppCompatTheme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:actionModeBackground
+          @attr name com.dlapps.worldtrivia:actionModeBackground
         */
         public static final int AppCompatTheme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:actionModeCloseButtonStyle
+          @attr name com.dlapps.worldtrivia:actionModeCloseButtonStyle
         */
         public static final int AppCompatTheme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:actionModeCloseDrawable
+          @attr name com.dlapps.worldtrivia:actionModeCloseDrawable
         */
         public static final int AppCompatTheme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:actionModeCopyDrawable
+          @attr name com.dlapps.worldtrivia:actionModeCopyDrawable
         */
         public static final int AppCompatTheme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:actionModeCutDrawable
+          @attr name com.dlapps.worldtrivia:actionModeCutDrawable
         */
         public static final int AppCompatTheme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:actionModeFindDrawable
+          @attr name com.dlapps.worldtrivia:actionModeFindDrawable
         */
         public static final int AppCompatTheme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:actionModePasteDrawable
+          @attr name com.dlapps.worldtrivia:actionModePasteDrawable
         */
         public static final int AppCompatTheme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:actionModePopupWindowStyle
+          @attr name com.dlapps.worldtrivia:actionModePopupWindowStyle
         */
         public static final int AppCompatTheme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:actionModeSelectAllDrawable
+          @attr name com.dlapps.worldtrivia:actionModeSelectAllDrawable
         */
         public static final int AppCompatTheme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:actionModeShareDrawable
+          @attr name com.dlapps.worldtrivia:actionModeShareDrawable
         */
         public static final int AppCompatTheme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:actionModeSplitBackground
+          @attr name com.dlapps.worldtrivia:actionModeSplitBackground
         */
         public static final int AppCompatTheme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:actionModeStyle
+          @attr name com.dlapps.worldtrivia:actionModeStyle
         */
         public static final int AppCompatTheme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:actionModeWebSearchDrawable
+          @attr name com.dlapps.worldtrivia:actionModeWebSearchDrawable
         */
         public static final int AppCompatTheme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:actionOverflowButtonStyle
+          @attr name com.dlapps.worldtrivia:actionOverflowButtonStyle
         */
         public static final int AppCompatTheme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:actionOverflowMenuStyle
+          @attr name com.dlapps.worldtrivia:actionOverflowMenuStyle
         */
         public static final int AppCompatTheme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:activityChooserViewStyle
+          @attr name com.dlapps.worldtrivia:activityChooserViewStyle
         */
         public static final int AppCompatTheme_activityChooserViewStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:alertDialogButtonGroupStyle
+          @attr name com.dlapps.worldtrivia:alertDialogButtonGroupStyle
         */
         public static final int AppCompatTheme_alertDialogButtonGroupStyle = 94;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5604,27 +5604,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:alertDialogCenterButtons
+          @attr name com.dlapps.worldtrivia:alertDialogCenterButtons
         */
         public static final int AppCompatTheme_alertDialogCenterButtons = 95;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:alertDialogStyle
+          @attr name com.dlapps.worldtrivia:alertDialogStyle
         */
         public static final int AppCompatTheme_alertDialogStyle = 93;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:alertDialogTheme
+          @attr name com.dlapps.worldtrivia:alertDialogTheme
         */
         public static final int AppCompatTheme_alertDialogTheme = 96;
         /**
@@ -5640,117 +5640,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTheme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:autoCompleteTextViewStyle
+          @attr name com.dlapps.worldtrivia:autoCompleteTextViewStyle
         */
         public static final int AppCompatTheme_autoCompleteTextViewStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:borderlessButtonStyle
+          @attr name com.dlapps.worldtrivia:borderlessButtonStyle
         */
         public static final int AppCompatTheme_borderlessButtonStyle = 55;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:buttonBarButtonStyle
+          @attr name com.dlapps.worldtrivia:buttonBarButtonStyle
         */
         public static final int AppCompatTheme_buttonBarButtonStyle = 52;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:buttonBarNegativeButtonStyle
+          @attr name com.dlapps.worldtrivia:buttonBarNegativeButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNegativeButtonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:buttonBarNeutralButtonStyle
+          @attr name com.dlapps.worldtrivia:buttonBarNeutralButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNeutralButtonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:buttonBarPositiveButtonStyle
+          @attr name com.dlapps.worldtrivia:buttonBarPositiveButtonStyle
         */
         public static final int AppCompatTheme_buttonBarPositiveButtonStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:buttonBarStyle
+          @attr name com.dlapps.worldtrivia:buttonBarStyle
         */
         public static final int AppCompatTheme_buttonBarStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#buttonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:buttonStyle
+          @attr name com.dlapps.worldtrivia:buttonStyle
         */
         public static final int AppCompatTheme_buttonStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:buttonStyleSmall
+          @attr name com.dlapps.worldtrivia:buttonStyleSmall
         */
         public static final int AppCompatTheme_buttonStyleSmall = 103;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:checkboxStyle
+          @attr name com.dlapps.worldtrivia:checkboxStyle
         */
         public static final int AppCompatTheme_checkboxStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:checkedTextViewStyle
+          @attr name com.dlapps.worldtrivia:checkedTextViewStyle
         */
         public static final int AppCompatTheme_checkedTextViewStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#colorAccent}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5761,11 +5761,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:colorAccent
+          @attr name com.dlapps.worldtrivia:colorAccent
         */
         public static final int AppCompatTheme_colorAccent = 85;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#colorBackgroundFloating}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#colorBackgroundFloating}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5776,11 +5776,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:colorBackgroundFloating
+          @attr name com.dlapps.worldtrivia:colorBackgroundFloating
         */
         public static final int AppCompatTheme_colorBackgroundFloating = 92;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5791,11 +5791,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:colorButtonNormal
+          @attr name com.dlapps.worldtrivia:colorButtonNormal
         */
         public static final int AppCompatTheme_colorButtonNormal = 89;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5806,11 +5806,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:colorControlActivated
+          @attr name com.dlapps.worldtrivia:colorControlActivated
         */
         public static final int AppCompatTheme_colorControlActivated = 87;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5821,11 +5821,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:colorControlHighlight
+          @attr name com.dlapps.worldtrivia:colorControlHighlight
         */
         public static final int AppCompatTheme_colorControlHighlight = 88;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5836,11 +5836,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:colorControlNormal
+          @attr name com.dlapps.worldtrivia:colorControlNormal
         */
         public static final int AppCompatTheme_colorControlNormal = 86;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#colorPrimary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5851,11 +5851,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:colorPrimary
+          @attr name com.dlapps.worldtrivia:colorPrimary
         */
         public static final int AppCompatTheme_colorPrimary = 83;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5866,11 +5866,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:colorPrimaryDark
+          @attr name com.dlapps.worldtrivia:colorPrimaryDark
         */
         public static final int AppCompatTheme_colorPrimaryDark = 84;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5881,21 +5881,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:colorSwitchThumbNormal
+          @attr name com.dlapps.worldtrivia:colorSwitchThumbNormal
         */
         public static final int AppCompatTheme_colorSwitchThumbNormal = 90;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#controlBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:controlBackground
+          @attr name com.dlapps.worldtrivia:controlBackground
         */
         public static final int AppCompatTheme_controlBackground = 91;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5907,51 +5907,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:dialogPreferredPadding
+          @attr name com.dlapps.worldtrivia:dialogPreferredPadding
         */
         public static final int AppCompatTheme_dialogPreferredPadding = 44;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#dialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:dialogTheme
+          @attr name com.dlapps.worldtrivia:dialogTheme
         */
         public static final int AppCompatTheme_dialogTheme = 43;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:dividerHorizontal
+          @attr name com.dlapps.worldtrivia:dividerHorizontal
         */
         public static final int AppCompatTheme_dividerHorizontal = 57;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#dividerVertical}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:dividerVertical
+          @attr name com.dlapps.worldtrivia:dividerVertical
         */
         public static final int AppCompatTheme_dividerVertical = 56;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:dropDownListViewStyle
+          @attr name com.dlapps.worldtrivia:dropDownListViewStyle
         */
         public static final int AppCompatTheme_dropDownListViewStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5963,21 +5963,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:dropdownListPreferredItemHeight
+          @attr name com.dlapps.worldtrivia:dropdownListPreferredItemHeight
         */
         public static final int AppCompatTheme_dropdownListPreferredItemHeight = 47;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#editTextBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:editTextBackground
+          @attr name com.dlapps.worldtrivia:editTextBackground
         */
         public static final int AppCompatTheme_editTextBackground = 64;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#editTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5985,81 +5985,81 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.dlapps.worldquiz:editTextColor
+          @attr name com.dlapps.worldtrivia:editTextColor
         */
         public static final int AppCompatTheme_editTextColor = 63;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#editTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:editTextStyle
+          @attr name com.dlapps.worldtrivia:editTextStyle
         */
         public static final int AppCompatTheme_editTextStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:homeAsUpIndicator
+          @attr name com.dlapps.worldtrivia:homeAsUpIndicator
         */
         public static final int AppCompatTheme_homeAsUpIndicator = 49;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:imageButtonStyle
+          @attr name com.dlapps.worldtrivia:imageButtonStyle
         */
         public static final int AppCompatTheme_imageButtonStyle = 65;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:listChoiceBackgroundIndicator
+          @attr name com.dlapps.worldtrivia:listChoiceBackgroundIndicator
         */
         public static final int AppCompatTheme_listChoiceBackgroundIndicator = 82;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:listDividerAlertDialog
+          @attr name com.dlapps.worldtrivia:listDividerAlertDialog
         */
         public static final int AppCompatTheme_listDividerAlertDialog = 45;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#listMenuViewStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#listMenuViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:listMenuViewStyle
+          @attr name com.dlapps.worldtrivia:listMenuViewStyle
         */
         public static final int AppCompatTheme_listMenuViewStyle = 114;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:listPopupWindowStyle
+          @attr name com.dlapps.worldtrivia:listPopupWindowStyle
         */
         public static final int AppCompatTheme_listPopupWindowStyle = 76;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6071,11 +6071,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:listPreferredItemHeight
+          @attr name com.dlapps.worldtrivia:listPreferredItemHeight
         */
         public static final int AppCompatTheme_listPreferredItemHeight = 70;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6087,11 +6087,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:listPreferredItemHeightLarge
+          @attr name com.dlapps.worldtrivia:listPreferredItemHeightLarge
         */
         public static final int AppCompatTheme_listPreferredItemHeightLarge = 72;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6103,11 +6103,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:listPreferredItemHeightSmall
+          @attr name com.dlapps.worldtrivia:listPreferredItemHeightSmall
         */
         public static final int AppCompatTheme_listPreferredItemHeightSmall = 71;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6119,11 +6119,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:listPreferredItemPaddingLeft
+          @attr name com.dlapps.worldtrivia:listPreferredItemPaddingLeft
         */
         public static final int AppCompatTheme_listPreferredItemPaddingLeft = 73;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6135,31 +6135,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:listPreferredItemPaddingRight
+          @attr name com.dlapps.worldtrivia:listPreferredItemPaddingRight
         */
         public static final int AppCompatTheme_listPreferredItemPaddingRight = 74;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#panelBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:panelBackground
+          @attr name com.dlapps.worldtrivia:panelBackground
         */
         public static final int AppCompatTheme_panelBackground = 79;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:panelMenuListTheme
+          @attr name com.dlapps.worldtrivia:panelMenuListTheme
         */
         public static final int AppCompatTheme_panelMenuListTheme = 81;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6171,211 +6171,211 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:panelMenuListWidth
+          @attr name com.dlapps.worldtrivia:panelMenuListWidth
         */
         public static final int AppCompatTheme_panelMenuListWidth = 80;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:popupMenuStyle
+          @attr name com.dlapps.worldtrivia:popupMenuStyle
         */
         public static final int AppCompatTheme_popupMenuStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:popupWindowStyle
+          @attr name com.dlapps.worldtrivia:popupWindowStyle
         */
         public static final int AppCompatTheme_popupWindowStyle = 62;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:radioButtonStyle
+          @attr name com.dlapps.worldtrivia:radioButtonStyle
         */
         public static final int AppCompatTheme_radioButtonStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:ratingBarStyle
+          @attr name com.dlapps.worldtrivia:ratingBarStyle
         */
         public static final int AppCompatTheme_ratingBarStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#ratingBarStyleIndicator}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#ratingBarStyleIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:ratingBarStyleIndicator
+          @attr name com.dlapps.worldtrivia:ratingBarStyleIndicator
         */
         public static final int AppCompatTheme_ratingBarStyleIndicator = 109;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#ratingBarStyleSmall}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#ratingBarStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:ratingBarStyleSmall
+          @attr name com.dlapps.worldtrivia:ratingBarStyleSmall
         */
         public static final int AppCompatTheme_ratingBarStyleSmall = 110;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:searchViewStyle
+          @attr name com.dlapps.worldtrivia:searchViewStyle
         */
         public static final int AppCompatTheme_searchViewStyle = 69;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:seekBarStyle
+          @attr name com.dlapps.worldtrivia:seekBarStyle
         */
         public static final int AppCompatTheme_seekBarStyle = 111;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:selectableItemBackground
+          @attr name com.dlapps.worldtrivia:selectableItemBackground
         */
         public static final int AppCompatTheme_selectableItemBackground = 53;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:selectableItemBackgroundBorderless
+          @attr name com.dlapps.worldtrivia:selectableItemBackgroundBorderless
         */
         public static final int AppCompatTheme_selectableItemBackgroundBorderless = 54;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:spinnerDropDownItemStyle
+          @attr name com.dlapps.worldtrivia:spinnerDropDownItemStyle
         */
         public static final int AppCompatTheme_spinnerDropDownItemStyle = 48;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:spinnerStyle
+          @attr name com.dlapps.worldtrivia:spinnerStyle
         */
         public static final int AppCompatTheme_spinnerStyle = 112;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#switchStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:switchStyle
+          @attr name com.dlapps.worldtrivia:switchStyle
         */
         public static final int AppCompatTheme_switchStyle = 113;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:textAppearanceLargePopupMenu
+          @attr name com.dlapps.worldtrivia:textAppearanceLargePopupMenu
         */
         public static final int AppCompatTheme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:textAppearanceListItem
+          @attr name com.dlapps.worldtrivia:textAppearanceListItem
         */
         public static final int AppCompatTheme_textAppearanceListItem = 77;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:textAppearanceListItemSmall
+          @attr name com.dlapps.worldtrivia:textAppearanceListItemSmall
         */
         public static final int AppCompatTheme_textAppearanceListItemSmall = 78;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#textAppearancePopupMenuHeader}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#textAppearancePopupMenuHeader}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:textAppearancePopupMenuHeader
+          @attr name com.dlapps.worldtrivia:textAppearancePopupMenuHeader
         */
         public static final int AppCompatTheme_textAppearancePopupMenuHeader = 42;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:textAppearanceSearchResultSubtitle
+          @attr name com.dlapps.worldtrivia:textAppearanceSearchResultSubtitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultSubtitle = 67;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:textAppearanceSearchResultTitle
+          @attr name com.dlapps.worldtrivia:textAppearanceSearchResultTitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultTitle = 66;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:textAppearanceSmallPopupMenu
+          @attr name com.dlapps.worldtrivia:textAppearanceSmallPopupMenu
         */
         public static final int AppCompatTheme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6383,11 +6383,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.dlapps.worldquiz:textColorAlertDialogListItem
+          @attr name com.dlapps.worldtrivia:textColorAlertDialogListItem
         */
         public static final int AppCompatTheme_textColorAlertDialogListItem = 97;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6395,31 +6395,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.dlapps.worldquiz:textColorSearchUrl
+          @attr name com.dlapps.worldtrivia:textColorSearchUrl
         */
         public static final int AppCompatTheme_textColorSearchUrl = 68;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:toolbarNavigationButtonStyle
+          @attr name com.dlapps.worldtrivia:toolbarNavigationButtonStyle
         */
         public static final int AppCompatTheme_toolbarNavigationButtonStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:toolbarStyle
+          @attr name com.dlapps.worldtrivia:toolbarStyle
         */
         public static final int AppCompatTheme_toolbarStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#windowActionBar}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6429,11 +6429,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:windowActionBar
+          @attr name com.dlapps.worldtrivia:windowActionBar
         */
         public static final int AppCompatTheme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6443,11 +6443,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:windowActionBarOverlay
+          @attr name com.dlapps.worldtrivia:windowActionBarOverlay
         */
         public static final int AppCompatTheme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6457,11 +6457,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:windowActionModeOverlay
+          @attr name com.dlapps.worldtrivia:windowActionModeOverlay
         */
         public static final int AppCompatTheme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6476,11 +6476,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:windowFixedHeightMajor
+          @attr name com.dlapps.worldtrivia:windowFixedHeightMajor
         */
         public static final int AppCompatTheme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6495,11 +6495,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:windowFixedHeightMinor
+          @attr name com.dlapps.worldtrivia:windowFixedHeightMinor
         */
         public static final int AppCompatTheme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6514,11 +6514,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:windowFixedWidthMajor
+          @attr name com.dlapps.worldtrivia:windowFixedWidthMajor
         */
         public static final int AppCompatTheme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6533,11 +6533,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:windowFixedWidthMinor
+          @attr name com.dlapps.worldtrivia:windowFixedWidthMinor
         */
         public static final int AppCompatTheme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6552,11 +6552,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:windowMinWidthMajor
+          @attr name com.dlapps.worldtrivia:windowMinWidthMajor
         */
         public static final int AppCompatTheme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6571,11 +6571,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:windowMinWidthMinor
+          @attr name com.dlapps.worldtrivia:windowMinWidthMinor
         */
         public static final int AppCompatTheme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6585,7 +6585,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:windowNoTitle
+          @attr name com.dlapps.worldtrivia:windowNoTitle
         */
         public static final int AppCompatTheme_windowNoTitle = 3;
         /** Attributes that can be used with a BottomNavigationView.
@@ -6594,11 +6594,11 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomNavigationView_elevation com.dlapps.worldquiz:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemBackground com.dlapps.worldquiz:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemIconTint com.dlapps.worldquiz:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemTextColor com.dlapps.worldquiz:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_menu com.dlapps.worldquiz:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_elevation com.dlapps.worldtrivia:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemBackground com.dlapps.worldtrivia:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemIconTint com.dlapps.worldtrivia:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemTextColor com.dlapps.worldtrivia:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_menu com.dlapps.worldtrivia:menu}</code></td><td></td></tr>
            </table>
            @see #BottomNavigationView_elevation
            @see #BottomNavigationView_itemBackground
@@ -6611,7 +6611,7 @@ containing a value of this type.
             0x7f01008e
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#elevation}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6623,21 +6623,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:elevation
+          @attr name com.dlapps.worldtrivia:elevation
         */
         public static final int BottomNavigationView_elevation = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#itemBackground}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:itemBackground
+          @attr name com.dlapps.worldtrivia:itemBackground
         */
         public static final int BottomNavigationView_itemBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#itemIconTint}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6648,11 +6648,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:itemIconTint
+          @attr name com.dlapps.worldtrivia:itemIconTint
         */
         public static final int BottomNavigationView_itemIconTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#itemTextColor}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6663,17 +6663,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:itemTextColor
+          @attr name com.dlapps.worldtrivia:itemTextColor
         */
         public static final int BottomNavigationView_itemTextColor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#menu}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#menu}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:menu
+          @attr name com.dlapps.worldtrivia:menu
         */
         public static final int BottomNavigationView_menu = 0;
         /** Attributes that can be used with a BottomSheetBehavior_Layout.
@@ -6682,9 +6682,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.dlapps.worldquiz:behavior_hideable}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.dlapps.worldquiz:behavior_peekHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.dlapps.worldquiz:behavior_skipCollapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.dlapps.worldtrivia:behavior_hideable}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.dlapps.worldtrivia:behavior_peekHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.dlapps.worldtrivia:behavior_skipCollapsed}</code></td><td></td></tr>
            </table>
            @see #BottomSheetBehavior_Layout_behavior_hideable
            @see #BottomSheetBehavior_Layout_behavior_peekHeight
@@ -6694,7 +6694,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010025, 0x7f010026, 0x7f010027
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#behavior_hideable}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#behavior_hideable}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6704,11 +6704,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:behavior_hideable
+          @attr name com.dlapps.worldtrivia:behavior_hideable
         */
         public static final int BottomSheetBehavior_Layout_behavior_hideable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#behavior_peekHeight}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#behavior_peekHeight}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6728,11 +6728,11 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>auto</code></td><td>-1</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldquiz:behavior_peekHeight
+          @attr name com.dlapps.worldtrivia:behavior_peekHeight
         */
         public static final int BottomSheetBehavior_Layout_behavior_peekHeight = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#behavior_skipCollapsed}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#behavior_skipCollapsed}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6742,7 +6742,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:behavior_skipCollapsed
+          @attr name com.dlapps.worldtrivia:behavior_skipCollapsed
         */
         public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed = 2;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -6751,7 +6751,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.dlapps.worldquiz:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.dlapps.worldtrivia:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
@@ -6759,7 +6759,7 @@ containing a value of this type.
             0x7f01010f
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -6769,7 +6769,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:allowStacking
+          @attr name com.dlapps.worldtrivia:allowStacking
         */
         public static final int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CardView.
@@ -6780,17 +6780,17 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td></td></tr>
            <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardBackgroundColor com.dlapps.worldquiz:cardBackgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardCornerRadius com.dlapps.worldquiz:cardCornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardElevation com.dlapps.worldquiz:cardElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardMaxElevation com.dlapps.worldquiz:cardMaxElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.dlapps.worldquiz:cardPreventCornerOverlap}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardUseCompatPadding com.dlapps.worldquiz:cardUseCompatPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPadding com.dlapps.worldquiz:contentPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingBottom com.dlapps.worldquiz:contentPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingLeft com.dlapps.worldquiz:contentPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingRight com.dlapps.worldquiz:contentPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingTop com.dlapps.worldquiz:contentPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardBackgroundColor com.dlapps.worldtrivia:cardBackgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardCornerRadius com.dlapps.worldtrivia:cardCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardElevation com.dlapps.worldtrivia:cardElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardMaxElevation com.dlapps.worldtrivia:cardMaxElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.dlapps.worldtrivia:cardPreventCornerOverlap}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardUseCompatPadding com.dlapps.worldtrivia:cardUseCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPadding com.dlapps.worldtrivia:contentPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingBottom com.dlapps.worldtrivia:contentPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingLeft com.dlapps.worldtrivia:contentPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingRight com.dlapps.worldtrivia:contentPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingTop com.dlapps.worldtrivia:contentPaddingTop}</code></td><td></td></tr>
            </table>
            @see #CardView_android_minHeight
            @see #CardView_android_minWidth
@@ -6825,7 +6825,7 @@ containing a value of this type.
         */
         public static final int CardView_android_minWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#cardBackgroundColor}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#cardBackgroundColor}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6836,11 +6836,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:cardBackgroundColor
+          @attr name com.dlapps.worldtrivia:cardBackgroundColor
         */
         public static final int CardView_cardBackgroundColor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#cardCornerRadius}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#cardCornerRadius}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6852,11 +6852,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:cardCornerRadius
+          @attr name com.dlapps.worldtrivia:cardCornerRadius
         */
         public static final int CardView_cardCornerRadius = 3;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#cardElevation}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#cardElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6868,11 +6868,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:cardElevation
+          @attr name com.dlapps.worldtrivia:cardElevation
         */
         public static final int CardView_cardElevation = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#cardMaxElevation}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#cardMaxElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6884,11 +6884,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:cardMaxElevation
+          @attr name com.dlapps.worldtrivia:cardMaxElevation
         */
         public static final int CardView_cardMaxElevation = 5;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#cardPreventCornerOverlap}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#cardPreventCornerOverlap}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6898,11 +6898,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:cardPreventCornerOverlap
+          @attr name com.dlapps.worldtrivia:cardPreventCornerOverlap
         */
         public static final int CardView_cardPreventCornerOverlap = 7;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#cardUseCompatPadding}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#cardUseCompatPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6912,11 +6912,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:cardUseCompatPadding
+          @attr name com.dlapps.worldtrivia:cardUseCompatPadding
         */
         public static final int CardView_cardUseCompatPadding = 6;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#contentPadding}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6928,11 +6928,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:contentPadding
+          @attr name com.dlapps.worldtrivia:contentPadding
         */
         public static final int CardView_contentPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#contentPaddingBottom}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentPaddingBottom}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6944,11 +6944,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:contentPaddingBottom
+          @attr name com.dlapps.worldtrivia:contentPaddingBottom
         */
         public static final int CardView_contentPaddingBottom = 12;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#contentPaddingLeft}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentPaddingLeft}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6960,11 +6960,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:contentPaddingLeft
+          @attr name com.dlapps.worldtrivia:contentPaddingLeft
         */
         public static final int CardView_contentPaddingLeft = 9;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#contentPaddingRight}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentPaddingRight}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6976,11 +6976,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:contentPaddingRight
+          @attr name com.dlapps.worldtrivia:contentPaddingRight
         */
         public static final int CardView_contentPaddingRight = 10;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#contentPaddingTop}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentPaddingTop}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6992,7 +6992,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:contentPaddingTop
+          @attr name com.dlapps.worldtrivia:contentPaddingTop
         */
         public static final int CardView_contentPaddingTop = 11;
         /** Attributes that can be used with a CollapsingToolbarLayout.
@@ -7001,22 +7001,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.dlapps.worldquiz:collapsedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.dlapps.worldquiz:collapsedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.dlapps.worldquiz:contentScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.dlapps.worldquiz:expandedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.dlapps.worldquiz:expandedTitleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.dlapps.worldquiz:expandedTitleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.dlapps.worldquiz:expandedTitleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.dlapps.worldquiz:expandedTitleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.dlapps.worldquiz:expandedTitleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.dlapps.worldquiz:expandedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.dlapps.worldquiz:scrimAnimationDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.dlapps.worldquiz:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.dlapps.worldquiz:statusBarScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_title com.dlapps.worldquiz:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.dlapps.worldquiz:titleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.dlapps.worldquiz:toolbarId}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.dlapps.worldtrivia:collapsedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.dlapps.worldtrivia:collapsedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.dlapps.worldtrivia:contentScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.dlapps.worldtrivia:expandedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.dlapps.worldtrivia:expandedTitleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.dlapps.worldtrivia:expandedTitleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.dlapps.worldtrivia:expandedTitleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.dlapps.worldtrivia:expandedTitleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.dlapps.worldtrivia:expandedTitleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.dlapps.worldtrivia:expandedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.dlapps.worldtrivia:scrimAnimationDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.dlapps.worldtrivia:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.dlapps.worldtrivia:statusBarScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_title com.dlapps.worldtrivia:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.dlapps.worldtrivia:titleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.dlapps.worldtrivia:toolbarId}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_collapsedTitleGravity
            @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -7042,7 +7042,7 @@ containing a value of this type.
             0x7f010034, 0x7f010035, 0x7f010036, 0x7f010075
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#collapsedTitleGravity}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#collapsedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7063,21 +7063,21 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldquiz:collapsedTitleGravity
+          @attr name com.dlapps.worldtrivia:collapsedTitleGravity
         */
         public static final int CollapsingToolbarLayout_collapsedTitleGravity = 12;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#collapsedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#collapsedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:collapsedTitleTextAppearance
+          @attr name com.dlapps.worldtrivia:collapsedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance = 6;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#contentScrim}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7088,11 +7088,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:contentScrim
+          @attr name com.dlapps.worldtrivia:contentScrim
         */
         public static final int CollapsingToolbarLayout_contentScrim = 7;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#expandedTitleGravity}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#expandedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7113,11 +7113,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldquiz:expandedTitleGravity
+          @attr name com.dlapps.worldtrivia:expandedTitleGravity
         */
         public static final int CollapsingToolbarLayout_expandedTitleGravity = 13;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#expandedTitleMargin}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#expandedTitleMargin}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7129,11 +7129,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:expandedTitleMargin
+          @attr name com.dlapps.worldtrivia:expandedTitleMargin
         */
         public static final int CollapsingToolbarLayout_expandedTitleMargin = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#expandedTitleMarginBottom}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#expandedTitleMarginBottom}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7145,11 +7145,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:expandedTitleMarginBottom
+          @attr name com.dlapps.worldtrivia:expandedTitleMarginBottom
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginBottom = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#expandedTitleMarginEnd}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#expandedTitleMarginEnd}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7161,11 +7161,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:expandedTitleMarginEnd
+          @attr name com.dlapps.worldtrivia:expandedTitleMarginEnd
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#expandedTitleMarginStart}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#expandedTitleMarginStart}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7177,11 +7177,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:expandedTitleMarginStart
+          @attr name com.dlapps.worldtrivia:expandedTitleMarginStart
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginStart = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#expandedTitleMarginTop}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#expandedTitleMarginTop}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7193,21 +7193,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:expandedTitleMarginTop
+          @attr name com.dlapps.worldtrivia:expandedTitleMarginTop
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginTop = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#expandedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#expandedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:expandedTitleTextAppearance
+          @attr name com.dlapps.worldtrivia:expandedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_expandedTitleTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#scrimAnimationDuration}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#scrimAnimationDuration}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7217,11 +7217,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:scrimAnimationDuration
+          @attr name com.dlapps.worldtrivia:scrimAnimationDuration
         */
         public static final int CollapsingToolbarLayout_scrimAnimationDuration = 11;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#scrimVisibleHeightTrigger}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#scrimVisibleHeightTrigger}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7233,11 +7233,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:scrimVisibleHeightTrigger
+          @attr name com.dlapps.worldtrivia:scrimVisibleHeightTrigger
         */
         public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger = 10;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#statusBarScrim}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#statusBarScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7248,11 +7248,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:statusBarScrim
+          @attr name com.dlapps.worldtrivia:statusBarScrim
         */
         public static final int CollapsingToolbarLayout_statusBarScrim = 8;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#title}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#title}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7262,11 +7262,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:title
+          @attr name com.dlapps.worldtrivia:title
         */
         public static final int CollapsingToolbarLayout_title = 15;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#titleEnabled}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#titleEnabled}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7276,17 +7276,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:titleEnabled
+          @attr name com.dlapps.worldtrivia:titleEnabled
         */
         public static final int CollapsingToolbarLayout_titleEnabled = 14;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#toolbarId}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#toolbarId}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:toolbarId
+          @attr name com.dlapps.worldtrivia:toolbarId
         */
         public static final int CollapsingToolbarLayout_toolbarId = 9;
         /** Attributes that can be used with a CollapsingToolbarLayout_Layout.
@@ -7295,8 +7295,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.dlapps.worldquiz:layout_collapseMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.dlapps.worldquiz:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.dlapps.worldtrivia:layout_collapseMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.dlapps.worldtrivia:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_Layout_layout_collapseMode
            @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -7305,7 +7305,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010037, 0x7f010038
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#layout_collapseMode}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#layout_collapseMode}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -7319,11 +7319,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>pin</code></td><td>1</td><td></td></tr>
 <tr><td><code>parallax</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldquiz:layout_collapseMode
+          @attr name com.dlapps.worldtrivia:layout_collapseMode
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseMode = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#layout_collapseParallaxMultiplier}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#layout_collapseParallaxMultiplier}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -7333,7 +7333,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:layout_collapseParallaxMultiplier
+          @attr name com.dlapps.worldtrivia:layout_collapseParallaxMultiplier
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = 1;
         /** Attributes that can be used with a ColorStateListItem.
@@ -7342,7 +7342,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ColorStateListItem_alpha com.dlapps.worldquiz:alpha}</code></td><td></td></tr>
+           <tr><td><code>{@link #ColorStateListItem_alpha com.dlapps.worldtrivia:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
            </table>
@@ -7354,7 +7354,7 @@ containing a value of this type.
             0x010101a5, 0x0101031f, 0x7f010110
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#alpha}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#alpha}
           attribute's value can be found in the {@link #ColorStateListItem} array.
 
 
@@ -7364,7 +7364,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:alpha
+          @attr name com.dlapps.worldtrivia:alpha
         */
         public static final int ColorStateListItem_alpha = 2;
         /**
@@ -7386,8 +7386,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint com.dlapps.worldquiz:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode com.dlapps.worldquiz:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint com.dlapps.worldtrivia:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode com.dlapps.worldtrivia:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -7403,7 +7403,7 @@ containing a value of this type.
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -7414,11 +7414,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:buttonTint
+          @attr name com.dlapps.worldtrivia:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -7434,7 +7434,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldquiz:buttonTintMode
+          @attr name com.dlapps.worldtrivia:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a CoordinatorLayout.
@@ -7443,8 +7443,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CoordinatorLayout_keylines com.dlapps.worldquiz:keylines}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.dlapps.worldquiz:statusBarBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_keylines com.dlapps.worldtrivia:keylines}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.dlapps.worldtrivia:statusBarBackground}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_keylines
            @see #CoordinatorLayout_statusBarBackground
@@ -7453,23 +7453,23 @@ containing a value of this type.
             0x7f010039, 0x7f01003a
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#keylines}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#keylines}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:keylines
+          @attr name com.dlapps.worldtrivia:keylines
         */
         public static final int CoordinatorLayout_keylines = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#statusBarBackground}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#statusBarBackground}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:statusBarBackground
+          @attr name com.dlapps.worldtrivia:statusBarBackground
         */
         public static final int CoordinatorLayout_statusBarBackground = 1;
         /** Attributes that can be used with a CoordinatorLayout_Layout.
@@ -7479,12 +7479,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.dlapps.worldquiz:layout_anchor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.dlapps.worldquiz:layout_anchorGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.dlapps.worldquiz:layout_behavior}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.dlapps.worldquiz:layout_dodgeInsetEdges}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.dlapps.worldquiz:layout_insetEdge}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.dlapps.worldquiz:layout_keyline}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.dlapps.worldtrivia:layout_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.dlapps.worldtrivia:layout_anchorGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.dlapps.worldtrivia:layout_behavior}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.dlapps.worldtrivia:layout_dodgeInsetEdges}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.dlapps.worldtrivia:layout_insetEdge}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.dlapps.worldtrivia:layout_keyline}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_Layout_android_layout_gravity
            @see #CoordinatorLayout_Layout_layout_anchor
@@ -7505,17 +7505,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CoordinatorLayout_Layout_android_layout_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#layout_anchor}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#layout_anchor}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:layout_anchor
+          @attr name com.dlapps.worldtrivia:layout_anchor
         */
         public static final int CoordinatorLayout_Layout_layout_anchor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#layout_anchorGravity}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#layout_anchorGravity}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7540,11 +7540,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldquiz:layout_anchorGravity
+          @attr name com.dlapps.worldtrivia:layout_anchorGravity
         */
         public static final int CoordinatorLayout_Layout_layout_anchorGravity = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#layout_behavior}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#layout_behavior}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7554,11 +7554,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:layout_behavior
+          @attr name com.dlapps.worldtrivia:layout_behavior
         */
         public static final int CoordinatorLayout_Layout_layout_behavior = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#layout_dodgeInsetEdges}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#layout_dodgeInsetEdges}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7577,11 +7577,11 @@ containing a value of this type.
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 <tr><td><code>all</code></td><td>0x77</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldquiz:layout_dodgeInsetEdges
+          @attr name com.dlapps.worldtrivia:layout_dodgeInsetEdges
         */
         public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges = 6;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#layout_insetEdge}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#layout_insetEdge}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7599,11 +7599,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldquiz:layout_insetEdge
+          @attr name com.dlapps.worldtrivia:layout_insetEdge
         */
         public static final int CoordinatorLayout_Layout_layout_insetEdge = 5;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#layout_keyline}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#layout_keyline}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7613,7 +7613,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:layout_keyline
+          @attr name com.dlapps.worldtrivia:layout_keyline
         */
         public static final int CoordinatorLayout_Layout_layout_keyline = 3;
         /** Attributes that can be used with a DesignTheme.
@@ -7622,9 +7622,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.dlapps.worldquiz:bottomSheetDialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.dlapps.worldquiz:bottomSheetStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_textColorError com.dlapps.worldquiz:textColorError}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.dlapps.worldtrivia:bottomSheetDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.dlapps.worldtrivia:bottomSheetStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_textColorError com.dlapps.worldtrivia:textColorError}</code></td><td></td></tr>
            </table>
            @see #DesignTheme_bottomSheetDialogTheme
            @see #DesignTheme_bottomSheetStyle
@@ -7634,27 +7634,27 @@ containing a value of this type.
             0x7f010041, 0x7f010042, 0x7f010043
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#bottomSheetDialogTheme}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#bottomSheetDialogTheme}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:bottomSheetDialogTheme
+          @attr name com.dlapps.worldtrivia:bottomSheetDialogTheme
         */
         public static final int DesignTheme_bottomSheetDialogTheme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#bottomSheetStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#bottomSheetStyle}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:bottomSheetStyle
+          @attr name com.dlapps.worldtrivia:bottomSheetStyle
         */
         public static final int DesignTheme_bottomSheetStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#textColorError}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#textColorError}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
@@ -7665,7 +7665,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:textColorError
+          @attr name com.dlapps.worldtrivia:textColorError
         */
         public static final int DesignTheme_textColorError = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -7674,14 +7674,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.dlapps.worldquiz:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.dlapps.worldquiz:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength com.dlapps.worldquiz:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.dlapps.worldquiz:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.dlapps.worldquiz:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.dlapps.worldquiz:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.dlapps.worldquiz:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.dlapps.worldquiz:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.dlapps.worldtrivia:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.dlapps.worldtrivia:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength com.dlapps.worldtrivia:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color com.dlapps.worldtrivia:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.dlapps.worldtrivia:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.dlapps.worldtrivia:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.dlapps.worldtrivia:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness com.dlapps.worldtrivia:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -7697,7 +7697,7 @@ containing a value of this type.
             0x7f010117, 0x7f010118, 0x7f010119, 0x7f01011a
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7709,11 +7709,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:arrowHeadLength
+          @attr name com.dlapps.worldtrivia:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7725,11 +7725,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:arrowShaftLength
+          @attr name com.dlapps.worldtrivia:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#barLength}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7741,11 +7741,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:barLength
+          @attr name com.dlapps.worldtrivia:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#color}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7756,11 +7756,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:color
+          @attr name com.dlapps.worldtrivia:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7772,11 +7772,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:drawableSize
+          @attr name com.dlapps.worldtrivia:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7788,11 +7788,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:gapBetweenBars
+          @attr name com.dlapps.worldtrivia:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7802,11 +7802,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:spinBars
+          @attr name com.dlapps.worldtrivia:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#thickness}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7818,7 +7818,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:thickness
+          @attr name com.dlapps.worldtrivia:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a FloatingActionButton.
@@ -7827,14 +7827,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.dlapps.worldquiz:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.dlapps.worldquiz:backgroundTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_borderWidth com.dlapps.worldquiz:borderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_elevation com.dlapps.worldquiz:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fabSize com.dlapps.worldquiz:fabSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.dlapps.worldquiz:pressedTranslationZ}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_rippleColor com.dlapps.worldquiz:rippleColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.dlapps.worldquiz:useCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.dlapps.worldtrivia:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.dlapps.worldtrivia:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_borderWidth com.dlapps.worldtrivia:borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_elevation com.dlapps.worldtrivia:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabSize com.dlapps.worldtrivia:fabSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.dlapps.worldtrivia:pressedTranslationZ}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_rippleColor com.dlapps.worldtrivia:rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.dlapps.worldtrivia:useCompatPadding}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_backgroundTint
            @see #FloatingActionButton_backgroundTintMode
@@ -7850,7 +7850,7 @@ containing a value of this type.
             0x7f010048, 0x7f01008e, 0x7f010154, 0x7f010155
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#backgroundTint}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7861,11 +7861,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:backgroundTint
+          @attr name com.dlapps.worldtrivia:backgroundTint
         */
         public static final int FloatingActionButton_backgroundTint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7881,11 +7881,11 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldquiz:backgroundTintMode
+          @attr name com.dlapps.worldtrivia:backgroundTintMode
         */
         public static final int FloatingActionButton_backgroundTintMode = 7;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#borderWidth}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#borderWidth}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7897,11 +7897,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:borderWidth
+          @attr name com.dlapps.worldtrivia:borderWidth
         */
         public static final int FloatingActionButton_borderWidth = 3;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#elevation}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7913,11 +7913,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:elevation
+          @attr name com.dlapps.worldtrivia:elevation
         */
         public static final int FloatingActionButton_elevation = 5;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#fabSize}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#fabSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7931,11 +7931,11 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldquiz:fabSize
+          @attr name com.dlapps.worldtrivia:fabSize
         */
         public static final int FloatingActionButton_fabSize = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#pressedTranslationZ}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#pressedTranslationZ}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7947,11 +7947,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:pressedTranslationZ
+          @attr name com.dlapps.worldtrivia:pressedTranslationZ
         */
         public static final int FloatingActionButton_pressedTranslationZ = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#rippleColor}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#rippleColor}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7962,11 +7962,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:rippleColor
+          @attr name com.dlapps.worldtrivia:rippleColor
         */
         public static final int FloatingActionButton_rippleColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#useCompatPadding}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#useCompatPadding}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7976,7 +7976,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:useCompatPadding
+          @attr name com.dlapps.worldtrivia:useCompatPadding
         */
         public static final int FloatingActionButton_useCompatPadding = 4;
         /** Attributes that can be used with a FloatingActionButton_Behavior_Layout.
@@ -7985,7 +7985,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.dlapps.worldquiz:behavior_autoHide}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.dlapps.worldtrivia:behavior_autoHide}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
          */
@@ -7993,7 +7993,7 @@ containing a value of this type.
             0x7f010049
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#behavior_autoHide}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#behavior_autoHide}
           attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
 
 
@@ -8003,7 +8003,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:behavior_autoHide
+          @attr name com.dlapps.worldtrivia:behavior_autoHide
         */
         public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide = 0;
         /** Attributes that can be used with a ForegroundLinearLayout.
@@ -8014,7 +8014,7 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.dlapps.worldquiz:foregroundInsidePadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.dlapps.worldtrivia:foregroundInsidePadding}</code></td><td></td></tr>
            </table>
            @see #ForegroundLinearLayout_android_foreground
            @see #ForegroundLinearLayout_android_foregroundGravity
@@ -8036,7 +8036,7 @@ containing a value of this type.
         */
         public static final int ForegroundLinearLayout_android_foregroundGravity = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#foregroundInsidePadding}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#foregroundInsidePadding}
           attribute's value can be found in the {@link #ForegroundLinearLayout} array.
 
 
@@ -8046,7 +8046,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:foregroundInsidePadding
+          @attr name com.dlapps.worldtrivia:foregroundInsidePadding
         */
         public static final int ForegroundLinearLayout_foregroundInsidePadding = 2;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -8060,10 +8060,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.dlapps.worldquiz:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.dlapps.worldquiz:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.dlapps.worldquiz:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.dlapps.worldquiz:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider com.dlapps.worldtrivia:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.dlapps.worldtrivia:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.dlapps.worldtrivia:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.dlapps.worldtrivia:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -8111,17 +8111,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:divider
+          @attr name com.dlapps.worldtrivia:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -8133,11 +8133,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:dividerPadding
+          @attr name com.dlapps.worldtrivia:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -8147,11 +8147,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:measureWithLargestChild
+          @attr name com.dlapps.worldtrivia:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -8166,7 +8166,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldquiz:showDividers
+          @attr name com.dlapps.worldtrivia:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -8245,9 +8245,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #LoadingImageView_circleCrop com.dlapps.worldquiz:circleCrop}</code></td><td></td></tr>
-           <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.dlapps.worldquiz:imageAspectRatio}</code></td><td></td></tr>
-           <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.dlapps.worldquiz:imageAspectRatioAdjust}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_circleCrop com.dlapps.worldtrivia:circleCrop}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.dlapps.worldtrivia:imageAspectRatio}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.dlapps.worldtrivia:imageAspectRatioAdjust}</code></td><td></td></tr>
            </table>
            @see #LoadingImageView_circleCrop
            @see #LoadingImageView_imageAspectRatio
@@ -8257,7 +8257,7 @@ containing a value of this type.
             0x7f01000b, 0x7f01000c, 0x7f01000d
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#circleCrop}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#circleCrop}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -8267,11 +8267,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:circleCrop
+          @attr name com.dlapps.worldtrivia:circleCrop
         */
         public static final int LoadingImageView_circleCrop = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#imageAspectRatio}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#imageAspectRatio}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -8281,11 +8281,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:imageAspectRatio
+          @attr name com.dlapps.worldtrivia:imageAspectRatio
         */
         public static final int LoadingImageView_imageAspectRatio = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#imageAspectRatioAdjust}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#imageAspectRatioAdjust}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -8299,7 +8299,7 @@ containing a value of this type.
 <tr><td><code>adjust_width</code></td><td>1</td><td></td></tr>
 <tr><td><code>adjust_height</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldquiz:imageAspectRatioAdjust
+          @attr name com.dlapps.worldtrivia:imageAspectRatioAdjust
         */
         public static final int LoadingImageView_imageAspectRatioAdjust = 0;
         /** Attributes that can be used with a MediaRouteButton.
@@ -8310,8 +8310,8 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #MediaRouteButton_android_minHeight android:minHeight}</code></td><td></td></tr>
            <tr><td><code>{@link #MediaRouteButton_android_minWidth android:minWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #MediaRouteButton_buttonTint com.dlapps.worldquiz:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #MediaRouteButton_externalRouteEnabledDrawable com.dlapps.worldquiz:externalRouteEnabledDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #MediaRouteButton_buttonTint com.dlapps.worldtrivia:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #MediaRouteButton_externalRouteEnabledDrawable com.dlapps.worldtrivia:externalRouteEnabledDrawable}</code></td><td></td></tr>
            </table>
            @see #MediaRouteButton_android_minHeight
            @see #MediaRouteButton_android_minWidth
@@ -8334,7 +8334,7 @@ containing a value of this type.
         */
         public static final int MediaRouteButton_android_minWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#buttonTint}
           attribute's value can be found in the {@link #MediaRouteButton} array.
 
 
@@ -8345,17 +8345,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:buttonTint
+          @attr name com.dlapps.worldtrivia:buttonTint
         */
         public static final int MediaRouteButton_buttonTint = 3;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#externalRouteEnabledDrawable}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#externalRouteEnabledDrawable}
           attribute's value can be found in the {@link #MediaRouteButton} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:externalRouteEnabledDrawable
+          @attr name com.dlapps.worldtrivia:externalRouteEnabledDrawable
         */
         public static final int MediaRouteButton_externalRouteEnabledDrawable = 2;
         /** Attributes that can be used with a MenuGroup.
@@ -8424,9 +8424,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.dlapps.worldquiz:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.dlapps.worldquiz:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.dlapps.worldquiz:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout com.dlapps.worldtrivia:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass com.dlapps.worldtrivia:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass com.dlapps.worldtrivia:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -8440,7 +8440,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.dlapps.worldquiz:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction com.dlapps.worldtrivia:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -8468,17 +8468,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010121
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:actionLayout
+          @attr name com.dlapps.worldtrivia:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8488,11 +8488,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:actionProviderClass
+          @attr name com.dlapps.worldtrivia:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8502,7 +8502,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:actionViewClass
+          @attr name com.dlapps.worldtrivia:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -8584,7 +8584,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8600,7 +8600,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldquiz:showAsAction
+          @attr name com.dlapps.worldtrivia:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -8616,8 +8616,8 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.dlapps.worldquiz:preserveIconSpacing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_subMenuArrow com.dlapps.worldquiz:subMenuArrow}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing com.dlapps.worldtrivia:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_subMenuArrow com.dlapps.worldtrivia:subMenuArrow}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -8677,7 +8677,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -8687,17 +8687,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:preserveIconSpacing
+          @attr name com.dlapps.worldtrivia:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#subMenuArrow}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#subMenuArrow}
           attribute's value can be found in the {@link #MenuView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:subMenuArrow
+          @attr name com.dlapps.worldtrivia:subMenuArrow
         */
         public static final int MenuView_subMenuArrow = 8;
         /** Attributes that can be used with a NavigationView.
@@ -8709,13 +8709,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_elevation com.dlapps.worldquiz:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_headerLayout com.dlapps.worldquiz:headerLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemBackground com.dlapps.worldquiz:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemIconTint com.dlapps.worldquiz:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextAppearance com.dlapps.worldquiz:itemTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextColor com.dlapps.worldquiz:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_menu com.dlapps.worldquiz:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_elevation com.dlapps.worldtrivia:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_headerLayout com.dlapps.worldtrivia:headerLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemBackground com.dlapps.worldtrivia:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemIconTint com.dlapps.worldtrivia:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextAppearance com.dlapps.worldtrivia:itemTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextColor com.dlapps.worldtrivia:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_menu com.dlapps.worldtrivia:menu}</code></td><td></td></tr>
            </table>
            @see #NavigationView_android_background
            @see #NavigationView_android_fitsSystemWindows
@@ -8752,7 +8752,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int NavigationView_android_maxWidth = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#elevation}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8764,31 +8764,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:elevation
+          @attr name com.dlapps.worldtrivia:elevation
         */
         public static final int NavigationView_elevation = 9;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#headerLayout}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#headerLayout}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:headerLayout
+          @attr name com.dlapps.worldtrivia:headerLayout
         */
         public static final int NavigationView_headerLayout = 8;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#itemBackground}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:itemBackground
+          @attr name com.dlapps.worldtrivia:itemBackground
         */
         public static final int NavigationView_itemBackground = 6;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#itemIconTint}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8799,21 +8799,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:itemIconTint
+          @attr name com.dlapps.worldtrivia:itemIconTint
         */
         public static final int NavigationView_itemIconTint = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#itemTextAppearance}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#itemTextAppearance}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:itemTextAppearance
+          @attr name com.dlapps.worldtrivia:itemTextAppearance
         */
         public static final int NavigationView_itemTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#itemTextColor}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8824,17 +8824,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:itemTextColor
+          @attr name com.dlapps.worldtrivia:itemTextColor
         */
         public static final int NavigationView_itemTextColor = 5;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#menu}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#menu}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:menu
+          @attr name com.dlapps.worldtrivia:menu
         */
         public static final int NavigationView_menu = 3;
         /** Attributes that can be used with a PopupWindow.
@@ -8845,7 +8845,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.dlapps.worldquiz:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor com.dlapps.worldtrivia:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupAnimationStyle
            @see #PopupWindow_android_popupBackground
@@ -8867,7 +8867,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -8877,7 +8877,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:overlapAnchor
+          @attr name com.dlapps.worldtrivia:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 2;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -8886,7 +8886,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.dlapps.worldquiz:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.dlapps.worldtrivia:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -8894,7 +8894,7 @@ containing a value of this type.
             0x7f010125
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -8904,7 +8904,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:state_above_anchor
+          @attr name com.dlapps.worldtrivia:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a RecycleListView.
@@ -8913,8 +8913,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.dlapps.worldquiz:paddingBottomNoButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.dlapps.worldquiz:paddingTopNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.dlapps.worldtrivia:paddingBottomNoButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.dlapps.worldtrivia:paddingTopNoTitle}</code></td><td></td></tr>
            </table>
            @see #RecycleListView_paddingBottomNoButtons
            @see #RecycleListView_paddingTopNoTitle
@@ -8923,7 +8923,7 @@ containing a value of this type.
             0x7f010126, 0x7f010127
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#paddingBottomNoButtons}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#paddingBottomNoButtons}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -8935,11 +8935,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:paddingBottomNoButtons
+          @attr name com.dlapps.worldtrivia:paddingBottomNoButtons
         */
         public static final int RecycleListView_paddingBottomNoButtons = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#paddingTopNoTitle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#paddingTopNoTitle}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -8951,7 +8951,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:paddingTopNoTitle
+          @attr name com.dlapps.worldtrivia:paddingTopNoTitle
         */
         public static final int RecycleListView_paddingTopNoTitle = 1;
         /** Attributes that can be used with a RecyclerView.
@@ -8962,10 +8962,10 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_layoutManager com.dlapps.worldquiz:layoutManager}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_reverseLayout com.dlapps.worldquiz:reverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_spanCount com.dlapps.worldquiz:spanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_stackFromEnd com.dlapps.worldquiz:stackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager com.dlapps.worldtrivia:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout com.dlapps.worldtrivia:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount com.dlapps.worldtrivia:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd com.dlapps.worldtrivia:stackFromEnd}</code></td><td></td></tr>
            </table>
            @see #RecyclerView_android_descendantFocusability
            @see #RecyclerView_android_orientation
@@ -8991,7 +8991,7 @@ containing a value of this type.
         */
         public static final int RecyclerView_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#layoutManager}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#layoutManager}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -9001,11 +9001,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:layoutManager
+          @attr name com.dlapps.worldtrivia:layoutManager
         */
         public static final int RecyclerView_layoutManager = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#reverseLayout}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -9015,11 +9015,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:reverseLayout
+          @attr name com.dlapps.worldtrivia:reverseLayout
         */
         public static final int RecyclerView_reverseLayout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#spanCount}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -9029,11 +9029,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:spanCount
+          @attr name com.dlapps.worldtrivia:spanCount
         */
         public static final int RecyclerView_spanCount = 3;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#stackFromEnd}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -9043,7 +9043,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:stackFromEnd
+          @attr name com.dlapps.worldtrivia:stackFromEnd
         */
         public static final int RecyclerView_stackFromEnd = 5;
         /** Attributes that can be used with a ScrimInsetsFrameLayout.
@@ -9052,7 +9052,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.dlapps.worldquiz:insetForeground}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.dlapps.worldtrivia:insetForeground}</code></td><td></td></tr>
            </table>
            @see #ScrimInsetsFrameLayout_insetForeground
          */
@@ -9060,7 +9060,7 @@ containing a value of this type.
             0x7f010051
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#insetForeground}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#insetForeground}
           attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
 
 
@@ -9068,7 +9068,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.dlapps.worldquiz:insetForeground
+          @attr name com.dlapps.worldtrivia:insetForeground
         */
         public static final int ScrimInsetsFrameLayout_insetForeground = 0;
         /** Attributes that can be used with a ScrollingViewBehavior_Layout.
@@ -9077,7 +9077,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.dlapps.worldquiz:behavior_overlapTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.dlapps.worldtrivia:behavior_overlapTop}</code></td><td></td></tr>
            </table>
            @see #ScrollingViewBehavior_Layout_behavior_overlapTop
          */
@@ -9085,7 +9085,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010052
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#behavior_overlapTop}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#behavior_overlapTop}
           attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
 
 
@@ -9097,7 +9097,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:behavior_overlapTop
+          @attr name com.dlapps.worldtrivia:behavior_overlapTop
         */
         public static final int ScrollingViewBehavior_Layout_behavior_overlapTop = 0;
         /** Attributes that can be used with a SearchView.
@@ -9110,19 +9110,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.dlapps.worldquiz:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.dlapps.worldquiz:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint com.dlapps.worldquiz:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.dlapps.worldquiz:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.dlapps.worldquiz:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout com.dlapps.worldquiz:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.dlapps.worldquiz:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.dlapps.worldquiz:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon com.dlapps.worldquiz:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.dlapps.worldquiz:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.dlapps.worldquiz:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.dlapps.worldquiz:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.dlapps.worldquiz:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon com.dlapps.worldtrivia:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon com.dlapps.worldtrivia:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint com.dlapps.worldtrivia:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon com.dlapps.worldtrivia:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault com.dlapps.worldtrivia:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout com.dlapps.worldtrivia:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground com.dlapps.worldtrivia:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint com.dlapps.worldtrivia:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon com.dlapps.worldtrivia:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon com.dlapps.worldtrivia:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground com.dlapps.worldtrivia:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout com.dlapps.worldtrivia:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon com.dlapps.worldtrivia:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -9174,27 +9174,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:closeIcon
+          @attr name com.dlapps.worldtrivia:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:commitIcon
+          @attr name com.dlapps.worldtrivia:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -9204,21 +9204,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:defaultQueryHint
+          @attr name com.dlapps.worldtrivia:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:goIcon
+          @attr name com.dlapps.worldtrivia:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -9228,31 +9228,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:iconifiedByDefault
+          @attr name com.dlapps.worldtrivia:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#layout}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:layout
+          @attr name com.dlapps.worldtrivia:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:queryBackground
+          @attr name com.dlapps.worldtrivia:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -9262,57 +9262,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:queryHint
+          @attr name com.dlapps.worldtrivia:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:searchHintIcon
+          @attr name com.dlapps.worldtrivia:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:searchIcon
+          @attr name com.dlapps.worldtrivia:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:submitBackground
+          @attr name com.dlapps.worldtrivia:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:suggestionRowLayout
+          @attr name com.dlapps.worldtrivia:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:voiceIcon
+          @attr name com.dlapps.worldtrivia:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a SignInButton.
@@ -9321,9 +9321,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SignInButton_buttonSize com.dlapps.worldquiz:buttonSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #SignInButton_colorScheme com.dlapps.worldquiz:colorScheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #SignInButton_scopeUris com.dlapps.worldquiz:scopeUris}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignInButton_buttonSize com.dlapps.worldtrivia:buttonSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignInButton_colorScheme com.dlapps.worldtrivia:colorScheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignInButton_scopeUris com.dlapps.worldtrivia:scopeUris}</code></td><td></td></tr>
            </table>
            @see #SignInButton_buttonSize
            @see #SignInButton_colorScheme
@@ -9333,7 +9333,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01000e, 0x7f01000f, 0x7f010010
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#buttonSize}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#buttonSize}
           attribute's value can be found in the {@link #SignInButton} array.
 
 
@@ -9349,11 +9349,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>wide</code></td><td>1</td><td></td></tr>
 <tr><td><code>icon_only</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldquiz:buttonSize
+          @attr name com.dlapps.worldtrivia:buttonSize
         */
         public static final int SignInButton_buttonSize = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#colorScheme}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#colorScheme}
           attribute's value can be found in the {@link #SignInButton} array.
 
 
@@ -9369,18 +9369,18 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>light</code></td><td>1</td><td></td></tr>
 <tr><td><code>auto</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldquiz:colorScheme
+          @attr name com.dlapps.worldtrivia:colorScheme
         */
         public static final int SignInButton_colorScheme = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#scopeUris}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#scopeUris}
           attribute's value can be found in the {@link #SignInButton} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-          @attr name com.dlapps.worldquiz:scopeUris
+          @attr name com.dlapps.worldtrivia:scopeUris
         */
         public static final int SignInButton_scopeUris = 2;
         /** Attributes that can be used with a SnackbarLayout.
@@ -9390,8 +9390,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_elevation com.dlapps.worldquiz:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.dlapps.worldquiz:maxActionInlineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_elevation com.dlapps.worldtrivia:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.dlapps.worldtrivia:maxActionInlineWidth}</code></td><td></td></tr>
            </table>
            @see #SnackbarLayout_android_maxWidth
            @see #SnackbarLayout_elevation
@@ -9407,7 +9407,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SnackbarLayout_android_maxWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#elevation}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -9419,11 +9419,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:elevation
+          @attr name com.dlapps.worldtrivia:elevation
         */
         public static final int SnackbarLayout_elevation = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#maxActionInlineWidth}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#maxActionInlineWidth}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -9435,7 +9435,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:maxActionInlineWidth
+          @attr name com.dlapps.worldtrivia:maxActionInlineWidth
         */
         public static final int SnackbarLayout_maxActionInlineWidth = 1;
         /** Attributes that can be used with a Spinner.
@@ -9448,7 +9448,7 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_entries android:entries}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme com.dlapps.worldquiz:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme com.dlapps.worldtrivia:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_entries
@@ -9485,13 +9485,13 @@ containing a value of this type.
         */
         public static final int Spinner_android_prompt = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:popupTheme
+          @attr name com.dlapps.worldtrivia:popupTheme
         */
         public static final int Spinner_popupTheme = 4;
         /** Attributes that can be used with a SwitchCompat.
@@ -9503,17 +9503,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.dlapps.worldquiz:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.dlapps.worldquiz:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.dlapps.worldquiz:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.dlapps.worldquiz:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.dlapps.worldquiz:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.dlapps.worldquiz:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTint com.dlapps.worldquiz:thumbTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.dlapps.worldquiz:thumbTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.dlapps.worldquiz:track}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTint com.dlapps.worldquiz:trackTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTintMode com.dlapps.worldquiz:trackTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText com.dlapps.worldtrivia:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack com.dlapps.worldtrivia:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.dlapps.worldtrivia:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding com.dlapps.worldtrivia:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.dlapps.worldtrivia:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.dlapps.worldtrivia:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTint com.dlapps.worldtrivia:thumbTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.dlapps.worldtrivia:thumbTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track com.dlapps.worldtrivia:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTint com.dlapps.worldtrivia:trackTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTintMode com.dlapps.worldtrivia:trackTintMode}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -9555,7 +9555,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#showText}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9565,11 +9565,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:showText
+          @attr name com.dlapps.worldtrivia:showText
         */
         public static final int SwitchCompat_showText = 13;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9579,11 +9579,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:splitTrack
+          @attr name com.dlapps.worldtrivia:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 12;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9595,11 +9595,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:switchMinWidth
+          @attr name com.dlapps.worldtrivia:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 10;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9611,21 +9611,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:switchPadding
+          @attr name com.dlapps.worldtrivia:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 11;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:switchTextAppearance
+          @attr name com.dlapps.worldtrivia:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9637,11 +9637,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:thumbTextPadding
+          @attr name com.dlapps.worldtrivia:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#thumbTint}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#thumbTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9652,11 +9652,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:thumbTint
+          @attr name com.dlapps.worldtrivia:thumbTint
         */
         public static final int SwitchCompat_thumbTint = 3;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#thumbTintMode}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#thumbTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9673,21 +9673,21 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldquiz:thumbTintMode
+          @attr name com.dlapps.worldtrivia:thumbTintMode
         */
         public static final int SwitchCompat_thumbTintMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#track}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:track
+          @attr name com.dlapps.worldtrivia:track
         */
         public static final int SwitchCompat_track = 5;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#trackTint}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#trackTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9698,11 +9698,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:trackTint
+          @attr name com.dlapps.worldtrivia:trackTint
         */
         public static final int SwitchCompat_trackTint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#trackTintMode}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#trackTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9719,7 +9719,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldquiz:trackTintMode
+          @attr name com.dlapps.worldtrivia:trackTintMode
         */
         public static final int SwitchCompat_trackTintMode = 7;
         /** Attributes that can be used with a TabItem.
@@ -9763,22 +9763,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TabLayout_tabBackground com.dlapps.worldquiz:tabBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabContentStart com.dlapps.worldquiz:tabContentStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabGravity com.dlapps.worldquiz:tabGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.dlapps.worldquiz:tabIndicatorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.dlapps.worldquiz:tabIndicatorHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMaxWidth com.dlapps.worldquiz:tabMaxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMinWidth com.dlapps.worldquiz:tabMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMode com.dlapps.worldquiz:tabMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPadding com.dlapps.worldquiz:tabPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.dlapps.worldquiz:tabPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.dlapps.worldquiz:tabPaddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingStart com.dlapps.worldquiz:tabPaddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingTop com.dlapps.worldquiz:tabPaddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.dlapps.worldquiz:tabSelectedTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextAppearance com.dlapps.worldquiz:tabTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextColor com.dlapps.worldquiz:tabTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabBackground com.dlapps.worldtrivia:tabBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabContentStart com.dlapps.worldtrivia:tabContentStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabGravity com.dlapps.worldtrivia:tabGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.dlapps.worldtrivia:tabIndicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.dlapps.worldtrivia:tabIndicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMaxWidth com.dlapps.worldtrivia:tabMaxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMinWidth com.dlapps.worldtrivia:tabMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMode com.dlapps.worldtrivia:tabMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPadding com.dlapps.worldtrivia:tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.dlapps.worldtrivia:tabPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.dlapps.worldtrivia:tabPaddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingStart com.dlapps.worldtrivia:tabPaddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingTop com.dlapps.worldtrivia:tabPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.dlapps.worldtrivia:tabSelectedTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextAppearance com.dlapps.worldtrivia:tabTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextColor com.dlapps.worldtrivia:tabTextColor}</code></td><td></td></tr>
            </table>
            @see #TabLayout_tabBackground
            @see #TabLayout_tabContentStart
@@ -9804,17 +9804,17 @@ containing a value of this type.
             0x7f010060, 0x7f010061, 0x7f010062, 0x7f010063
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#tabBackground}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabBackground}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:tabBackground
+          @attr name com.dlapps.worldtrivia:tabBackground
         */
         public static final int TabLayout_tabBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#tabContentStart}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabContentStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9826,11 +9826,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:tabContentStart
+          @attr name com.dlapps.worldtrivia:tabContentStart
         */
         public static final int TabLayout_tabContentStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#tabGravity}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabGravity}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9843,11 +9843,11 @@ containing a value of this type.
 <tr><td><code>fill</code></td><td>0</td><td></td></tr>
 <tr><td><code>center</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldquiz:tabGravity
+          @attr name com.dlapps.worldtrivia:tabGravity
         */
         public static final int TabLayout_tabGravity = 5;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#tabIndicatorColor}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabIndicatorColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9858,11 +9858,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:tabIndicatorColor
+          @attr name com.dlapps.worldtrivia:tabIndicatorColor
         */
         public static final int TabLayout_tabIndicatorColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#tabIndicatorHeight}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabIndicatorHeight}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9874,11 +9874,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:tabIndicatorHeight
+          @attr name com.dlapps.worldtrivia:tabIndicatorHeight
         */
         public static final int TabLayout_tabIndicatorHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#tabMaxWidth}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabMaxWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9890,11 +9890,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:tabMaxWidth
+          @attr name com.dlapps.worldtrivia:tabMaxWidth
         */
         public static final int TabLayout_tabMaxWidth = 7;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#tabMinWidth}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabMinWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9906,11 +9906,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:tabMinWidth
+          @attr name com.dlapps.worldtrivia:tabMinWidth
         */
         public static final int TabLayout_tabMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#tabMode}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabMode}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9923,11 +9923,11 @@ containing a value of this type.
 <tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
 <tr><td><code>fixed</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldquiz:tabMode
+          @attr name com.dlapps.worldtrivia:tabMode
         */
         public static final int TabLayout_tabMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#tabPadding}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabPadding}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9939,11 +9939,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:tabPadding
+          @attr name com.dlapps.worldtrivia:tabPadding
         */
         public static final int TabLayout_tabPadding = 15;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#tabPaddingBottom}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabPaddingBottom}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9955,11 +9955,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:tabPaddingBottom
+          @attr name com.dlapps.worldtrivia:tabPaddingBottom
         */
         public static final int TabLayout_tabPaddingBottom = 14;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#tabPaddingEnd}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabPaddingEnd}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9971,11 +9971,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:tabPaddingEnd
+          @attr name com.dlapps.worldtrivia:tabPaddingEnd
         */
         public static final int TabLayout_tabPaddingEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#tabPaddingStart}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabPaddingStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9987,11 +9987,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:tabPaddingStart
+          @attr name com.dlapps.worldtrivia:tabPaddingStart
         */
         public static final int TabLayout_tabPaddingStart = 11;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#tabPaddingTop}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabPaddingTop}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10003,11 +10003,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:tabPaddingTop
+          @attr name com.dlapps.worldtrivia:tabPaddingTop
         */
         public static final int TabLayout_tabPaddingTop = 12;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#tabSelectedTextColor}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabSelectedTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10018,21 +10018,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:tabSelectedTextColor
+          @attr name com.dlapps.worldtrivia:tabSelectedTextColor
         */
         public static final int TabLayout_tabSelectedTextColor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#tabTextAppearance}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabTextAppearance}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:tabTextAppearance
+          @attr name com.dlapps.worldtrivia:tabTextAppearance
         */
         public static final int TabLayout_tabTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#tabTextColor}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10043,7 +10043,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:tabTextColor
+          @attr name com.dlapps.worldtrivia:tabTextColor
         */
         public static final int TabLayout_tabTextColor = 9;
         /** Attributes that can be used with a TextAppearance.
@@ -10061,7 +10061,7 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps com.dlapps.worldquiz:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps com.dlapps.worldtrivia:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_shadowColor
            @see #TextAppearance_android_shadowDx
@@ -10134,14 +10134,14 @@ containing a value of this type.
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.dlapps.worldquiz:textAllCaps
+          @attr name com.dlapps.worldtrivia:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 9;
         /** Attributes that can be used with a TextInputLayout.
@@ -10152,20 +10152,20 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
            <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterEnabled com.dlapps.worldquiz:counterEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterMaxLength com.dlapps.worldquiz:counterMaxLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.dlapps.worldquiz:counterOverflowTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.dlapps.worldquiz:counterTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorEnabled com.dlapps.worldquiz:errorEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.dlapps.worldquiz:errorTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.dlapps.worldquiz:hintAnimationEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintEnabled com.dlapps.worldquiz:hintEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.dlapps.worldquiz:hintTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.dlapps.worldquiz:passwordToggleContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.dlapps.worldquiz:passwordToggleDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.dlapps.worldquiz:passwordToggleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.dlapps.worldquiz:passwordToggleTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.dlapps.worldquiz:passwordToggleTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterEnabled com.dlapps.worldtrivia:counterEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterMaxLength com.dlapps.worldtrivia:counterMaxLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.dlapps.worldtrivia:counterOverflowTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.dlapps.worldtrivia:counterTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorEnabled com.dlapps.worldtrivia:errorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.dlapps.worldtrivia:errorTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.dlapps.worldtrivia:hintAnimationEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintEnabled com.dlapps.worldtrivia:hintEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.dlapps.worldtrivia:hintTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.dlapps.worldtrivia:passwordToggleContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.dlapps.worldtrivia:passwordToggleDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.dlapps.worldtrivia:passwordToggleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.dlapps.worldtrivia:passwordToggleTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.dlapps.worldtrivia:passwordToggleTintMode}</code></td><td></td></tr>
            </table>
            @see #TextInputLayout_android_hint
            @see #TextInputLayout_android_textColorHint
@@ -10203,7 +10203,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextInputLayout_android_textColorHint = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#counterEnabled}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#counterEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10213,11 +10213,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:counterEnabled
+          @attr name com.dlapps.worldtrivia:counterEnabled
         */
         public static final int TextInputLayout_counterEnabled = 6;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#counterMaxLength}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#counterMaxLength}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10227,31 +10227,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:counterMaxLength
+          @attr name com.dlapps.worldtrivia:counterMaxLength
         */
         public static final int TextInputLayout_counterMaxLength = 7;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#counterOverflowTextAppearance}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#counterOverflowTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:counterOverflowTextAppearance
+          @attr name com.dlapps.worldtrivia:counterOverflowTextAppearance
         */
         public static final int TextInputLayout_counterOverflowTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#counterTextAppearance}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#counterTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:counterTextAppearance
+          @attr name com.dlapps.worldtrivia:counterTextAppearance
         */
         public static final int TextInputLayout_counterTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#errorEnabled}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#errorEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10261,21 +10261,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:errorEnabled
+          @attr name com.dlapps.worldtrivia:errorEnabled
         */
         public static final int TextInputLayout_errorEnabled = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#errorTextAppearance}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#errorTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:errorTextAppearance
+          @attr name com.dlapps.worldtrivia:errorTextAppearance
         */
         public static final int TextInputLayout_errorTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#hintAnimationEnabled}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#hintAnimationEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10285,11 +10285,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:hintAnimationEnabled
+          @attr name com.dlapps.worldtrivia:hintAnimationEnabled
         */
         public static final int TextInputLayout_hintAnimationEnabled = 10;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#hintEnabled}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#hintEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10299,21 +10299,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:hintEnabled
+          @attr name com.dlapps.worldtrivia:hintEnabled
         */
         public static final int TextInputLayout_hintEnabled = 3;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#hintTextAppearance}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#hintTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:hintTextAppearance
+          @attr name com.dlapps.worldtrivia:hintTextAppearance
         */
         public static final int TextInputLayout_hintTextAppearance = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#passwordToggleContentDescription}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#passwordToggleContentDescription}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10323,21 +10323,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:passwordToggleContentDescription
+          @attr name com.dlapps.worldtrivia:passwordToggleContentDescription
         */
         public static final int TextInputLayout_passwordToggleContentDescription = 13;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#passwordToggleDrawable}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#passwordToggleDrawable}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:passwordToggleDrawable
+          @attr name com.dlapps.worldtrivia:passwordToggleDrawable
         */
         public static final int TextInputLayout_passwordToggleDrawable = 12;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#passwordToggleEnabled}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#passwordToggleEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10347,11 +10347,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:passwordToggleEnabled
+          @attr name com.dlapps.worldtrivia:passwordToggleEnabled
         */
         public static final int TextInputLayout_passwordToggleEnabled = 11;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#passwordToggleTint}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#passwordToggleTint}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10362,11 +10362,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:passwordToggleTint
+          @attr name com.dlapps.worldtrivia:passwordToggleTint
         */
         public static final int TextInputLayout_passwordToggleTint = 14;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#passwordToggleTintMode}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#passwordToggleTintMode}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10382,7 +10382,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldquiz:passwordToggleTintMode
+          @attr name com.dlapps.worldtrivia:passwordToggleTintMode
         */
         public static final int TextInputLayout_passwordToggleTintMode = 15;
         /** Attributes that can be used with a Toolbar.
@@ -10393,33 +10393,33 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_buttonGravity com.dlapps.worldquiz:buttonGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.dlapps.worldquiz:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.dlapps.worldquiz:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.dlapps.worldquiz:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.dlapps.worldquiz:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.dlapps.worldquiz:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.dlapps.worldquiz:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.dlapps.worldquiz:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.dlapps.worldquiz:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo com.dlapps.worldquiz:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription com.dlapps.worldquiz:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.dlapps.worldquiz:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.dlapps.worldquiz:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.dlapps.worldquiz:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.dlapps.worldquiz:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.dlapps.worldquiz:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.dlapps.worldquiz:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor com.dlapps.worldquiz:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title com.dlapps.worldquiz:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargin com.dlapps.worldquiz:titleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.dlapps.worldquiz:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.dlapps.worldquiz:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.dlapps.worldquiz:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.dlapps.worldquiz:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.dlapps.worldquiz:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.dlapps.worldquiz:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor com.dlapps.worldquiz:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_buttonGravity com.dlapps.worldtrivia:buttonGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription com.dlapps.worldtrivia:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon com.dlapps.worldtrivia:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd com.dlapps.worldtrivia:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.dlapps.worldtrivia:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft com.dlapps.worldtrivia:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight com.dlapps.worldtrivia:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart com.dlapps.worldtrivia:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.dlapps.worldtrivia:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo com.dlapps.worldtrivia:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription com.dlapps.worldtrivia:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight com.dlapps.worldtrivia:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription com.dlapps.worldtrivia:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon com.dlapps.worldtrivia:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme com.dlapps.worldtrivia:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle com.dlapps.worldtrivia:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.dlapps.worldtrivia:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor com.dlapps.worldtrivia:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title com.dlapps.worldtrivia:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargin com.dlapps.worldtrivia:titleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom com.dlapps.worldtrivia:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd com.dlapps.worldtrivia:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart com.dlapps.worldtrivia:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop com.dlapps.worldtrivia:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins com.dlapps.worldtrivia:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance com.dlapps.worldtrivia:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor com.dlapps.worldtrivia:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -10474,7 +10474,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#buttonGravity}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#buttonGravity}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10487,11 +10487,11 @@ containing a value of this type.
 <tr><td><code>top</code></td><td>0x30</td><td></td></tr>
 <tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldquiz:buttonGravity
+          @attr name com.dlapps.worldtrivia:buttonGravity
         */
         public static final int Toolbar_buttonGravity = 21;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10501,21 +10501,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:collapseContentDescription
+          @attr name com.dlapps.worldtrivia:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 23;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:collapseIcon
+          @attr name com.dlapps.worldtrivia:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 22;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10527,11 +10527,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:contentInsetEnd
+          @attr name com.dlapps.worldtrivia:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10543,11 +10543,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:contentInsetEndWithActions
+          @attr name com.dlapps.worldtrivia:contentInsetEndWithActions
         */
         public static final int Toolbar_contentInsetEndWithActions = 10;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10559,11 +10559,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:contentInsetLeft
+          @attr name com.dlapps.worldtrivia:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10575,11 +10575,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:contentInsetRight
+          @attr name com.dlapps.worldtrivia:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10591,11 +10591,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:contentInsetStart
+          @attr name com.dlapps.worldtrivia:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10607,21 +10607,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:contentInsetStartWithNavigation
+          @attr name com.dlapps.worldtrivia:contentInsetStartWithNavigation
         */
         public static final int Toolbar_contentInsetStartWithNavigation = 9;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:logo
+          @attr name com.dlapps.worldtrivia:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10631,11 +10631,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:logoDescription
+          @attr name com.dlapps.worldtrivia:logoDescription
         */
         public static final int Toolbar_logoDescription = 26;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10647,11 +10647,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:maxButtonHeight
+          @attr name com.dlapps.worldtrivia:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 20;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10661,31 +10661,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:navigationContentDescription
+          @attr name com.dlapps.worldtrivia:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 25;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:navigationIcon
+          @attr name com.dlapps.worldtrivia:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 24;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:popupTheme
+          @attr name com.dlapps.worldtrivia:popupTheme
         */
         public static final int Toolbar_popupTheme = 11;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10695,21 +10695,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:subtitle
+          @attr name com.dlapps.worldtrivia:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:subtitleTextAppearance
+          @attr name com.dlapps.worldtrivia:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 13;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10720,11 +10720,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:subtitleTextColor
+          @attr name com.dlapps.worldtrivia:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 28;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#title}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10734,11 +10734,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:title
+          @attr name com.dlapps.worldtrivia:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#titleMargin}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#titleMargin}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10750,11 +10750,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:titleMargin
+          @attr name com.dlapps.worldtrivia:titleMargin
         */
         public static final int Toolbar_titleMargin = 14;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10766,11 +10766,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:titleMarginBottom
+          @attr name com.dlapps.worldtrivia:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 18;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10782,11 +10782,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:titleMarginEnd
+          @attr name com.dlapps.worldtrivia:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 16;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10798,11 +10798,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:titleMarginStart
+          @attr name com.dlapps.worldtrivia:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 15;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10814,11 +10814,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:titleMarginTop
+          @attr name com.dlapps.worldtrivia:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 17;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10830,21 +10830,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:titleMargins
+          @attr name com.dlapps.worldtrivia:titleMargins
         */
         public static final int Toolbar_titleMargins = 19;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:titleTextAppearance
+          @attr name com.dlapps.worldtrivia:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 12;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10855,7 +10855,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:titleTextColor
+          @attr name com.dlapps.worldtrivia:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 27;
         /** Attributes that can be used with a View.
@@ -10866,9 +10866,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.dlapps.worldquiz:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.dlapps.worldquiz:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme com.dlapps.worldquiz:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd com.dlapps.worldtrivia:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart com.dlapps.worldtrivia:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme com.dlapps.worldtrivia:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -10893,7 +10893,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -10905,11 +10905,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:paddingEnd
+          @attr name com.dlapps.worldtrivia:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -10921,17 +10921,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:paddingStart
+          @attr name com.dlapps.worldtrivia:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#theme}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldquiz:theme
+          @attr name com.dlapps.worldtrivia:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -10941,8 +10941,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.dlapps.worldquiz:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.dlapps.worldquiz:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.dlapps.worldtrivia:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.dlapps.worldtrivia:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -10958,7 +10958,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -10969,11 +10969,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldquiz:backgroundTint
+          @attr name com.dlapps.worldtrivia:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldquiz.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -10989,7 +10989,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldquiz:backgroundTintMode
+          @attr name com.dlapps.worldtrivia:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.

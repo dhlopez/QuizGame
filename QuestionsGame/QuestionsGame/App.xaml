@@ -11,6 +11,8 @@
       <OnPlatform x:Key="BtnTxtColor" x:TypeArguments="Color" Android="#fff" WinPhone="#fff" iOS="#fff" />
       <OnPlatform x:Key="BtnBgColorLight" x:TypeArguments="Color" Android="#6886A5" WinPhone="#6886A5" iOS="#6886A5" />
       <OnPlatform x:Key="BtnBgColorDark" x:TypeArguments="Color" Android="#020423" WinPhone="#020423" iOS="#020423" />
+      <OnPlatform x:Key="MainBackgroundColour" x:TypeArguments="Color" Android="#183E65" WinPhone="#183E65" iOS="#183E65" />
+      <!--<OnPlatform x:Key="MainBackgroundColour" x:TypeArguments="Color" Android="#C40C0C" WinPhone="#C40C0C" iOS="#C40C0C" />-->
 
       <Style x:Key="lblTitle" TargetType="Label">
         <Setter Property="VerticalOptions" Value="Center"/>

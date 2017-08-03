@@ -125,7 +125,9 @@ namespace QuestionsGame.database
         }
         public void FillDatabase()
         {
+            //original world quiz
             //wrong or right / not answered
+            
             var question1 = new Questions { question="What's the biggest country in the world?", opt1="China", opt2="Russia", opt3="Canada", correctAns="Russia", status="not answered" };
             var question2 = new Questions { question = "Aprox. earth's circumference", opt1 = "40,000Km", opt2 = "50,000km", opt3 = "30,000km", correctAns = "40,000Km", status = "not answered" };
             var question3 = new Questions { question = "Nelson Mandela released from prison in", opt1 = "1980", opt2 = "1990", opt3 = "1978", correctAns = "1990", status = "not answered" };
@@ -191,48 +193,74 @@ namespace QuestionsGame.database
             var question58 = new Questions { question = "Capital of Australia", opt1 = "Sydney", opt2 = "Canberra", opt3 = "Braddon", correctAns = "Canberra", status = "not answered" };
             var question59 = new Questions { question = "How many states are in USA", opt1 = "47", opt2 = "49", opt3 = "50", correctAns = "50", status = "not answered" };
             var question60 = new Questions { question = "Main Character: The Da Vinci Code", opt1 = "Robert Langdon", opt2 = "Gulliver", opt3 = "Billy Bunter", correctAns = "Robert Langdon", status = "not answered" };
-
             /*
-            var question61 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question62 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question63 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question64 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question65 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question66 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question67 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question68 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question69 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question70 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question71 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question72 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question73 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question74 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question75 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question76 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question77 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question78 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question79 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question80 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question81 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question82 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question83 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question84 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question85 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question86 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question87 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question88 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question89 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question90 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question91 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question92 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question93 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question94 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question95 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question96 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question97 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question98 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question99 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
-            var question100 = new Questions { question = "Some question2", opt1 = "option1", opt2 = "option2", opt3 = "option3", correctAns = "option3", status = "not answered" };
+
+            //Canada version
+            var question1 = new Questions { question = "Baseball player that hit his first home run in Toronto", opt1 = "Hank Aaron", opt2 = "Babe Ruth", opt3 = "Barry Bonds", correctAns = "Babe Ruth", status = "not answered" };
+            var question2 = new Questions { question = "Canada became completely independent in", opt1 = "1982", opt2 = "1953", opt3 = "1974", correctAns = "1982", status = "not answered" };
+            var question3 = new Questions { question = "First Tim Hortons was opened in", opt1 = "1955", opt2 = "1964", opt3 = "1970", correctAns = "1964", status = "not answered" };
+            var question4 = new Questions { question = "Canada official flag was introduced in", opt1 = "1960", opt2 = "1970", opt3 = "1965", correctAns = "1965", status = "not answered" };
+            var question5 = new Questions { question = "The women right to vote in Canada was introduced:", opt1 = "Ontario", opt2 = "Manitoba", opt3 = "British Columbia", correctAns = "Manitoba", status = "not answered" };
+            var question6 = new Questions { question = "Second most common sport in Canada", opt1 = "Lacrosse", opt2 = "Hockey", opt3 = "Soccer", correctAns = "Lacrosse", status = "not answered" };
+            var question7 = new Questions { question = "YMCA started in", opt1 = "Toronto", opt2 = "Montreal", opt3 = "Vancouver", correctAns = "Montreal", status = "not answered" };
+            var question8 = new Questions { question = "Baseball accesory invented in Canada", opt1 = "Bat", opt2 = "Ball", opt3 = "Glove", correctAns = "Glove", status = "not answered" };
+            var question9 = new Questions { question = "77 percent of the world's maple syrup is made in", opt1 = "Quebec", opt2 = "Ontario", opt3 = "Alberta", correctAns = "Quebec", status = "not answered" };
+            var question10 = new Questions { question = "First area to be explored by Europeans", opt1 = "Ontario", opt2 = "Quebec", opt3 = "Newfoundland", correctAns = "Newfoundland", status = "not answered" };
+
+            var question11 = new Questions { question = "Tim Horton played", opt1 = "Basketball", opt2 = "Hockey", opt3 = "Skater", correctAns = "Hockey", status = "not answered" };
+            var question12 = new Questions { question = "Official Canadian Animal", opt1 = "Beaver", opt2 = "Moose", opt3 = "Deer", correctAns = "Beaver", status = "not answered" };
+            var question13 = new Questions { question = "How many times zones are in Canada", opt1 = "4", opt2 = "6", opt3 = "3", correctAns = "6", status = "not answered" };
+            var question14 = new Questions { question = "Only walled city in North America", opt1 = "Montreal", opt2 = "Quebec", opt3 = "Toronto", correctAns = "Quebec", status = "not answered" };
+            var question15 = new Questions { question = "One of the best cities to see the northern lights", opt1 = "Yellowknife", opt2 = "Smithville", opt3 = "Vineland", correctAns = "Yellowknife", status = "not answered" };
+            var question16 = new Questions { question = "Second largest French speaking city", opt1 = "Quebec", opt2 = "Montreal", opt3 = "Ottawa", correctAns = "Montreal", status = "not answered" };
+            var question17 = new Questions { question = "How many points are in the Canadian flag", opt1 = "9", opt2 = "11", opt3 = "7", correctAns = "9", status = "not answered" };
+            var question18 = new Questions { question = "About how many polar bears live in Canada", opt1 = "20000", opt2 = "10000", opt3 = "15000", correctAns = "15000", status = "not answered" };
+            var question19 = new Questions { question = "Largest International Film Festival is hosted in", opt1 = "Montreal", opt2 = "Vancouver", opt3 = "Toronto", correctAns = "Toronto", status = "not answered" };
+
+            var question20 = new Questions { question = "Polar Bear Capital of the World", opt1 = "Toronto", opt2 = "Montreal", opt3 = "Manitoba", correctAns = "Manitoba", status = "not answered" };
+            var question21 = new Questions { question = "First place to use 911", opt1 = "Winnipeg", opt2 = "Quebec", opt3 = "Vancouver", correctAns = "Winnipeg", status = "not answered" };
+            var question22 = new Questions { question = "Coldest temperature registered in Celsius", opt1 = "-63", opt2 = "-52", opt3 = "-70", correctAns = "-63", status = "not answered" };
+            var question23 = new Questions { question = "How many oceans border Canada?", opt1 = "2", opt2 = "1", opt3 = "3", correctAns = "3", status = "not answered" };
+            var question24 = new Questions { question = "Canada just celebrated its anniversary", opt1 = "120", opt2 = "150", opt3 = "115", correctAns = "150", status = "not answered" };
+            var question25 = new Questions { question = "Canadian population in millions", opt1 = "25", opt2 = "40", opt3 = "32", correctAns = "32", status = "not answered" };
+            var question26 = new Questions { question = "Where in Canada can you see a whale", opt1 = "British Columbia", opt2 = "Alberta", opt3 = "Manitoba", correctAns = "British Columbia", status = "not answered" };
+            var question27 = new Questions { question = "What is CBC", opt1 = "Canadian BroadCasting", opt2 = "A Bank Company", opt3 = "Canadian Services", correctAns = "Canadian BroadCasting", status = "not answered" };
+            var question28 = new Questions { question = "Canada Day Celebration", opt1 = "July 4", opt2 = "July 1", opt3 = "July 7", correctAns = "July 4", status = "not answered" };
+            var question29 = new Questions { question = "Capital of Ontario", opt1 = "Toronto", opt2 = "Niagara Falls", opt3 = "Ottawa", correctAns = "Ottawa", status = "not answered" };
+
+            var question30 = new Questions { question = "Canadian flag symbol", opt1 = "Oak Leaf", opt2 = "Maple Leaf", opt3 = "None", correctAns = "Maple Leaf", status = "not answered" };
+            var question31 = new Questions { question = "What does CRA do", opt1 = "Immigration", opt2 = "Taxes", opt3 = "Utilities", correctAns = "Taxes", status = "not answered" };
+            var question32 = new Questions { question = "Victoria is the capital of", opt1 = "Ontario", opt2 = "Manitoba", opt3 = "BC", correctAns = "BC", status = "not answered" };
+            var question33 = new Questions { question = "Province more populated", opt1 = "Ontario", opt2 = "BC", opt3 = "Alberta", correctAns = "Ontario", status = "not answered" };
+            var question34 = new Questions { question = "Province less populated", opt1 = "Prince Edward Island", opt2 = "Alberta", opt3 = "Manitoba", correctAns = "Prince Edward Island", status = "not answered" };
+            var question35 = new Questions { question = "How much is a Toonie?", opt1 = "3", opt2 = "2", opt3 = "1", correctAns = "2", status = "not answered" };
+            var question36 = new Questions { question = "What year did Canada became a country?", opt1 = "1810", opt2 = "1867", opt3 = "1853", correctAns = "1867", status = "not answered" };
+            var question37 = new Questions { question = "What does CIC do", opt1 = "Immigration", opt2 = "Taxes", opt3 = "Utilities", correctAns = "Immigration", status = "not answered" };
+            var question38 = new Questions { question = "How many provinces in Canada?", opt1 = "12", opt2 = "10", opt3 = "13", correctAns = "10", status = "not answered" };
+            var question39 = new Questions { question = "How many territories in Canada?", opt1 = "4", opt2 = "3", opt3 = "5", correctAns = "3", status = "not answered" };
+
+            var question40 = new Questions { question = "Where is the highest mountain in Canada?", opt1 = "Yukon", opt2 = "Vancouver", opt3 = "Churchill", correctAns = "Yukon", status = "not answered" };
+            var question41 = new Questions { question = "Canada is the ____ largest country", opt1 = "Second", opt2 = "Third", opt3 = "Fourth", correctAns = "Second", status = "not answered" };
+            var question42 = new Questions { question = "Capital of Quebec", opt1 = "Montreal", opt2 = "Quebec City", opt3 = "Ottawa", correctAns = "Quebec City", status = "not answered" };
+            var question43 = new Questions { question = "Only Country bigger than Canada", opt1 = "China", opt2 = "Russia", opt3 = "Brazil", correctAns = "Russia", status = "not answered" };
+            var question44 = new Questions { question = "Head of Canadian government", opt1 = "Monarch", opt2 = "President", opt3 = "Prime Minister", correctAns = "Prime Minister", status = "not answered" };
+            var question45 = new Questions { question = "Rank of Canada by population", opt1 = "25", opt2 = "35", opt3 = "56", correctAns = "56", status = "not answered" };
+            var question46 = new Questions { question = "Longest river in Canada", opt1 = "Nelson", opt2 = "Fraser", opt3 = "MacKenzie", correctAns = "MacKenzie", status = "not answered" };
+            var question47 = new Questions { question = "Michael J. Fox was born in", opt1 = "Edmonton", opt2 = "Montreal", opt3 = "Toronto", correctAns = "Edmonton", status = "not answered" };
+            var question48 = new Questions { question = "Pamela Anderson was born in", opt1 = "Ontario", opt2 = "BC", opt3 = "Alberta", correctAns = "BC", status = "not answered" };
+            var question49 = new Questions { question = "Where was the first Parliament located?", opt1 = "York", opt2 = "Ottawa", opt3 = "Saint John", correctAns = "York", status = "not answered" };
+
+            var question50 = new Questions { question = "Terry Fox was a known", opt1 = "Hockey Player", opt2 = "Baseball Player", opt3 = "Runner", correctAns = "Runner", status = "not answered" };
+            var question51 = new Questions { question = "Percentage of Canadians with a 2nd language", opt1 = "20", opt2 = "30", opt3 = "40", correctAns = "20", status = "not answered" };
+            var question52 = new Questions { question = "Sport invented by a Canadian", opt1 = "Baseball", opt2 = "Basketball", opt3 = "Volleyball", correctAns = "Basketball", status = "not answered" };
+            var question53 = new Questions { question = "Canadian invent", opt1 = "Telephone", opt2 = "Chair", opt3 = "Television", correctAns = "Telephone", status = "not answered" };
+            var question54 = new Questions { question = "Home of the Big Nickel", opt1 = "North Bay", opt2 = "Nickelville", opt3 = "Sudbury", correctAns = "Sudbury", status = "not answered" };
+            var question55 = new Questions { question = "Toronto's airport name", opt1 = "Lester B. Pearson", opt2 = "Leonard Cohen", opt3 = "Pierre Trudeau", correctAns = "Lester B. Pearson", status = "not answered" };
+            var question56 = new Questions { question = "Blue Jays play", opt1 = "Baseball", opt2 = "Soccer", opt3 = "Hockey", correctAns = "Baseball", status = "not answered" };
+            var question57 = new Questions { question = "Country that invaded Canada twice", opt1 = "USA", opt2 = "Russia", opt3 = "China", correctAns = "USA", status = "not answered" };
+            var question58 = new Questions { question = "Current prime minister", opt1 = "Justin Parker", opt2 = "Justin Fox", opt3 = "Justin Trudeau", correctAns = "Justin Trudeau", status = "not answered" };
+            var question59 = new Questions { question = "Animal on the Canadian nickel", opt1 = "Moose", opt2 = "Deer", opt3 = "Beaver", correctAns = "Beaver", status = "not answered" };
+            var question60 = new Questions { question = "Cities that hosted winter games", opt1 = "Toronto, Vancouver", opt2 = "Calgary, Montreal", opt3 = "Calgary, Vancouver", correctAns = "Calgary, Vancouver", status = "not answered" };
             */
 
             List<Questions> questions = new List<Questions>();

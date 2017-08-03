@@ -28,7 +28,7 @@ namespace QuestionsGame.Droid
             {
                 var ad = new Android.Gms.Ads.AdView(Forms.Context);
                 ad.AdSize = Android.Gms.Ads.AdSize.Banner;
-                ad.AdUnitId = "ca-app-pub-3934780639033713/4637881494";
+                ad.AdUnitId = "ca-app-pub-3934780639033713/2713363649";
 
                 var requestbuilder = new Android.Gms.Ads.AdRequest.Builder();
                 ad.LoadAd(requestbuilder.Build());

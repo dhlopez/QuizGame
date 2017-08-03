@@ -1,5 +1,7 @@
+C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\bin\Release\Services\IAudio.cs
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\bin\Release\QuestionsGame.dll
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\bin\Release\QuestionsGame.pdb
+C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\bin\Release\Mono.Android.dll
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\bin\Release\SQLite-net.dll
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\bin\Release\SQLitePCLRaw.batteries_green.dll
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\bin\Release\SQLitePCLRaw.batteries_v2.dll
@@ -8,6 +10,7 @@ C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\bin\Release\Xamarin.Forms.Core.dll
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\bin\Release\Xamarin.Forms.Platform.dll
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\bin\Release\Mono.Android.xml
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\bin\Release\SQLite-net.xml
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\bin\Release\Xamarin.Forms.Core.pdb
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\bin\Release\Xamarin.Forms.Core.xml
@@ -21,14 +24,9 @@ C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\obj\Release\QuestionsGame.Stats.xaml.g.cs
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\obj\Release\QuestionsGame.Help.xaml.g.cs
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\obj\Release\QuestionsGame.resultwrong.xaml.g.cs
+C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\obj\Release\QuestionsGame.lvl2.xaml.g.cs
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\obj\Release\QuestionsGame.dll
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\obj\Release\QuestionsGame.pdb
-C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\bin\Release\Services\IAudio.cs
-C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\bin\Release\Mono.Android.dll
-C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\bin\Release\Mono.Android.xml
-C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\obj\Release\QuestionsGame.lvl2.xaml.g.cs
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\obj\Release\QuestionsGame.csprojResolveAssemblyReference.cache
-C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\obj\Release\QuestionsGame.dll.mdb
-C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\bin\Release\QuestionsGame.dll.mdb
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\obj\Release\QuestionsGame.dll.mdb
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame\bin\Release\QuestionsGame.dll.mdb

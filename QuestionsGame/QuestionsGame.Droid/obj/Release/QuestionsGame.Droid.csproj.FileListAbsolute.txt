@@ -1,6 +1,8 @@
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\bin\Release\Services\IAudio.cs
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\bin\Release\QuestionsGame.Droid.dll
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\bin\Release\QuestionsGame.Droid.pdb
+C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\bin\Release\com.dlapps.canadatrivia.apk
+C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\bin\Release\com.dlapps.canadatrivia-Signed.apk
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\bin\Release\FormsViewGroup.dll
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\bin\Release\QuestionsGame.dll
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\bin\Release\SQLite-net.dll
@@ -70,7 +72,7 @@ C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Clearcut.dll
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\obj\Release\QuestionsGame.Droid.dll
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\obj\Release\QuestionsGame.Droid.pdb
-C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\obj\Release\res\drawable\icon.png
+C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\obj\Release\android\bin\com.dlapps.canadatrivia.apk
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\obj\Release\res\drawable-hdpi\icon.png
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\obj\Release\res\drawable-xhdpi\icon.png
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\obj\Release\res\drawable-xxhdpi\icon.png
@@ -83,11 +85,10 @@ C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\obj\Release\res\raw\cheering.mp3
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\obj\Release\res\raw\tada.mp3
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\obj\Release\res\raw\train.mp3
+C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\obj\Release\res\drawable\canada.jpg
+C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\obj\Release\res\drawable\icon.png
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\obj\Release\R.cs.flag
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\obj\Release\uploadflags.txt
-C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\bin\Release\com.dlapps.worldtrivia.apk
-C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\bin\Release\com.dlapps.worldtrivia-Signed.apk
-C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\obj\Release\android\bin\com.dlapps.worldtrivia.apk
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\bin\Release\QuestionsGame.Droid.dll.mdb
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\bin\Release\Java.Interop.dll.mdb
 C:\Users\Casa\Desktop\Practice\Xamarin\QuestionsGame\QuestionsGame\QuestionsGame.Droid\bin\Release\Mono.Android.dll.mdb

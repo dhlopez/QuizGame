@@ -30,9 +30,9 @@
     <RowDefinition Height="1*" />
     <RowDefinition Height="1*" />
   </Grid.RowDefinitions>
-    <Image Grid.Column="1" Grid.Row="1" Source="world_flags_mobile.jpg"/>
+    <Image Grid.Column="1" Grid.Row="1" Source="canada.jpg"/>
     <!--<Image Grid.Column="3" Grid.Row="1" Source="test_grid_img.jpg"/>-->
-    <Label Grid.Column="1" Grid.Row="0" Style="{StaticResource lblTitle}" Text="World Quiz" />
+    <Label Grid.Column="1" Grid.Row="0" Style="{StaticResource lblTitle}" Text="Canada Trivia" />
   
     <!--<Entry Grid.Column="0" Grid.Row="0" BackgroundColor="Red" >asdfsd</Entry>
     <Entry Grid.Column="1" Grid.Row="0" BackgroundColor="Aqua" >asdfsd</Entry>

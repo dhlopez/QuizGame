@@ -35,7 +35,7 @@
     <RowDefinition Height="1*" />
     <RowDefinition Height="1*" />
   </Grid.RowDefinitions>
-    <Label x:Name="Title" Grid.Column="1" Grid.Row="0" Grid.ColumnSpan="3" Text="World Quiz" Style="{StaticResource lblTitle}" />
+    <Label x:Name="Title" Grid.Column="1" Grid.Row="0" Grid.ColumnSpan="3" Text="Canada Trivia" Style="{StaticResource lblTitle}" />
     <Image Grid.Column="1" Grid.Row="1" Source="test_grid_img.jpg"/>
     <!--<Image Grid.Column="3" Grid.Row="1" Source="test_grid_img.jpg"/>-->
     <Label Grid.Column="3" Grid.Row="1" Text="{Binding question}" Style="{StaticResource lblTitle}" />

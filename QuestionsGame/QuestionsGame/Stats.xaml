@@ -14,7 +14,7 @@
          FontAttributes="Bold"
          TextColor="Aqua" />
          -->
-<Grid BackgroundColor="#183E65">
+<Grid BackgroundColor="{StaticResource MainBackgroundColour}">
   <Grid.ColumnDefinitions>
     <ColumnDefinition Width="5*" />
     <ColumnDefinition Width="5*"/>

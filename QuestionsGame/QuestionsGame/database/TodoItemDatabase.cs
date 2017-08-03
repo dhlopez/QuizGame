@@ -127,7 +127,7 @@ namespace QuestionsGame.database
         {
             //original world quiz
             //wrong or right / not answered
-            
+            /*
             var question1 = new Questions { question="What's the biggest country in the world?", opt1="China", opt2="Russia", opt3="Canada", correctAns="Russia", status="not answered" };
             var question2 = new Questions { question = "Aprox. earth's circumference", opt1 = "40,000Km", opt2 = "50,000km", opt3 = "30,000km", correctAns = "40,000Km", status = "not answered" };
             var question3 = new Questions { question = "Nelson Mandela released from prison in", opt1 = "1980", opt2 = "1990", opt3 = "1978", correctAns = "1990", status = "not answered" };
@@ -193,7 +193,7 @@ namespace QuestionsGame.database
             var question58 = new Questions { question = "Capital of Australia", opt1 = "Sydney", opt2 = "Canberra", opt3 = "Braddon", correctAns = "Canberra", status = "not answered" };
             var question59 = new Questions { question = "How many states are in USA", opt1 = "47", opt2 = "49", opt3 = "50", correctAns = "50", status = "not answered" };
             var question60 = new Questions { question = "Main Character: The Da Vinci Code", opt1 = "Robert Langdon", opt2 = "Gulliver", opt3 = "Billy Bunter", correctAns = "Robert Langdon", status = "not answered" };
-            /*
+            */
 
             //Canada version
             var question1 = new Questions { question = "Baseball player that hit his first home run in Toronto", opt1 = "Hank Aaron", opt2 = "Babe Ruth", opt3 = "Barry Bonds", correctAns = "Babe Ruth", status = "not answered" };
@@ -261,7 +261,7 @@ namespace QuestionsGame.database
             var question58 = new Questions { question = "Current prime minister", opt1 = "Justin Parker", opt2 = "Justin Fox", opt3 = "Justin Trudeau", correctAns = "Justin Trudeau", status = "not answered" };
             var question59 = new Questions { question = "Animal on the Canadian nickel", opt1 = "Moose", opt2 = "Deer", opt3 = "Beaver", correctAns = "Beaver", status = "not answered" };
             var question60 = new Questions { question = "Cities that hosted winter games", opt1 = "Toronto, Vancouver", opt2 = "Calgary, Montreal", opt3 = "Calgary, Vancouver", correctAns = "Calgary, Vancouver", status = "not answered" };
-            */
+            
 
             List<Questions> questions = new List<Questions>();
             questions.AddRange(new Questions[] {

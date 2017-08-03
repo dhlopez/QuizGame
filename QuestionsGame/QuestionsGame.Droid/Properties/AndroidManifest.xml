@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" package="com.dlapps.worldtrivia" android:versionCode="2" android:versionName="2.0">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" package="com.dlapps.canadatrivia" android:versionCode="2" android:versionName="2.0">
 	<uses-sdk android:minSdkVersion="15" android:targetSdkVersion="24" />
-	<application android:label="World Trivia" android:icon="@drawable/icon">
+	<application android:label="Canada Trivia" android:icon="@drawable/icon">
 		<activity android:name="com.google.android.gms.ads.AdActivity" android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" android:theme="@android:style/Theme.Translucent" />
 	</application>
 	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />

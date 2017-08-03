@@ -2891,213 +2891,214 @@ containing a value of this type.
         public static final int abc_vector_test=0x7f020052;
         public static final int avd_hide_password=0x7f020053;
         public static final int avd_show_password=0x7f020054;
-        public static final int common_full_open_on_phone=0x7f020055;
-        public static final int common_google_signin_btn_icon_dark=0x7f020056;
-        public static final int common_google_signin_btn_icon_dark_focused=0x7f020057;
-        public static final int common_google_signin_btn_icon_dark_normal=0x7f020058;
-        public static final int common_google_signin_btn_icon_dark_normal_background=0x7f020059;
-        public static final int common_google_signin_btn_icon_disabled=0x7f02005a;
-        public static final int common_google_signin_btn_icon_light=0x7f02005b;
-        public static final int common_google_signin_btn_icon_light_focused=0x7f02005c;
-        public static final int common_google_signin_btn_icon_light_normal=0x7f02005d;
-        public static final int common_google_signin_btn_icon_light_normal_background=0x7f02005e;
-        public static final int common_google_signin_btn_text_dark=0x7f02005f;
-        public static final int common_google_signin_btn_text_dark_focused=0x7f020060;
-        public static final int common_google_signin_btn_text_dark_normal=0x7f020061;
-        public static final int common_google_signin_btn_text_dark_normal_background=0x7f020062;
-        public static final int common_google_signin_btn_text_disabled=0x7f020063;
-        public static final int common_google_signin_btn_text_light=0x7f020064;
-        public static final int common_google_signin_btn_text_light_focused=0x7f020065;
-        public static final int common_google_signin_btn_text_light_normal=0x7f020066;
-        public static final int common_google_signin_btn_text_light_normal_background=0x7f020067;
-        public static final int design_bottom_navigation_item_background=0x7f020068;
-        public static final int design_fab_background=0x7f020069;
-        public static final int design_ic_visibility=0x7f02006a;
-        public static final int design_ic_visibility_off=0x7f02006b;
-        public static final int design_password_eye=0x7f02006c;
-        public static final int design_snackbar_background=0x7f02006d;
-        public static final int googleg_disabled_color_18=0x7f02006e;
-        public static final int googleg_standard_color_18=0x7f02006f;
-        public static final int ic_audiotrack_dark=0x7f020070;
-        public static final int ic_audiotrack_light=0x7f020071;
-        public static final int ic_dialog_close_dark=0x7f020072;
-        public static final int ic_dialog_close_light=0x7f020073;
-        public static final int ic_group_collapse_00=0x7f020074;
-        public static final int ic_group_collapse_01=0x7f020075;
-        public static final int ic_group_collapse_02=0x7f020076;
-        public static final int ic_group_collapse_03=0x7f020077;
-        public static final int ic_group_collapse_04=0x7f020078;
-        public static final int ic_group_collapse_05=0x7f020079;
-        public static final int ic_group_collapse_06=0x7f02007a;
-        public static final int ic_group_collapse_07=0x7f02007b;
-        public static final int ic_group_collapse_08=0x7f02007c;
-        public static final int ic_group_collapse_09=0x7f02007d;
-        public static final int ic_group_collapse_10=0x7f02007e;
-        public static final int ic_group_collapse_11=0x7f02007f;
-        public static final int ic_group_collapse_12=0x7f020080;
-        public static final int ic_group_collapse_13=0x7f020081;
-        public static final int ic_group_collapse_14=0x7f020082;
-        public static final int ic_group_collapse_15=0x7f020083;
-        public static final int ic_group_expand_00=0x7f020084;
-        public static final int ic_group_expand_01=0x7f020085;
-        public static final int ic_group_expand_02=0x7f020086;
-        public static final int ic_group_expand_03=0x7f020087;
-        public static final int ic_group_expand_04=0x7f020088;
-        public static final int ic_group_expand_05=0x7f020089;
-        public static final int ic_group_expand_06=0x7f02008a;
-        public static final int ic_group_expand_07=0x7f02008b;
-        public static final int ic_group_expand_08=0x7f02008c;
-        public static final int ic_group_expand_09=0x7f02008d;
-        public static final int ic_group_expand_10=0x7f02008e;
-        public static final int ic_group_expand_11=0x7f02008f;
-        public static final int ic_group_expand_12=0x7f020090;
-        public static final int ic_group_expand_13=0x7f020091;
-        public static final int ic_group_expand_14=0x7f020092;
-        public static final int ic_group_expand_15=0x7f020093;
-        public static final int ic_media_pause_dark=0x7f020094;
-        public static final int ic_media_pause_light=0x7f020095;
-        public static final int ic_media_play_dark=0x7f020096;
-        public static final int ic_media_play_light=0x7f020097;
-        public static final int ic_mr_button_connected_00_dark=0x7f020098;
-        public static final int ic_mr_button_connected_00_light=0x7f020099;
-        public static final int ic_mr_button_connected_01_dark=0x7f02009a;
-        public static final int ic_mr_button_connected_01_light=0x7f02009b;
-        public static final int ic_mr_button_connected_02_dark=0x7f02009c;
-        public static final int ic_mr_button_connected_02_light=0x7f02009d;
-        public static final int ic_mr_button_connected_03_dark=0x7f02009e;
-        public static final int ic_mr_button_connected_03_light=0x7f02009f;
-        public static final int ic_mr_button_connected_04_dark=0x7f0200a0;
-        public static final int ic_mr_button_connected_04_light=0x7f0200a1;
-        public static final int ic_mr_button_connected_05_dark=0x7f0200a2;
-        public static final int ic_mr_button_connected_05_light=0x7f0200a3;
-        public static final int ic_mr_button_connected_06_dark=0x7f0200a4;
-        public static final int ic_mr_button_connected_06_light=0x7f0200a5;
-        public static final int ic_mr_button_connected_07_dark=0x7f0200a6;
-        public static final int ic_mr_button_connected_07_light=0x7f0200a7;
-        public static final int ic_mr_button_connected_08_dark=0x7f0200a8;
-        public static final int ic_mr_button_connected_08_light=0x7f0200a9;
-        public static final int ic_mr_button_connected_09_dark=0x7f0200aa;
-        public static final int ic_mr_button_connected_09_light=0x7f0200ab;
-        public static final int ic_mr_button_connected_10_dark=0x7f0200ac;
-        public static final int ic_mr_button_connected_10_light=0x7f0200ad;
-        public static final int ic_mr_button_connected_11_dark=0x7f0200ae;
-        public static final int ic_mr_button_connected_11_light=0x7f0200af;
-        public static final int ic_mr_button_connected_12_dark=0x7f0200b0;
-        public static final int ic_mr_button_connected_12_light=0x7f0200b1;
-        public static final int ic_mr_button_connected_13_dark=0x7f0200b2;
-        public static final int ic_mr_button_connected_13_light=0x7f0200b3;
-        public static final int ic_mr_button_connected_14_dark=0x7f0200b4;
-        public static final int ic_mr_button_connected_14_light=0x7f0200b5;
-        public static final int ic_mr_button_connected_15_dark=0x7f0200b6;
-        public static final int ic_mr_button_connected_15_light=0x7f0200b7;
-        public static final int ic_mr_button_connected_16_dark=0x7f0200b8;
-        public static final int ic_mr_button_connected_16_light=0x7f0200b9;
-        public static final int ic_mr_button_connected_17_dark=0x7f0200ba;
-        public static final int ic_mr_button_connected_17_light=0x7f0200bb;
-        public static final int ic_mr_button_connected_18_dark=0x7f0200bc;
-        public static final int ic_mr_button_connected_18_light=0x7f0200bd;
-        public static final int ic_mr_button_connected_19_dark=0x7f0200be;
-        public static final int ic_mr_button_connected_19_light=0x7f0200bf;
-        public static final int ic_mr_button_connected_20_dark=0x7f0200c0;
-        public static final int ic_mr_button_connected_20_light=0x7f0200c1;
-        public static final int ic_mr_button_connected_21_dark=0x7f0200c2;
-        public static final int ic_mr_button_connected_21_light=0x7f0200c3;
-        public static final int ic_mr_button_connected_22_dark=0x7f0200c4;
-        public static final int ic_mr_button_connected_22_light=0x7f0200c5;
-        public static final int ic_mr_button_connecting_00_dark=0x7f0200c6;
-        public static final int ic_mr_button_connecting_00_light=0x7f0200c7;
-        public static final int ic_mr_button_connecting_01_dark=0x7f0200c8;
-        public static final int ic_mr_button_connecting_01_light=0x7f0200c9;
-        public static final int ic_mr_button_connecting_02_dark=0x7f0200ca;
-        public static final int ic_mr_button_connecting_02_light=0x7f0200cb;
-        public static final int ic_mr_button_connecting_03_dark=0x7f0200cc;
-        public static final int ic_mr_button_connecting_03_light=0x7f0200cd;
-        public static final int ic_mr_button_connecting_04_dark=0x7f0200ce;
-        public static final int ic_mr_button_connecting_04_light=0x7f0200cf;
-        public static final int ic_mr_button_connecting_05_dark=0x7f0200d0;
-        public static final int ic_mr_button_connecting_05_light=0x7f0200d1;
-        public static final int ic_mr_button_connecting_06_dark=0x7f0200d2;
-        public static final int ic_mr_button_connecting_06_light=0x7f0200d3;
-        public static final int ic_mr_button_connecting_07_dark=0x7f0200d4;
-        public static final int ic_mr_button_connecting_07_light=0x7f0200d5;
-        public static final int ic_mr_button_connecting_08_dark=0x7f0200d6;
-        public static final int ic_mr_button_connecting_08_light=0x7f0200d7;
-        public static final int ic_mr_button_connecting_09_dark=0x7f0200d8;
-        public static final int ic_mr_button_connecting_09_light=0x7f0200d9;
-        public static final int ic_mr_button_connecting_10_dark=0x7f0200da;
-        public static final int ic_mr_button_connecting_10_light=0x7f0200db;
-        public static final int ic_mr_button_connecting_11_dark=0x7f0200dc;
-        public static final int ic_mr_button_connecting_11_light=0x7f0200dd;
-        public static final int ic_mr_button_connecting_12_dark=0x7f0200de;
-        public static final int ic_mr_button_connecting_12_light=0x7f0200df;
-        public static final int ic_mr_button_connecting_13_dark=0x7f0200e0;
-        public static final int ic_mr_button_connecting_13_light=0x7f0200e1;
-        public static final int ic_mr_button_connecting_14_dark=0x7f0200e2;
-        public static final int ic_mr_button_connecting_14_light=0x7f0200e3;
-        public static final int ic_mr_button_connecting_15_dark=0x7f0200e4;
-        public static final int ic_mr_button_connecting_15_light=0x7f0200e5;
-        public static final int ic_mr_button_connecting_16_dark=0x7f0200e6;
-        public static final int ic_mr_button_connecting_16_light=0x7f0200e7;
-        public static final int ic_mr_button_connecting_17_dark=0x7f0200e8;
-        public static final int ic_mr_button_connecting_17_light=0x7f0200e9;
-        public static final int ic_mr_button_connecting_18_dark=0x7f0200ea;
-        public static final int ic_mr_button_connecting_18_light=0x7f0200eb;
-        public static final int ic_mr_button_connecting_19_dark=0x7f0200ec;
-        public static final int ic_mr_button_connecting_19_light=0x7f0200ed;
-        public static final int ic_mr_button_connecting_20_dark=0x7f0200ee;
-        public static final int ic_mr_button_connecting_20_light=0x7f0200ef;
-        public static final int ic_mr_button_connecting_21_dark=0x7f0200f0;
-        public static final int ic_mr_button_connecting_21_light=0x7f0200f1;
-        public static final int ic_mr_button_connecting_22_dark=0x7f0200f2;
-        public static final int ic_mr_button_connecting_22_light=0x7f0200f3;
-        public static final int ic_mr_button_disabled_dark=0x7f0200f4;
-        public static final int ic_mr_button_disabled_light=0x7f0200f5;
-        public static final int ic_mr_button_disconnected_dark=0x7f0200f6;
-        public static final int ic_mr_button_disconnected_light=0x7f0200f7;
-        public static final int ic_mr_button_grey=0x7f0200f8;
-        public static final int ic_vol_type_speaker_dark=0x7f0200f9;
-        public static final int ic_vol_type_speaker_group_dark=0x7f0200fa;
-        public static final int ic_vol_type_speaker_group_light=0x7f0200fb;
-        public static final int ic_vol_type_speaker_light=0x7f0200fc;
-        public static final int ic_vol_type_tv_dark=0x7f0200fd;
-        public static final int ic_vol_type_tv_light=0x7f0200fe;
-        public static final int icon=0x7f0200ff;
-        public static final int mr_button_connected_dark=0x7f020100;
-        public static final int mr_button_connected_light=0x7f020101;
-        public static final int mr_button_connecting_dark=0x7f020102;
-        public static final int mr_button_connecting_light=0x7f020103;
-        public static final int mr_button_dark=0x7f020104;
-        public static final int mr_button_light=0x7f020105;
-        public static final int mr_dialog_close_dark=0x7f020106;
-        public static final int mr_dialog_close_light=0x7f020107;
-        public static final int mr_dialog_material_background_dark=0x7f020108;
-        public static final int mr_dialog_material_background_light=0x7f020109;
-        public static final int mr_group_collapse=0x7f02010a;
-        public static final int mr_group_expand=0x7f02010b;
-        public static final int mr_media_pause_dark=0x7f02010c;
-        public static final int mr_media_pause_light=0x7f02010d;
-        public static final int mr_media_play_dark=0x7f02010e;
-        public static final int mr_media_play_light=0x7f02010f;
-        public static final int mr_vol_type_audiotrack_dark=0x7f020110;
-        public static final int mr_vol_type_audiotrack_light=0x7f020111;
-        public static final int navigation_empty_icon=0x7f020112;
-        public static final int notification_action_background=0x7f020113;
-        public static final int notification_bg=0x7f020114;
-        public static final int notification_bg_low=0x7f020115;
-        public static final int notification_bg_low_normal=0x7f020116;
-        public static final int notification_bg_low_pressed=0x7f020117;
-        public static final int notification_bg_normal=0x7f020118;
-        public static final int notification_bg_normal_pressed=0x7f020119;
-        public static final int notification_icon_background=0x7f02011a;
-        public static final int notification_template_icon_bg=0x7f020122;
-        public static final int notification_template_icon_low_bg=0x7f020123;
-        public static final int notification_tile_bg=0x7f02011b;
-        public static final int notify_panel_notification_icon_bg=0x7f02011c;
-        public static final int questionperson=0x7f02011d;
-        public static final int right=0x7f02011e;
-        public static final int test_grid_img=0x7f02011f;
-        public static final int world_flags_mobile=0x7f020120;
-        public static final int wrong=0x7f020121;
+        public static final int canada=0x7f020055;
+        public static final int common_full_open_on_phone=0x7f020056;
+        public static final int common_google_signin_btn_icon_dark=0x7f020057;
+        public static final int common_google_signin_btn_icon_dark_focused=0x7f020058;
+        public static final int common_google_signin_btn_icon_dark_normal=0x7f020059;
+        public static final int common_google_signin_btn_icon_dark_normal_background=0x7f02005a;
+        public static final int common_google_signin_btn_icon_disabled=0x7f02005b;
+        public static final int common_google_signin_btn_icon_light=0x7f02005c;
+        public static final int common_google_signin_btn_icon_light_focused=0x7f02005d;
+        public static final int common_google_signin_btn_icon_light_normal=0x7f02005e;
+        public static final int common_google_signin_btn_icon_light_normal_background=0x7f02005f;
+        public static final int common_google_signin_btn_text_dark=0x7f020060;
+        public static final int common_google_signin_btn_text_dark_focused=0x7f020061;
+        public static final int common_google_signin_btn_text_dark_normal=0x7f020062;
+        public static final int common_google_signin_btn_text_dark_normal_background=0x7f020063;
+        public static final int common_google_signin_btn_text_disabled=0x7f020064;
+        public static final int common_google_signin_btn_text_light=0x7f020065;
+        public static final int common_google_signin_btn_text_light_focused=0x7f020066;
+        public static final int common_google_signin_btn_text_light_normal=0x7f020067;
+        public static final int common_google_signin_btn_text_light_normal_background=0x7f020068;
+        public static final int design_bottom_navigation_item_background=0x7f020069;
+        public static final int design_fab_background=0x7f02006a;
+        public static final int design_ic_visibility=0x7f02006b;
+        public static final int design_ic_visibility_off=0x7f02006c;
+        public static final int design_password_eye=0x7f02006d;
+        public static final int design_snackbar_background=0x7f02006e;
+        public static final int googleg_disabled_color_18=0x7f02006f;
+        public static final int googleg_standard_color_18=0x7f020070;
+        public static final int ic_audiotrack_dark=0x7f020071;
+        public static final int ic_audiotrack_light=0x7f020072;
+        public static final int ic_dialog_close_dark=0x7f020073;
+        public static final int ic_dialog_close_light=0x7f020074;
+        public static final int ic_group_collapse_00=0x7f020075;
+        public static final int ic_group_collapse_01=0x7f020076;
+        public static final int ic_group_collapse_02=0x7f020077;
+        public static final int ic_group_collapse_03=0x7f020078;
+        public static final int ic_group_collapse_04=0x7f020079;
+        public static final int ic_group_collapse_05=0x7f02007a;
+        public static final int ic_group_collapse_06=0x7f02007b;
+        public static final int ic_group_collapse_07=0x7f02007c;
+        public static final int ic_group_collapse_08=0x7f02007d;
+        public static final int ic_group_collapse_09=0x7f02007e;
+        public static final int ic_group_collapse_10=0x7f02007f;
+        public static final int ic_group_collapse_11=0x7f020080;
+        public static final int ic_group_collapse_12=0x7f020081;
+        public static final int ic_group_collapse_13=0x7f020082;
+        public static final int ic_group_collapse_14=0x7f020083;
+        public static final int ic_group_collapse_15=0x7f020084;
+        public static final int ic_group_expand_00=0x7f020085;
+        public static final int ic_group_expand_01=0x7f020086;
+        public static final int ic_group_expand_02=0x7f020087;
+        public static final int ic_group_expand_03=0x7f020088;
+        public static final int ic_group_expand_04=0x7f020089;
+        public static final int ic_group_expand_05=0x7f02008a;
+        public static final int ic_group_expand_06=0x7f02008b;
+        public static final int ic_group_expand_07=0x7f02008c;
+        public static final int ic_group_expand_08=0x7f02008d;
+        public static final int ic_group_expand_09=0x7f02008e;
+        public static final int ic_group_expand_10=0x7f02008f;
+        public static final int ic_group_expand_11=0x7f020090;
+        public static final int ic_group_expand_12=0x7f020091;
+        public static final int ic_group_expand_13=0x7f020092;
+        public static final int ic_group_expand_14=0x7f020093;
+        public static final int ic_group_expand_15=0x7f020094;
+        public static final int ic_media_pause_dark=0x7f020095;
+        public static final int ic_media_pause_light=0x7f020096;
+        public static final int ic_media_play_dark=0x7f020097;
+        public static final int ic_media_play_light=0x7f020098;
+        public static final int ic_mr_button_connected_00_dark=0x7f020099;
+        public static final int ic_mr_button_connected_00_light=0x7f02009a;
+        public static final int ic_mr_button_connected_01_dark=0x7f02009b;
+        public static final int ic_mr_button_connected_01_light=0x7f02009c;
+        public static final int ic_mr_button_connected_02_dark=0x7f02009d;
+        public static final int ic_mr_button_connected_02_light=0x7f02009e;
+        public static final int ic_mr_button_connected_03_dark=0x7f02009f;
+        public static final int ic_mr_button_connected_03_light=0x7f0200a0;
+        public static final int ic_mr_button_connected_04_dark=0x7f0200a1;
+        public static final int ic_mr_button_connected_04_light=0x7f0200a2;
+        public static final int ic_mr_button_connected_05_dark=0x7f0200a3;
+        public static final int ic_mr_button_connected_05_light=0x7f0200a4;
+        public static final int ic_mr_button_connected_06_dark=0x7f0200a5;
+        public static final int ic_mr_button_connected_06_light=0x7f0200a6;
+        public static final int ic_mr_button_connected_07_dark=0x7f0200a7;
+        public static final int ic_mr_button_connected_07_light=0x7f0200a8;
+        public static final int ic_mr_button_connected_08_dark=0x7f0200a9;
+        public static final int ic_mr_button_connected_08_light=0x7f0200aa;
+        public static final int ic_mr_button_connected_09_dark=0x7f0200ab;
+        public static final int ic_mr_button_connected_09_light=0x7f0200ac;
+        public static final int ic_mr_button_connected_10_dark=0x7f0200ad;
+        public static final int ic_mr_button_connected_10_light=0x7f0200ae;
+        public static final int ic_mr_button_connected_11_dark=0x7f0200af;
+        public static final int ic_mr_button_connected_11_light=0x7f0200b0;
+        public static final int ic_mr_button_connected_12_dark=0x7f0200b1;
+        public static final int ic_mr_button_connected_12_light=0x7f0200b2;
+        public static final int ic_mr_button_connected_13_dark=0x7f0200b3;
+        public static final int ic_mr_button_connected_13_light=0x7f0200b4;
+        public static final int ic_mr_button_connected_14_dark=0x7f0200b5;
+        public static final int ic_mr_button_connected_14_light=0x7f0200b6;
+        public static final int ic_mr_button_connected_15_dark=0x7f0200b7;
+        public static final int ic_mr_button_connected_15_light=0x7f0200b8;
+        public static final int ic_mr_button_connected_16_dark=0x7f0200b9;
+        public static final int ic_mr_button_connected_16_light=0x7f0200ba;
+        public static final int ic_mr_button_connected_17_dark=0x7f0200bb;
+        public static final int ic_mr_button_connected_17_light=0x7f0200bc;
+        public static final int ic_mr_button_connected_18_dark=0x7f0200bd;
+        public static final int ic_mr_button_connected_18_light=0x7f0200be;
+        public static final int ic_mr_button_connected_19_dark=0x7f0200bf;
+        public static final int ic_mr_button_connected_19_light=0x7f0200c0;
+        public static final int ic_mr_button_connected_20_dark=0x7f0200c1;
+        public static final int ic_mr_button_connected_20_light=0x7f0200c2;
+        public static final int ic_mr_button_connected_21_dark=0x7f0200c3;
+        public static final int ic_mr_button_connected_21_light=0x7f0200c4;
+        public static final int ic_mr_button_connected_22_dark=0x7f0200c5;
+        public static final int ic_mr_button_connected_22_light=0x7f0200c6;
+        public static final int ic_mr_button_connecting_00_dark=0x7f0200c7;
+        public static final int ic_mr_button_connecting_00_light=0x7f0200c8;
+        public static final int ic_mr_button_connecting_01_dark=0x7f0200c9;
+        public static final int ic_mr_button_connecting_01_light=0x7f0200ca;
+        public static final int ic_mr_button_connecting_02_dark=0x7f0200cb;
+        public static final int ic_mr_button_connecting_02_light=0x7f0200cc;
+        public static final int ic_mr_button_connecting_03_dark=0x7f0200cd;
+        public static final int ic_mr_button_connecting_03_light=0x7f0200ce;
+        public static final int ic_mr_button_connecting_04_dark=0x7f0200cf;
+        public static final int ic_mr_button_connecting_04_light=0x7f0200d0;
+        public static final int ic_mr_button_connecting_05_dark=0x7f0200d1;
+        public static final int ic_mr_button_connecting_05_light=0x7f0200d2;
+        public static final int ic_mr_button_connecting_06_dark=0x7f0200d3;
+        public static final int ic_mr_button_connecting_06_light=0x7f0200d4;
+        public static final int ic_mr_button_connecting_07_dark=0x7f0200d5;
+        public static final int ic_mr_button_connecting_07_light=0x7f0200d6;
+        public static final int ic_mr_button_connecting_08_dark=0x7f0200d7;
+        public static final int ic_mr_button_connecting_08_light=0x7f0200d8;
+        public static final int ic_mr_button_connecting_09_dark=0x7f0200d9;
+        public static final int ic_mr_button_connecting_09_light=0x7f0200da;
+        public static final int ic_mr_button_connecting_10_dark=0x7f0200db;
+        public static final int ic_mr_button_connecting_10_light=0x7f0200dc;
+        public static final int ic_mr_button_connecting_11_dark=0x7f0200dd;
+        public static final int ic_mr_button_connecting_11_light=0x7f0200de;
+        public static final int ic_mr_button_connecting_12_dark=0x7f0200df;
+        public static final int ic_mr_button_connecting_12_light=0x7f0200e0;
+        public static final int ic_mr_button_connecting_13_dark=0x7f0200e1;
+        public static final int ic_mr_button_connecting_13_light=0x7f0200e2;
+        public static final int ic_mr_button_connecting_14_dark=0x7f0200e3;
+        public static final int ic_mr_button_connecting_14_light=0x7f0200e4;
+        public static final int ic_mr_button_connecting_15_dark=0x7f0200e5;
+        public static final int ic_mr_button_connecting_15_light=0x7f0200e6;
+        public static final int ic_mr_button_connecting_16_dark=0x7f0200e7;
+        public static final int ic_mr_button_connecting_16_light=0x7f0200e8;
+        public static final int ic_mr_button_connecting_17_dark=0x7f0200e9;
+        public static final int ic_mr_button_connecting_17_light=0x7f0200ea;
+        public static final int ic_mr_button_connecting_18_dark=0x7f0200eb;
+        public static final int ic_mr_button_connecting_18_light=0x7f0200ec;
+        public static final int ic_mr_button_connecting_19_dark=0x7f0200ed;
+        public static final int ic_mr_button_connecting_19_light=0x7f0200ee;
+        public static final int ic_mr_button_connecting_20_dark=0x7f0200ef;
+        public static final int ic_mr_button_connecting_20_light=0x7f0200f0;
+        public static final int ic_mr_button_connecting_21_dark=0x7f0200f1;
+        public static final int ic_mr_button_connecting_21_light=0x7f0200f2;
+        public static final int ic_mr_button_connecting_22_dark=0x7f0200f3;
+        public static final int ic_mr_button_connecting_22_light=0x7f0200f4;
+        public static final int ic_mr_button_disabled_dark=0x7f0200f5;
+        public static final int ic_mr_button_disabled_light=0x7f0200f6;
+        public static final int ic_mr_button_disconnected_dark=0x7f0200f7;
+        public static final int ic_mr_button_disconnected_light=0x7f0200f8;
+        public static final int ic_mr_button_grey=0x7f0200f9;
+        public static final int ic_vol_type_speaker_dark=0x7f0200fa;
+        public static final int ic_vol_type_speaker_group_dark=0x7f0200fb;
+        public static final int ic_vol_type_speaker_group_light=0x7f0200fc;
+        public static final int ic_vol_type_speaker_light=0x7f0200fd;
+        public static final int ic_vol_type_tv_dark=0x7f0200fe;
+        public static final int ic_vol_type_tv_light=0x7f0200ff;
+        public static final int icon=0x7f020100;
+        public static final int mr_button_connected_dark=0x7f020101;
+        public static final int mr_button_connected_light=0x7f020102;
+        public static final int mr_button_connecting_dark=0x7f020103;
+        public static final int mr_button_connecting_light=0x7f020104;
+        public static final int mr_button_dark=0x7f020105;
+        public static final int mr_button_light=0x7f020106;
+        public static final int mr_dialog_close_dark=0x7f020107;
+        public static final int mr_dialog_close_light=0x7f020108;
+        public static final int mr_dialog_material_background_dark=0x7f020109;
+        public static final int mr_dialog_material_background_light=0x7f02010a;
+        public static final int mr_group_collapse=0x7f02010b;
+        public static final int mr_group_expand=0x7f02010c;
+        public static final int mr_media_pause_dark=0x7f02010d;
+        public static final int mr_media_pause_light=0x7f02010e;
+        public static final int mr_media_play_dark=0x7f02010f;
+        public static final int mr_media_play_light=0x7f020110;
+        public static final int mr_vol_type_audiotrack_dark=0x7f020111;
+        public static final int mr_vol_type_audiotrack_light=0x7f020112;
+        public static final int navigation_empty_icon=0x7f020113;
+        public static final int notification_action_background=0x7f020114;
+        public static final int notification_bg=0x7f020115;
+        public static final int notification_bg_low=0x7f020116;
+        public static final int notification_bg_low_normal=0x7f020117;
+        public static final int notification_bg_low_pressed=0x7f020118;
+        public static final int notification_bg_normal=0x7f020119;
+        public static final int notification_bg_normal_pressed=0x7f02011a;
+        public static final int notification_icon_background=0x7f02011b;
+        public static final int notification_template_icon_bg=0x7f020123;
+        public static final int notification_template_icon_low_bg=0x7f020124;
+        public static final int notification_tile_bg=0x7f02011c;
+        public static final int notify_panel_notification_icon_bg=0x7f02011d;
+        public static final int questionperson=0x7f02011e;
+        public static final int right=0x7f02011f;
+        public static final int test_grid_img=0x7f020120;
+        public static final int world_flags_mobile=0x7f020121;
+        public static final int wrong=0x7f020122;
     }
     public static final class id {
         public static final int action0=0x7f0d00a3;
@@ -3860,35 +3861,35 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.dlapps.worldtrivia:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.dlapps.worldtrivia:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.dlapps.worldtrivia:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.dlapps.worldtrivia:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.dlapps.worldtrivia:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.dlapps.worldtrivia:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.dlapps.worldtrivia:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.dlapps.worldtrivia:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.dlapps.worldtrivia:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.dlapps.worldtrivia:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.dlapps.worldtrivia:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.dlapps.worldtrivia:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.dlapps.worldtrivia:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height com.dlapps.worldtrivia:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.dlapps.worldtrivia:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.dlapps.worldtrivia:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.dlapps.worldtrivia:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.dlapps.worldtrivia:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.dlapps.worldtrivia:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.dlapps.worldtrivia:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.dlapps.worldtrivia:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.dlapps.worldtrivia:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.dlapps.worldtrivia:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.dlapps.worldtrivia:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.dlapps.worldtrivia:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.dlapps.worldtrivia:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.dlapps.worldtrivia:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title com.dlapps.worldtrivia:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.dlapps.worldtrivia:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background com.dlapps.canadatrivia:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit com.dlapps.canadatrivia:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked com.dlapps.canadatrivia:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd com.dlapps.canadatrivia:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.dlapps.canadatrivia:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft com.dlapps.canadatrivia:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight com.dlapps.canadatrivia:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart com.dlapps.canadatrivia:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.dlapps.canadatrivia:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout com.dlapps.canadatrivia:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions com.dlapps.canadatrivia:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider com.dlapps.canadatrivia:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation com.dlapps.canadatrivia:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height com.dlapps.canadatrivia:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.dlapps.canadatrivia:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.dlapps.canadatrivia:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout com.dlapps.canadatrivia:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon com.dlapps.canadatrivia:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.dlapps.canadatrivia:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding com.dlapps.canadatrivia:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo com.dlapps.canadatrivia:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode com.dlapps.canadatrivia:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme com.dlapps.canadatrivia:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding com.dlapps.canadatrivia:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle com.dlapps.canadatrivia:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle com.dlapps.canadatrivia:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.dlapps.canadatrivia:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title com.dlapps.canadatrivia:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle com.dlapps.canadatrivia:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -3931,17 +3932,17 @@ containing a value of this type.
             0x7f0100cd
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#background}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:background
+          @attr name com.dlapps.canadatrivia:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3949,11 +3950,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.dlapps.worldtrivia:backgroundSplit
+          @attr name com.dlapps.canadatrivia:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3961,11 +3962,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.dlapps.worldtrivia:backgroundStacked
+          @attr name com.dlapps.canadatrivia:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3977,11 +3978,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:contentInsetEnd
+          @attr name com.dlapps.canadatrivia:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3993,11 +3994,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:contentInsetEndWithActions
+          @attr name com.dlapps.canadatrivia:contentInsetEndWithActions
         */
         public static final int ActionBar_contentInsetEndWithActions = 25;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4009,11 +4010,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:contentInsetLeft
+          @attr name com.dlapps.canadatrivia:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4025,11 +4026,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:contentInsetRight
+          @attr name com.dlapps.canadatrivia:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4041,11 +4042,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:contentInsetStart
+          @attr name com.dlapps.canadatrivia:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4057,21 +4058,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:contentInsetStartWithNavigation
+          @attr name com.dlapps.canadatrivia:contentInsetStartWithNavigation
         */
         public static final int ActionBar_contentInsetStartWithNavigation = 24;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:customNavigationLayout
+          @attr name com.dlapps.canadatrivia:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4089,21 +4090,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldtrivia:displayOptions
+          @attr name com.dlapps.canadatrivia:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:divider
+          @attr name com.dlapps.canadatrivia:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4115,11 +4116,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:elevation
+          @attr name com.dlapps.canadatrivia:elevation
         */
         public static final int ActionBar_elevation = 26;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#height}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4131,11 +4132,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:height
+          @attr name com.dlapps.canadatrivia:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4145,51 +4146,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:hideOnContentScroll
+          @attr name com.dlapps.canadatrivia:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:homeAsUpIndicator
+          @attr name com.dlapps.canadatrivia:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 28;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:homeLayout
+          @attr name com.dlapps.canadatrivia:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#icon}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:icon
+          @attr name com.dlapps.canadatrivia:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:indeterminateProgressStyle
+          @attr name com.dlapps.canadatrivia:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4201,21 +4202,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:itemPadding
+          @attr name com.dlapps.canadatrivia:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:logo
+          @attr name com.dlapps.canadatrivia:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4229,21 +4230,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldtrivia:navigationMode
+          @attr name com.dlapps.canadatrivia:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:popupTheme
+          @attr name com.dlapps.canadatrivia:popupTheme
         */
         public static final int ActionBar_popupTheme = 27;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4255,21 +4256,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:progressBarPadding
+          @attr name com.dlapps.canadatrivia:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:progressBarStyle
+          @attr name com.dlapps.canadatrivia:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4279,21 +4280,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:subtitle
+          @attr name com.dlapps.canadatrivia:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:subtitleTextStyle
+          @attr name com.dlapps.canadatrivia:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#title}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4303,17 +4304,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:title
+          @attr name com.dlapps.canadatrivia:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:titleTextStyle
+          @attr name com.dlapps.canadatrivia:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -4365,12 +4366,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.dlapps.worldtrivia:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.dlapps.worldtrivia:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.dlapps.worldtrivia:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height com.dlapps.worldtrivia:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.dlapps.worldtrivia:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.dlapps.worldtrivia:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background com.dlapps.canadatrivia:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit com.dlapps.canadatrivia:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout com.dlapps.canadatrivia:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height com.dlapps.canadatrivia:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.dlapps.canadatrivia:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle com.dlapps.canadatrivia:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -4384,17 +4385,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010080, 0x7f010090
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#background}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:background
+          @attr name com.dlapps.canadatrivia:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -4402,21 +4403,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.dlapps.worldtrivia:backgroundSplit
+          @attr name com.dlapps.canadatrivia:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:closeItemLayout
+          @attr name com.dlapps.canadatrivia:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#height}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -4428,27 +4429,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:height
+          @attr name com.dlapps.canadatrivia:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:subtitleTextStyle
+          @attr name com.dlapps.canadatrivia:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:titleTextStyle
+          @attr name com.dlapps.canadatrivia:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -4457,8 +4458,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.dlapps.worldtrivia:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.dlapps.worldtrivia:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.dlapps.canadatrivia:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.dlapps.canadatrivia:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -4467,17 +4468,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010091, 0x7f010092
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:expandActivityOverflowButtonDrawable
+          @attr name com.dlapps.canadatrivia:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -4487,7 +4488,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:initialActivityCount
+          @attr name com.dlapps.canadatrivia:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AdsAttrs.
@@ -4496,9 +4497,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AdsAttrs_adSize com.dlapps.worldtrivia:adSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AdsAttrs_adSizes com.dlapps.worldtrivia:adSizes}</code></td><td></td></tr>
-           <tr><td><code>{@link #AdsAttrs_adUnitId com.dlapps.worldtrivia:adUnitId}</code></td><td></td></tr>
+           <tr><td><code>{@link #AdsAttrs_adSize com.dlapps.canadatrivia:adSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AdsAttrs_adSizes com.dlapps.canadatrivia:adSizes}</code></td><td></td></tr>
+           <tr><td><code>{@link #AdsAttrs_adUnitId com.dlapps.canadatrivia:adUnitId}</code></td><td></td></tr>
            </table>
            @see #AdsAttrs_adSize
            @see #AdsAttrs_adSizes
@@ -4508,7 +4509,7 @@ containing a value of this type.
             0x7f010011, 0x7f010012, 0x7f010013
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#adSize}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#adSize}
           attribute's value can be found in the {@link #AdsAttrs} array.
 
 
@@ -4518,11 +4519,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:adSize
+          @attr name com.dlapps.canadatrivia:adSize
         */
         public static final int AdsAttrs_adSize = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#adSizes}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#adSizes}
           attribute's value can be found in the {@link #AdsAttrs} array.
 
 
@@ -4532,11 +4533,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:adSizes
+          @attr name com.dlapps.canadatrivia:adSizes
         */
         public static final int AdsAttrs_adSizes = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#adUnitId}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#adUnitId}
           attribute's value can be found in the {@link #AdsAttrs} array.
 
 
@@ -4546,7 +4547,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:adUnitId
+          @attr name com.dlapps.canadatrivia:adUnitId
         */
         public static final int AdsAttrs_adUnitId = 2;
         /** Attributes that can be used with a AlertDialog.
@@ -4556,12 +4557,12 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.dlapps.worldtrivia:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout com.dlapps.worldtrivia:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout com.dlapps.worldtrivia:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.dlapps.worldtrivia:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_showTitle com.dlapps.worldtrivia:showTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.dlapps.worldtrivia:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.dlapps.canadatrivia:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout com.dlapps.canadatrivia:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout com.dlapps.canadatrivia:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.dlapps.canadatrivia:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_showTitle com.dlapps.canadatrivia:showTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.dlapps.canadatrivia:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -4582,47 +4583,47 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:buttonPanelSideLayout
+          @attr name com.dlapps.canadatrivia:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:listItemLayout
+          @attr name com.dlapps.canadatrivia:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:listLayout
+          @attr name com.dlapps.canadatrivia:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:multiChoiceItemLayout
+          @attr name com.dlapps.canadatrivia:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#showTitle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#showTitle}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -4632,17 +4633,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:showTitle
+          @attr name com.dlapps.canadatrivia:showTitle
         */
         public static final int AlertDialog_showTitle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:singleChoiceItemLayout
+          @attr name com.dlapps.canadatrivia:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppBarLayout.
@@ -4652,8 +4653,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_elevation com.dlapps.worldtrivia:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_expanded com.dlapps.worldtrivia:expanded}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_elevation com.dlapps.canadatrivia:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_expanded com.dlapps.canadatrivia:expanded}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_android_background
            @see #AppBarLayout_elevation
@@ -4669,7 +4670,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppBarLayout_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#elevation}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4681,11 +4682,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:elevation
+          @attr name com.dlapps.canadatrivia:elevation
         */
         public static final int AppBarLayout_elevation = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#expanded}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#expanded}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4695,7 +4696,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:expanded
+          @attr name com.dlapps.canadatrivia:expanded
         */
         public static final int AppBarLayout_expanded = 1;
         /** Attributes that can be used with a AppBarLayoutStates.
@@ -4704,8 +4705,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.dlapps.worldtrivia:state_collapsed}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.dlapps.worldtrivia:state_collapsible}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.dlapps.canadatrivia:state_collapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.dlapps.canadatrivia:state_collapsible}</code></td><td></td></tr>
            </table>
            @see #AppBarLayoutStates_state_collapsed
            @see #AppBarLayoutStates_state_collapsible
@@ -4714,7 +4715,7 @@ containing a value of this type.
             0x7f010021, 0x7f010022
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#state_collapsed}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#state_collapsed}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4724,11 +4725,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:state_collapsed
+          @attr name com.dlapps.canadatrivia:state_collapsed
         */
         public static final int AppBarLayoutStates_state_collapsed = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#state_collapsible}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#state_collapsible}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4738,7 +4739,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:state_collapsible
+          @attr name com.dlapps.canadatrivia:state_collapsible
         */
         public static final int AppBarLayoutStates_state_collapsible = 1;
         /** Attributes that can be used with a AppBarLayout_Layout.
@@ -4747,8 +4748,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.dlapps.worldtrivia:layout_scrollFlags}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.dlapps.worldtrivia:layout_scrollInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.dlapps.canadatrivia:layout_scrollFlags}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.dlapps.canadatrivia:layout_scrollInterpolator}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_Layout_layout_scrollFlags
            @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -4757,7 +4758,7 @@ containing a value of this type.
             0x7f010023, 0x7f010024
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#layout_scrollFlags}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#layout_scrollFlags}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
@@ -4773,17 +4774,17 @@ containing a value of this type.
 <tr><td><code>enterAlwaysCollapsed</code></td><td>0x8</td><td></td></tr>
 <tr><td><code>snap</code></td><td>0x10</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldtrivia:layout_scrollFlags
+          @attr name com.dlapps.canadatrivia:layout_scrollFlags
         */
         public static final int AppBarLayout_Layout_layout_scrollFlags = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#layout_scrollInterpolator}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#layout_scrollInterpolator}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:layout_scrollInterpolator
+          @attr name com.dlapps.canadatrivia:layout_scrollInterpolator
         */
         public static final int AppBarLayout_Layout_layout_scrollInterpolator = 1;
         /** Attributes that can be used with a AppCompatImageView.
@@ -4793,7 +4794,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_srcCompat com.dlapps.worldtrivia:srcCompat}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_srcCompat com.dlapps.canadatrivia:srcCompat}</code></td><td></td></tr>
            </table>
            @see #AppCompatImageView_android_src
            @see #AppCompatImageView_srcCompat
@@ -4808,13 +4809,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatImageView_android_src = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#srcCompat}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#srcCompat}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:srcCompat
+          @attr name com.dlapps.canadatrivia:srcCompat
         */
         public static final int AppCompatImageView_srcCompat = 1;
         /** Attributes that can be used with a AppCompatSeekBar.
@@ -4824,9 +4825,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.dlapps.worldtrivia:tickMark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.dlapps.worldtrivia:tickMarkTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.dlapps.worldtrivia:tickMarkTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.dlapps.canadatrivia:tickMark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.dlapps.canadatrivia:tickMarkTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.dlapps.canadatrivia:tickMarkTintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatSeekBar_android_thumb
            @see #AppCompatSeekBar_tickMark
@@ -4843,17 +4844,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatSeekBar_android_thumb = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tickMark}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#tickMark}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:tickMark
+          @attr name com.dlapps.canadatrivia:tickMark
         */
         public static final int AppCompatSeekBar_tickMark = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tickMarkTint}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#tickMarkTint}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4864,11 +4865,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:tickMarkTint
+          @attr name com.dlapps.canadatrivia:tickMarkTint
         */
         public static final int AppCompatSeekBar_tickMarkTint = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tickMarkTintMode}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#tickMarkTintMode}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4885,7 +4886,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldtrivia:tickMarkTintMode
+          @attr name com.dlapps.canadatrivia:tickMarkTintMode
         */
         public static final int AppCompatSeekBar_tickMarkTintMode = 3;
         /** Attributes that can be used with a AppCompatTextHelper.
@@ -4963,7 +4964,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.dlapps.worldtrivia:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.dlapps.canadatrivia:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -4978,14 +4979,14 @@ containing a value of this type.
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.dlapps.worldtrivia:textAllCaps
+          @attr name com.dlapps.canadatrivia:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a AppCompatTheme.
@@ -4994,121 +4995,121 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.dlapps.worldtrivia:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.dlapps.worldtrivia:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.dlapps.worldtrivia:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.dlapps.worldtrivia:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.dlapps.worldtrivia:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.dlapps.worldtrivia:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.dlapps.worldtrivia:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.dlapps.worldtrivia:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.dlapps.worldtrivia:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.dlapps.worldtrivia:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.dlapps.worldtrivia:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.dlapps.worldtrivia:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.dlapps.worldtrivia:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.dlapps.worldtrivia:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.dlapps.worldtrivia:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.dlapps.worldtrivia:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.dlapps.worldtrivia:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.dlapps.worldtrivia:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.dlapps.worldtrivia:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.dlapps.worldtrivia:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.dlapps.worldtrivia:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.dlapps.worldtrivia:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.dlapps.worldtrivia:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.dlapps.worldtrivia:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.dlapps.worldtrivia:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.dlapps.worldtrivia:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.dlapps.worldtrivia:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.dlapps.worldtrivia:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.dlapps.worldtrivia:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.dlapps.worldtrivia:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.dlapps.worldtrivia:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.dlapps.worldtrivia:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.dlapps.worldtrivia:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.dlapps.worldtrivia:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.dlapps.worldtrivia:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.dlapps.canadatrivia:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.dlapps.canadatrivia:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.dlapps.canadatrivia:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.dlapps.canadatrivia:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.dlapps.canadatrivia:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.dlapps.canadatrivia:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.dlapps.canadatrivia:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.dlapps.canadatrivia:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.dlapps.canadatrivia:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.dlapps.canadatrivia:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.dlapps.canadatrivia:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.dlapps.canadatrivia:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.dlapps.canadatrivia:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.dlapps.canadatrivia:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.dlapps.canadatrivia:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.dlapps.canadatrivia:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.dlapps.canadatrivia:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.dlapps.canadatrivia:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.dlapps.canadatrivia:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.dlapps.canadatrivia:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.dlapps.canadatrivia:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.dlapps.canadatrivia:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.dlapps.canadatrivia:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.dlapps.canadatrivia:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.dlapps.canadatrivia:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.dlapps.canadatrivia:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.dlapps.canadatrivia:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.dlapps.canadatrivia:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.dlapps.canadatrivia:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.dlapps.canadatrivia:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.dlapps.canadatrivia:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.dlapps.canadatrivia:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.dlapps.canadatrivia:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.dlapps.canadatrivia:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.dlapps.canadatrivia:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.dlapps.worldtrivia:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.dlapps.worldtrivia:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.dlapps.worldtrivia:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.dlapps.worldtrivia:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.dlapps.worldtrivia:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.dlapps.worldtrivia:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.dlapps.worldtrivia:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.dlapps.worldtrivia:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.dlapps.worldtrivia:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.dlapps.worldtrivia:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.dlapps.worldtrivia:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorAccent com.dlapps.worldtrivia:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.dlapps.worldtrivia:colorBackgroundFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.dlapps.worldtrivia:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.dlapps.worldtrivia:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.dlapps.worldtrivia:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.dlapps.worldtrivia:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.dlapps.worldtrivia:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.dlapps.worldtrivia:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.dlapps.worldtrivia:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_controlBackground com.dlapps.worldtrivia:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.dlapps.worldtrivia:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.dlapps.worldtrivia:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.dlapps.worldtrivia:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.dlapps.worldtrivia:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.dlapps.worldtrivia:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.dlapps.worldtrivia:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.dlapps.worldtrivia:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextColor com.dlapps.worldtrivia:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.dlapps.worldtrivia:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.dlapps.worldtrivia:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.dlapps.worldtrivia:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.dlapps.worldtrivia:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.dlapps.worldtrivia:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.dlapps.worldtrivia:listMenuViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.dlapps.worldtrivia:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.dlapps.worldtrivia:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.dlapps.worldtrivia:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.dlapps.worldtrivia:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.dlapps.worldtrivia:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.dlapps.worldtrivia:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelBackground com.dlapps.worldtrivia:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.dlapps.worldtrivia:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.dlapps.worldtrivia:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.dlapps.worldtrivia:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.dlapps.worldtrivia:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.dlapps.worldtrivia:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.dlapps.worldtrivia:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.dlapps.worldtrivia:ratingBarStyleIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.dlapps.worldtrivia:ratingBarStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.dlapps.worldtrivia:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.dlapps.worldtrivia:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.dlapps.worldtrivia:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.dlapps.worldtrivia:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.dlapps.worldtrivia:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.dlapps.worldtrivia:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_switchStyle com.dlapps.worldtrivia:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.dlapps.worldtrivia:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.dlapps.worldtrivia:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.dlapps.worldtrivia:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.dlapps.worldtrivia:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.dlapps.worldtrivia:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.dlapps.worldtrivia:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.dlapps.worldtrivia:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.dlapps.worldtrivia:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.dlapps.worldtrivia:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.dlapps.worldtrivia:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.dlapps.worldtrivia:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.dlapps.worldtrivia:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.dlapps.worldtrivia:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.dlapps.worldtrivia:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.dlapps.worldtrivia:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.dlapps.worldtrivia:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.dlapps.worldtrivia:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.dlapps.worldtrivia:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.dlapps.worldtrivia:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.dlapps.worldtrivia:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.dlapps.worldtrivia:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.dlapps.canadatrivia:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.dlapps.canadatrivia:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.dlapps.canadatrivia:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.dlapps.canadatrivia:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.dlapps.canadatrivia:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.dlapps.canadatrivia:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.dlapps.canadatrivia:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.dlapps.canadatrivia:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.dlapps.canadatrivia:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.dlapps.canadatrivia:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.dlapps.canadatrivia:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorAccent com.dlapps.canadatrivia:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.dlapps.canadatrivia:colorBackgroundFloating}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.dlapps.canadatrivia:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.dlapps.canadatrivia:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.dlapps.canadatrivia:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.dlapps.canadatrivia:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.dlapps.canadatrivia:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.dlapps.canadatrivia:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.dlapps.canadatrivia:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_controlBackground com.dlapps.canadatrivia:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.dlapps.canadatrivia:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.dlapps.canadatrivia:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.dlapps.canadatrivia:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.dlapps.canadatrivia:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.dlapps.canadatrivia:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.dlapps.canadatrivia:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.dlapps.canadatrivia:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextColor com.dlapps.canadatrivia:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.dlapps.canadatrivia:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.dlapps.canadatrivia:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.dlapps.canadatrivia:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.dlapps.canadatrivia:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.dlapps.canadatrivia:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.dlapps.canadatrivia:listMenuViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.dlapps.canadatrivia:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.dlapps.canadatrivia:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.dlapps.canadatrivia:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.dlapps.canadatrivia:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.dlapps.canadatrivia:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.dlapps.canadatrivia:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelBackground com.dlapps.canadatrivia:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.dlapps.canadatrivia:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.dlapps.canadatrivia:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.dlapps.canadatrivia:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.dlapps.canadatrivia:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.dlapps.canadatrivia:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.dlapps.canadatrivia:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.dlapps.canadatrivia:ratingBarStyleIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.dlapps.canadatrivia:ratingBarStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.dlapps.canadatrivia:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.dlapps.canadatrivia:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.dlapps.canadatrivia:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.dlapps.canadatrivia:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.dlapps.canadatrivia:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.dlapps.canadatrivia:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_switchStyle com.dlapps.canadatrivia:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.dlapps.canadatrivia:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.dlapps.canadatrivia:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.dlapps.canadatrivia:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.dlapps.canadatrivia:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.dlapps.canadatrivia:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.dlapps.canadatrivia:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.dlapps.canadatrivia:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.dlapps.canadatrivia:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.dlapps.canadatrivia:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.dlapps.canadatrivia:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.dlapps.canadatrivia:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.dlapps.canadatrivia:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.dlapps.canadatrivia:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.dlapps.canadatrivia:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.dlapps.canadatrivia:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.dlapps.canadatrivia:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.dlapps.canadatrivia:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.dlapps.canadatrivia:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.dlapps.canadatrivia:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.dlapps.canadatrivia:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.dlapps.canadatrivia:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #AppCompatTheme_actionBarDivider
            @see #AppCompatTheme_actionBarItemBackground
@@ -5258,37 +5259,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01010c, 0x7f01010d, 0x7f01010e
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:actionBarDivider
+          @attr name com.dlapps.canadatrivia:actionBarDivider
         */
         public static final int AppCompatTheme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:actionBarItemBackground
+          @attr name com.dlapps.canadatrivia:actionBarItemBackground
         */
         public static final int AppCompatTheme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:actionBarPopupTheme
+          @attr name com.dlapps.canadatrivia:actionBarPopupTheme
         */
         public static final int AppCompatTheme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionBarSize}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5308,111 +5309,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldtrivia:actionBarSize
+          @attr name com.dlapps.canadatrivia:actionBarSize
         */
         public static final int AppCompatTheme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:actionBarSplitStyle
+          @attr name com.dlapps.canadatrivia:actionBarSplitStyle
         */
         public static final int AppCompatTheme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:actionBarStyle
+          @attr name com.dlapps.canadatrivia:actionBarStyle
         */
         public static final int AppCompatTheme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:actionBarTabBarStyle
+          @attr name com.dlapps.canadatrivia:actionBarTabBarStyle
         */
         public static final int AppCompatTheme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:actionBarTabStyle
+          @attr name com.dlapps.canadatrivia:actionBarTabStyle
         */
         public static final int AppCompatTheme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:actionBarTabTextStyle
+          @attr name com.dlapps.canadatrivia:actionBarTabTextStyle
         */
         public static final int AppCompatTheme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:actionBarTheme
+          @attr name com.dlapps.canadatrivia:actionBarTheme
         */
         public static final int AppCompatTheme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:actionBarWidgetTheme
+          @attr name com.dlapps.canadatrivia:actionBarWidgetTheme
         */
         public static final int AppCompatTheme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:actionButtonStyle
+          @attr name com.dlapps.canadatrivia:actionButtonStyle
         */
         public static final int AppCompatTheme_actionButtonStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:actionDropDownStyle
+          @attr name com.dlapps.canadatrivia:actionDropDownStyle
         */
         public static final int AppCompatTheme_actionDropDownStyle = 46;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:actionMenuTextAppearance
+          @attr name com.dlapps.canadatrivia:actionMenuTextAppearance
         */
         public static final int AppCompatTheme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5420,181 +5421,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.dlapps.worldtrivia:actionMenuTextColor
+          @attr name com.dlapps.canadatrivia:actionMenuTextColor
         */
         public static final int AppCompatTheme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:actionModeBackground
+          @attr name com.dlapps.canadatrivia:actionModeBackground
         */
         public static final int AppCompatTheme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:actionModeCloseButtonStyle
+          @attr name com.dlapps.canadatrivia:actionModeCloseButtonStyle
         */
         public static final int AppCompatTheme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:actionModeCloseDrawable
+          @attr name com.dlapps.canadatrivia:actionModeCloseDrawable
         */
         public static final int AppCompatTheme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:actionModeCopyDrawable
+          @attr name com.dlapps.canadatrivia:actionModeCopyDrawable
         */
         public static final int AppCompatTheme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:actionModeCutDrawable
+          @attr name com.dlapps.canadatrivia:actionModeCutDrawable
         */
         public static final int AppCompatTheme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:actionModeFindDrawable
+          @attr name com.dlapps.canadatrivia:actionModeFindDrawable
         */
         public static final int AppCompatTheme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:actionModePasteDrawable
+          @attr name com.dlapps.canadatrivia:actionModePasteDrawable
         */
         public static final int AppCompatTheme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:actionModePopupWindowStyle
+          @attr name com.dlapps.canadatrivia:actionModePopupWindowStyle
         */
         public static final int AppCompatTheme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:actionModeSelectAllDrawable
+          @attr name com.dlapps.canadatrivia:actionModeSelectAllDrawable
         */
         public static final int AppCompatTheme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:actionModeShareDrawable
+          @attr name com.dlapps.canadatrivia:actionModeShareDrawable
         */
         public static final int AppCompatTheme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:actionModeSplitBackground
+          @attr name com.dlapps.canadatrivia:actionModeSplitBackground
         */
         public static final int AppCompatTheme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:actionModeStyle
+          @attr name com.dlapps.canadatrivia:actionModeStyle
         */
         public static final int AppCompatTheme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:actionModeWebSearchDrawable
+          @attr name com.dlapps.canadatrivia:actionModeWebSearchDrawable
         */
         public static final int AppCompatTheme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:actionOverflowButtonStyle
+          @attr name com.dlapps.canadatrivia:actionOverflowButtonStyle
         */
         public static final int AppCompatTheme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:actionOverflowMenuStyle
+          @attr name com.dlapps.canadatrivia:actionOverflowMenuStyle
         */
         public static final int AppCompatTheme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:activityChooserViewStyle
+          @attr name com.dlapps.canadatrivia:activityChooserViewStyle
         */
         public static final int AppCompatTheme_activityChooserViewStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:alertDialogButtonGroupStyle
+          @attr name com.dlapps.canadatrivia:alertDialogButtonGroupStyle
         */
         public static final int AppCompatTheme_alertDialogButtonGroupStyle = 94;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5604,27 +5605,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:alertDialogCenterButtons
+          @attr name com.dlapps.canadatrivia:alertDialogCenterButtons
         */
         public static final int AppCompatTheme_alertDialogCenterButtons = 95;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:alertDialogStyle
+          @attr name com.dlapps.canadatrivia:alertDialogStyle
         */
         public static final int AppCompatTheme_alertDialogStyle = 93;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:alertDialogTheme
+          @attr name com.dlapps.canadatrivia:alertDialogTheme
         */
         public static final int AppCompatTheme_alertDialogTheme = 96;
         /**
@@ -5640,117 +5641,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTheme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:autoCompleteTextViewStyle
+          @attr name com.dlapps.canadatrivia:autoCompleteTextViewStyle
         */
         public static final int AppCompatTheme_autoCompleteTextViewStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:borderlessButtonStyle
+          @attr name com.dlapps.canadatrivia:borderlessButtonStyle
         */
         public static final int AppCompatTheme_borderlessButtonStyle = 55;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:buttonBarButtonStyle
+          @attr name com.dlapps.canadatrivia:buttonBarButtonStyle
         */
         public static final int AppCompatTheme_buttonBarButtonStyle = 52;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:buttonBarNegativeButtonStyle
+          @attr name com.dlapps.canadatrivia:buttonBarNegativeButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNegativeButtonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:buttonBarNeutralButtonStyle
+          @attr name com.dlapps.canadatrivia:buttonBarNeutralButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNeutralButtonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:buttonBarPositiveButtonStyle
+          @attr name com.dlapps.canadatrivia:buttonBarPositiveButtonStyle
         */
         public static final int AppCompatTheme_buttonBarPositiveButtonStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:buttonBarStyle
+          @attr name com.dlapps.canadatrivia:buttonBarStyle
         */
         public static final int AppCompatTheme_buttonBarStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#buttonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:buttonStyle
+          @attr name com.dlapps.canadatrivia:buttonStyle
         */
         public static final int AppCompatTheme_buttonStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:buttonStyleSmall
+          @attr name com.dlapps.canadatrivia:buttonStyleSmall
         */
         public static final int AppCompatTheme_buttonStyleSmall = 103;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:checkboxStyle
+          @attr name com.dlapps.canadatrivia:checkboxStyle
         */
         public static final int AppCompatTheme_checkboxStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:checkedTextViewStyle
+          @attr name com.dlapps.canadatrivia:checkedTextViewStyle
         */
         public static final int AppCompatTheme_checkedTextViewStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#colorAccent}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5761,11 +5762,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:colorAccent
+          @attr name com.dlapps.canadatrivia:colorAccent
         */
         public static final int AppCompatTheme_colorAccent = 85;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#colorBackgroundFloating}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#colorBackgroundFloating}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5776,11 +5777,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:colorBackgroundFloating
+          @attr name com.dlapps.canadatrivia:colorBackgroundFloating
         */
         public static final int AppCompatTheme_colorBackgroundFloating = 92;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5791,11 +5792,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:colorButtonNormal
+          @attr name com.dlapps.canadatrivia:colorButtonNormal
         */
         public static final int AppCompatTheme_colorButtonNormal = 89;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5806,11 +5807,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:colorControlActivated
+          @attr name com.dlapps.canadatrivia:colorControlActivated
         */
         public static final int AppCompatTheme_colorControlActivated = 87;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5821,11 +5822,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:colorControlHighlight
+          @attr name com.dlapps.canadatrivia:colorControlHighlight
         */
         public static final int AppCompatTheme_colorControlHighlight = 88;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5836,11 +5837,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:colorControlNormal
+          @attr name com.dlapps.canadatrivia:colorControlNormal
         */
         public static final int AppCompatTheme_colorControlNormal = 86;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#colorPrimary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5851,11 +5852,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:colorPrimary
+          @attr name com.dlapps.canadatrivia:colorPrimary
         */
         public static final int AppCompatTheme_colorPrimary = 83;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5866,11 +5867,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:colorPrimaryDark
+          @attr name com.dlapps.canadatrivia:colorPrimaryDark
         */
         public static final int AppCompatTheme_colorPrimaryDark = 84;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5881,21 +5882,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:colorSwitchThumbNormal
+          @attr name com.dlapps.canadatrivia:colorSwitchThumbNormal
         */
         public static final int AppCompatTheme_colorSwitchThumbNormal = 90;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#controlBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:controlBackground
+          @attr name com.dlapps.canadatrivia:controlBackground
         */
         public static final int AppCompatTheme_controlBackground = 91;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5907,51 +5908,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:dialogPreferredPadding
+          @attr name com.dlapps.canadatrivia:dialogPreferredPadding
         */
         public static final int AppCompatTheme_dialogPreferredPadding = 44;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#dialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:dialogTheme
+          @attr name com.dlapps.canadatrivia:dialogTheme
         */
         public static final int AppCompatTheme_dialogTheme = 43;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:dividerHorizontal
+          @attr name com.dlapps.canadatrivia:dividerHorizontal
         */
         public static final int AppCompatTheme_dividerHorizontal = 57;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#dividerVertical}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:dividerVertical
+          @attr name com.dlapps.canadatrivia:dividerVertical
         */
         public static final int AppCompatTheme_dividerVertical = 56;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:dropDownListViewStyle
+          @attr name com.dlapps.canadatrivia:dropDownListViewStyle
         */
         public static final int AppCompatTheme_dropDownListViewStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5963,21 +5964,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:dropdownListPreferredItemHeight
+          @attr name com.dlapps.canadatrivia:dropdownListPreferredItemHeight
         */
         public static final int AppCompatTheme_dropdownListPreferredItemHeight = 47;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#editTextBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:editTextBackground
+          @attr name com.dlapps.canadatrivia:editTextBackground
         */
         public static final int AppCompatTheme_editTextBackground = 64;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#editTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5985,81 +5986,81 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.dlapps.worldtrivia:editTextColor
+          @attr name com.dlapps.canadatrivia:editTextColor
         */
         public static final int AppCompatTheme_editTextColor = 63;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#editTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:editTextStyle
+          @attr name com.dlapps.canadatrivia:editTextStyle
         */
         public static final int AppCompatTheme_editTextStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:homeAsUpIndicator
+          @attr name com.dlapps.canadatrivia:homeAsUpIndicator
         */
         public static final int AppCompatTheme_homeAsUpIndicator = 49;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:imageButtonStyle
+          @attr name com.dlapps.canadatrivia:imageButtonStyle
         */
         public static final int AppCompatTheme_imageButtonStyle = 65;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:listChoiceBackgroundIndicator
+          @attr name com.dlapps.canadatrivia:listChoiceBackgroundIndicator
         */
         public static final int AppCompatTheme_listChoiceBackgroundIndicator = 82;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:listDividerAlertDialog
+          @attr name com.dlapps.canadatrivia:listDividerAlertDialog
         */
         public static final int AppCompatTheme_listDividerAlertDialog = 45;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#listMenuViewStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#listMenuViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:listMenuViewStyle
+          @attr name com.dlapps.canadatrivia:listMenuViewStyle
         */
         public static final int AppCompatTheme_listMenuViewStyle = 114;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:listPopupWindowStyle
+          @attr name com.dlapps.canadatrivia:listPopupWindowStyle
         */
         public static final int AppCompatTheme_listPopupWindowStyle = 76;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6071,11 +6072,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:listPreferredItemHeight
+          @attr name com.dlapps.canadatrivia:listPreferredItemHeight
         */
         public static final int AppCompatTheme_listPreferredItemHeight = 70;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6087,11 +6088,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:listPreferredItemHeightLarge
+          @attr name com.dlapps.canadatrivia:listPreferredItemHeightLarge
         */
         public static final int AppCompatTheme_listPreferredItemHeightLarge = 72;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6103,11 +6104,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:listPreferredItemHeightSmall
+          @attr name com.dlapps.canadatrivia:listPreferredItemHeightSmall
         */
         public static final int AppCompatTheme_listPreferredItemHeightSmall = 71;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6119,11 +6120,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:listPreferredItemPaddingLeft
+          @attr name com.dlapps.canadatrivia:listPreferredItemPaddingLeft
         */
         public static final int AppCompatTheme_listPreferredItemPaddingLeft = 73;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6135,31 +6136,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:listPreferredItemPaddingRight
+          @attr name com.dlapps.canadatrivia:listPreferredItemPaddingRight
         */
         public static final int AppCompatTheme_listPreferredItemPaddingRight = 74;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#panelBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:panelBackground
+          @attr name com.dlapps.canadatrivia:panelBackground
         */
         public static final int AppCompatTheme_panelBackground = 79;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:panelMenuListTheme
+          @attr name com.dlapps.canadatrivia:panelMenuListTheme
         */
         public static final int AppCompatTheme_panelMenuListTheme = 81;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6171,211 +6172,211 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:panelMenuListWidth
+          @attr name com.dlapps.canadatrivia:panelMenuListWidth
         */
         public static final int AppCompatTheme_panelMenuListWidth = 80;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:popupMenuStyle
+          @attr name com.dlapps.canadatrivia:popupMenuStyle
         */
         public static final int AppCompatTheme_popupMenuStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:popupWindowStyle
+          @attr name com.dlapps.canadatrivia:popupWindowStyle
         */
         public static final int AppCompatTheme_popupWindowStyle = 62;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:radioButtonStyle
+          @attr name com.dlapps.canadatrivia:radioButtonStyle
         */
         public static final int AppCompatTheme_radioButtonStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:ratingBarStyle
+          @attr name com.dlapps.canadatrivia:ratingBarStyle
         */
         public static final int AppCompatTheme_ratingBarStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#ratingBarStyleIndicator}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#ratingBarStyleIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:ratingBarStyleIndicator
+          @attr name com.dlapps.canadatrivia:ratingBarStyleIndicator
         */
         public static final int AppCompatTheme_ratingBarStyleIndicator = 109;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#ratingBarStyleSmall}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#ratingBarStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:ratingBarStyleSmall
+          @attr name com.dlapps.canadatrivia:ratingBarStyleSmall
         */
         public static final int AppCompatTheme_ratingBarStyleSmall = 110;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:searchViewStyle
+          @attr name com.dlapps.canadatrivia:searchViewStyle
         */
         public static final int AppCompatTheme_searchViewStyle = 69;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:seekBarStyle
+          @attr name com.dlapps.canadatrivia:seekBarStyle
         */
         public static final int AppCompatTheme_seekBarStyle = 111;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:selectableItemBackground
+          @attr name com.dlapps.canadatrivia:selectableItemBackground
         */
         public static final int AppCompatTheme_selectableItemBackground = 53;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:selectableItemBackgroundBorderless
+          @attr name com.dlapps.canadatrivia:selectableItemBackgroundBorderless
         */
         public static final int AppCompatTheme_selectableItemBackgroundBorderless = 54;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:spinnerDropDownItemStyle
+          @attr name com.dlapps.canadatrivia:spinnerDropDownItemStyle
         */
         public static final int AppCompatTheme_spinnerDropDownItemStyle = 48;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:spinnerStyle
+          @attr name com.dlapps.canadatrivia:spinnerStyle
         */
         public static final int AppCompatTheme_spinnerStyle = 112;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#switchStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:switchStyle
+          @attr name com.dlapps.canadatrivia:switchStyle
         */
         public static final int AppCompatTheme_switchStyle = 113;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:textAppearanceLargePopupMenu
+          @attr name com.dlapps.canadatrivia:textAppearanceLargePopupMenu
         */
         public static final int AppCompatTheme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:textAppearanceListItem
+          @attr name com.dlapps.canadatrivia:textAppearanceListItem
         */
         public static final int AppCompatTheme_textAppearanceListItem = 77;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:textAppearanceListItemSmall
+          @attr name com.dlapps.canadatrivia:textAppearanceListItemSmall
         */
         public static final int AppCompatTheme_textAppearanceListItemSmall = 78;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#textAppearancePopupMenuHeader}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#textAppearancePopupMenuHeader}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:textAppearancePopupMenuHeader
+          @attr name com.dlapps.canadatrivia:textAppearancePopupMenuHeader
         */
         public static final int AppCompatTheme_textAppearancePopupMenuHeader = 42;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:textAppearanceSearchResultSubtitle
+          @attr name com.dlapps.canadatrivia:textAppearanceSearchResultSubtitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultSubtitle = 67;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:textAppearanceSearchResultTitle
+          @attr name com.dlapps.canadatrivia:textAppearanceSearchResultTitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultTitle = 66;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:textAppearanceSmallPopupMenu
+          @attr name com.dlapps.canadatrivia:textAppearanceSmallPopupMenu
         */
         public static final int AppCompatTheme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6383,11 +6384,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.dlapps.worldtrivia:textColorAlertDialogListItem
+          @attr name com.dlapps.canadatrivia:textColorAlertDialogListItem
         */
         public static final int AppCompatTheme_textColorAlertDialogListItem = 97;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6395,31 +6396,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.dlapps.worldtrivia:textColorSearchUrl
+          @attr name com.dlapps.canadatrivia:textColorSearchUrl
         */
         public static final int AppCompatTheme_textColorSearchUrl = 68;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:toolbarNavigationButtonStyle
+          @attr name com.dlapps.canadatrivia:toolbarNavigationButtonStyle
         */
         public static final int AppCompatTheme_toolbarNavigationButtonStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:toolbarStyle
+          @attr name com.dlapps.canadatrivia:toolbarStyle
         */
         public static final int AppCompatTheme_toolbarStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#windowActionBar}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6429,11 +6430,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:windowActionBar
+          @attr name com.dlapps.canadatrivia:windowActionBar
         */
         public static final int AppCompatTheme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6443,11 +6444,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:windowActionBarOverlay
+          @attr name com.dlapps.canadatrivia:windowActionBarOverlay
         */
         public static final int AppCompatTheme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6457,11 +6458,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:windowActionModeOverlay
+          @attr name com.dlapps.canadatrivia:windowActionModeOverlay
         */
         public static final int AppCompatTheme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6476,11 +6477,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:windowFixedHeightMajor
+          @attr name com.dlapps.canadatrivia:windowFixedHeightMajor
         */
         public static final int AppCompatTheme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6495,11 +6496,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:windowFixedHeightMinor
+          @attr name com.dlapps.canadatrivia:windowFixedHeightMinor
         */
         public static final int AppCompatTheme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6514,11 +6515,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:windowFixedWidthMajor
+          @attr name com.dlapps.canadatrivia:windowFixedWidthMajor
         */
         public static final int AppCompatTheme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6533,11 +6534,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:windowFixedWidthMinor
+          @attr name com.dlapps.canadatrivia:windowFixedWidthMinor
         */
         public static final int AppCompatTheme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6552,11 +6553,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:windowMinWidthMajor
+          @attr name com.dlapps.canadatrivia:windowMinWidthMajor
         */
         public static final int AppCompatTheme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6571,11 +6572,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:windowMinWidthMinor
+          @attr name com.dlapps.canadatrivia:windowMinWidthMinor
         */
         public static final int AppCompatTheme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6585,7 +6586,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:windowNoTitle
+          @attr name com.dlapps.canadatrivia:windowNoTitle
         */
         public static final int AppCompatTheme_windowNoTitle = 3;
         /** Attributes that can be used with a BottomNavigationView.
@@ -6594,11 +6595,11 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomNavigationView_elevation com.dlapps.worldtrivia:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemBackground com.dlapps.worldtrivia:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemIconTint com.dlapps.worldtrivia:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemTextColor com.dlapps.worldtrivia:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_menu com.dlapps.worldtrivia:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_elevation com.dlapps.canadatrivia:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemBackground com.dlapps.canadatrivia:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemIconTint com.dlapps.canadatrivia:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemTextColor com.dlapps.canadatrivia:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_menu com.dlapps.canadatrivia:menu}</code></td><td></td></tr>
            </table>
            @see #BottomNavigationView_elevation
            @see #BottomNavigationView_itemBackground
@@ -6611,7 +6612,7 @@ containing a value of this type.
             0x7f01008e
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#elevation}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6623,21 +6624,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:elevation
+          @attr name com.dlapps.canadatrivia:elevation
         */
         public static final int BottomNavigationView_elevation = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#itemBackground}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:itemBackground
+          @attr name com.dlapps.canadatrivia:itemBackground
         */
         public static final int BottomNavigationView_itemBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#itemIconTint}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6648,11 +6649,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:itemIconTint
+          @attr name com.dlapps.canadatrivia:itemIconTint
         */
         public static final int BottomNavigationView_itemIconTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#itemTextColor}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6663,17 +6664,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:itemTextColor
+          @attr name com.dlapps.canadatrivia:itemTextColor
         */
         public static final int BottomNavigationView_itemTextColor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#menu}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#menu}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:menu
+          @attr name com.dlapps.canadatrivia:menu
         */
         public static final int BottomNavigationView_menu = 0;
         /** Attributes that can be used with a BottomSheetBehavior_Layout.
@@ -6682,9 +6683,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.dlapps.worldtrivia:behavior_hideable}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.dlapps.worldtrivia:behavior_peekHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.dlapps.worldtrivia:behavior_skipCollapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.dlapps.canadatrivia:behavior_hideable}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.dlapps.canadatrivia:behavior_peekHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.dlapps.canadatrivia:behavior_skipCollapsed}</code></td><td></td></tr>
            </table>
            @see #BottomSheetBehavior_Layout_behavior_hideable
            @see #BottomSheetBehavior_Layout_behavior_peekHeight
@@ -6694,7 +6695,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010025, 0x7f010026, 0x7f010027
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#behavior_hideable}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#behavior_hideable}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6704,11 +6705,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:behavior_hideable
+          @attr name com.dlapps.canadatrivia:behavior_hideable
         */
         public static final int BottomSheetBehavior_Layout_behavior_hideable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#behavior_peekHeight}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#behavior_peekHeight}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6728,11 +6729,11 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>auto</code></td><td>-1</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldtrivia:behavior_peekHeight
+          @attr name com.dlapps.canadatrivia:behavior_peekHeight
         */
         public static final int BottomSheetBehavior_Layout_behavior_peekHeight = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#behavior_skipCollapsed}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#behavior_skipCollapsed}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6742,7 +6743,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:behavior_skipCollapsed
+          @attr name com.dlapps.canadatrivia:behavior_skipCollapsed
         */
         public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed = 2;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -6751,7 +6752,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.dlapps.worldtrivia:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.dlapps.canadatrivia:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
@@ -6759,7 +6760,7 @@ containing a value of this type.
             0x7f01010f
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -6769,7 +6770,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:allowStacking
+          @attr name com.dlapps.canadatrivia:allowStacking
         */
         public static final int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CardView.
@@ -6780,17 +6781,17 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td></td></tr>
            <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardBackgroundColor com.dlapps.worldtrivia:cardBackgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardCornerRadius com.dlapps.worldtrivia:cardCornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardElevation com.dlapps.worldtrivia:cardElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardMaxElevation com.dlapps.worldtrivia:cardMaxElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.dlapps.worldtrivia:cardPreventCornerOverlap}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardUseCompatPadding com.dlapps.worldtrivia:cardUseCompatPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPadding com.dlapps.worldtrivia:contentPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingBottom com.dlapps.worldtrivia:contentPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingLeft com.dlapps.worldtrivia:contentPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingRight com.dlapps.worldtrivia:contentPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingTop com.dlapps.worldtrivia:contentPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardBackgroundColor com.dlapps.canadatrivia:cardBackgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardCornerRadius com.dlapps.canadatrivia:cardCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardElevation com.dlapps.canadatrivia:cardElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardMaxElevation com.dlapps.canadatrivia:cardMaxElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.dlapps.canadatrivia:cardPreventCornerOverlap}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardUseCompatPadding com.dlapps.canadatrivia:cardUseCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPadding com.dlapps.canadatrivia:contentPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingBottom com.dlapps.canadatrivia:contentPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingLeft com.dlapps.canadatrivia:contentPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingRight com.dlapps.canadatrivia:contentPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingTop com.dlapps.canadatrivia:contentPaddingTop}</code></td><td></td></tr>
            </table>
            @see #CardView_android_minHeight
            @see #CardView_android_minWidth
@@ -6825,7 +6826,7 @@ containing a value of this type.
         */
         public static final int CardView_android_minWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#cardBackgroundColor}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#cardBackgroundColor}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6836,11 +6837,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:cardBackgroundColor
+          @attr name com.dlapps.canadatrivia:cardBackgroundColor
         */
         public static final int CardView_cardBackgroundColor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#cardCornerRadius}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#cardCornerRadius}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6852,11 +6853,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:cardCornerRadius
+          @attr name com.dlapps.canadatrivia:cardCornerRadius
         */
         public static final int CardView_cardCornerRadius = 3;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#cardElevation}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#cardElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6868,11 +6869,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:cardElevation
+          @attr name com.dlapps.canadatrivia:cardElevation
         */
         public static final int CardView_cardElevation = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#cardMaxElevation}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#cardMaxElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6884,11 +6885,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:cardMaxElevation
+          @attr name com.dlapps.canadatrivia:cardMaxElevation
         */
         public static final int CardView_cardMaxElevation = 5;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#cardPreventCornerOverlap}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#cardPreventCornerOverlap}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6898,11 +6899,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:cardPreventCornerOverlap
+          @attr name com.dlapps.canadatrivia:cardPreventCornerOverlap
         */
         public static final int CardView_cardPreventCornerOverlap = 7;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#cardUseCompatPadding}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#cardUseCompatPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6912,11 +6913,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:cardUseCompatPadding
+          @attr name com.dlapps.canadatrivia:cardUseCompatPadding
         */
         public static final int CardView_cardUseCompatPadding = 6;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentPadding}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#contentPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6928,11 +6929,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:contentPadding
+          @attr name com.dlapps.canadatrivia:contentPadding
         */
         public static final int CardView_contentPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentPaddingBottom}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#contentPaddingBottom}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6944,11 +6945,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:contentPaddingBottom
+          @attr name com.dlapps.canadatrivia:contentPaddingBottom
         */
         public static final int CardView_contentPaddingBottom = 12;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentPaddingLeft}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#contentPaddingLeft}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6960,11 +6961,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:contentPaddingLeft
+          @attr name com.dlapps.canadatrivia:contentPaddingLeft
         */
         public static final int CardView_contentPaddingLeft = 9;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentPaddingRight}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#contentPaddingRight}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6976,11 +6977,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:contentPaddingRight
+          @attr name com.dlapps.canadatrivia:contentPaddingRight
         */
         public static final int CardView_contentPaddingRight = 10;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentPaddingTop}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#contentPaddingTop}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6992,7 +6993,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:contentPaddingTop
+          @attr name com.dlapps.canadatrivia:contentPaddingTop
         */
         public static final int CardView_contentPaddingTop = 11;
         /** Attributes that can be used with a CollapsingToolbarLayout.
@@ -7001,22 +7002,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.dlapps.worldtrivia:collapsedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.dlapps.worldtrivia:collapsedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.dlapps.worldtrivia:contentScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.dlapps.worldtrivia:expandedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.dlapps.worldtrivia:expandedTitleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.dlapps.worldtrivia:expandedTitleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.dlapps.worldtrivia:expandedTitleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.dlapps.worldtrivia:expandedTitleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.dlapps.worldtrivia:expandedTitleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.dlapps.worldtrivia:expandedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.dlapps.worldtrivia:scrimAnimationDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.dlapps.worldtrivia:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.dlapps.worldtrivia:statusBarScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_title com.dlapps.worldtrivia:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.dlapps.worldtrivia:titleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.dlapps.worldtrivia:toolbarId}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.dlapps.canadatrivia:collapsedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.dlapps.canadatrivia:collapsedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.dlapps.canadatrivia:contentScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.dlapps.canadatrivia:expandedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.dlapps.canadatrivia:expandedTitleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.dlapps.canadatrivia:expandedTitleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.dlapps.canadatrivia:expandedTitleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.dlapps.canadatrivia:expandedTitleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.dlapps.canadatrivia:expandedTitleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.dlapps.canadatrivia:expandedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.dlapps.canadatrivia:scrimAnimationDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.dlapps.canadatrivia:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.dlapps.canadatrivia:statusBarScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_title com.dlapps.canadatrivia:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.dlapps.canadatrivia:titleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.dlapps.canadatrivia:toolbarId}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_collapsedTitleGravity
            @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -7042,7 +7043,7 @@ containing a value of this type.
             0x7f010034, 0x7f010035, 0x7f010036, 0x7f010075
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#collapsedTitleGravity}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#collapsedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7063,21 +7064,21 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldtrivia:collapsedTitleGravity
+          @attr name com.dlapps.canadatrivia:collapsedTitleGravity
         */
         public static final int CollapsingToolbarLayout_collapsedTitleGravity = 12;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#collapsedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#collapsedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:collapsedTitleTextAppearance
+          @attr name com.dlapps.canadatrivia:collapsedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance = 6;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentScrim}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#contentScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7088,11 +7089,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:contentScrim
+          @attr name com.dlapps.canadatrivia:contentScrim
         */
         public static final int CollapsingToolbarLayout_contentScrim = 7;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#expandedTitleGravity}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#expandedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7113,11 +7114,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldtrivia:expandedTitleGravity
+          @attr name com.dlapps.canadatrivia:expandedTitleGravity
         */
         public static final int CollapsingToolbarLayout_expandedTitleGravity = 13;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#expandedTitleMargin}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#expandedTitleMargin}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7129,11 +7130,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:expandedTitleMargin
+          @attr name com.dlapps.canadatrivia:expandedTitleMargin
         */
         public static final int CollapsingToolbarLayout_expandedTitleMargin = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#expandedTitleMarginBottom}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#expandedTitleMarginBottom}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7145,11 +7146,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:expandedTitleMarginBottom
+          @attr name com.dlapps.canadatrivia:expandedTitleMarginBottom
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginBottom = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#expandedTitleMarginEnd}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#expandedTitleMarginEnd}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7161,11 +7162,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:expandedTitleMarginEnd
+          @attr name com.dlapps.canadatrivia:expandedTitleMarginEnd
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#expandedTitleMarginStart}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#expandedTitleMarginStart}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7177,11 +7178,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:expandedTitleMarginStart
+          @attr name com.dlapps.canadatrivia:expandedTitleMarginStart
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginStart = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#expandedTitleMarginTop}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#expandedTitleMarginTop}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7193,21 +7194,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:expandedTitleMarginTop
+          @attr name com.dlapps.canadatrivia:expandedTitleMarginTop
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginTop = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#expandedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#expandedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:expandedTitleTextAppearance
+          @attr name com.dlapps.canadatrivia:expandedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_expandedTitleTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#scrimAnimationDuration}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#scrimAnimationDuration}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7217,11 +7218,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:scrimAnimationDuration
+          @attr name com.dlapps.canadatrivia:scrimAnimationDuration
         */
         public static final int CollapsingToolbarLayout_scrimAnimationDuration = 11;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#scrimVisibleHeightTrigger}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#scrimVisibleHeightTrigger}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7233,11 +7234,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:scrimVisibleHeightTrigger
+          @attr name com.dlapps.canadatrivia:scrimVisibleHeightTrigger
         */
         public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger = 10;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#statusBarScrim}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#statusBarScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7248,11 +7249,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:statusBarScrim
+          @attr name com.dlapps.canadatrivia:statusBarScrim
         */
         public static final int CollapsingToolbarLayout_statusBarScrim = 8;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#title}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#title}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7262,11 +7263,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:title
+          @attr name com.dlapps.canadatrivia:title
         */
         public static final int CollapsingToolbarLayout_title = 15;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#titleEnabled}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#titleEnabled}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7276,17 +7277,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:titleEnabled
+          @attr name com.dlapps.canadatrivia:titleEnabled
         */
         public static final int CollapsingToolbarLayout_titleEnabled = 14;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#toolbarId}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#toolbarId}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:toolbarId
+          @attr name com.dlapps.canadatrivia:toolbarId
         */
         public static final int CollapsingToolbarLayout_toolbarId = 9;
         /** Attributes that can be used with a CollapsingToolbarLayout_Layout.
@@ -7295,8 +7296,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.dlapps.worldtrivia:layout_collapseMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.dlapps.worldtrivia:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.dlapps.canadatrivia:layout_collapseMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.dlapps.canadatrivia:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_Layout_layout_collapseMode
            @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -7305,7 +7306,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010037, 0x7f010038
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#layout_collapseMode}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#layout_collapseMode}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -7319,11 +7320,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>pin</code></td><td>1</td><td></td></tr>
 <tr><td><code>parallax</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldtrivia:layout_collapseMode
+          @attr name com.dlapps.canadatrivia:layout_collapseMode
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseMode = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#layout_collapseParallaxMultiplier}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#layout_collapseParallaxMultiplier}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -7333,7 +7334,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:layout_collapseParallaxMultiplier
+          @attr name com.dlapps.canadatrivia:layout_collapseParallaxMultiplier
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = 1;
         /** Attributes that can be used with a ColorStateListItem.
@@ -7342,7 +7343,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ColorStateListItem_alpha com.dlapps.worldtrivia:alpha}</code></td><td></td></tr>
+           <tr><td><code>{@link #ColorStateListItem_alpha com.dlapps.canadatrivia:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
            </table>
@@ -7354,7 +7355,7 @@ containing a value of this type.
             0x010101a5, 0x0101031f, 0x7f010110
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#alpha}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#alpha}
           attribute's value can be found in the {@link #ColorStateListItem} array.
 
 
@@ -7364,7 +7365,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:alpha
+          @attr name com.dlapps.canadatrivia:alpha
         */
         public static final int ColorStateListItem_alpha = 2;
         /**
@@ -7386,8 +7387,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint com.dlapps.worldtrivia:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode com.dlapps.worldtrivia:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint com.dlapps.canadatrivia:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode com.dlapps.canadatrivia:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -7403,7 +7404,7 @@ containing a value of this type.
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -7414,11 +7415,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:buttonTint
+          @attr name com.dlapps.canadatrivia:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -7434,7 +7435,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldtrivia:buttonTintMode
+          @attr name com.dlapps.canadatrivia:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a CoordinatorLayout.
@@ -7443,8 +7444,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CoordinatorLayout_keylines com.dlapps.worldtrivia:keylines}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.dlapps.worldtrivia:statusBarBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_keylines com.dlapps.canadatrivia:keylines}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.dlapps.canadatrivia:statusBarBackground}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_keylines
            @see #CoordinatorLayout_statusBarBackground
@@ -7453,23 +7454,23 @@ containing a value of this type.
             0x7f010039, 0x7f01003a
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#keylines}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#keylines}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:keylines
+          @attr name com.dlapps.canadatrivia:keylines
         */
         public static final int CoordinatorLayout_keylines = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#statusBarBackground}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#statusBarBackground}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:statusBarBackground
+          @attr name com.dlapps.canadatrivia:statusBarBackground
         */
         public static final int CoordinatorLayout_statusBarBackground = 1;
         /** Attributes that can be used with a CoordinatorLayout_Layout.
@@ -7479,12 +7480,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.dlapps.worldtrivia:layout_anchor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.dlapps.worldtrivia:layout_anchorGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.dlapps.worldtrivia:layout_behavior}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.dlapps.worldtrivia:layout_dodgeInsetEdges}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.dlapps.worldtrivia:layout_insetEdge}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.dlapps.worldtrivia:layout_keyline}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.dlapps.canadatrivia:layout_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.dlapps.canadatrivia:layout_anchorGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.dlapps.canadatrivia:layout_behavior}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.dlapps.canadatrivia:layout_dodgeInsetEdges}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.dlapps.canadatrivia:layout_insetEdge}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.dlapps.canadatrivia:layout_keyline}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_Layout_android_layout_gravity
            @see #CoordinatorLayout_Layout_layout_anchor
@@ -7505,17 +7506,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CoordinatorLayout_Layout_android_layout_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#layout_anchor}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#layout_anchor}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:layout_anchor
+          @attr name com.dlapps.canadatrivia:layout_anchor
         */
         public static final int CoordinatorLayout_Layout_layout_anchor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#layout_anchorGravity}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#layout_anchorGravity}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7540,11 +7541,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldtrivia:layout_anchorGravity
+          @attr name com.dlapps.canadatrivia:layout_anchorGravity
         */
         public static final int CoordinatorLayout_Layout_layout_anchorGravity = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#layout_behavior}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#layout_behavior}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7554,11 +7555,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:layout_behavior
+          @attr name com.dlapps.canadatrivia:layout_behavior
         */
         public static final int CoordinatorLayout_Layout_layout_behavior = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#layout_dodgeInsetEdges}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#layout_dodgeInsetEdges}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7577,11 +7578,11 @@ containing a value of this type.
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 <tr><td><code>all</code></td><td>0x77</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldtrivia:layout_dodgeInsetEdges
+          @attr name com.dlapps.canadatrivia:layout_dodgeInsetEdges
         */
         public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges = 6;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#layout_insetEdge}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#layout_insetEdge}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7599,11 +7600,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldtrivia:layout_insetEdge
+          @attr name com.dlapps.canadatrivia:layout_insetEdge
         */
         public static final int CoordinatorLayout_Layout_layout_insetEdge = 5;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#layout_keyline}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#layout_keyline}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7613,7 +7614,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:layout_keyline
+          @attr name com.dlapps.canadatrivia:layout_keyline
         */
         public static final int CoordinatorLayout_Layout_layout_keyline = 3;
         /** Attributes that can be used with a DesignTheme.
@@ -7622,9 +7623,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.dlapps.worldtrivia:bottomSheetDialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.dlapps.worldtrivia:bottomSheetStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_textColorError com.dlapps.worldtrivia:textColorError}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.dlapps.canadatrivia:bottomSheetDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.dlapps.canadatrivia:bottomSheetStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_textColorError com.dlapps.canadatrivia:textColorError}</code></td><td></td></tr>
            </table>
            @see #DesignTheme_bottomSheetDialogTheme
            @see #DesignTheme_bottomSheetStyle
@@ -7634,27 +7635,27 @@ containing a value of this type.
             0x7f010041, 0x7f010042, 0x7f010043
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#bottomSheetDialogTheme}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#bottomSheetDialogTheme}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:bottomSheetDialogTheme
+          @attr name com.dlapps.canadatrivia:bottomSheetDialogTheme
         */
         public static final int DesignTheme_bottomSheetDialogTheme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#bottomSheetStyle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#bottomSheetStyle}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:bottomSheetStyle
+          @attr name com.dlapps.canadatrivia:bottomSheetStyle
         */
         public static final int DesignTheme_bottomSheetStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#textColorError}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#textColorError}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
@@ -7665,7 +7666,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:textColorError
+          @attr name com.dlapps.canadatrivia:textColorError
         */
         public static final int DesignTheme_textColorError = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -7674,14 +7675,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.dlapps.worldtrivia:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.dlapps.worldtrivia:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength com.dlapps.worldtrivia:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.dlapps.worldtrivia:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.dlapps.worldtrivia:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.dlapps.worldtrivia:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.dlapps.worldtrivia:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.dlapps.worldtrivia:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.dlapps.canadatrivia:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.dlapps.canadatrivia:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength com.dlapps.canadatrivia:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color com.dlapps.canadatrivia:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.dlapps.canadatrivia:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.dlapps.canadatrivia:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.dlapps.canadatrivia:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness com.dlapps.canadatrivia:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -7697,7 +7698,7 @@ containing a value of this type.
             0x7f010117, 0x7f010118, 0x7f010119, 0x7f01011a
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7709,11 +7710,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:arrowHeadLength
+          @attr name com.dlapps.canadatrivia:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7725,11 +7726,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:arrowShaftLength
+          @attr name com.dlapps.canadatrivia:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#barLength}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7741,11 +7742,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:barLength
+          @attr name com.dlapps.canadatrivia:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#color}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7756,11 +7757,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:color
+          @attr name com.dlapps.canadatrivia:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7772,11 +7773,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:drawableSize
+          @attr name com.dlapps.canadatrivia:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7788,11 +7789,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:gapBetweenBars
+          @attr name com.dlapps.canadatrivia:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7802,11 +7803,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:spinBars
+          @attr name com.dlapps.canadatrivia:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#thickness}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7818,7 +7819,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:thickness
+          @attr name com.dlapps.canadatrivia:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a FloatingActionButton.
@@ -7827,14 +7828,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.dlapps.worldtrivia:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.dlapps.worldtrivia:backgroundTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_borderWidth com.dlapps.worldtrivia:borderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_elevation com.dlapps.worldtrivia:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fabSize com.dlapps.worldtrivia:fabSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.dlapps.worldtrivia:pressedTranslationZ}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_rippleColor com.dlapps.worldtrivia:rippleColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.dlapps.worldtrivia:useCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.dlapps.canadatrivia:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.dlapps.canadatrivia:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_borderWidth com.dlapps.canadatrivia:borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_elevation com.dlapps.canadatrivia:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabSize com.dlapps.canadatrivia:fabSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.dlapps.canadatrivia:pressedTranslationZ}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_rippleColor com.dlapps.canadatrivia:rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.dlapps.canadatrivia:useCompatPadding}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_backgroundTint
            @see #FloatingActionButton_backgroundTintMode
@@ -7850,7 +7851,7 @@ containing a value of this type.
             0x7f010048, 0x7f01008e, 0x7f010154, 0x7f010155
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#backgroundTint}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7861,11 +7862,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:backgroundTint
+          @attr name com.dlapps.canadatrivia:backgroundTint
         */
         public static final int FloatingActionButton_backgroundTint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7881,11 +7882,11 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldtrivia:backgroundTintMode
+          @attr name com.dlapps.canadatrivia:backgroundTintMode
         */
         public static final int FloatingActionButton_backgroundTintMode = 7;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#borderWidth}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#borderWidth}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7897,11 +7898,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:borderWidth
+          @attr name com.dlapps.canadatrivia:borderWidth
         */
         public static final int FloatingActionButton_borderWidth = 3;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#elevation}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7913,11 +7914,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:elevation
+          @attr name com.dlapps.canadatrivia:elevation
         */
         public static final int FloatingActionButton_elevation = 5;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#fabSize}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#fabSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7931,11 +7932,11 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldtrivia:fabSize
+          @attr name com.dlapps.canadatrivia:fabSize
         */
         public static final int FloatingActionButton_fabSize = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#pressedTranslationZ}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#pressedTranslationZ}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7947,11 +7948,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:pressedTranslationZ
+          @attr name com.dlapps.canadatrivia:pressedTranslationZ
         */
         public static final int FloatingActionButton_pressedTranslationZ = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#rippleColor}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#rippleColor}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7962,11 +7963,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:rippleColor
+          @attr name com.dlapps.canadatrivia:rippleColor
         */
         public static final int FloatingActionButton_rippleColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#useCompatPadding}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#useCompatPadding}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7976,7 +7977,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:useCompatPadding
+          @attr name com.dlapps.canadatrivia:useCompatPadding
         */
         public static final int FloatingActionButton_useCompatPadding = 4;
         /** Attributes that can be used with a FloatingActionButton_Behavior_Layout.
@@ -7985,7 +7986,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.dlapps.worldtrivia:behavior_autoHide}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.dlapps.canadatrivia:behavior_autoHide}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
          */
@@ -7993,7 +7994,7 @@ containing a value of this type.
             0x7f010049
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#behavior_autoHide}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#behavior_autoHide}
           attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
 
 
@@ -8003,7 +8004,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:behavior_autoHide
+          @attr name com.dlapps.canadatrivia:behavior_autoHide
         */
         public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide = 0;
         /** Attributes that can be used with a ForegroundLinearLayout.
@@ -8014,7 +8015,7 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.dlapps.worldtrivia:foregroundInsidePadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.dlapps.canadatrivia:foregroundInsidePadding}</code></td><td></td></tr>
            </table>
            @see #ForegroundLinearLayout_android_foreground
            @see #ForegroundLinearLayout_android_foregroundGravity
@@ -8036,7 +8037,7 @@ containing a value of this type.
         */
         public static final int ForegroundLinearLayout_android_foregroundGravity = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#foregroundInsidePadding}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#foregroundInsidePadding}
           attribute's value can be found in the {@link #ForegroundLinearLayout} array.
 
 
@@ -8046,7 +8047,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:foregroundInsidePadding
+          @attr name com.dlapps.canadatrivia:foregroundInsidePadding
         */
         public static final int ForegroundLinearLayout_foregroundInsidePadding = 2;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -8060,10 +8061,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.dlapps.worldtrivia:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.dlapps.worldtrivia:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.dlapps.worldtrivia:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.dlapps.worldtrivia:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider com.dlapps.canadatrivia:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.dlapps.canadatrivia:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.dlapps.canadatrivia:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.dlapps.canadatrivia:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -8111,17 +8112,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:divider
+          @attr name com.dlapps.canadatrivia:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -8133,11 +8134,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:dividerPadding
+          @attr name com.dlapps.canadatrivia:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -8147,11 +8148,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:measureWithLargestChild
+          @attr name com.dlapps.canadatrivia:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -8166,7 +8167,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldtrivia:showDividers
+          @attr name com.dlapps.canadatrivia:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -8245,9 +8246,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #LoadingImageView_circleCrop com.dlapps.worldtrivia:circleCrop}</code></td><td></td></tr>
-           <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.dlapps.worldtrivia:imageAspectRatio}</code></td><td></td></tr>
-           <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.dlapps.worldtrivia:imageAspectRatioAdjust}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_circleCrop com.dlapps.canadatrivia:circleCrop}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.dlapps.canadatrivia:imageAspectRatio}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.dlapps.canadatrivia:imageAspectRatioAdjust}</code></td><td></td></tr>
            </table>
            @see #LoadingImageView_circleCrop
            @see #LoadingImageView_imageAspectRatio
@@ -8257,7 +8258,7 @@ containing a value of this type.
             0x7f01000b, 0x7f01000c, 0x7f01000d
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#circleCrop}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#circleCrop}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -8267,11 +8268,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:circleCrop
+          @attr name com.dlapps.canadatrivia:circleCrop
         */
         public static final int LoadingImageView_circleCrop = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#imageAspectRatio}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#imageAspectRatio}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -8281,11 +8282,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:imageAspectRatio
+          @attr name com.dlapps.canadatrivia:imageAspectRatio
         */
         public static final int LoadingImageView_imageAspectRatio = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#imageAspectRatioAdjust}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#imageAspectRatioAdjust}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -8299,7 +8300,7 @@ containing a value of this type.
 <tr><td><code>adjust_width</code></td><td>1</td><td></td></tr>
 <tr><td><code>adjust_height</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldtrivia:imageAspectRatioAdjust
+          @attr name com.dlapps.canadatrivia:imageAspectRatioAdjust
         */
         public static final int LoadingImageView_imageAspectRatioAdjust = 0;
         /** Attributes that can be used with a MediaRouteButton.
@@ -8310,8 +8311,8 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #MediaRouteButton_android_minHeight android:minHeight}</code></td><td></td></tr>
            <tr><td><code>{@link #MediaRouteButton_android_minWidth android:minWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #MediaRouteButton_buttonTint com.dlapps.worldtrivia:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #MediaRouteButton_externalRouteEnabledDrawable com.dlapps.worldtrivia:externalRouteEnabledDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #MediaRouteButton_buttonTint com.dlapps.canadatrivia:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #MediaRouteButton_externalRouteEnabledDrawable com.dlapps.canadatrivia:externalRouteEnabledDrawable}</code></td><td></td></tr>
            </table>
            @see #MediaRouteButton_android_minHeight
            @see #MediaRouteButton_android_minWidth
@@ -8334,7 +8335,7 @@ containing a value of this type.
         */
         public static final int MediaRouteButton_android_minWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#buttonTint}
           attribute's value can be found in the {@link #MediaRouteButton} array.
 
 
@@ -8345,17 +8346,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:buttonTint
+          @attr name com.dlapps.canadatrivia:buttonTint
         */
         public static final int MediaRouteButton_buttonTint = 3;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#externalRouteEnabledDrawable}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#externalRouteEnabledDrawable}
           attribute's value can be found in the {@link #MediaRouteButton} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:externalRouteEnabledDrawable
+          @attr name com.dlapps.canadatrivia:externalRouteEnabledDrawable
         */
         public static final int MediaRouteButton_externalRouteEnabledDrawable = 2;
         /** Attributes that can be used with a MenuGroup.
@@ -8424,9 +8425,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.dlapps.worldtrivia:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.dlapps.worldtrivia:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.dlapps.worldtrivia:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout com.dlapps.canadatrivia:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass com.dlapps.canadatrivia:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass com.dlapps.canadatrivia:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -8440,7 +8441,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.dlapps.worldtrivia:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction com.dlapps.canadatrivia:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -8468,17 +8469,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010121
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:actionLayout
+          @attr name com.dlapps.canadatrivia:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8488,11 +8489,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:actionProviderClass
+          @attr name com.dlapps.canadatrivia:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8502,7 +8503,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:actionViewClass
+          @attr name com.dlapps.canadatrivia:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -8584,7 +8585,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8600,7 +8601,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldtrivia:showAsAction
+          @attr name com.dlapps.canadatrivia:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -8616,8 +8617,8 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.dlapps.worldtrivia:preserveIconSpacing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_subMenuArrow com.dlapps.worldtrivia:subMenuArrow}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing com.dlapps.canadatrivia:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_subMenuArrow com.dlapps.canadatrivia:subMenuArrow}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -8677,7 +8678,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -8687,17 +8688,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:preserveIconSpacing
+          @attr name com.dlapps.canadatrivia:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#subMenuArrow}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#subMenuArrow}
           attribute's value can be found in the {@link #MenuView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:subMenuArrow
+          @attr name com.dlapps.canadatrivia:subMenuArrow
         */
         public static final int MenuView_subMenuArrow = 8;
         /** Attributes that can be used with a NavigationView.
@@ -8709,13 +8710,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_elevation com.dlapps.worldtrivia:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_headerLayout com.dlapps.worldtrivia:headerLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemBackground com.dlapps.worldtrivia:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemIconTint com.dlapps.worldtrivia:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextAppearance com.dlapps.worldtrivia:itemTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextColor com.dlapps.worldtrivia:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_menu com.dlapps.worldtrivia:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_elevation com.dlapps.canadatrivia:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_headerLayout com.dlapps.canadatrivia:headerLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemBackground com.dlapps.canadatrivia:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemIconTint com.dlapps.canadatrivia:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextAppearance com.dlapps.canadatrivia:itemTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextColor com.dlapps.canadatrivia:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_menu com.dlapps.canadatrivia:menu}</code></td><td></td></tr>
            </table>
            @see #NavigationView_android_background
            @see #NavigationView_android_fitsSystemWindows
@@ -8752,7 +8753,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int NavigationView_android_maxWidth = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#elevation}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8764,31 +8765,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:elevation
+          @attr name com.dlapps.canadatrivia:elevation
         */
         public static final int NavigationView_elevation = 9;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#headerLayout}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#headerLayout}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:headerLayout
+          @attr name com.dlapps.canadatrivia:headerLayout
         */
         public static final int NavigationView_headerLayout = 8;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#itemBackground}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:itemBackground
+          @attr name com.dlapps.canadatrivia:itemBackground
         */
         public static final int NavigationView_itemBackground = 6;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#itemIconTint}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8799,21 +8800,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:itemIconTint
+          @attr name com.dlapps.canadatrivia:itemIconTint
         */
         public static final int NavigationView_itemIconTint = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#itemTextAppearance}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#itemTextAppearance}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:itemTextAppearance
+          @attr name com.dlapps.canadatrivia:itemTextAppearance
         */
         public static final int NavigationView_itemTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#itemTextColor}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8824,17 +8825,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:itemTextColor
+          @attr name com.dlapps.canadatrivia:itemTextColor
         */
         public static final int NavigationView_itemTextColor = 5;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#menu}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#menu}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:menu
+          @attr name com.dlapps.canadatrivia:menu
         */
         public static final int NavigationView_menu = 3;
         /** Attributes that can be used with a PopupWindow.
@@ -8845,7 +8846,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.dlapps.worldtrivia:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor com.dlapps.canadatrivia:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupAnimationStyle
            @see #PopupWindow_android_popupBackground
@@ -8867,7 +8868,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -8877,7 +8878,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:overlapAnchor
+          @attr name com.dlapps.canadatrivia:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 2;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -8886,7 +8887,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.dlapps.worldtrivia:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.dlapps.canadatrivia:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -8894,7 +8895,7 @@ containing a value of this type.
             0x7f010125
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -8904,7 +8905,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:state_above_anchor
+          @attr name com.dlapps.canadatrivia:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a RecycleListView.
@@ -8913,8 +8914,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.dlapps.worldtrivia:paddingBottomNoButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.dlapps.worldtrivia:paddingTopNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.dlapps.canadatrivia:paddingBottomNoButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.dlapps.canadatrivia:paddingTopNoTitle}</code></td><td></td></tr>
            </table>
            @see #RecycleListView_paddingBottomNoButtons
            @see #RecycleListView_paddingTopNoTitle
@@ -8923,7 +8924,7 @@ containing a value of this type.
             0x7f010126, 0x7f010127
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#paddingBottomNoButtons}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#paddingBottomNoButtons}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -8935,11 +8936,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:paddingBottomNoButtons
+          @attr name com.dlapps.canadatrivia:paddingBottomNoButtons
         */
         public static final int RecycleListView_paddingBottomNoButtons = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#paddingTopNoTitle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#paddingTopNoTitle}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -8951,7 +8952,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:paddingTopNoTitle
+          @attr name com.dlapps.canadatrivia:paddingTopNoTitle
         */
         public static final int RecycleListView_paddingTopNoTitle = 1;
         /** Attributes that can be used with a RecyclerView.
@@ -8962,10 +8963,10 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_layoutManager com.dlapps.worldtrivia:layoutManager}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_reverseLayout com.dlapps.worldtrivia:reverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_spanCount com.dlapps.worldtrivia:spanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_stackFromEnd com.dlapps.worldtrivia:stackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager com.dlapps.canadatrivia:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout com.dlapps.canadatrivia:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount com.dlapps.canadatrivia:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd com.dlapps.canadatrivia:stackFromEnd}</code></td><td></td></tr>
            </table>
            @see #RecyclerView_android_descendantFocusability
            @see #RecyclerView_android_orientation
@@ -8991,7 +8992,7 @@ containing a value of this type.
         */
         public static final int RecyclerView_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#layoutManager}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#layoutManager}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -9001,11 +9002,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:layoutManager
+          @attr name com.dlapps.canadatrivia:layoutManager
         */
         public static final int RecyclerView_layoutManager = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#reverseLayout}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -9015,11 +9016,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:reverseLayout
+          @attr name com.dlapps.canadatrivia:reverseLayout
         */
         public static final int RecyclerView_reverseLayout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#spanCount}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -9029,11 +9030,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:spanCount
+          @attr name com.dlapps.canadatrivia:spanCount
         */
         public static final int RecyclerView_spanCount = 3;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#stackFromEnd}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -9043,7 +9044,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:stackFromEnd
+          @attr name com.dlapps.canadatrivia:stackFromEnd
         */
         public static final int RecyclerView_stackFromEnd = 5;
         /** Attributes that can be used with a ScrimInsetsFrameLayout.
@@ -9052,7 +9053,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.dlapps.worldtrivia:insetForeground}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.dlapps.canadatrivia:insetForeground}</code></td><td></td></tr>
            </table>
            @see #ScrimInsetsFrameLayout_insetForeground
          */
@@ -9060,7 +9061,7 @@ containing a value of this type.
             0x7f010051
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#insetForeground}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#insetForeground}
           attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
 
 
@@ -9068,7 +9069,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.dlapps.worldtrivia:insetForeground
+          @attr name com.dlapps.canadatrivia:insetForeground
         */
         public static final int ScrimInsetsFrameLayout_insetForeground = 0;
         /** Attributes that can be used with a ScrollingViewBehavior_Layout.
@@ -9077,7 +9078,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.dlapps.worldtrivia:behavior_overlapTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.dlapps.canadatrivia:behavior_overlapTop}</code></td><td></td></tr>
            </table>
            @see #ScrollingViewBehavior_Layout_behavior_overlapTop
          */
@@ -9085,7 +9086,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010052
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#behavior_overlapTop}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#behavior_overlapTop}
           attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
 
 
@@ -9097,7 +9098,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:behavior_overlapTop
+          @attr name com.dlapps.canadatrivia:behavior_overlapTop
         */
         public static final int ScrollingViewBehavior_Layout_behavior_overlapTop = 0;
         /** Attributes that can be used with a SearchView.
@@ -9110,19 +9111,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.dlapps.worldtrivia:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.dlapps.worldtrivia:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint com.dlapps.worldtrivia:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.dlapps.worldtrivia:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.dlapps.worldtrivia:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout com.dlapps.worldtrivia:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.dlapps.worldtrivia:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.dlapps.worldtrivia:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon com.dlapps.worldtrivia:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.dlapps.worldtrivia:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.dlapps.worldtrivia:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.dlapps.worldtrivia:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.dlapps.worldtrivia:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon com.dlapps.canadatrivia:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon com.dlapps.canadatrivia:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint com.dlapps.canadatrivia:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon com.dlapps.canadatrivia:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault com.dlapps.canadatrivia:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout com.dlapps.canadatrivia:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground com.dlapps.canadatrivia:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint com.dlapps.canadatrivia:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon com.dlapps.canadatrivia:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon com.dlapps.canadatrivia:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground com.dlapps.canadatrivia:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout com.dlapps.canadatrivia:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon com.dlapps.canadatrivia:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -9174,27 +9175,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:closeIcon
+          @attr name com.dlapps.canadatrivia:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:commitIcon
+          @attr name com.dlapps.canadatrivia:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -9204,21 +9205,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:defaultQueryHint
+          @attr name com.dlapps.canadatrivia:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:goIcon
+          @attr name com.dlapps.canadatrivia:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -9228,31 +9229,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:iconifiedByDefault
+          @attr name com.dlapps.canadatrivia:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#layout}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:layout
+          @attr name com.dlapps.canadatrivia:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:queryBackground
+          @attr name com.dlapps.canadatrivia:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -9262,57 +9263,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:queryHint
+          @attr name com.dlapps.canadatrivia:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:searchHintIcon
+          @attr name com.dlapps.canadatrivia:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:searchIcon
+          @attr name com.dlapps.canadatrivia:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:submitBackground
+          @attr name com.dlapps.canadatrivia:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:suggestionRowLayout
+          @attr name com.dlapps.canadatrivia:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:voiceIcon
+          @attr name com.dlapps.canadatrivia:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a SignInButton.
@@ -9321,9 +9322,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SignInButton_buttonSize com.dlapps.worldtrivia:buttonSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #SignInButton_colorScheme com.dlapps.worldtrivia:colorScheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #SignInButton_scopeUris com.dlapps.worldtrivia:scopeUris}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignInButton_buttonSize com.dlapps.canadatrivia:buttonSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignInButton_colorScheme com.dlapps.canadatrivia:colorScheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignInButton_scopeUris com.dlapps.canadatrivia:scopeUris}</code></td><td></td></tr>
            </table>
            @see #SignInButton_buttonSize
            @see #SignInButton_colorScheme
@@ -9333,7 +9334,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01000e, 0x7f01000f, 0x7f010010
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#buttonSize}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#buttonSize}
           attribute's value can be found in the {@link #SignInButton} array.
 
 
@@ -9349,11 +9350,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>wide</code></td><td>1</td><td></td></tr>
 <tr><td><code>icon_only</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldtrivia:buttonSize
+          @attr name com.dlapps.canadatrivia:buttonSize
         */
         public static final int SignInButton_buttonSize = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#colorScheme}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#colorScheme}
           attribute's value can be found in the {@link #SignInButton} array.
 
 
@@ -9369,18 +9370,18 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>light</code></td><td>1</td><td></td></tr>
 <tr><td><code>auto</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldtrivia:colorScheme
+          @attr name com.dlapps.canadatrivia:colorScheme
         */
         public static final int SignInButton_colorScheme = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#scopeUris}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#scopeUris}
           attribute's value can be found in the {@link #SignInButton} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-          @attr name com.dlapps.worldtrivia:scopeUris
+          @attr name com.dlapps.canadatrivia:scopeUris
         */
         public static final int SignInButton_scopeUris = 2;
         /** Attributes that can be used with a SnackbarLayout.
@@ -9390,8 +9391,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_elevation com.dlapps.worldtrivia:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.dlapps.worldtrivia:maxActionInlineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_elevation com.dlapps.canadatrivia:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.dlapps.canadatrivia:maxActionInlineWidth}</code></td><td></td></tr>
            </table>
            @see #SnackbarLayout_android_maxWidth
            @see #SnackbarLayout_elevation
@@ -9407,7 +9408,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SnackbarLayout_android_maxWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#elevation}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -9419,11 +9420,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:elevation
+          @attr name com.dlapps.canadatrivia:elevation
         */
         public static final int SnackbarLayout_elevation = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#maxActionInlineWidth}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#maxActionInlineWidth}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -9435,7 +9436,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:maxActionInlineWidth
+          @attr name com.dlapps.canadatrivia:maxActionInlineWidth
         */
         public static final int SnackbarLayout_maxActionInlineWidth = 1;
         /** Attributes that can be used with a Spinner.
@@ -9448,7 +9449,7 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_entries android:entries}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme com.dlapps.worldtrivia:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme com.dlapps.canadatrivia:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_entries
@@ -9485,13 +9486,13 @@ containing a value of this type.
         */
         public static final int Spinner_android_prompt = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:popupTheme
+          @attr name com.dlapps.canadatrivia:popupTheme
         */
         public static final int Spinner_popupTheme = 4;
         /** Attributes that can be used with a SwitchCompat.
@@ -9503,17 +9504,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.dlapps.worldtrivia:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.dlapps.worldtrivia:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.dlapps.worldtrivia:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.dlapps.worldtrivia:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.dlapps.worldtrivia:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.dlapps.worldtrivia:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTint com.dlapps.worldtrivia:thumbTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.dlapps.worldtrivia:thumbTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.dlapps.worldtrivia:track}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTint com.dlapps.worldtrivia:trackTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTintMode com.dlapps.worldtrivia:trackTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText com.dlapps.canadatrivia:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack com.dlapps.canadatrivia:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.dlapps.canadatrivia:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding com.dlapps.canadatrivia:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.dlapps.canadatrivia:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.dlapps.canadatrivia:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTint com.dlapps.canadatrivia:thumbTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.dlapps.canadatrivia:thumbTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track com.dlapps.canadatrivia:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTint com.dlapps.canadatrivia:trackTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTintMode com.dlapps.canadatrivia:trackTintMode}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -9555,7 +9556,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#showText}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9565,11 +9566,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:showText
+          @attr name com.dlapps.canadatrivia:showText
         */
         public static final int SwitchCompat_showText = 13;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9579,11 +9580,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:splitTrack
+          @attr name com.dlapps.canadatrivia:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 12;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9595,11 +9596,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:switchMinWidth
+          @attr name com.dlapps.canadatrivia:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 10;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9611,21 +9612,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:switchPadding
+          @attr name com.dlapps.canadatrivia:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 11;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:switchTextAppearance
+          @attr name com.dlapps.canadatrivia:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9637,11 +9638,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:thumbTextPadding
+          @attr name com.dlapps.canadatrivia:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#thumbTint}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#thumbTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9652,11 +9653,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:thumbTint
+          @attr name com.dlapps.canadatrivia:thumbTint
         */
         public static final int SwitchCompat_thumbTint = 3;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#thumbTintMode}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#thumbTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9673,21 +9674,21 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldtrivia:thumbTintMode
+          @attr name com.dlapps.canadatrivia:thumbTintMode
         */
         public static final int SwitchCompat_thumbTintMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#track}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:track
+          @attr name com.dlapps.canadatrivia:track
         */
         public static final int SwitchCompat_track = 5;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#trackTint}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#trackTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9698,11 +9699,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:trackTint
+          @attr name com.dlapps.canadatrivia:trackTint
         */
         public static final int SwitchCompat_trackTint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#trackTintMode}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#trackTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9719,7 +9720,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldtrivia:trackTintMode
+          @attr name com.dlapps.canadatrivia:trackTintMode
         */
         public static final int SwitchCompat_trackTintMode = 7;
         /** Attributes that can be used with a TabItem.
@@ -9763,22 +9764,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TabLayout_tabBackground com.dlapps.worldtrivia:tabBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabContentStart com.dlapps.worldtrivia:tabContentStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabGravity com.dlapps.worldtrivia:tabGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.dlapps.worldtrivia:tabIndicatorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.dlapps.worldtrivia:tabIndicatorHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMaxWidth com.dlapps.worldtrivia:tabMaxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMinWidth com.dlapps.worldtrivia:tabMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMode com.dlapps.worldtrivia:tabMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPadding com.dlapps.worldtrivia:tabPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.dlapps.worldtrivia:tabPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.dlapps.worldtrivia:tabPaddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingStart com.dlapps.worldtrivia:tabPaddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingTop com.dlapps.worldtrivia:tabPaddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.dlapps.worldtrivia:tabSelectedTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextAppearance com.dlapps.worldtrivia:tabTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextColor com.dlapps.worldtrivia:tabTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabBackground com.dlapps.canadatrivia:tabBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabContentStart com.dlapps.canadatrivia:tabContentStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabGravity com.dlapps.canadatrivia:tabGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.dlapps.canadatrivia:tabIndicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.dlapps.canadatrivia:tabIndicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMaxWidth com.dlapps.canadatrivia:tabMaxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMinWidth com.dlapps.canadatrivia:tabMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMode com.dlapps.canadatrivia:tabMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPadding com.dlapps.canadatrivia:tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.dlapps.canadatrivia:tabPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.dlapps.canadatrivia:tabPaddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingStart com.dlapps.canadatrivia:tabPaddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingTop com.dlapps.canadatrivia:tabPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.dlapps.canadatrivia:tabSelectedTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextAppearance com.dlapps.canadatrivia:tabTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextColor com.dlapps.canadatrivia:tabTextColor}</code></td><td></td></tr>
            </table>
            @see #TabLayout_tabBackground
            @see #TabLayout_tabContentStart
@@ -9804,17 +9805,17 @@ containing a value of this type.
             0x7f010060, 0x7f010061, 0x7f010062, 0x7f010063
         };
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabBackground}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#tabBackground}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:tabBackground
+          @attr name com.dlapps.canadatrivia:tabBackground
         */
         public static final int TabLayout_tabBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabContentStart}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#tabContentStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9826,11 +9827,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:tabContentStart
+          @attr name com.dlapps.canadatrivia:tabContentStart
         */
         public static final int TabLayout_tabContentStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabGravity}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#tabGravity}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9843,11 +9844,11 @@ containing a value of this type.
 <tr><td><code>fill</code></td><td>0</td><td></td></tr>
 <tr><td><code>center</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldtrivia:tabGravity
+          @attr name com.dlapps.canadatrivia:tabGravity
         */
         public static final int TabLayout_tabGravity = 5;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabIndicatorColor}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#tabIndicatorColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9858,11 +9859,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:tabIndicatorColor
+          @attr name com.dlapps.canadatrivia:tabIndicatorColor
         */
         public static final int TabLayout_tabIndicatorColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabIndicatorHeight}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#tabIndicatorHeight}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9874,11 +9875,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:tabIndicatorHeight
+          @attr name com.dlapps.canadatrivia:tabIndicatorHeight
         */
         public static final int TabLayout_tabIndicatorHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabMaxWidth}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#tabMaxWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9890,11 +9891,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:tabMaxWidth
+          @attr name com.dlapps.canadatrivia:tabMaxWidth
         */
         public static final int TabLayout_tabMaxWidth = 7;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabMinWidth}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#tabMinWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9906,11 +9907,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:tabMinWidth
+          @attr name com.dlapps.canadatrivia:tabMinWidth
         */
         public static final int TabLayout_tabMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabMode}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#tabMode}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9923,11 +9924,11 @@ containing a value of this type.
 <tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
 <tr><td><code>fixed</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldtrivia:tabMode
+          @attr name com.dlapps.canadatrivia:tabMode
         */
         public static final int TabLayout_tabMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabPadding}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#tabPadding}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9939,11 +9940,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:tabPadding
+          @attr name com.dlapps.canadatrivia:tabPadding
         */
         public static final int TabLayout_tabPadding = 15;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabPaddingBottom}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#tabPaddingBottom}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9955,11 +9956,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:tabPaddingBottom
+          @attr name com.dlapps.canadatrivia:tabPaddingBottom
         */
         public static final int TabLayout_tabPaddingBottom = 14;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabPaddingEnd}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#tabPaddingEnd}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9971,11 +9972,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:tabPaddingEnd
+          @attr name com.dlapps.canadatrivia:tabPaddingEnd
         */
         public static final int TabLayout_tabPaddingEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabPaddingStart}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#tabPaddingStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9987,11 +9988,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:tabPaddingStart
+          @attr name com.dlapps.canadatrivia:tabPaddingStart
         */
         public static final int TabLayout_tabPaddingStart = 11;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabPaddingTop}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#tabPaddingTop}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10003,11 +10004,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:tabPaddingTop
+          @attr name com.dlapps.canadatrivia:tabPaddingTop
         */
         public static final int TabLayout_tabPaddingTop = 12;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabSelectedTextColor}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#tabSelectedTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10018,21 +10019,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:tabSelectedTextColor
+          @attr name com.dlapps.canadatrivia:tabSelectedTextColor
         */
         public static final int TabLayout_tabSelectedTextColor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabTextAppearance}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#tabTextAppearance}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:tabTextAppearance
+          @attr name com.dlapps.canadatrivia:tabTextAppearance
         */
         public static final int TabLayout_tabTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#tabTextColor}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#tabTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10043,7 +10044,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:tabTextColor
+          @attr name com.dlapps.canadatrivia:tabTextColor
         */
         public static final int TabLayout_tabTextColor = 9;
         /** Attributes that can be used with a TextAppearance.
@@ -10061,7 +10062,7 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps com.dlapps.worldtrivia:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps com.dlapps.canadatrivia:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_shadowColor
            @see #TextAppearance_android_shadowDx
@@ -10134,14 +10135,14 @@ containing a value of this type.
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.dlapps.worldtrivia:textAllCaps
+          @attr name com.dlapps.canadatrivia:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 9;
         /** Attributes that can be used with a TextInputLayout.
@@ -10152,20 +10153,20 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
            <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterEnabled com.dlapps.worldtrivia:counterEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterMaxLength com.dlapps.worldtrivia:counterMaxLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.dlapps.worldtrivia:counterOverflowTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.dlapps.worldtrivia:counterTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorEnabled com.dlapps.worldtrivia:errorEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.dlapps.worldtrivia:errorTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.dlapps.worldtrivia:hintAnimationEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintEnabled com.dlapps.worldtrivia:hintEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.dlapps.worldtrivia:hintTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.dlapps.worldtrivia:passwordToggleContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.dlapps.worldtrivia:passwordToggleDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.dlapps.worldtrivia:passwordToggleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.dlapps.worldtrivia:passwordToggleTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.dlapps.worldtrivia:passwordToggleTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterEnabled com.dlapps.canadatrivia:counterEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterMaxLength com.dlapps.canadatrivia:counterMaxLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.dlapps.canadatrivia:counterOverflowTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.dlapps.canadatrivia:counterTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorEnabled com.dlapps.canadatrivia:errorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.dlapps.canadatrivia:errorTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.dlapps.canadatrivia:hintAnimationEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintEnabled com.dlapps.canadatrivia:hintEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.dlapps.canadatrivia:hintTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.dlapps.canadatrivia:passwordToggleContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.dlapps.canadatrivia:passwordToggleDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.dlapps.canadatrivia:passwordToggleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.dlapps.canadatrivia:passwordToggleTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.dlapps.canadatrivia:passwordToggleTintMode}</code></td><td></td></tr>
            </table>
            @see #TextInputLayout_android_hint
            @see #TextInputLayout_android_textColorHint
@@ -10203,7 +10204,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextInputLayout_android_textColorHint = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#counterEnabled}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#counterEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10213,11 +10214,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:counterEnabled
+          @attr name com.dlapps.canadatrivia:counterEnabled
         */
         public static final int TextInputLayout_counterEnabled = 6;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#counterMaxLength}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#counterMaxLength}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10227,31 +10228,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:counterMaxLength
+          @attr name com.dlapps.canadatrivia:counterMaxLength
         */
         public static final int TextInputLayout_counterMaxLength = 7;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#counterOverflowTextAppearance}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#counterOverflowTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:counterOverflowTextAppearance
+          @attr name com.dlapps.canadatrivia:counterOverflowTextAppearance
         */
         public static final int TextInputLayout_counterOverflowTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#counterTextAppearance}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#counterTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:counterTextAppearance
+          @attr name com.dlapps.canadatrivia:counterTextAppearance
         */
         public static final int TextInputLayout_counterTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#errorEnabled}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#errorEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10261,21 +10262,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:errorEnabled
+          @attr name com.dlapps.canadatrivia:errorEnabled
         */
         public static final int TextInputLayout_errorEnabled = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#errorTextAppearance}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#errorTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:errorTextAppearance
+          @attr name com.dlapps.canadatrivia:errorTextAppearance
         */
         public static final int TextInputLayout_errorTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#hintAnimationEnabled}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#hintAnimationEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10285,11 +10286,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:hintAnimationEnabled
+          @attr name com.dlapps.canadatrivia:hintAnimationEnabled
         */
         public static final int TextInputLayout_hintAnimationEnabled = 10;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#hintEnabled}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#hintEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10299,21 +10300,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:hintEnabled
+          @attr name com.dlapps.canadatrivia:hintEnabled
         */
         public static final int TextInputLayout_hintEnabled = 3;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#hintTextAppearance}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#hintTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:hintTextAppearance
+          @attr name com.dlapps.canadatrivia:hintTextAppearance
         */
         public static final int TextInputLayout_hintTextAppearance = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#passwordToggleContentDescription}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#passwordToggleContentDescription}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10323,21 +10324,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:passwordToggleContentDescription
+          @attr name com.dlapps.canadatrivia:passwordToggleContentDescription
         */
         public static final int TextInputLayout_passwordToggleContentDescription = 13;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#passwordToggleDrawable}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#passwordToggleDrawable}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:passwordToggleDrawable
+          @attr name com.dlapps.canadatrivia:passwordToggleDrawable
         */
         public static final int TextInputLayout_passwordToggleDrawable = 12;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#passwordToggleEnabled}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#passwordToggleEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10347,11 +10348,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:passwordToggleEnabled
+          @attr name com.dlapps.canadatrivia:passwordToggleEnabled
         */
         public static final int TextInputLayout_passwordToggleEnabled = 11;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#passwordToggleTint}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#passwordToggleTint}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10362,11 +10363,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:passwordToggleTint
+          @attr name com.dlapps.canadatrivia:passwordToggleTint
         */
         public static final int TextInputLayout_passwordToggleTint = 14;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#passwordToggleTintMode}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#passwordToggleTintMode}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10382,7 +10383,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldtrivia:passwordToggleTintMode
+          @attr name com.dlapps.canadatrivia:passwordToggleTintMode
         */
         public static final int TextInputLayout_passwordToggleTintMode = 15;
         /** Attributes that can be used with a Toolbar.
@@ -10393,33 +10394,33 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_buttonGravity com.dlapps.worldtrivia:buttonGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.dlapps.worldtrivia:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.dlapps.worldtrivia:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.dlapps.worldtrivia:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.dlapps.worldtrivia:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.dlapps.worldtrivia:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.dlapps.worldtrivia:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.dlapps.worldtrivia:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.dlapps.worldtrivia:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo com.dlapps.worldtrivia:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription com.dlapps.worldtrivia:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.dlapps.worldtrivia:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.dlapps.worldtrivia:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.dlapps.worldtrivia:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.dlapps.worldtrivia:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.dlapps.worldtrivia:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.dlapps.worldtrivia:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor com.dlapps.worldtrivia:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title com.dlapps.worldtrivia:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargin com.dlapps.worldtrivia:titleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.dlapps.worldtrivia:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.dlapps.worldtrivia:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.dlapps.worldtrivia:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.dlapps.worldtrivia:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.dlapps.worldtrivia:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.dlapps.worldtrivia:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor com.dlapps.worldtrivia:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_buttonGravity com.dlapps.canadatrivia:buttonGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription com.dlapps.canadatrivia:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon com.dlapps.canadatrivia:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd com.dlapps.canadatrivia:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.dlapps.canadatrivia:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft com.dlapps.canadatrivia:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight com.dlapps.canadatrivia:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart com.dlapps.canadatrivia:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.dlapps.canadatrivia:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo com.dlapps.canadatrivia:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription com.dlapps.canadatrivia:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight com.dlapps.canadatrivia:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription com.dlapps.canadatrivia:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon com.dlapps.canadatrivia:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme com.dlapps.canadatrivia:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle com.dlapps.canadatrivia:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.dlapps.canadatrivia:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor com.dlapps.canadatrivia:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title com.dlapps.canadatrivia:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargin com.dlapps.canadatrivia:titleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom com.dlapps.canadatrivia:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd com.dlapps.canadatrivia:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart com.dlapps.canadatrivia:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop com.dlapps.canadatrivia:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins com.dlapps.canadatrivia:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance com.dlapps.canadatrivia:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor com.dlapps.canadatrivia:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -10474,7 +10475,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#buttonGravity}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#buttonGravity}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10487,11 +10488,11 @@ containing a value of this type.
 <tr><td><code>top</code></td><td>0x30</td><td></td></tr>
 <tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldtrivia:buttonGravity
+          @attr name com.dlapps.canadatrivia:buttonGravity
         */
         public static final int Toolbar_buttonGravity = 21;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10501,21 +10502,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:collapseContentDescription
+          @attr name com.dlapps.canadatrivia:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 23;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:collapseIcon
+          @attr name com.dlapps.canadatrivia:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 22;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10527,11 +10528,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:contentInsetEnd
+          @attr name com.dlapps.canadatrivia:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10543,11 +10544,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:contentInsetEndWithActions
+          @attr name com.dlapps.canadatrivia:contentInsetEndWithActions
         */
         public static final int Toolbar_contentInsetEndWithActions = 10;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10559,11 +10560,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:contentInsetLeft
+          @attr name com.dlapps.canadatrivia:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10575,11 +10576,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:contentInsetRight
+          @attr name com.dlapps.canadatrivia:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10591,11 +10592,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:contentInsetStart
+          @attr name com.dlapps.canadatrivia:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10607,21 +10608,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:contentInsetStartWithNavigation
+          @attr name com.dlapps.canadatrivia:contentInsetStartWithNavigation
         */
         public static final int Toolbar_contentInsetStartWithNavigation = 9;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:logo
+          @attr name com.dlapps.canadatrivia:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10631,11 +10632,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:logoDescription
+          @attr name com.dlapps.canadatrivia:logoDescription
         */
         public static final int Toolbar_logoDescription = 26;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10647,11 +10648,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:maxButtonHeight
+          @attr name com.dlapps.canadatrivia:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 20;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10661,31 +10662,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:navigationContentDescription
+          @attr name com.dlapps.canadatrivia:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 25;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:navigationIcon
+          @attr name com.dlapps.canadatrivia:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 24;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:popupTheme
+          @attr name com.dlapps.canadatrivia:popupTheme
         */
         public static final int Toolbar_popupTheme = 11;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10695,21 +10696,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:subtitle
+          @attr name com.dlapps.canadatrivia:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:subtitleTextAppearance
+          @attr name com.dlapps.canadatrivia:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 13;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10720,11 +10721,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:subtitleTextColor
+          @attr name com.dlapps.canadatrivia:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 28;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#title}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10734,11 +10735,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:title
+          @attr name com.dlapps.canadatrivia:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#titleMargin}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#titleMargin}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10750,11 +10751,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:titleMargin
+          @attr name com.dlapps.canadatrivia:titleMargin
         */
         public static final int Toolbar_titleMargin = 14;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10766,11 +10767,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:titleMarginBottom
+          @attr name com.dlapps.canadatrivia:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 18;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10782,11 +10783,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:titleMarginEnd
+          @attr name com.dlapps.canadatrivia:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 16;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10798,11 +10799,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:titleMarginStart
+          @attr name com.dlapps.canadatrivia:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 15;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10814,11 +10815,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:titleMarginTop
+          @attr name com.dlapps.canadatrivia:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 17;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10830,21 +10831,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:titleMargins
+          @attr name com.dlapps.canadatrivia:titleMargins
         */
         public static final int Toolbar_titleMargins = 19;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:titleTextAppearance
+          @attr name com.dlapps.canadatrivia:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 12;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10855,7 +10856,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:titleTextColor
+          @attr name com.dlapps.canadatrivia:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 27;
         /** Attributes that can be used with a View.
@@ -10866,9 +10867,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.dlapps.worldtrivia:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.dlapps.worldtrivia:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme com.dlapps.worldtrivia:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd com.dlapps.canadatrivia:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart com.dlapps.canadatrivia:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme com.dlapps.canadatrivia:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -10893,7 +10894,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -10905,11 +10906,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:paddingEnd
+          @attr name com.dlapps.canadatrivia:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -10921,17 +10922,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:paddingStart
+          @attr name com.dlapps.canadatrivia:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#theme}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.dlapps.worldtrivia:theme
+          @attr name com.dlapps.canadatrivia:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -10941,8 +10942,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.dlapps.worldtrivia:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.dlapps.worldtrivia:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.dlapps.canadatrivia:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.dlapps.canadatrivia:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -10958,7 +10959,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -10969,11 +10970,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.dlapps.worldtrivia:backgroundTint
+          @attr name com.dlapps.canadatrivia:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.dlapps.worldtrivia.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.dlapps.canadatrivia.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -10989,7 +10990,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.dlapps.worldtrivia:backgroundTintMode
+          @attr name com.dlapps.canadatrivia:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.
